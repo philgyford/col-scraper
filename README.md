@@ -1,4 +1,4 @@
-# City of London members data scraper
+# City of London councillors data scraper
 
 There are currently two scripts here:
 
@@ -13,6 +13,8 @@ Install requirements with:
     pip install -f requirements.txt
 
 This is currently focused on the Register of Interests data, and only fetches a small amount of general data about Members. It could fetch more, such as contact details, committee appointments, etc.
+
+While every effort has been taken to ensure accuracy, I haven't checked every single piece of saved data.
 
 
 ## Fetching the JSON data
