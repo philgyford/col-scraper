@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:51:27.604242+00:00"
+    "time_created": "2018-05-02T17:26:49.458561+00:00"
+  },
+  "member": {
+    "id": 128
   },
   "interests": [
     {
@@ -76,7 +79,7 @@
   ],
   "gifts": [
     {
-      "gift": "Dinner, District Attorney of New York - 16 November 2016",
+      "name": "Dinner, District Attorney of New York - 16 November 2016",
       "date_str": "",
       "date": null
     }

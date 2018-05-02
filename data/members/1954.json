@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:51:53.560759+00:00"
+    "time_created": "2018-05-02T17:27:18.109021+00:00"
+  },
+  "member": {
+    "id": 1954
   },
   "interests": [
     {
@@ -89,17 +92,17 @@
   ],
   "gifts": [
     {
-      "gift": "Luncheon at the conclusion of the Trial of the Pyx (Worshipful Company of Goldsmiths)",
+      "name": "Luncheon at the conclusion of the Trial of the Pyx (Worshipful Company of Goldsmiths)",
       "date_str": "28 April 2017",
       "date": "2017-04-28"
     },
     {
-      "gift": "Associated Companies Dinner (Worshipful Company of Mercers)",
+      "name": "Associated Companies Dinner (Worshipful Company of Mercers)",
       "date_str": "25 May 2017",
       "date": "2017-05-25"
     },
     {
-      "gift": "Dinner at Worshipful Company of Haberdashers",
+      "name": "Dinner at Worshipful Company of Haberdashers",
       "date_str": "8 March 2018",
       "date": "2018-03-08"
     }

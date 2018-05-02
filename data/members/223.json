@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:52:30.115397+00:00"
+    "time_created": "2018-05-02T17:27:59.171713+00:00"
+  },
+  "member": {
+    "id": 223
   },
   "interests": [
     {
@@ -60,17 +63,17 @@
   ],
   "gifts": [
     {
-      "gift": "Reception at the National Gallery (Stuart and Ruth Lipton)",
+      "name": "Reception at the National Gallery (Stuart and Ruth Lipton)",
       "date_str": "13th June 2016",
       "date": "2016-06-13"
     },
     {
-      "gift": "Dinner at 10 Trinity Square (Reignwood)",
+      "name": "Dinner at 10 Trinity Square (Reignwood)",
       "date_str": "14th June 2016",
       "date": "2016-06-14"
     },
     {
-      "gift": "Concert and charity dinner at the Four Seasons Hotel London, 10 Trinity Square, London (Reignwood and Four Seasons)",
+      "name": "Concert and charity dinner at the Four Seasons Hotel London, 10 Trinity Square, London (Reignwood and Four Seasons)",
       "date_str": "25th May 2017",
       "date": "2017-05-25"
     }

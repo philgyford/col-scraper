@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:53:36.857584+00:00"
+    "time_created": "2018-05-02T17:28:45.086003+00:00"
+  },
+  "member": {
+    "id": 1395
   },
   "interests": [
     {
@@ -125,87 +128,87 @@
   ],
   "gifts": [
     {
-      "gift": "Dinner, Worshipful Society of Apothecaries",
+      "name": "Dinner, Worshipful Society of Apothecaries",
       "date_str": "12 May 2015",
       "date": "2015-05-12"
     },
     {
-      "gift": "Two concert tickets provided by the City of London Festival",
+      "name": "Two concert tickets provided by the City of London Festival",
       "date_str": "22 June 2015",
       "date": "2015-06-22"
     },
     {
-      "gift": "Dinner, Worshipful Company of Founders",
+      "name": "Dinner, Worshipful Company of Founders",
       "date_str": "27 July 2015",
       "date": "2015-07-27"
     },
     {
-      "gift": "Dinner, Society of Young Freemen",
+      "name": "Dinner, Society of Young Freemen",
       "date_str": "30 July 2015",
       "date": "2015-07-30"
     },
     {
-      "gift": "Dinner, Worshipful Company of Marketors",
+      "name": "Dinner, Worshipful Company of Marketors",
       "date_str": "15 October 2015",
       "date": "2015-10-15"
     },
     {
-      "gift": "Dinner (with a guest), Guildable Manor of Southwark",
+      "name": "Dinner (with a guest), Guildable Manor of Southwark",
       "date_str": "10 September 2015",
       "date": "2015-09-10"
     },
     {
-      "gift": "Dinner (with a guest), Onassis Foundation/Cass Business School",
+      "name": "Dinner (with a guest), Onassis Foundation/Cass Business School",
       "date_str": "14 September 2015",
       "date": "2015-09-14"
     },
     {
-      "gift": "Lunch, Worshipful Company of Spectacle Makers",
+      "name": "Lunch, Worshipful Company of Spectacle Makers",
       "date_str": "8 December 2015",
       "date": "2015-12-08"
     },
     {
-      "gift": "Dinner, Young Presidents' Organisation",
+      "name": "Dinner, Young Presidents' Organisation",
       "date_str": "25 September 2015",
       "date": "2015-09-25"
     },
     {
-      "gift": "Dinner, Worshipful Company of Distillers",
+      "name": "Dinner, Worshipful Company of Distillers",
       "date_str": "19 November 2015",
       "date": "2015-11-19"
     },
     {
-      "gift": "Dinner, Chairmen's Forum",
+      "name": "Dinner, Chairmen's Forum",
       "date_str": "11 November 2015",
       "date": "2015-11-11"
     },
     {
-      "gift": "Dinner, Worshipful Company of Information Technologists,",
+      "name": "Dinner, Worshipful Company of Information Technologists,",
       "date_str": "20 January 2016",
       "date": "2016-01-20"
     },
     {
-      "gift": "Lunch, Worshipful Company of Distillers",
+      "name": "Lunch, Worshipful Company of Distillers",
       "date_str": "4 February 2016",
       "date": "2016-02-04"
     },
     {
-      "gift": "Lunch (invitation to Mrs Keaveny), Worshipful Company of Founders",
+      "name": "Lunch (invitation to Mrs Keaveny), Worshipful Company of Founders",
       "date_str": "25 April 2016",
       "date": "2016-04-25"
     },
     {
-      "gift": "Dinner, Worshipful Society of Apothecaries",
+      "name": "Dinner, Worshipful Society of Apothecaries",
       "date_str": "19 May 2016",
       "date": "2016-05-19"
     },
     {
-      "gift": "Lunch, Worshipful Company of Farmers",
+      "name": "Lunch, Worshipful Company of Farmers",
       "date_str": "19 September 2016",
       "date": "2016-09-19"
     },
     {
-      "gift": "Lunch, Worshipful Company of Spectacle Makers",
+      "name": "Lunch, Worshipful Company of Spectacle Makers",
       "date_str": "6 December 2016",
       "date": "2016-12-06"
     }

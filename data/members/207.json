@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:54:28.041008+00:00"
+    "time_created": "2018-05-02T17:29:25.579225+00:00"
+  },
+  "member": {
+    "id": 207
   },
   "interests": [
     {
@@ -101,37 +104,37 @@
   ],
   "gifts": [
     {
-      "gift": "Mountbatten Festival of Music at the Royal Albert Hall: concert and drinks in a box as guest of Royal Marine Reserves London",
+      "name": "Mountbatten Festival of Music at the Royal Albert Hall: concert and drinks in a box as guest of Royal Marine Reserves London",
       "date_str": "16th April",
       "date": null
     },
     {
-      "gift": "Lunch with the Great !2 Clerks at Vintners’ Hall",
+      "name": "Lunch with the Great !2 Clerks at Vintners’ Hall",
       "date_str": "20th April",
       "date": null
     },
     {
-      "gift": "Lunch at Drapers Hall as guest of British Ports Association",
+      "name": "Lunch at Drapers Hall as guest of British Ports Association",
       "date_str": "21st April",
       "date": null
     },
     {
-      "gift": "Lunch with the Wardens of the Grocers Company",
+      "name": "Lunch with the Wardens of the Grocers Company",
       "date_str": "22nd April",
       "date": null
     },
     {
-      "gift": "Chancellors Dinner of City University at Mansion House",
+      "name": "Chancellors Dinner of City University at Mansion House",
       "date_str": "22nd April",
       "date": null
     },
     {
-      "gift": "Dinner with Engineers Company in Stationers’ Hall",
+      "name": "Dinner with Engineers Company in Stationers’ Hall",
       "date_str": "28th April",
       "date": null
     },
     {
-      "gift": "Seatrade 2015 Awards Dinner (speech)",
+      "name": "Seatrade 2015 Awards Dinner (speech)",
       "date_str": "6th May",
       "date": null
     }

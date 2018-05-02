@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:54:26.363059+00:00"
+    "time_created": "2018-05-02T17:29:24.001813+00:00"
+  },
+  "member": {
+    "id": 1226
   },
   "interests": [
     {
@@ -97,7 +100,7 @@
   ],
   "gifts": [
     {
-      "gift": "Invited to the Pensions Age Award as a guest of CBRE",
+      "name": "Invited to the Pensions Age Award as a guest of CBRE",
       "date_str": "Thursday 23 February 2017",
       "date": "2017-02-23"
     }

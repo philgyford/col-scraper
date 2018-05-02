@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:51:48.434072+00:00"
+    "time_created": "2018-05-02T17:27:12.977342+00:00"
+  },
+  "member": {
+    "id": 1666
   },
   "interests": [
     {
@@ -108,7 +111,7 @@
   ],
   "gifts": [
     {
-      "gift": "Dinner and gift of a leather travel wallet at the Guildhall for the C & C Alpha Group Limited",
+      "name": "Dinner and gift of a leather travel wallet at the Guildhall for the C & C Alpha Group Limited",
       "date_str": "23rd September 2017",
       "date": "2017-09-23"
     }

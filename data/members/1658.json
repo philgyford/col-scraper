@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:55:02.501109+00:00"
+    "time_created": "2018-05-02T17:29:59.553000+00:00"
+  },
+  "member": {
+    "id": 1658
   },
   "interests": [
     {
@@ -131,12 +134,12 @@
   ],
   "gifts": [
     {
-      "gift": "Installation dinner of the Master of the Worshipful Company of Tax Advisers",
+      "name": "Installation dinner of the Master of the Worshipful Company of Tax Advisers",
       "date_str": "Thursday 21 September 2017",
       "date": "2017-09-21"
     },
     {
-      "gift": "Annual Budget Banquet - Worshipful Company of Tax Advisers",
+      "name": "Annual Budget Banquet - Worshipful Company of Tax Advisers",
       "date_str": "7 March 2018",
       "date": "2018-03-07"
     }

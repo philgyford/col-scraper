@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:52:13.656180+00:00"
+    "time_created": "2018-05-02T17:27:38.786055+00:00"
+  },
+  "member": {
+    "id": 151
   },
   "interests": [
     {
@@ -109,7 +112,7 @@
   ],
   "gifts": [
     {
-      "gift": "Gresham College Stakeholder Presentation & Dinner (Worshipful Company of Mercers)",
+      "name": "Gresham College Stakeholder Presentation & Dinner (Worshipful Company of Mercers)",
       "date_str": "22 February 2018",
       "date": "2018-02-22"
     }

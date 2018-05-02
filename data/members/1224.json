@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:54:41.031202+00:00"
+    "time_created": "2018-05-02T17:29:37.714494+00:00"
+  },
+  "member": {
+    "id": 1224
   },
   "interests": [
     {
@@ -159,27 +162,27 @@
   ],
   "gifts": [
     {
-      "gift": "Engraved Silver Trowel presented at the Avondale Square Topping Out Ceremony by Geoffrey Osborne Limited. (Donated to Clothworkers’ Company)",
+      "name": "Engraved Silver Trowel presented at the Avondale Square Topping Out Ceremony by Geoffrey Osborne Limited. (Donated to Clothworkers’ Company)",
       "date_str": "9th December 2015",
       "date": "2015-12-09"
     },
     {
-      "gift": "Christmas a 75cl bottle of Sainsbury's Blanc De Blancs Brut Champagne from Spice Innovations Limited",
+      "name": "Christmas a 75cl bottle of Sainsbury's Blanc De Blancs Brut Champagne from Spice Innovations Limited",
       "date_str": "17th December 2015",
       "date": "2015-12-17"
     },
     {
-      "gift": "Corinthian Roof Terrace ticket to NatWest T20 Blast Surrey v Kent at the Oval from BridgeOne Telecom Ltd",
+      "name": "Corinthian Roof Terrace ticket to NatWest T20 Blast Surrey v Kent at the Oval from BridgeOne Telecom Ltd",
       "date_str": "29th July 2016",
       "date": "2016-07-29"
     },
     {
-      "gift": "Two tickets to the Asian Voice Charity Awards and Dinner at the London Hilton Park Lane from Pratik Dattani (Charity Clarity).",
+      "name": "Two tickets to the Asian Voice Charity Awards and Dinner at the London Hilton Park Lane from Pratik Dattani (Charity Clarity).",
       "date_str": "19th May 2017",
       "date": "2017-05-19"
     },
     {
-      "gift": "Christmas a 75cl bottle of Canti Prosecco from Spice Innovations Limited",
+      "name": "Christmas a 75cl bottle of Canti Prosecco from Spice Innovations Limited",
       "date_str": "19th December 2017",
       "date": "2017-12-19"
     }

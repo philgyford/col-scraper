@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:52:41.717878+00:00"
+    "time_created": "2018-05-02T17:28:11.988629+00:00"
+  },
+  "member": {
+    "id": 1260
   },
   "interests": [
     {
@@ -145,92 +148,92 @@
   ],
   "gifts": [
     {
-      "gift": "Guest at the Broderers' Company banquet",
+      "name": "Guest at the Broderers' Company banquet",
       "date_str": "7th October 2015",
       "date": "2015-10-07"
     },
     {
-      "gift": "Guest at Glass Sellers' Company banquet",
+      "name": "Guest at Glass Sellers' Company banquet",
       "date_str": "12th October 2015",
       "date": "2015-10-12"
     },
     {
-      "gift": "Guest at Business Faculty Dinner, Goodenough College",
+      "name": "Guest at Business Faculty Dinner, Goodenough College",
       "date_str": "10th February 2016",
       "date": "2016-02-10"
     },
     {
-      "gift": "Guest at banquet, Loriners Company",
+      "name": "Guest at banquet, Loriners Company",
       "date_str": "13th May 2016",
       "date": "2016-05-13"
     },
     {
-      "gift": "Guest at banquet, Guild of Young Freemen",
+      "name": "Guest at banquet, Guild of Young Freemen",
       "date_str": "27th May 2016",
       "date": "2016-05-27"
     },
     {
-      "gift": "Guest at banquet, Girdlers Company",
+      "name": "Guest at banquet, Girdlers Company",
       "date_str": "9th June 2016",
       "date": "2016-06-09"
     },
     {
-      "gift": "Guest at banquet, Young Presidents Organisation",
+      "name": "Guest at banquet, Young Presidents Organisation",
       "date_str": "9th September 2016",
       "date": "2016-09-09"
     },
     {
-      "gift": "Guest at banquet, Guildable Manor of Southwark",
+      "name": "Guest at banquet, Guildable Manor of Southwark",
       "date_str": "15th September 2016",
       "date": "2016-09-15"
     },
     {
-      "gift": "Guest at banquet, Plaisterers Company",
+      "name": "Guest at banquet, Plaisterers Company",
       "date_str": "4th October 2016",
       "date": "2016-10-04"
     },
     {
-      "gift": "Guest at banquet, Marketors Company",
+      "name": "Guest at banquet, Marketors Company",
       "date_str": "22nd October 2016",
       "date": "2016-10-22"
     },
     {
-      "gift": "Guest at banquet, Tobacco Pipe Makers Company",
+      "name": "Guest at banquet, Tobacco Pipe Makers Company",
       "date_str": "24th October 2016",
       "date": "2016-10-24"
     },
     {
-      "gift": "Guest at banquet, Plaisterers Company",
+      "name": "Guest at banquet, Plaisterers Company",
       "date_str": "10th January 2017",
       "date": "2017-01-10"
     },
     {
-      "gift": "Guest at banquet, Business Faculty Dinner, Goodenough College",
+      "name": "Guest at banquet, Business Faculty Dinner, Goodenough College",
       "date_str": "8th February 2017",
       "date": "2017-02-08"
     },
     {
-      "gift": "Guest at luncheon, Salters Company -",
+      "name": "Guest at luncheon, Salters Company -",
       "date_str": "2nd March 2017",
       "date": "2017-03-02"
     },
     {
-      "gift": "Dinner guest - C&C Alpha Group",
+      "name": "Dinner guest - C&C Alpha Group",
       "date_str": "23rd September 2017",
       "date": "2017-09-23"
     },
     {
-      "gift": "Dinner guest - Worshipful Company of Security Professionals",
+      "name": "Dinner guest - Worshipful Company of Security Professionals",
       "date_str": "21st September 2017",
       "date": "2017-09-21"
     },
     {
-      "gift": "Dinner guest -The Honourable Society of the Middle and Inner Temple",
+      "name": "Dinner guest -The Honourable Society of the Middle and Inner Temple",
       "date_str": "25th September 2017",
       "date": "2017-09-25"
     },
     {
-      "gift": "Membership - Number Twenty client space, Grosvenor Street, London (KPMG)",
+      "name": "Membership - Number Twenty client space, Grosvenor Street, London (KPMG)",
       "date_str": "28th March 2018",
       "date": "2018-03-28"
     }

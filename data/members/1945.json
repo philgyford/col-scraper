@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:53:57.560415+00:00"
+    "time_created": "2018-05-02T17:29:06.899362+00:00"
+  },
+  "member": {
+    "id": 1945
   },
   "interests": [
     {
@@ -60,7 +63,7 @@
   ],
   "gifts": [
     {
-      "gift": "Two tickets to RSC performance of Julius Caesar - Barbican Centre",
+      "name": "Two tickets to RSC performance of Julius Caesar - Barbican Centre",
       "date_str": "15th January 2018",
       "date": "2018-01-15"
     }

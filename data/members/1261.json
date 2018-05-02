@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:51:50.440969+00:00"
+    "time_created": "2018-05-02T17:27:14.630768+00:00"
+  },
+  "member": {
+    "id": 1261
   },
   "interests": [
     {
@@ -68,7 +71,7 @@
   ],
   "gifts": [
     {
-      "gift": "Wooden bowl - received from the Governor of Western Australia",
+      "name": "Wooden bowl - received from the Governor of Western Australia",
       "date_str": "6th June 2017",
       "date": "2017-06-06"
     }

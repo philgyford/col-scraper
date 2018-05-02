@@ -204,7 +204,7 @@ def scrape_members_interests(id, url):
                             d = None
 
                         gifts.append({
-                            'gift': a,
+                            'name': a,
                             'date_str': date_str,
                             'date': d,
                         })
@@ -225,6 +225,9 @@ def scrape_members_interests(id, url):
     data = {
         'meta': {
             'time_created': json_time_now(),
+        },
+        'member': {
+            'id': id,
         },
         'interests': interests,
         'gifts': gifts,

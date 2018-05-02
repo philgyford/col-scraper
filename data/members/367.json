@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:54:55.732628+00:00"
+    "time_created": "2018-05-02T17:29:52.559699+00:00"
+  },
+  "member": {
+    "id": 367
   },
   "interests": [
     {
@@ -89,7 +92,7 @@
   ],
   "gifts": [
     {
-      "gift": "14 May 2015. Evensong at Temple Church; reception at Middle Temple Hall and dinner at Inner Temple Hall as a combined invitation from the Treasurers of Inner and Middle Temple.",
+      "name": "14 May 2015. Evensong at Temple Church; reception at Middle Temple Hall and dinner at Inner Temple Hall as a combined invitation from the Treasurers of Inner and Middle Temple.",
       "date_str": "",
       "date": null
     }

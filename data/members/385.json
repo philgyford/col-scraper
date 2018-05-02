@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:55:19.463870+00:00"
+    "time_created": "2018-05-02T17:30:14.666280+00:00"
+  },
+  "member": {
+    "id": 385
   },
   "interests": [
     {
@@ -166,17 +169,17 @@
   ],
   "gifts": [
     {
-      "gift": "Lunch with David Landsman",
+      "name": "Lunch with David Landsman",
       "date_str": "14th September 2015",
       "date": "2015-09-14"
     },
     {
-      "gift": "Lunch with the Indian High Commissioner",
+      "name": "Lunch with the Indian High Commissioner",
       "date_str": "8th October 2015",
       "date": "2015-10-08"
     },
     {
-      "gift": "Lunch with Gerald Ronson at his office",
+      "name": "Lunch with Gerald Ronson at his office",
       "date_str": "22nd April 2016",
       "date": "2016-04-22"
     }

@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:52:15.299588+00:00"
+    "time_created": "2018-05-02T17:27:41.502688+00:00"
+  },
+  "member": {
+    "id": 200
   },
   "interests": [
     {
@@ -80,7 +83,7 @@
   ],
   "gifts": [
     {
-      "gift": "9th September - 1 ticket and hospitality in a Private Box at Lords Cricket Ground provided by White & Case LLP",
+      "name": "9th September - 1 ticket and hospitality in a Private Box at Lords Cricket Ground provided by White & Case LLP",
       "date_str": "",
       "date": null
     }

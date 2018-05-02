@@ -1,6 +1,9 @@
 {
   "meta": {
-    "time_created": "2018-05-02T15:55:24.843941+00:00"
+    "time_created": "2018-05-02T17:30:21.707607+00:00"
+  },
+  "member": {
+    "id": 394
   },
   "interests": [
     {
@@ -120,7 +123,7 @@
   ],
   "gifts": [
     {
-      "gift": "Dinner guest - Poulters Company",
+      "name": "Dinner guest - Poulters Company",
       "date_str": "9th November 2017",
       "date": "2017-11-09"
     }
