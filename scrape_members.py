@@ -36,6 +36,11 @@ members = []
 
 
 def scrape_all():
+    """
+    Fetch the page listing all Members.
+    Save a JSON file with basic data about each Member.
+    For each Member, fetch their interests and write a JSON file for that.
+    """
 
     logger.debug("Requesting URL {}".format(MEMBERS_LIST_URL))
 
@@ -102,6 +107,11 @@ def scrape_all():
 
 def scrape_member(id):
     """
+    Given the numeric ID of a member (e.g. 292), fetch their interests and
+    write a JSON file.
+
+    To get the URL for the interests, we first have to get the page of basic
+    info about the Member and find the URL on that.
     """
 
     url = MEMBERS_INFO_URL.replace('{id}', str(id))
@@ -113,6 +123,7 @@ def scrape_member(id):
 
     links = r.html.find('.mgUserBody .mgBulletList li')
 
+    # Find the URL for the interests, and use that.
     for li in links:
         if li.text == 'Register of interests':
             interests_url = li.find('a', first=True).attrs['href']
@@ -123,6 +134,13 @@ def scrape_member(id):
 
 
 def scrape_members_interests(id, url):
+    """
+    Fetch the page about a Member's interests and write to a JSON file.
+
+    id is the numeric ID of the member (e.g. 292).
+    url is the URL of the page containing the Member's interests.
+        e.g. 'http://democracy.cityoflondon.gov.uk/mgRofI.aspx?UID=292&FID=-1&HPID=505555082'
+    """
 
     logger.debug("Requesting URL {}".format(url))
 
@@ -201,6 +219,9 @@ def scrape_members_interests(id, url):
 
 
 def make_absolute(url):
+    """
+    If url is not absolute on the CoL website, make it so.
+    """
     if not url.startswith('http'):
         url = '{}/{}'.format(BASE_URL, url)
 
@@ -208,6 +229,9 @@ def make_absolute(url):
 
 
 def json_time_now():
+    """
+    Return the current UTC datetime as a string suitable for putting in JSON.
+    """
     return datetime.datetime.now(datetime.timezone.utc).isoformat()
 
 
