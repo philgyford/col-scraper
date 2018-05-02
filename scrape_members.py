@@ -180,7 +180,7 @@ def scrape_members_interests(id, url):
                 'items': items,
             })
 
-    filename = '{}/interests/{}.json'.format(DATA_DIRECTORY, id)
+    filename = '{}/members/{}.json'.format(DATA_DIRECTORY, id)
 
     data = {
         'interests': interests,
