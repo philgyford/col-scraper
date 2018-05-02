@@ -1,0 +1,72 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Barrister, No. 5 Chambers, Greenwood House, 4-7 Salisbury Court EC4Y 8AA",
+          "partner": "Jagex Games Studio, Cambridge Sciene Park, 220 Milton CB4 0WA"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "PIP in Carmelite Chambers Building on Carmelite Street",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "City of London Committee of the Red Cross",
+          "partner": ""
+        },
+        {
+          "member": "Royal Bridewell Hospital",
+          "partner": ""
+        },
+        {
+          "member": "British Azerbaijan Law Association",
+          "partner": ""
+        },
+        {
+          "member": "Turkish British Legal Society",
+          "partner": ""
+        },
+        {
+          "member": "Turkish British Journalists Association",
+          "partner": ""
+        },
+        {
+          "member": "Board of Turkish British Chamber of Commerce and Industry",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

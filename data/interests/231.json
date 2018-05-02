@@ -1,0 +1,77 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "",
+          "partner": "Self Employed Tutor working from home"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Flat in Seddon House, Barbican,EC2",
+          "partner": ""
+        },
+        {
+          "member": "Licences to use 1 x parking space and 1 x baggage store",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": [
+        {
+          "member": "Licences to use 1 x parking space and 1 x baggage store at Barbican, EC2",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Cripplegate Foundation",
+          "partner": ""
+        },
+        {
+          "member": "St Paul's Cathedral Chorister Trust",
+          "partner": ""
+        },
+        {
+          "member": "Cripplegate Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Barbican Association",
+          "partner": ""
+        },
+        {
+          "member": "Member of City Heritage",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

@@ -1,0 +1,83 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Account Director, Bellenden, London, SE1 3LE",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Trust for London",
+          "partner": ""
+        },
+        {
+          "member": "Sir John Cass Foundation",
+          "partner": ""
+        },
+        {
+          "member": "Co-Chair - Young Tiffany Circle, British Red Cross",
+          "partner": ""
+        },
+        {
+          "member": "Richard Cobden Primary School, Camden",
+          "partner": ""
+        },
+        {
+          "member": "Coleman Street Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of Tallow Chandlers",
+          "partner": ""
+        },
+        {
+          "member": "Chartered Institute of Public Relations",
+          "partner": ""
+        },
+        {
+          "member": "Association of Professional Political Consultants",
+          "partner": ""
+        },
+        {
+          "member": "Public Relations Consultants Association",
+          "partner": ""
+        },
+        {
+          "member": "Member - Conservative Party",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

@@ -1,0 +1,60 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Managing Director, George Abrahams Group, 217/218 Smithfield, London EC1A 9LH",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "20, 22, 217/218 Central Markets, Smithfield, EC1",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Society of St George",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of Butchers",
+          "partner": ""
+        },
+        {
+          "member": "International Meat Trades Association (IMTA)",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

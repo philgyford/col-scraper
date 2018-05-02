@@ -1,0 +1,129 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Director, H. Clarkson & Co, Lower Thames Street EC3",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "Clarkson PLC",
+          "partner": "Clarkson PLC"
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Trustee, Seafarers UK (King George’s Fund for Sailors)",
+          "partner": ""
+        },
+        {
+          "member": "Director and Trustee of the White Ensign Association",
+          "partner": ""
+        },
+        {
+          "member": "Almoner and Director of Christ’s Hospital",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, St Paul’s Chorister Trust",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, Mansion House Scholarship Scheme",
+          "partner": ""
+        },
+        {
+          "member": "President (not a Trustee) of the City of London Sea Cadets",
+          "partner": ""
+        },
+        {
+          "member": "Patron, Ward of Cheap Club",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman of the Shipwrights, Goldsmiths, World Traders, Wheelwrights and Security Professionals Companies",
+          "partner": ""
+        },
+        {
+          "member": "Member, Institute of Chartered Shipbrokers",
+          "partner": ""
+        },
+        {
+          "member": "Younger Brother, Trinity House",
+          "partner": ""
+        },
+        {
+          "member": "Chairman, Maritime UK",
+          "partner": ""
+        },
+        {
+          "member": "Chairman Maritime London",
+          "partner": ""
+        },
+        {
+          "member": "Currently chairing the government’s \"Maritime Growth Study: keeping the UK competitive\"",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "Mountbatten Festival of Music at the Royal Albert Hall: concert and drinks in a box as guest of Royal Marine Reserves London",
+      "date": "16th April"
+    },
+    {
+      "gift": "Lunch with the Great !2 Clerks at Vintners’ Hall",
+      "date": "20th April"
+    },
+    {
+      "gift": "Lunch at Drapers Hall as guest of British Ports Association",
+      "date": "21st April"
+    },
+    {
+      "gift": "Lunch with the Wardens of the Grocers Company",
+      "date": "22nd April"
+    },
+    {
+      "gift": "Chancellors Dinner of City University at Mansion House",
+      "date": "22nd April"
+    },
+    {
+      "gift": "Dinner with Engineers Company in Stationers’ Hall",
+      "date": "28th April"
+    },
+    {
+      "gift": "Seatrade 2015 Awards Dinner (speech)",
+      "date": "6th May"
+    }
+  ]
+}

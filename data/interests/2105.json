@@ -1,0 +1,91 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Senior Adviser, Bank of England, Threadneedle Street. London. EC2R 8AH.",
+          "partner": ""
+        },
+        {
+          "member": "Officer of Arms, College of Arms, Queen Victoria Street. London. EC4V 4BT",
+          "partner": ""
+        },
+        {
+          "member": "Officer of Arms, Royal Household. Buckingham Palace. London. SW1A 1AA.",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Governor, United College Group",
+          "partner": ""
+        },
+        {
+          "member": "Member, Billingsgate Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Member, Guildhall Club",
+          "partner": ""
+        },
+        {
+          "member": "Member, Oxford Union Society",
+          "partner": ""
+        },
+        {
+          "member": "Honorary Member, White Lion Society",
+          "partner": ""
+        },
+        {
+          "member": "Member, Royal Household Film Society",
+          "partner": ""
+        },
+        {
+          "member": "Member, Freemasonary",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman, Drapers' Company",
+          "partner": ""
+        },
+        {
+          "member": "Freeman, International Bankers' Company",
+          "partner": ""
+        },
+        {
+          "member": "Member, St John Ceremonial Team",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

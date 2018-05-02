@@ -1,0 +1,68 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Chairman, Brewin Dolphin Pension Fund, Brewin Dolphin Securities, Smithfield Street, London EC1A 9BD",
+          "partner": ""
+        },
+        {
+          "member": "External Advier- London Borough of Lewisham, Lewisham Town Hall, London SE6 4RU",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "Brewin Dolphin",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Coleman Street Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "The Reform Club",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of Fletchers",
+          "partner": ""
+        },
+        {
+          "member": "Chatham House",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

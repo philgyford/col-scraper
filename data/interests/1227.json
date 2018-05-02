@@ -1,0 +1,64 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "SELF EMPLOYED LAWYER 42 BRETON HOUSE LONDONEC2Y 8DQ",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "42 BRETON HOUSE, LONDON EC2Y 8DQ",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Board Member Assima AG",
+          "partner": ""
+        },
+        {
+          "member": "Board Member Assima A/S",
+          "partner": ""
+        },
+        {
+          "member": "Member - American Bar Association",
+          "partner": ""
+        },
+        {
+          "member": "Member - Varndean Corporation (Governor; Sixth Form College)",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

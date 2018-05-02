@@ -1,0 +1,88 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "AON UK LTD - CEO",
+          "partner": "Catherine Mary Birch (Kate Birch) - NIL"
+        },
+        {
+          "member": "Lloyds of London - Member of Council",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "AON UK LTD",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Juvenile Diabetes Research Foundation",
+          "partner": ""
+        },
+        {
+          "member": "Lloyd's Tercentenary Research Foundation",
+          "partner": ""
+        },
+        {
+          "member": "Lime Street Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of Insurers",
+          "partner": ""
+        },
+        {
+          "member": "City UK Advisory Board",
+          "partner": ""
+        },
+        {
+          "member": "CBI - Presidents Committee",
+          "partner": ""
+        },
+        {
+          "member": "Insurance Institute of London",
+          "partner": ""
+        },
+        {
+          "member": "University of East Anglia - Advisory Board",
+          "partner": ""
+        },
+        {
+          "member": "The Bermuda Society",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

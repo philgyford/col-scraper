@@ -1,0 +1,72 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Property in Mountjoy House, Barbican, London EC2",
+          "partner": ""
+        },
+        {
+          "member": "Property on Upper Thames Street, London EC4",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "Property in Mountjoy House, Barbican, London EC2",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Livery man of the Turners, Coopers and Tallow Chandlers Companies",
+          "partner": ""
+        },
+        {
+          "member": "Freeman of the Arts Scholars",
+          "partner": ""
+        },
+        {
+          "member": "Aldersgate Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "The Royal Soceity of St George City Branch",
+          "partner": ""
+        },
+        {
+          "member": "City Livery Club",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

@@ -1,0 +1,83 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "CEO, Global Markets Consultants – 46-48 East Smithfield, London E1W 1AW",
+          "partner": "Director, Global Markets Consultants – 46-48 East Smithfield, London E1W 1AW"
+        },
+        {
+          "member": "Institute of Directors, City of London Branch",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Worshipful Company of Plumbers",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of World Traders",
+          "partner": ""
+        },
+        {
+          "member": "Guild of Freemen",
+          "partner": ""
+        },
+        {
+          "member": "United Wards Club",
+          "partner": ""
+        },
+        {
+          "member": "Portsoken Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Cripplegate Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Broad Street Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Aldgate Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Bishopsgate Ward Club",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

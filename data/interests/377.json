@@ -1,0 +1,72 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "International Banker J P Morgan Chase Bank N.A., Bank Street, E14",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "J P Morgan Chase & Co",
+          "partner": ""
+        },
+        {
+          "member": "National Grid PLC",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member, Bassishaw Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman, The Worshipful Company of International Bankers",
+          "partner": ""
+        },
+        {
+          "member": "Member - Youth Hostel Association",
+          "partner": ""
+        },
+        {
+          "member": "Member - Royal National Lifeboat Association",
+          "partner": ""
+        },
+        {
+          "member": "Member - Automobile Association",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

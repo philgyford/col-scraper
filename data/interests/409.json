@@ -1,0 +1,52 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Event Manager, Capital Group, 40 Grovsvenor Place, London, SW1 7GG",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Owns a flat in the City",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Castle Baynard Ward Club (Member)",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

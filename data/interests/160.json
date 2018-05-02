@@ -1,0 +1,77 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Managing Director, JDC Consultants Ltd, C/O Senator Insurance Services, Lloyds Chambers, 1 portsoken street, London. E1 8BT",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": [
+        {
+          "member": "JDC Consultants Ltd. C/O Senator Insurance Services, Lloyds Chambers, 1 Portsoken Street, London. E1 8BT",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "City of London Festival (COLF)",
+          "partner": ""
+        },
+        {
+          "member": "Guildhall Club",
+          "partner": ""
+        },
+        {
+          "member": "Chairman of Langbourn Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Farringdon Without Lodge",
+          "partner": ""
+        },
+        {
+          "member": "Guildhall Lodge",
+          "partner": ""
+        },
+        {
+          "member": "Musicians Livery",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "CAPITA Lunch",
+      "date": "19 November 2015"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Chartered Accountant",
+          "partner": ""
+        },
+        {
+          "member": "Investment & Management Professional",
+          "partner": ""
+        },
+        {
+          "member": "Advisor to National/Local Government and Corporate Pension Funds",
+          "partner": ""
+        },
+        {
+          "member": "Head of Treasury & Pensions, London Borough of Lambeth, Phoenix House, 10 Wandsworth Road, London, SW8 2LL",
+          "partner": "Marketing Coordinator, Sidley Austin LLP, Woolgate Exchange, 25 Basinghall Street, London, EC2V 5HA"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Association of Certified Chartered Accountants (ACCA)",
+          "partner": ""
+        },
+        {
+          "member": "Institute of Leadership and Management (ILM)",
+          "partner": ""
+        },
+        {
+          "member": "Society of Local Authority Chief Executives (SOLACE)",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

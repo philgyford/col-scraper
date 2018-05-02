@@ -1,0 +1,54 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member, Portsoken Ward Club",
+          "partner": "Member, Portsoken Ward Club"
+        },
+        {
+          "member": "Member, Royal British Legion",
+          "partner": ""
+        },
+        {
+          "member": "Member, Royal National Lifeboat Institution",
+          "partner": ""
+        },
+        {
+          "member": "Treasurer, Aldgate Estate Residents’ Association",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

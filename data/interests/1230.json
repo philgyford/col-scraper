@@ -1,0 +1,65 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Self employed Management Consultant (sole trader)",
+          "partner": "Self employed Partnership Consultant (sole trader)"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Flat 1, 43 Bartholomew Close, EC1A 7HN",
+          "partner": "Flat 1, 43 Bartholomew Close, EC1A 7HN"
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member, Farringdon Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman of the Worshipful Company of Cordwainers",
+          "partner": ""
+        },
+        {
+          "member": "Retired Associate Member Royal Society of Medicine",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "Dinner guest - Disappearing Dining Club, 24-26 Newbury Street London EC1A 7HU",
+      "date": "20th July 2017"
+    }
+  ]
+}

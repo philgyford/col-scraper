@@ -1,0 +1,79 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Trustee: Lord Mayor's 800th Anniversary Awards Trust",
+          "partner": ""
+        },
+        {
+          "member": "Trustee: Charity of Mary Barnes",
+          "partner": ""
+        },
+        {
+          "member": "Trustee: The F.E. Clearly St Margaret Lothbury Church Trust",
+          "partner": ""
+        },
+        {
+          "member": "Broad Street Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of International Bankers Liveryman",
+          "partner": ""
+        },
+        {
+          "member": "Institute of Chartered Accountants in England and Wales",
+          "partner": ""
+        },
+        {
+          "member": "Chartered Institute of Securities and Investments",
+          "partner": ""
+        },
+        {
+          "member": "Chartered Management Institution",
+          "partner": ""
+        },
+        {
+          "member": "Institute of Directors",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "Gresham College Stakeholder Presentation & Dinner (Worshipful Company of Mercers)",
+      "date": "22 February 2018"
+    }
+  ]
+}

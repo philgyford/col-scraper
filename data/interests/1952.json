@@ -1,0 +1,52 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Marketing Director NIIT Insurance Technologies Ltd. 47 Mark Lane London EC3R 7QQ",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "A property in Defoe House Barbican, London. EC2Y 8DN (tenant)",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member - Aldersgate Ward Club",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

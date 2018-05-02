@@ -1,0 +1,67 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Essex Education Authority",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Queenhithe Ward Club (Past Chair)",
+          "partner": ""
+        },
+        {
+          "member": "Cambridge University Alumi - Cambridge Union",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of Educators",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of Painter-Stainers (Past Mistress)",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of Horners - Future Mistress (2018-19)",
+          "partner": ""
+        },
+        {
+          "member": "General Teaching Council",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

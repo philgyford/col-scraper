@@ -1,0 +1,67 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "Investments in professionally managed funds and venture capital trusts which may have a connection with the City",
+          "partner": "Investments in professionally managed funds and venture capital trusts which may have a connection with the City"
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Fellow, Chartered Institute of Taxation",
+          "partner": ""
+        },
+        {
+          "member": "Fellow Commoner, Clare Hall, University of Cambridge",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman, Worshipful Company of Scriveners",
+          "partner": ""
+        },
+        {
+          "member": "Chairman, Bassishaw Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Member, City University Club",
+          "partner": ""
+        },
+        {
+          "member": "Member of Development Committee, Legatum Institute Foundation",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

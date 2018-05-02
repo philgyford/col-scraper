@@ -1,0 +1,76 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Bank Restructuring Consultant, EY, 25 Churchill Place, London, E14 5RB.",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Flat rental at London EC2Y 8BP.",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Adviser to the Finance and General Purposes Committee - Walcot Foundation",
+          "partner": ""
+        },
+        {
+          "member": "Member - 20th Century Society",
+          "partner": ""
+        },
+        {
+          "member": "Member - Barbican Centre",
+          "partner": ""
+        },
+        {
+          "member": "Member - The Labour Party",
+          "partner": ""
+        },
+        {
+          "member": "Think Tank - Progress",
+          "partner": ""
+        },
+        {
+          "member": "Professional Association - Institute of Chartered Accountants Scotland",
+          "partner": ""
+        },
+        {
+          "member": "Trade Union membership - Unite",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

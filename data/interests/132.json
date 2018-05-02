@@ -1,0 +1,56 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Director, Absalom Properties Ltd, Sevenoaks TN15 8PZ",
+          "partner": "Director, Absalom Properties Ltd, Sevenoaks TN15 8PZ"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "",
+          "partner": "Queens Quay, EC4"
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "City Livery Yacht Club",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of Butchers",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

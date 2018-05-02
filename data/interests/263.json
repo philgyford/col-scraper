@@ -1,0 +1,75 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Trustee of Blind in Business",
+          "partner": ""
+        },
+        {
+          "member": "Member of Bishopsgate Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Member of Broad Street Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman of the World Traders Livery Company",
+          "partner": ""
+        },
+        {
+          "member": "Director and Shareholder of Hillcrest Leaseholders' Association Ltd",
+          "partner": ""
+        },
+        {
+          "member": "Life Membership of the National Trust",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "Reception - Metrobank (to mark the opening of their new branch in Bishopsgate)",
+      "date": "14 November 2017"
+    },
+    {
+      "gift": "Tickets to LSO concert and drinks reception - LSO",
+      "date": "19 September 2017"
+    },
+    {
+      "gift": "Tickets to LSO concert and drinks reception - LSO",
+      "date": "21 December 2017"
+    }
+  ]
+}

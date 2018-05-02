@@ -1,0 +1,63 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Flat 21 Tudor Rose Court, 35 Fann Street, London EC2Y 8DY",
+          "partner": "Flat 21 Tudor Rose Court, 35 Fann Street, London EC2Y 8DY"
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Friend of City Gardens",
+          "partner": ""
+        },
+        {
+          "member": "Walbrook Ward Club (application submitted)",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of Chartered Surveyors",
+          "partner": ""
+        },
+        {
+          "member": "Royal Institution of Chartered Surveyors",
+          "partner": ""
+        },
+        {
+          "member": "Chairman, Tudor Rose Court Residents' Association",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

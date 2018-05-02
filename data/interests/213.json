@@ -1,0 +1,71 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Business/Education Consultant",
+          "partner": "City University"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Governor, Sir John Cass Foundation",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman, Worshipful Company of Fletchers",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, Aldgate and Allhallows Foundation",
+          "partner": ""
+        },
+        {
+          "member": "Member, Royal Society of St. George, City of London Branch",
+          "partner": ""
+        },
+        {
+          "member": "Freemason",
+          "partner": ""
+        },
+        {
+          "member": "Member, Candlewick Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Milestone Foundation",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

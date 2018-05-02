@@ -1,0 +1,105 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Barrister at Chambers of Stephen Hockman QC",
+          "partner": "Classical Musican"
+        },
+        {
+          "member": "Director, Upton Underwriting Limited",
+          "partner": "Instrumental Professor at Royal Academy of Music"
+        },
+        {
+          "member": "",
+          "partner": "Instrumental Staff at Purell School"
+        },
+        {
+          "member": "",
+          "partner": "Associate Director, Youth Chamber Orchestra"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "Tenant Barrister at Pump Court Temple",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "Upton Underwriting",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Planning Aid Trust (RIPI)",
+          "partner": ""
+        },
+        {
+          "member": "Sir James Reckitt Charity Trust",
+          "partner": ""
+        },
+        {
+          "member": "Fellow of Royal Society of Arts",
+          "partner": ""
+        },
+        {
+          "member": "Member of Town and Country Planning Association",
+          "partner": ""
+        },
+        {
+          "member": "Member of Amnesty International",
+          "partner": ""
+        },
+        {
+          "member": "Member of Planning Local Government & Environmental Bar Association",
+          "partner": ""
+        },
+        {
+          "member": "Honourable Society of the Inner Temple",
+          "partner": ""
+        },
+        {
+          "member": "Constitutional and Administrative Law Bar Association",
+          "partner": ""
+        },
+        {
+          "member": "UK Environmental Law Association",
+          "partner": ""
+        },
+        {
+          "member": "Member - Temple and Farringdon Together",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

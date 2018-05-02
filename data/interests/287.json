@@ -1,0 +1,91 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "",
+          "partner": "Co-Director - Nigerian Duty-Free Shop, Lagos, Nigeria"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "58 Andrewes House, Barbican, London. EC2Y 8AX",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": [
+        {
+          "member": "Car parking space and store cupboards (x 2), Barbican",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "58 Andrewes House, Barbican, London. EC2Y 8AX",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member - Friends of The Guildhall Art Gallery",
+          "partner": ""
+        },
+        {
+          "member": "Member - Cripplegate Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman - Worshipful Company of Glovers",
+          "partner": ""
+        },
+        {
+          "member": "Member - Magistrates' Association",
+          "partner": ""
+        },
+        {
+          "member": "Member - National Union of Farmers",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "Cart Marking lunch (Worshipful Company of Carmen)",
+      "date": "15 July 2015"
+    },
+    {
+      "gift": "Private visit to the Tower of London Jewel House followed by dinner at Tower Bridge, accompanied by my husband (TMI conference)",
+      "date": "23rd November"
+    },
+    {
+      "gift": "Drinks at Claridges (Land Securities)",
+      "date": "9th December"
+    }
+  ]
+}

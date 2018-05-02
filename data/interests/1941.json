@@ -1,0 +1,112 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Member of the Bar practising in Inner Temple, London EC4",
+          "partner": "Pianist, lecturer and author"
+        },
+        {
+          "member": "Recorder, Ministry of Justice, London SW1",
+          "partner": ""
+        },
+        {
+          "member": "Director - Houghton AC Limited",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Professional and residential tenant of the Inner Temple, London EC4",
+          "partner": "Residential tenant of the Inner Temple, London EC4"
+        },
+        {
+          "member": "",
+          "partner": "Leasehold property in London EC2"
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Trustee - Breckland Society",
+          "partner": ""
+        },
+        {
+          "member": "Bencher - Inner Temple",
+          "partner": ""
+        },
+        {
+          "member": "Member- Criminal Bar Association",
+          "partner": ""
+        },
+        {
+          "member": "Member - American Bar Association",
+          "partner": ""
+        },
+        {
+          "member": "Member - International Bar Association",
+          "partner": ""
+        },
+        {
+          "member": "Adviser - Commonwealth Law Association",
+          "partner": ""
+        },
+        {
+          "member": "Musicians' Company",
+          "partner": ""
+        },
+        {
+          "member": "Member- Temple and Farringdon Together",
+          "partner": ""
+        },
+        {
+          "member": "Member - Conservative Party",
+          "partner": ""
+        },
+        {
+          "member": "Think Tank - Conservative Policy Forum",
+          "partner": ""
+        },
+        {
+          "member": "Think Tank - RTI Limited",
+          "partner": ""
+        },
+        {
+          "member": "Professional association - Bar Standards Board",
+          "partner": ""
+        },
+        {
+          "member": "Trade association - Bar Council",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

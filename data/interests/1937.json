@@ -1,0 +1,56 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Assistant at UK Parliament Office of Clive Lewis MP, House of Commons",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "17A Petticoat Tower, Petticoat Square, London, E1 7EF",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member - Labour Party",
+          "partner": ""
+        },
+        {
+          "member": "Member - Unite the Union",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

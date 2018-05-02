@@ -1,0 +1,84 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Barrister at Bar of England and Wales, Henderson Chambers, 2 Harcourt Buildings, London EC4Y 9DB",
+          "partner": "Civil Servant, CFTC, Three Lafayette Centre, 1155 21st Street, NW Washington, DC 20581"
+        },
+        {
+          "member": "Director of Invicta Capital Funding, 60 Churchill Square, Kings Hill West, Malling, Kent ME19 4YU",
+          "partner": ""
+        },
+        {
+          "member": "Director of JSR Investments LTD, 92 Westbourne Road, Sheffield, South Yorkshire, S10 2QT",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Liveryman of WaxChandlers, 6 Gresham Street ; Henderson Chambers, 2 Harcourt Buildings, Middle Temple Lane, RC4Y 9DB.",
+          "partner": "Liveryman of Painter Stainers 9 Little Trinity Ln, London EC4V 2AD"
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Freemasonry",
+          "partner": ""
+        },
+        {
+          "member": "Wax Chandlers",
+          "partner": ""
+        },
+        {
+          "member": "St Mary at Hill Parochial Church Council",
+          "partner": ""
+        },
+        {
+          "member": "Society of Computers and Law",
+          "partner": ""
+        },
+        {
+          "member": "Law and Liberty Circle",
+          "partner": ""
+        },
+        {
+          "member": "Honourable Society of Gray's Inn",
+          "partner": ""
+        },
+        {
+          "member": "Barrister (Bar Council)",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

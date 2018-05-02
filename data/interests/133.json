@@ -1,0 +1,89 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Senior Director, King & Wood Mallesons, 10 Queen Street Place, London, EC2",
+          "partner": "Self Employed"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": [
+        {
+          "member": "Service Charges in respect of property at EC2",
+          "partner": "Service Charges in respect of property at EC2"
+        }
+      ]
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Freehold Townhouse, EC2",
+          "partner": "Freehold Townhouse, EC2"
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Director of London Marathon Ltd.",
+          "partner": ""
+        },
+        {
+          "member": "Director of Barts Charity",
+          "partner": ""
+        },
+        {
+          "member": "Member, Marylebone Cricket Club (MCC)",
+          "partner": ""
+        },
+        {
+          "member": "The Worshipful Company of Butchers, Member",
+          "partner": ""
+        },
+        {
+          "member": "The Worshipful Company of Plaisterers, Honorary Member",
+          "partner": ""
+        },
+        {
+          "member": "Barbican Association, Member",
+          "partner": ""
+        },
+        {
+          "member": "Aldersgate Ward Club, Member",
+          "partner": ""
+        },
+        {
+          "member": "ICAEW, Member",
+          "partner": ""
+        },
+        {
+          "member": "London Symphony Orchestra, Advisory Council Member",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

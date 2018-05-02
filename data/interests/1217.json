@@ -1,0 +1,90 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "P J MARTINELLI LTD 25 LONDON CENTRAL MKTS SMITHFIELD MANAGING DIRECTOR",
+          "partner": "DIRECTOR P J MARTINELLI LTD"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "25 LCM, SMITHFIELD",
+          "partner": "25 LCM, SMITHFIELD"
+        },
+        {
+          "member": "2/4 LCM, SMITHFIELD",
+          "partner": "2/4 SMITHFIELD"
+        },
+        {
+          "member": "206 LONDON CENTRAL MARKETS",
+          "partner": ""
+        },
+        {
+          "member": "210-213 LONDON CENTRAL MARKETS",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "2/4 & 25 LONDON CENTRAL MARKETS SMITHFIELD",
+          "partner": ""
+        },
+        {
+          "member": "225 LONDON CENTRAL MARKETS (TREASURER & TRUSTEE OF SMTA)",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "P. J MARTINELLI LTD",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member, Farringdon Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman, Worshipful Company of Butchers",
+          "partner": ""
+        },
+        {
+          "member": "Treasurer, Smithfield Market Tenants' Association",
+          "partner": ""
+        },
+        {
+          "member": "Governor, Museum of London",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

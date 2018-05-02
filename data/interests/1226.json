@@ -1,0 +1,101 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "PARTNER, MEMERY CRYSTAL LLP, 44 SOUTHAMPTON BUILDINGS, LONDON, WC2A 1AP",
+          "partner": "LECTURER, UNIVERSITY OF THE ARTS, LONDON, 272 HIGH HOLBORN, LONDON WC1V 7EY"
+        },
+        {
+          "member": "TA OFFICER, MINISTRY OF DEFENCE",
+          "partner": ""
+        },
+        {
+          "member": "NON-EXECUTIVE DIRECTOR, NOTTING HILL HOUSING GROUP, 2 KILLICK STREET, LONDON N1 9FL",
+          "partner": ""
+        },
+        {
+          "member": "BOARD AVISOR, TOBIN (UK) LIMITED",
+          "partner": ""
+        },
+        {
+          "member": "SENIOR CONSULTANT, WESTBOURNE COMMUNICATIONS LIMITED",
+          "partner": ""
+        },
+        {
+          "member": "Board Member, Civitas Social Housing Plc",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "LEASEHOLD INTEREST AT 44 SOUTHAMPTON BUILDINGS, LONDON, THROUGH MEMERY CRYSTAL LLP MEMBERSHIP",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member, Ward of Cheap Club",
+          "partner": ""
+        },
+        {
+          "member": "Turstee, John Marshall's Charity",
+          "partner": ""
+        },
+        {
+          "member": "Freeman, The Goldsmith's Company",
+          "partner": ""
+        },
+        {
+          "member": "Member, Conservative Party",
+          "partner": ""
+        },
+        {
+          "member": "Member, The Law Society of England and Wales",
+          "partner": ""
+        },
+        {
+          "member": "Member, The Law Society of Northern Ireland",
+          "partner": ""
+        },
+        {
+          "member": "Member, The Law Society of Ireland",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "Invited to the Pensions Age Award as a guest of CBRE",
+      "date": "Thursday 23 February 2017"
+    }
+  ]
+}

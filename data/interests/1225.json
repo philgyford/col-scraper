@@ -1,0 +1,74 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Liveryman, Salters' Company",
+          "partner": ""
+        },
+        {
+          "member": "Member, Coleman Street Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Member, Parish Clerks' Company",
+          "partner": ""
+        },
+        {
+          "member": "Director, Stanstead Lodge Senior Club",
+          "partner": ""
+        },
+        {
+          "member": "Director, City of London Academies Trust",
+          "partner": ""
+        },
+        {
+          "member": "Magistrate, Central London Bench",
+          "partner": ""
+        },
+        {
+          "member": "Diocesan Council of Trustees for Southwark Diocese",
+          "partner": ""
+        },
+        {
+          "member": "Chairman of the Investment Committee for Southwark Diocese",
+          "partner": ""
+        },
+        {
+          "member": "Member, Conservative Party",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

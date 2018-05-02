@@ -1,0 +1,72 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Trinity Square London EC3N 4AA",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Tower Ward Club, Member",
+          "partner": ""
+        },
+        {
+          "member": "Farringdon Ward Club, Member",
+          "partner": ""
+        },
+        {
+          "member": "The Worshipful Company of Bakers, Liveryman",
+          "partner": ""
+        },
+        {
+          "member": "The Worshipful Company of Firefighters, Liveryman",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "Reception at the National Gallery (Stuart and Ruth Lipton)",
+      "date": "13th June 2016"
+    },
+    {
+      "gift": "Dinner at 10 Trinity Square (Reignwood)",
+      "date": "14th June 2016"
+    },
+    {
+      "gift": "Concert and charity dinner at the Four Seasons Hotel London, 10 Trinity Square, London (Reignwood and Four Seasons)",
+      "date": "25th May 2017"
+    }
+  ]
+}

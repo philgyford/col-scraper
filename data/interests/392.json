@@ -1,0 +1,83 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "133 Cromwell Tower, Barbican, EC2Y 8DD",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member - Barbican Association (General Council)",
+          "partner": ""
+        },
+        {
+          "member": "Member- Barbican Horticultural Society",
+          "partner": ""
+        },
+        {
+          "member": "Trustee - Cripplegate Foundation",
+          "partner": ""
+        },
+        {
+          "member": "Member - Cripplegate Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Chairman, Cromwell Tower House Group",
+          "partner": ""
+        },
+        {
+          "member": "Member - Guildhall Historical Association",
+          "partner": ""
+        },
+        {
+          "member": "Member - Guildhall Lodge",
+          "partner": ""
+        },
+        {
+          "member": "Member - Livery Lounge Party",
+          "partner": ""
+        },
+        {
+          "member": "Member - Royal Society of St George (City Branch)",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman - Worshipful Company of Fletchers",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

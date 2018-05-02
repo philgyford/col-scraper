@@ -1,0 +1,51 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "21 Hatfield House, Golden Lane Estate, EC1Y 0ST",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member - Steering Group of Golden Lane Estate Community Centre",
+          "partner": ""
+        },
+        {
+          "member": "Chair - Golden Lane Estate Allotments / Golden Lane Baggers",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

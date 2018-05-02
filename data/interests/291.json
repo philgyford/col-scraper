@@ -1,0 +1,88 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Director, OWL Regulatory Consulting Ltd, Nimrod Road, SW16",
+          "partner": "Secretary, OWL Regulatory Consulting Ltd, Nimrod Road, SW16"
+        },
+        {
+          "member": "",
+          "partner": "Employee, Universal Aunts, Talfourd Road, SE15"
+        },
+        {
+          "member": "",
+          "partner": "Employee, Mountain Beds, Hundred House, Weston, Beccles, NR34"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Member of Pewterers' Company which owns Pewterers Hall and other City Property",
+          "partner": "Member of Skinners' Company which owns Skinners' Hall, Dowgate and other City Property"
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Chairman of Trustee of Seahorse Trust (charitable trust connected to the Worshipful Company of Pewterers)",
+          "partner": "Member, Worshipful Company of Skinners"
+        },
+        {
+          "member": "Member, Bread Street Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Member, United Grand Lodge of England",
+          "partner": ""
+        },
+        {
+          "member": "Member, Worshipful Company of Pewterers",
+          "partner": ""
+        },
+        {
+          "member": "Member, Guildhall Lodge",
+          "partner": ""
+        },
+        {
+          "member": "Member, Garrick Club",
+          "partner": ""
+        },
+        {
+          "member": "Member, the Queen's Royal Hussars Old Comrades' Association",
+          "partner": ""
+        },
+        {
+          "member": "Member, Old Castlemen's Society",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

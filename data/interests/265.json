@@ -1,0 +1,67 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "Lease on shop: 85 Middlesex Street, London, E1 7DA",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Aldgate Freedom Foundation, Trustee",
+          "partner": "Aldgate Freedom Foundation"
+        },
+        {
+          "member": "Housing the Homeless, Trustee",
+          "partner": "Three Score Club"
+        },
+        {
+          "member": "Three Score Club",
+          "partner": "Wingate Golden Oldies"
+        },
+        {
+          "member": "Member of the Portsoken Ward Club",
+          "partner": "Portsoken Ward Club"
+        },
+        {
+          "member": "Wingate Golden Oldies",
+          "partner": ""
+        },
+        {
+          "member": "Partner, JONES BROTHERS DAIRY",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

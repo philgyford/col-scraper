@@ -1,0 +1,56 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "John Lewis Partnership, Peter Jones Department Store, Sloane Square, SW1",
+          "partner": "Secretary to the Sheriffs of London, Old Bailey, EC4"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Lessee of property at Cromwell Tower, Barbican, EC2",
+          "partner": "Lessee of property at Cromwell Tower, Barbican, EC2"
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Friend of Guildhall Art Gallery",
+          "partner": ""
+        },
+        {
+          "member": "Member - Cripplegate Ward Club",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

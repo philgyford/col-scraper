@@ -1,0 +1,101 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Leasehold Interest, Pemberton Row,EC4",
+          "partner": ""
+        },
+        {
+          "member": "Part Freehold Interest, Pemberton Row EC4",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "Share of Pemberton Row Limited, EC4",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Trustee, Castle Baynard Educational Foundation and Alderman Samuel Wilson Fund",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, City of London Archaeological Trust",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, Dr Johnson House Trust",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, St Andrew Holborn Charity",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, The Alexander Stafford Charity",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, Housing the Homeless Central Fund",
+          "partner": ""
+        },
+        {
+          "member": "Member, Castle Baynard Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Member, Guildhall Circle (Guildhall School)",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of Scientific Instrument Makers",
+          "partner": ""
+        },
+        {
+          "member": "Member of the Chartered Institute of Management",
+          "partner": ""
+        },
+        {
+          "member": "Director & Trustee, The Tree Council",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "LSO - Concert Ticket & Drinks",
+      "date": "24 September 2017"
+    }
+  ]
+}

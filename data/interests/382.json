@@ -1,0 +1,60 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "90 Defoe House, Barbican, London. EC2Y 8ND",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Liveryman, Worshipful Company of Feltmakers",
+          "partner": ""
+        },
+        {
+          "member": "Life Member - National Association of Headteachers",
+          "partner": ""
+        },
+        {
+          "member": "Member - Aldersgate Ward Club",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "Two tickets from the RSC for the performance of Henry V at the Barbican Theatre",
+      "date": "30th November 2015"
+    }
+  ]
+}

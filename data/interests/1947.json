@@ -1,0 +1,65 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Barrister in independent practice at the Chambers of Sir Edward Garnier QC MP, One Brick Court, Temple, London. EC4Y 9BY",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "While not the named leaseholder, as a member of chambers I have an interest in the chambers’ premises at One Brick Court, leased from the Honourable Society of the Middle Temple.",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "Pension with Standard Life.",
+          "partner": "Pension with Aviva."
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member, the Honourable Society of the Inner Temple.",
+          "partner": "My husband is a member of Unite."
+        },
+        {
+          "member": "Supporter of the Bar Council through payment of a voluntary fee.",
+          "partner": ""
+        },
+        {
+          "member": "Member of the Management Committee of the Chambers of Sir Edward Garnier QC MP.",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

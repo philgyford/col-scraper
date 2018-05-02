@@ -1,0 +1,74 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "LLP 325 - Underwriting at Lloyds",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "",
+          "partner": "Long lease - Floor 409, Queen's Quay, Lower Thames St."
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": [
+        {
+          "member": "",
+          "partner": "Licence to occupy above property"
+        }
+      ]
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "",
+          "partner": "Corporation - competent and intermediary landlord of the above property"
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Board Member - The Crown and Manor Boys' Club, Hoxton",
+          "partner": ""
+        },
+        {
+          "member": "Church Warden, St Lawrence Jewry",
+          "partner": ""
+        },
+        {
+          "member": "The Society of the Middle Temple",
+          "partner": ""
+        },
+        {
+          "member": "The Girdlers' Company - Member of the Court",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

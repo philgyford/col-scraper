@@ -1,0 +1,63 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Charles Stanley & Company Limited, 25 Luke Street, London, EC2A 4AR",
+          "partner": "Sotheby's, 34-35 New Bond Street, London, W15 2RT"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Worshipful Company of Gardeners",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of Fletchers",
+          "partner": ""
+        },
+        {
+          "member": "Lime Street Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Member of trade association: the Wealth Management Association (WMA)",
+          "partner": ""
+        },
+        {
+          "member": "City of London Club",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

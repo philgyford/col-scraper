@@ -1,0 +1,84 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "R & Q Managing Agency Ltd, 130 Fenchurch Street, London EC3M 5DJ",
+          "partner": "Almroth Enterprises Ltd, Asserton House, Berwick St James, Salisbury, Wiltshire SP3 4TZ"
+        },
+        {
+          "member": "R & Q Capital No 1 Ltd, 130 Fenchurch Street, London EC3M 5DJ",
+          "partner": ""
+        },
+        {
+          "member": "Almroth Enterprises Ltd, Asserton House, Berwick St James, Salisbury, Wiltshire SP3 4TZ",
+          "partner": ""
+        },
+        {
+          "member": "Barbican Managing Agency Ltd, 33 Gracechurch Street, London, EC3V 0BT",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "I have various pensionand ISA investments which have holdings that may exceed £2,500 in various unit and investment trusts, or similar type funds which may have a place of business or land ownership within the City. All our investments are managed by professional third party managers and I have limited ability to know or find out exactly what is held at any one time. 5% R&Q Capital No1Ltd (corporate name at Lloyd's).",
+          "partner": "I have various pensionand ISA investments which have holdings that may exceed £2,500 in various unit and investment trusts, or similar type funds which may have a place of business or land ownership within the City. All our investments are managed by professional third party managers and I have limited ability to know or find out exactly what is held at any one time."
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Trusteee - City and Metropolitan",
+          "partner": ""
+        },
+        {
+          "member": "Governor - Mossbourne Parkside",
+          "partner": ""
+        },
+        {
+          "member": "Chairman - Mossbourne Federation of Schools",
+          "partner": ""
+        },
+        {
+          "member": "Assistant, Worshipful Company of Grocers",
+          "partner": ""
+        },
+        {
+          "member": "Member of the Chartered Insurance Institute",
+          "partner": ""
+        },
+        {
+          "member": "Member - Hackney Council Pensions Board",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

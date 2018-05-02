@@ -1,0 +1,64 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Head of Public Affairs, UK & Ireland, BASF plc, 21st Floor, 110 Bishopsgate. London. EC2N 4AY",
+          "partner": "Helen Mayer Senior Client Manager, Kanto, 15 Great College Street, London. SW1P 3EX"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Governor, Charles Dickens Primary School",
+          "partner": ""
+        },
+        {
+          "member": "Age Endeavour Fellowship Trustee",
+          "partner": ""
+        },
+        {
+          "member": "Fellow of Royal Society for the encouragement of Arts, Manufacturers & Commerce",
+          "partner": ""
+        },
+        {
+          "member": "Think Tank associations: Civitas, IEA, IFS, IPPR, TPA",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "Two tickets to RSC performance of Julius Caesar - Barbican Centre",
+      "date": "15th January 2018"
+    }
+  ]
+}

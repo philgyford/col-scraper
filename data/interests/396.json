@@ -1,0 +1,111 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Partner, CMS Cameron McKenna, Aldersgate Street, EC1",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": [
+        {
+          "member": "CMS Cameron McKenna is providing legal advice to the City of London Corporation on one of its projects",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "CMS Cameron McKenna has a Leasehold interest for a property in Aldersgate Street, EC1",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "CMS Cameron McKenna has a Leasehold interest for a property in Aldersgate Street, EC1",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "Tesco (through Tesco Personal Finance Investments)",
+          "partner": ""
+        },
+        {
+          "member": "Helical Bar",
+          "partner": ""
+        },
+        {
+          "member": "St Modwen Properties",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Raleigh International",
+          "partner": ""
+        },
+        {
+          "member": "Lord Mayor's Appeal",
+          "partner": ""
+        },
+        {
+          "member": "City Livery Club",
+          "partner": ""
+        },
+        {
+          "member": "Candlewick Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Farringdon Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Livery Companies - Solicitors, Plumbers, Wax Chandlers, Arbitrators, Builders' Merchants, Paviors, Fuellers, Lightmongers, Turners, Tax Advisers and Security Professionals",
+          "partner": ""
+        },
+        {
+          "member": "The Law Society of England and Wales",
+          "partner": ""
+        },
+        {
+          "member": "The City of London Law Society",
+          "partner": ""
+        },
+        {
+          "member": "Middle Temple",
+          "partner": ""
+        },
+        {
+          "member": "The Association of Wood Turners of Great Britain",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

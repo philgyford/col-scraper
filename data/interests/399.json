@@ -1,0 +1,86 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Chairman, Chartered Institute for Securities & Investment, Eastcheap, EC3",
+          "partner": "Governor, City of London Freemen's School"
+        },
+        {
+          "member": "Senior Advisor, Kleinwort Benson Group Ltd, George Street, W1",
+          "partner": ""
+        },
+        {
+          "member": "Non-Executive Director, Turquoise Global Holdings Ltd, Paternoster Square, EC4",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": [
+        {
+          "member": "Chartered Institute for Securities & Investment, Rent/Lease agreement on property at Eastcheap",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "Chartered Institute for Securities & Investment, Eastcheap, EC3",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Police Foundation (Trustee)",
+          "partner": ""
+        },
+        {
+          "member": "Royal Mencap Society (Vice President)",
+          "partner": ""
+        },
+        {
+          "member": "Bridge Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "City of London Club",
+          "partner": ""
+        },
+        {
+          "member": "Livery Companies - Fishmongers (Member of Court), Glaziers, International Bankers, Honorary Member of Scientific Instruments Makers, Launderers and the Security Professionals.",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "Ticket for Rugby World Cup Final and Hospitality provided by EY",
+      "date": "31 October 2015"
+    }
+  ]
+}

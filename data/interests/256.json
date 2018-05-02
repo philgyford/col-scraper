@@ -1,0 +1,115 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Self employed solicitor",
+          "partner": "Office manager for mhlaw"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": [
+        {
+          "member": "Lease from City of London Corporation dated 1.10.14 (further details contained under Corporate Tenancies)",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Lease from City of London Corporation of office at 5 London Wall Buildings, London EC2M 5NS (further details contained under Corporate Tenancies)",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "Lease from City of London Corporation dated 1.10.14 of office at 5 London Wall Buildings, London EC2M 5NS for 2 years from 29.9.2014 at a rent of £6570 pa plus service charge, insurance and VAT",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "J M Parkinson Charitable Trust",
+          "partner": ""
+        },
+        {
+          "member": "Castle Baynard Ward Club (Chairman)",
+          "partner": ""
+        },
+        {
+          "member": "Farringdon Ward Club (Past President)",
+          "partner": ""
+        },
+        {
+          "member": "Bishopsgate Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Broad Street Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "City Livery Club (Past President)",
+          "partner": ""
+        },
+        {
+          "member": "Guild of Freemen",
+          "partner": ""
+        },
+        {
+          "member": "Masonic Lodges 1745 and 3116 C1745",
+          "partner": ""
+        },
+        {
+          "member": "Painter-Stainers Company (liveryman)",
+          "partner": ""
+        },
+        {
+          "member": "City of London Solicitors Company (freeman)",
+          "partner": ""
+        },
+        {
+          "member": "Law Society",
+          "partner": ""
+        },
+        {
+          "member": "City Livery Club",
+          "partner": ""
+        },
+        {
+          "member": "Diamonds Past Masters’ Association.",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "14 May 2015 – Reception and Dinner for City Magna Carta Charter",
+      "date": ""
+    }
+  ]
+}

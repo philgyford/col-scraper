@@ -1,0 +1,75 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": []
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Chairman, The Save Bart's Campaign",
+          "partner": ""
+        },
+        {
+          "member": "Board of Management, Bart's Guild (League of Friends)",
+          "partner": ""
+        },
+        {
+          "member": "Friends of Bart's Great Hall and Archives",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, Housing the Homeless Central Fund",
+          "partner": ""
+        },
+        {
+          "member": "Member, City Livery Club",
+          "partner": ""
+        },
+        {
+          "member": "Member, Aldersgate Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Member, Bassishaw Ward Club",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "gift": "Travel and accommodation costs to attend the Chengdu Innovation and Entrepreneurship Fair - Mayor of Chengdu",
+      "date": "7th - 15th May 2017"
+    },
+    {
+      "gift": "Gresham College Stakeholder Presentation & Dinner (Worshipful Company of Mercers)",
+      "date": "22 February 2018"
+    }
+  ]
+}

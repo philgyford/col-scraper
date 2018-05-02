@@ -1,0 +1,55 @@
+{
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Mattison Public Relations (UK) LLP, 3 Quastels House, 32 Long Lane, London. SE1 4AY",
+          "partner": "research Analyst, Mintel International Group Ltd, 11 Pilgrim Street, London. EC4V 6RN"
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member- Labour Party",
+          "partner": ""
+        },
+        {
+          "member": "Member - 20th Century Society",
+          "partner": ""
+        },
+        {
+          "member": "Member - Unite the Union",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}
