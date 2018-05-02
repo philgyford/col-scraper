@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:53:59.552916+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -107,31 +110,38 @@
   "gifts": [
     {
       "gift": "Banquet - Young Presidents' Organisation London Mayfair Chapter (Chair: Deputising Alistair King)",
-      "date": "25 September 2015"
+      "date_str": "25 September 2015",
+      "date": "2015-09-25"
     },
     {
       "gift": "Londoners' Dinner (Museum of London)",
-      "date": "26 March 2015"
+      "date_str": "26 March 2015",
+      "date": "2015-03-26"
     },
     {
       "gift": "Dinner, Celebrating 120 years of JLGB in the State Rooms of the Speaker's House.",
-      "date": "15 December 2015"
+      "date_str": "15 December 2015",
+      "date": "2015-12-15"
     },
     {
       "gift": "Lunch with Sharon Ament, Director of Museum of London",
-      "date": "29 July 2016"
+      "date_str": "29 July 2016",
+      "date": "2016-07-29"
     },
     {
       "gift": "Private Dinner with Chairman and Vice-President of British Red Cross at Mossiman's",
-      "date": "30 January 2017"
+      "date_str": "30 January 2017",
+      "date": "2017-01-30"
     },
     {
       "gift": "Attendance at the Ironmongers' Company City Dinner",
-      "date": "31 January 2017"
+      "date_str": "31 January 2017",
+      "date": "2017-01-31"
     },
     {
       "gift": "Gresham College Stakeholder Presentation & Dinner (Worshipful Company of Mercers)",
-      "date": "22 February 2018"
+      "date_str": "22 February 2018",
+      "date": "2018-02-22"
     }
   ]
 }

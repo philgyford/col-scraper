@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:52:35.953869+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -124,163 +127,203 @@
   "gifts": [
     {
       "gift": "Upholders' Banquet at Carpenters' Hall.",
-      "date": "9 April 2015"
+      "date_str": "9 April 2015",
+      "date": "2015-04-09"
     },
     {
       "gift": "Six tickets for Guildhall School of Music and Drama Gold medal concert at Barbican with drinks at interval and end.",
-      "date": "13 May 2015"
+      "date_str": "13 May 2015",
+      "date": "2015-05-13"
     },
     {
       "gift": "Single invitation to evensong at Temple Church; reception at Middle Temple Hall and dinner at Inner Temple Hall as a combined invitation from the Treasurers of Inner and Middle Temple.",
-      "date": "14 May 2015"
+      "date_str": "14 May 2015",
+      "date": "2015-05-14"
     },
     {
       "gift": "Seminar about Charitable Trustees' responsibilities at Cazenove - morning seminar with coffee and buffet lunch.",
-      "date": "21 May 2015"
+      "date_str": "21 May 2015",
+      "date": "2015-05-21"
     },
     {
       "gift": "Magna Carta celebrations - morning of entertainment, picnic lunch at Runnymede Surrey County Council.",
-      "date": "15 June 2015"
+      "date_str": "15 June 2015",
+      "date": "2015-06-15"
     },
     {
       "gift": "Innholders' Livery 500th anniversary banquet in Guildhall for 2 people",
-      "date": "16 June 2015"
+      "date_str": "16 June 2015",
+      "date": "2015-06-16"
     },
     {
       "gift": "City of London Police Gala Awards dinner at Grange Hotel",
-      "date": "19 June 2015"
+      "date_str": "19 June 2015",
+      "date": "2015-06-19"
     },
     {
       "gift": "Dinner in celebration of Eid. Invited by the Association of Muslim Police and the City of London Corporation.",
-      "date": "31 July 2015"
+      "date_str": "31 July 2015",
+      "date": "2015-07-31"
     },
     {
       "gift": "Attended a Medieval Mumming followed by drinks reception - Skinners' Livery Company",
-      "date": "14 September 2015"
+      "date_str": "14 September 2015",
+      "date": "2015-09-14"
     },
     {
       "gift": "Attended Prince's Trust afternoon tea at the Ritz (as Deputy Chairman of City Bridge Trust)",
-      "date": "17 September 2015"
+      "date_str": "17 September 2015",
+      "date": "2015-09-17"
     },
     {
       "gift": "Invited by and attended London Symphony Orchestra concert at the Barbican with interval reception for 2 people",
-      "date": "21 September 2015"
+      "date_str": "21 September 2015",
+      "date": "2015-09-21"
     },
     {
       "gift": "Invited by Sheriffs Alderman Charles Bowman and Christine Rigden to Sheriffs' breakfast at Drapers' Hall",
-      "date": "28 September 2015"
+      "date_str": "28 September 2015",
+      "date": "2015-09-28"
     },
     {
       "gift": "Guest of the Hamburg Chamber of Commerce at dinner, lunch and dinner to celebrate historic links between City and Hamburg. This includes two nights' accommodation at Atlantic Kempinski Hotel.",
-      "date": "14/15 October 2015"
+      "date_str": "14/15 October 2015",
+      "date": "2015-10-14"
     },
     {
       "gift": "Invited by and attended lunch with London Youth at Buckingham Palace (as Deputy Chairman of City Bridge Trust).",
-      "date": "22 October 2015"
+      "date_str": "22 October 2015",
+      "date": "2015-10-22"
     },
     {
       "gift": "Dinner at Wax Chandlers' Hall hosted by Worshipful Company of Wheelwrights (speaking engagement)",
-      "date": "13 November 2015"
+      "date_str": "13 November 2015",
+      "date": "2015-11-13"
     },
     {
       "gift": "Lunch at Two Temple Place hosted by Morgan Stanley",
-      "date": "16 November 2015"
+      "date_str": "16 November 2015",
+      "date": "2015-11-16"
     },
     {
       "gift": "Prince's Trust Celebrate Success celebration at Milton Court",
-      "date": "2 December 2015"
+      "date_str": "2 December 2015",
+      "date": "2015-12-02"
     },
     {
       "gift": "Barbican Centre two tickets to see Henry V at Barbican Theatre",
-      "date": "4 December 2015"
+      "date_str": "4 December 2015",
+      "date": "2015-12-04"
     },
     {
       "gift": "Dinner with Turners' Livery Company",
-      "date": "16 December 2015"
+      "date_str": "16 December 2015",
+      "date": "2015-12-16"
     },
     {
       "gift": "Dinner with the Management Consultants' Livery Company",
-      "date": "20 January 2016"
+      "date_str": "20 January 2016",
+      "date": "2016-01-20"
     },
     {
       "gift": "Tacitus Lecture and reception as guest of the World Traders' Livery company",
-      "date": "25 February 2016"
+      "date_str": "25 February 2016",
+      "date": "2016-02-25"
     },
     {
       "gift": "Dinner with Haberdashers at invite of Past Master Haberdasher",
-      "date": "3 March 2016"
+      "date_str": "3 March 2016",
+      "date": "2016-03-03"
     },
     {
       "gift": "Presentation ceremony at London Palladium at invite of Prince's Trust",
-      "date": "7 March 2016"
+      "date_str": "7 March 2016",
+      "date": "2016-03-07"
     },
     {
       "gift": "Dinner with Apothecaries at invite of Past Master Apothecary",
-      "date": "17 March 2016"
+      "date_str": "17 March 2016",
+      "date": "2016-03-17"
     },
     {
       "gift": "Single invite to Woolmen's Livery Banquet at Ironmongers' Hall",
-      "date": "23 May 2016"
+      "date_str": "23 May 2016",
+      "date": "2016-05-23"
     },
     {
       "gift": "Dinner to celebrate Eid in the City invite by Muslim Police Association",
-      "date": "20 July 2016"
+      "date_str": "20 July 2016",
+      "date": "2016-07-20"
     },
     {
       "gift": "Dinner with the Hackney Carriage Drivers Livery Company",
-      "date": "7 September 2016"
+      "date_str": "7 September 2016",
+      "date": "2016-09-07"
     },
     {
       "gift": "River trip with lunch on Lady Daphne in the River Sailing Barges Parade invite by Alderman and Mrs Michael Mainelli and Z/Yen",
-      "date": "17 September 2016"
+      "date_str": "17 September 2016",
+      "date": "2016-09-17"
     },
     {
       "gift": "Guest of the Hamburg Chamber of Commerce Morgensprache Dinner, lunch and dinner with gifts of book and beer glass",
-      "date": "12-14 October 2016"
+      "date_str": "12-14 October 2016",
+      "date": "2016-10-12"
     },
     {
       "gift": "Guest of Arts Scholars Livery Company to company lecture and reception",
-      "date": "20 October 2016"
+      "date_str": "20 October 2016",
+      "date": "2016-10-20"
     },
     {
       "gift": "Guest of Christopher Moran, Co-operation Ireland to dinner at Crosby Hall",
-      "date": "24 October 2016"
+      "date_str": "24 October 2016",
+      "date": "2016-10-24"
     },
     {
       "gift": "Reception given by First Aid Nursing Yeomanry at Lincoln's Inn",
-      "date": "23 November 2016"
+      "date_str": "23 November 2016",
+      "date": "2016-11-23"
     },
     {
       "gift": "2 tickets to King Lear at the Barbican by the Barbican Centre",
-      "date": "6 December 2016"
+      "date_str": "6 December 2016",
+      "date": "2016-12-06"
     },
     {
       "gift": "Fanmakers Livery Banquet at the Mansion House",
-      "date": "8 December 2016"
+      "date_str": "8 December 2016",
+      "date": "2016-12-08"
     },
     {
       "gift": "Turners Livery Company dinner at Skinners' Hall",
-      "date": "19 December 2016"
+      "date_str": "19 December 2016",
+      "date": "2016-12-19"
     },
     {
       "gift": "Dinner with Dyers' Livery Company",
-      "date": "5 January 2017"
+      "date_str": "5 January 2017",
+      "date": "2017-01-05"
     },
     {
       "gift": "Dinner with the Information Technology Livery Company",
-      "date": "18 January 2017"
+      "date_str": "18 January 2017",
+      "date": "2017-01-18"
     },
     {
       "gift": "Dinner at Goodenough College",
-      "date": "8 March 2017"
+      "date_str": "8 March 2017",
+      "date": "2017-03-08"
     },
     {
       "gift": "Dinner with Cordwainers Livery Company at Clothworkers' Hall",
-      "date": "10 March 2017"
+      "date_str": "10 March 2017",
+      "date": "2017-03-10"
     },
     {
       "gift": "Presentation and lunch with the Plumbers' Livery company",
-      "date": "19 April 2017"
+      "date_str": "19 April 2017",
+      "date": "2017-04-19"
     }
   ]
 }

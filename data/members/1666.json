@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:51:48.434072+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -106,7 +109,8 @@
   "gifts": [
     {
       "gift": "Dinner and gift of a leather travel wallet at the Guildhall for the C & C Alpha Group Limited",
-      "date": "23rd September 2017"
+      "date_str": "23rd September 2017",
+      "date": "2017-09-23"
     }
   ]
 }

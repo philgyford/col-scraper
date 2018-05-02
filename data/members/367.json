@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:54:55.732628+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -87,7 +90,8 @@
   "gifts": [
     {
       "gift": "14 May 2015. Evensong at Temple Church; reception at Middle Temple Hall and dinner at Inner Temple Hall as a combined invitation from the Treasurers of Inner and Middle Temple.",
-      "date": ""
+      "date_str": "",
+      "date": null
     }
   ]
 }

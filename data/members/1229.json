@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:55:28.183794+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -108,7 +111,8 @@
   "gifts": [
     {
       "gift": "bottle of fine vintage port (Jim Robinson)",
-      "date": "20th November 2015"
+      "date_str": "20th November 2015",
+      "date": "2015-11-20"
     }
   ]
 }

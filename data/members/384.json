@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:55:14.453608+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -95,7 +98,8 @@
   "gifts": [
     {
       "gift": "LSO - Concert Ticket & Drinks",
-      "date": "24 September 2017"
+      "date_str": "24 September 2017",
+      "date": "2017-09-24"
     }
   ]
 }

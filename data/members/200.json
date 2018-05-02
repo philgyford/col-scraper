@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:52:15.299588+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -78,7 +81,8 @@
   "gifts": [
     {
       "gift": "9th September - 1 ticket and hospitality in a Private Box at Lords Cricket Ground provided by White & Case LLP",
-      "date": ""
+      "date_str": "",
+      "date": null
     }
   ]
 }

@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:51:27.604242+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -74,7 +77,8 @@
   "gifts": [
     {
       "gift": "Dinner, District Attorney of New York - 16 November 2016",
-      "date": ""
+      "date_str": "",
+      "date": null
     }
   ]
 }

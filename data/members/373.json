@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:54:01.666164+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -157,247 +160,308 @@
   "gifts": [
     {
       "gift": "Champagne reception and Dinner - Honourable Societies of the Inner Temple and Middle Temple",
-      "date": "14 May 2015"
+      "date_str": "14 May 2015",
+      "date": "2015-05-14"
     },
     {
       "gift": "Dinner hosted by the London Symphony Orchestra",
-      "date": "9 June 2015"
+      "date_str": "9 June 2015",
+      "date": "2015-06-09"
     },
     {
       "gift": "Exhibition and Reception – Museum of London in Docklands",
-      "date": "18 June 2015"
+      "date_str": "18 June 2015",
+      "date": "2015-06-18"
     },
     {
       "gift": "Dinner – Future First – House of Lords",
-      "date": "22 July 2015"
+      "date_str": "22 July 2015",
+      "date": "2015-07-22"
     },
     {
       "gift": "Two tickets and reception, LSO season opening concert (London Symphony Orchestra)",
-      "date": "15 September 2015"
+      "date_str": "15 September 2015",
+      "date": "2015-09-15"
     },
     {
       "gift": "Guest of the BBC at the Proms and of Askonas Holt at a private dinner",
-      "date": "11 September 2015"
+      "date_str": "11 September 2015",
+      "date": "2015-09-11"
     },
     {
       "gift": "Guest of LSO at gala dinner at Mansion House",
-      "date": "27 June 2016"
+      "date_str": "27 June 2016",
+      "date": "2016-06-27"
     },
     {
       "gift": "Guest of Inner City Trust at Chamber of Commerce 59th Annual President’s Dinner, Derry-Londonderry (Dinner and Hotel Accommodation)",
-      "date": "21 October 2016"
+      "date_str": "21 October 2016",
+      "date": "2016-10-21"
     },
     {
       "gift": "Guest of Quiller Consultants - Lunch with Damian Green MP",
-      "date": "14 November 2016"
+      "date_str": "14 November 2016",
+      "date": "2016-11-14"
     },
     {
       "gift": "Reception and Tickets (x3) to Royal Shakespeare Company performance of King Lear at the Barbican Centre",
-      "date": "6 December 2016"
+      "date_str": "6 December 2016",
+      "date": "2016-12-06"
     },
     {
       "gift": "Editorial Intelligence Networking Nations Lecture and Dinner",
-      "date": "16 January 2017"
+      "date_str": "16 January 2017",
+      "date": "2017-01-16"
     },
     {
       "gift": "Westminster Policy Institute No.10 Breakfast on Responsible Business and Corporate Governance",
-      "date": "17 January 2017"
+      "date_str": "17 January 2017",
+      "date": "2017-01-17"
     },
     {
       "gift": "Dinner and Hotel Accommodation for self and husband provided by Derry-Londonderry Inner City Trust",
-      "date": "3-5 February 2017"
+      "date_str": "3-5 February 2017",
+      "date": "2017-02-05"
     },
     {
       "gift": "Guest of EY [Lunch]",
-      "date": "13 February 2017"
+      "date_str": "13 February 2017",
+      "date": "2017-02-13"
     },
     {
       "gift": "Guest of Flint Global [Lunch]",
-      "date": "22 February 2017"
+      "date_str": "22 February 2017",
+      "date": "2017-02-22"
     },
     {
       "gift": "Guest of Latvian Ambassador [Dinner]",
-      "date": "6 March 2017"
+      "date_str": "6 March 2017",
+      "date": "2017-03-06"
     },
     {
       "gift": "Double Invitation, Goodenough College Law Faculty Dinner",
-      "date": "7 March 2017"
+      "date_str": "7 March 2017",
+      "date": "2017-03-07"
     },
     {
       "gift": "Guest of the Goldsmiths' Company [Lunch]",
-      "date": "10 March 2017"
+      "date_str": "10 March 2017",
+      "date": "2017-03-10"
     },
     {
       "gift": "Guest of WIG [Lunch]",
-      "date": "6 April 2017"
+      "date_str": "6 April 2017",
+      "date": "2017-04-06"
     },
     {
       "gift": "Guest of Strand Group [Drinks and Dinner]",
-      "date": "2 May 2017"
+      "date_str": "2 May 2017",
+      "date": "2017-05-02"
     },
     {
       "gift": "Guest of CBI [Dinner]",
-      "date": "17 May 2017"
+      "date_str": "17 May 2017",
+      "date": "2017-05-17"
     },
     {
       "gift": "Guest of Sebastian Groth, deputy head of policy planning of the Federal Foreign Office and Frank Neumann Deputy Head of Economic Section/German Embassy [Lunch]",
-      "date": "18 May 2017"
+      "date_str": "18 May 2017",
+      "date": "2017-05-18"
     },
     {
       "gift": "Guest of Joanna Cound, Blackrock [Lunch]",
-      "date": "23 May 2017"
+      "date_str": "23 May 2017",
+      "date": "2017-05-23"
     },
     {
       "gift": "Guest of New Financial [Dinner]",
-      "date": "24 May 2017"
+      "date_str": "24 May 2017",
+      "date": "2017-05-24"
     },
     {
       "gift": "Guest of Mark Kleinman [Breakfast]",
-      "date": "1 June 2017"
+      "date_str": "1 June 2017",
+      "date": "2017-06-01"
     },
     {
       "gift": "Guest of Laura Citron, London & Partners [Lunch]",
-      "date": "2 June 2017"
+      "date_str": "2 June 2017",
+      "date": "2017-06-02"
     },
     {
       "gift": "Guest of TheCityUK for Media Dinner with Iain Dey [Dinner]",
-      "date": "6 June 2017"
+      "date_str": "6 June 2017",
+      "date": "2017-06-06"
     },
     {
       "gift": "Guest of Sherard Cowper-Coles, HSBC [Breakfast]",
-      "date": "12 June 2017"
+      "date_str": "12 June 2017",
+      "date": "2017-06-12"
     },
     {
       "gift": "Guest of Strand Group [Drinks]",
-      "date": "12 June 2017"
+      "date_str": "12 June 2017",
+      "date": "2017-06-12"
     },
     {
       "gift": "Guest of City Women: Future Leaders Award Celebration",
-      "date": "19 June 2017"
+      "date_str": "19 June 2017",
+      "date": "2017-06-19"
     },
     {
       "gift": "Guest of Clifford Chance [Lunch]",
-      "date": "20 June 2017"
+      "date_str": "20 June 2017",
+      "date": "2017-06-20"
     },
     {
       "gift": "Guest of Education Policy Institute [Drinks]",
-      "date": "20 June 2017"
+      "date_str": "20 June 2017",
+      "date": "2017-06-20"
     },
     {
       "gift": "Guest of Investment Association [Dinner]",
-      "date": "22 June 2017"
+      "date_str": "22 June 2017",
+      "date": "2017-06-22"
     },
     {
       "gift": "Guest of Maurice Button, City and Financial [Breakfast]",
-      "date": "22 June 2017"
+      "date_str": "22 June 2017",
+      "date": "2017-06-22"
     },
     {
       "gift": "Guest of the French Embassy [Dinner]",
-      "date": "26 June 2017"
+      "date_str": "26 June 2017",
+      "date": "2017-06-26"
     },
     {
       "gift": "Guest of CBI [Presidents' Dinner]",
-      "date": "3 July 2017"
+      "date_str": "3 July 2017",
+      "date": "2017-07-03"
     },
     {
       "gift": "Received book of photos worth approximately £50 from the Government of Malta",
-      "date": "29 August 2017"
+      "date_str": "29 August 2017",
+      "date": "2017-08-29"
     },
     {
       "gift": "Guest of Canary Wharf Group Lunch",
-      "date": "5 September 2017"
+      "date_str": "5 September 2017",
+      "date": "2017-09-05"
     },
     {
       "gift": "Guest of Citi Group dinner at Conservative Party Conference",
-      "date": "1 October 2017"
+      "date_str": "1 October 2017",
+      "date": "2017-10-01"
     },
     {
       "gift": "Guest of the Law Society dinner",
-      "date": "5 October 2017"
+      "date_str": "5 October 2017",
+      "date": "2017-10-05"
     },
     {
       "gift": "Wine and salt from the Ambassador of Slovenia to the UK",
-      "date": "6 November 2017"
+      "date_str": "6 November 2017",
+      "date": "2017-11-06"
     },
     {
       "gift": "A silk and brocade scroll from the UK Chief Rep of China Development Bank, Ms Yan Xu",
-      "date": "6 November 2017"
+      "date_str": "6 November 2017",
+      "date": "2017-11-06"
     },
     {
       "gift": "Guest of Sir David Wright, Barclays",
-      "date": "14 November 2017"
+      "date_str": "14 November 2017",
+      "date": "2017-11-14"
     },
     {
       "gift": "Guest of Queen Mary's University, London for drinks reception and dinner",
-      "date": "15 November 2017"
+      "date_str": "15 November 2017",
+      "date": "2017-11-15"
     },
     {
       "gift": "Guest of TheCityUK at TheCityUK Annual Dinner",
-      "date": "5 December 2017"
+      "date_str": "5 December 2017",
+      "date": "2017-12-05"
     },
     {
       "gift": "Guest of the Financial Times at drinks reception",
-      "date": "11 December 2017"
+      "date_str": "11 December 2017",
+      "date": "2017-12-11"
     },
     {
       "gift": "Guest of Catalyst at Drinks and Dinner at Lambeth Palace \"10 years since the crisis, what does 'good' banking look like?\"",
-      "date": "12 December 2017"
+      "date_str": "12 December 2017",
+      "date": "2017-12-12"
     },
     {
       "gift": "Guest of the Irish Embassy for dinner",
-      "date": "13 December 2017"
+      "date_str": "13 December 2017",
+      "date": "2017-12-13"
     },
     {
       "gift": "Guest of Kings College (Tony Halmos) for lunch",
-      "date": "19 December 2017"
+      "date_str": "19 December 2017",
+      "date": "2017-12-19"
     },
     {
       "gift": "Guest of TheCityUK at TheCityUK Media Dinner with George Parker, Political Editor of the FT",
-      "date": "9 January 2018"
+      "date_str": "9 January 2018",
+      "date": "2018-01-09"
     },
     {
       "gift": "Guest of the Briefing Circle at a breakfast on \"Planning for the future-seeking consensus and a positive relationship with Europe\"",
-      "date": "15 January 2018"
+      "date_str": "15 January 2018",
+      "date": "2018-01-15"
     },
     {
       "gift": "Guest of Nicky Morgan MP when speaking at a reception and dinner at the House of Commons",
-      "date": "30 January 2018"
+      "date_str": "30 January 2018",
+      "date": "2018-01-30"
     },
     {
       "gift": "Guest of TheCityUK at TheCityUK Chairman's Dinner with the Rt Hon David Mundell MP (SoS for Scotland)",
-      "date": "31 January 2018"
+      "date_str": "31 January 2018",
+      "date": "2018-01-31"
     },
     {
       "gift": "CD and Book from Reignwood Group",
-      "date": "13 February 2018"
+      "date_str": "13 February 2018",
+      "date": "2018-02-13"
     },
     {
       "gift": "Guest of the ABI at the ABI Annual Dinner",
-      "date": "26 February 2018"
+      "date_str": "26 February 2018",
+      "date": "2018-02-26"
     },
     {
       "gift": "Guest of HSBC at the HSBC Chinese New Year Lunch",
-      "date": "27 February 2018"
+      "date_str": "27 February 2018",
+      "date": "2018-02-27"
     },
     {
       "gift": "Gresham College Stakeholder Presentation & Dinner (Worshipful Company of Mercers)",
-      "date": "22 February 2018"
+      "date_str": "22 February 2018",
+      "date": "2018-02-22"
     },
     {
       "gift": "Guest of CPA and WPA at a lunch at MIPIM",
-      "date": "13 March 2018"
+      "date_str": "13 March 2018",
+      "date": "2018-03-13"
     },
     {
       "gift": "Guest of CBRE at a dinner at MIPIM",
-      "date": "13 March 2018"
+      "date_str": "13 March 2018",
+      "date": "2018-03-13"
     },
     {
       "gift": "Guest of London First and CBRE at a dinner at MIPIM",
-      "date": "14 March 2018"
+      "date_str": "14 March 2018",
+      "date": "2018-03-14"
     },
     {
       "gift": "Guest of London Chamber of Commerce at a lunch on 'Build to Rent' at MIPIM",
-      "date": "15 March 2018"
+      "date_str": "15 March 2018",
+      "date": "2018-03-15"
     }
   ]
 }

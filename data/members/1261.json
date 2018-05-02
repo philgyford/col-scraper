@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:51:50.440969+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -66,7 +69,8 @@
   "gifts": [
     {
       "gift": "Wooden bowl - received from the Governor of Western Australia",
-      "date": "6th June 2017"
+      "date_str": "6th June 2017",
+      "date": "2017-06-06"
     }
   ]
 }

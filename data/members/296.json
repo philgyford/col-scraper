@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:53:51.114091+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -99,59 +102,73 @@
   "gifts": [
     {
       "gift": "Acted as LMLT at the UN 70th anniversary commemoration at Guildhall, lecture , reception and dinner. Accompanied by my wife to the lecture and reception. Hospitality provided by the UNA",
-      "date": "9 October 2015"
+      "date_str": "9 October 2015",
+      "date": "2015-10-09"
     },
     {
       "gift": "Wife attended Gibraltar Day at Guildhall. Hosted by HM government of Gibraltar. A reception.",
-      "date": "12 October 2015"
+      "date_str": "12 October 2015",
+      "date": "2015-10-12"
     },
     {
       "gift": "Acted as LMLT at the British Exporters Association Lunch at Mansion House. Hospitality provided by the Association.",
-      "date": "13 October 2015"
+      "date_str": "13 October 2015",
+      "date": "2015-10-13"
     },
     {
       "gift": "Attended the Presentation Dinner with wife, hosted by the Worshipful company of Shipwrights and the Worshipful company of Goldsmiths",
-      "date": "19 October 2015"
+      "date_str": "19 October 2015",
+      "date": "2015-10-19"
     },
     {
       "gift": "Acted as LMLT at the Upholders Annual Banquet at Mansion House, Hospitality provided by the Company.",
-      "date": "20 October 2015"
+      "date_str": "20 October 2015",
+      "date": "2015-10-20"
     },
     {
       "gift": "Presented with a cushion by the Worshipful company of Holders, embroidered with their Coat of Arms, and the details of their current Master.",
-      "date": "20 October 2015"
+      "date_str": "20 October 2015",
+      "date": "2015-10-20"
     },
     {
       "gift": "LMLT at The Stationers' Company Civic Dinner, at Stationers' Hall, and was accompanied by my wife",
-      "date": "24 November 2015"
+      "date_str": "24 November 2015",
+      "date": "2015-11-24"
     },
     {
       "gift": "LMLT at The Rifles Awards Dinner at Guildhall",
-      "date": "3 December 2015"
+      "date_str": "3 December 2015",
+      "date": "2015-12-03"
     },
     {
       "gift": "LMLT at the Annual Dinner of the Worshipful Company of Pattenmakers at Mansion House. Presented with a China Plate with a brief history of the company painted thereon.",
-      "date": "22 January 2016"
+      "date_str": "22 January 2016",
+      "date": "2016-01-22"
     },
     {
       "gift": "Guest of the Worshipful Company of Plaisterers at their Spring Dinner in role as Chairman of the Open Spaces and City Gardens Committee, to receive on behalf of the City, the payment of a silver crown as symbolic rent for the garden adjoining the Hall",
-      "date": "5 April 2016"
+      "date_str": "5 April 2016",
+      "date": "2016-04-05"
     },
     {
       "gift": "Guest (with my wife) at the Worshipful Company of Grocers' Presentation Dinner at Grocers' Hall, at which I delivered a speech.",
-      "date": "16 October 2017"
+      "date_str": "16 October 2017",
+      "date": "2017-10-16"
     },
     {
       "gift": "Attended, together with my wife, an early evening reception at the Turkish Embassy, to celebrate anniversary of the foundation of the Republic.",
-      "date": "30 October 2017"
+      "date_str": "30 October 2017",
+      "date": "2017-10-30"
     },
     {
       "gift": "Together with my wife, I was invited to the Kuwait National Day Lunchtime Reception, which my wife attended. It was held at the Dorchester hotel W1.",
-      "date": "22 Feb 2018"
+      "date_str": "22 Feb 2018",
+      "date": "2018-02-22"
     },
     {
       "gift": "Gresham College Stakeholder Presentation & Dinner (Worshipful Company of Mercers)",
-      "date": "22 Feb 2018"
+      "date_str": "22 Feb 2018",
+      "date": "2018-02-22"
     }
   ]
 }

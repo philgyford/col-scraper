@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:54:54.186117+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -67,11 +70,13 @@
   "gifts": [
     {
       "gift": "Champagne and Canapé reception at Claridge's, hosted by Land Securities.",
-      "date": "9 December 2015"
+      "date_str": "9 December 2015",
+      "date": "2015-12-09"
     },
     {
       "gift": "Champagne and Canapé reception at Claridge's, hosted by Land Securities.",
-      "date": "14 December 2016"
+      "date_str": "14 December 2016",
+      "date": "2016-12-14"
     }
   ]
 }

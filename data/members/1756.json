@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:52:23.523026+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -103,11 +106,13 @@
   "gifts": [
     {
       "gift": "Tickets to attend a London Symphony Orchestra concert on Tuesday 20 September at 7.30pm in the Barbican Hall. Received from London Symphony Orchestra.",
-      "date": "20/09/16"
+      "date_str": "20/09/16",
+      "date": null
     },
     {
       "gift": "Return flights from London to Doha, Qatar; hotel expenses and meals - 2nd-3rd December 2017. Received from Qatar Financial Centre.",
-      "date": "2nd-3rd December 2017"
+      "date_str": "2nd-3rd December 2017",
+      "date": "2017-12-03"
     }
   ]
 }

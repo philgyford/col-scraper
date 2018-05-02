@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:52:13.656180+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -107,7 +110,8 @@
   "gifts": [
     {
       "gift": "Gresham College Stakeholder Presentation & Dinner (Worshipful Company of Mercers)",
-      "date": "22 February 2018"
+      "date_str": "22 February 2018",
+      "date": "2018-02-22"
     }
   ]
 }

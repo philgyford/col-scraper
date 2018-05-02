@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:54:33.599867+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -54,7 +57,8 @@
   "gifts": [
     {
       "gift": "Two tickets from the RSC for the performance of Henry V at the Barbican Theatre",
-      "date": "30th November 2015"
+      "date_str": "30th November 2015",
+      "date": "2015-11-30"
     }
   ]
 }

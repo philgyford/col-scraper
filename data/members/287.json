@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:53:45.820671+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -77,15 +80,18 @@
   "gifts": [
     {
       "gift": "Cart Marking lunch (Worshipful Company of Carmen)",
-      "date": "15 July 2015"
+      "date_str": "15 July 2015",
+      "date": "2015-07-15"
     },
     {
       "gift": "Private visit to the Tower of London Jewel House followed by dinner at Tower Bridge, accompanied by my husband (TMI conference)",
-      "date": "23rd November"
+      "date_str": "23rd November",
+      "date": null
     },
     {
       "gift": "Drinks at Claridges (Land Securities)",
-      "date": "9th December"
+      "date_str": "9th December",
+      "date": null
     }
   ]
 }

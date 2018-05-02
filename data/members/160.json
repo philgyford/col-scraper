@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:52:02.269510+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -71,7 +74,8 @@
   "gifts": [
     {
       "gift": "CAPITA Lunch",
-      "date": "19 November 2015"
+      "date_str": "19 November 2015",
+      "date": "2015-11-19"
     }
   ]
 }

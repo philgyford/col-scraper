@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:53:02.400452+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -59,7 +62,8 @@
   "gifts": [
     {
       "gift": "Dinner guest - Disappearing Dining Club, 24-26 Newbury Street London EC1A 7HU",
-      "date": "20th July 2017"
+      "date_str": "20th July 2017",
+      "date": "2017-07-20"
     }
   ]
 }

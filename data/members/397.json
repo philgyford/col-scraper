@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:55:33.133240+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -237,63 +240,78 @@
   "gifts": [
     {
       "gift": "Dinner, University of Greenwich",
-      "date": "14 July 2015"
+      "date_str": "14 July 2015",
+      "date": "2015-07-14"
     },
     {
       "gift": "Dinner, Institute of Directors",
-      "date": "16 September 2015"
+      "date_str": "16 September 2015",
+      "date": "2015-09-16"
     },
     {
       "gift": "Dinner, Young Presidents’ Organisation",
-      "date": "25 September 2015"
+      "date_str": "25 September 2015",
+      "date": "2015-09-25"
     },
     {
       "gift": "Dinner, Association of Financial Markets in Europe",
-      "date": "15 October 2015"
+      "date_str": "15 October 2015",
+      "date": "2015-10-15"
     },
     {
       "gift": "Dinner, the Worshipful Company of Tin Plate Workers alias Wire Workers",
-      "date": "5 July 2016"
+      "date_str": "5 July 2016",
+      "date": "2016-07-05"
     },
     {
       "gift": "Dinner, Institute of Directors",
-      "date": "14 July 2016"
+      "date_str": "14 July 2016",
+      "date": "2016-07-14"
     },
     {
       "gift": "Dinner, Royal Military Academy, Sandhurst",
-      "date": "2 August 2016"
+      "date_str": "2 August 2016",
+      "date": "2016-08-02"
     },
     {
       "gift": "Dinner, Chartered Bankers Institute",
-      "date": "1 September 2016"
+      "date_str": "1 September 2016",
+      "date": "2016-09-01"
     },
     {
       "gift": "Dinner, Association of Financial Markets in Europe",
-      "date": "3 November 2016"
+      "date_str": "3 November 2016",
+      "date": "2016-11-03"
     },
     {
       "gift": "Reception and Dinner, Co-operation Ireland",
-      "date": "8 November 2016"
+      "date_str": "8 November 2016",
+      "date": "2016-11-08"
     },
     {
       "gift": "Dinner, The Worshipful Company of Wheelwrights",
-      "date": "8 December 2016"
+      "date_str": "8 December 2016",
+      "date": "2016-12-08"
     },
     {
       "gift": "Dinner, Classics for All",
-      "date": "26 January 2017"
+      "date_str": "26 January 2017",
+      "date": "2017-01-26"
     },
     {
       "gift": "Dinner, The Worshipful Company of Clothworkers",
-      "date": "7 March 2017"
+      "date_str": "7 March 2017",
+      "date": "2017-03-07"
     },
     {
       "gift": "Dinner, Remenham Club",
-      "date": "21 April 2017"
+      "date_str": "21 April 2017",
+      "date": "2017-04-21"
     },
     {
       "gift": "Gresham College Stakeholder Presentation & Dinner (Worshipful Company of Mercers)",
-      "date": "22 February 2018"
+      "date_str": "22 February 2018",
+      "date": "2018-02-22"
     }
   ]
 }

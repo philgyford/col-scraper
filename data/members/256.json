@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "time_created": "2018-05-02T15:53:25.105363+00:00"
+  },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
@@ -109,7 +112,8 @@
   "gifts": [
     {
       "gift": "14 May 2015 – Reception and Dinner for City Magna Carta Charter",
-      "date": ""
+      "date_str": "",
+      "date": null
     }
   ]
 }
