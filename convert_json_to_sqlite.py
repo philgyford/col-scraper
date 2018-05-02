@@ -3,6 +3,9 @@ import json
 import os
 import sqlite3
 
+# Based on
+# https://github.com/simonw/register-of-members-interests/blob/master/convert_xml_to_sqlite.py
+
 
 DATA_DIRECTORY = 'data'
 
