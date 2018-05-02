@@ -1,4 +1,5 @@
 import argparse
+import datetime
 import json
 import logging
 import sys
@@ -86,7 +87,12 @@ def scrape_all():
 
     filename = '{}/members.json'.format(DATA_DIRECTORY)
 
-    data = {'members': members}
+    data = {
+        'meta': {
+            'time_created': json_time_now(),
+        },
+        'members': members,
+    }
 
     with open(filename, 'w') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
@@ -183,6 +189,9 @@ def scrape_members_interests(id, url):
     filename = '{}/members/{}.json'.format(DATA_DIRECTORY, id)
 
     data = {
+        'meta': {
+            'time_created': json_time_now(),
+        },
         'interests': interests,
         'gifts': gifts,
     }
@@ -197,6 +206,9 @@ def make_absolute(url):
 
     return url
 
+
+def json_time_now():
+    return datetime.datetime.now(datetime.timezone.utc).isoformat()
 
 
 if __name__ == "__main__":
