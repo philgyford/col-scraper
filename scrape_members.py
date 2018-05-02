@@ -1,7 +1,9 @@
 import argparse
+import dateparser
 import datetime
 import json
 import logging
+import re
 import sys
 import time
 from urllib.parse import urlparse
@@ -188,9 +190,23 @@ def scrape_members_interests(id, url):
 
                 if a or b:
                     if kind == 'gifts':
+                        date_str = b
+                        # Try to make an actual datetime from the date string.
+                        if re.search(r'20\d\d', date_str):
+                            # If there's no year, dateparser will use the current
+                            # year, which isn't necessarily right, so skip those.
+                            d = dateparser.parse(date_str,
+                                                settings={'DATE_ORDER': 'DMY'})
+                            if d:
+                                # Don't need a datetime, just a date.
+                                d = d.strftime('%Y-%m-%d')
+                        else:
+                            d = None
+
                         gifts.append({
                             'gift': a,
-                            'date': b,
+                            'date_str': date_str,
+                            'date': d,
                         })
                     else:
                         items.append({
