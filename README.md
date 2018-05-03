@@ -6,15 +6,14 @@ There are currently two scripts here:
 
 * `convert_json_to_sqlite.py` uses those JSON files to create an SQLite database of the data.
 
-[colc]: http://democracy.cityoflondon.gov.uk/mgMemberIndex.aspx?VW=TABLE&PIC=1&FN=
 
 Install requirements with:
 
     pip install -f requirements.txt
 
-This is currently focused on the Register of Interests data, and only fetches a small amount of general data about Members. It could fetch more, such as contact details, committee appointments, etc.
+This currently gets basic data about each member (e.g. name, ward, party), their data from the Register of Interests, and their committee memberships. It could fetch more, such as contact details, voting record, etc.
 
-While every effort has been taken to ensure accuracy, I haven't checked every single piece of saved data.
+While every effort has been taken to ensure accuracy, I haven't checked every single piece of saved data, so use at your own risk.
 
 
 ## Fetching the JSON data
@@ -33,9 +32,9 @@ You can also fetch an individual Member's data if you know their numeric ID (use
 
 ## The JSON files
 
-There is a single file containing basic data about every Member. And then a file for each Member containing information from their Register of Interests.
+There are three files listing members, wards and committees, and then a single file for each member.
 
-### Members file
+### Members list file
 
 The file `data/members.json` is of this format:
 
@@ -45,73 +44,141 @@ The file `data/members.json` is of this format:
       },
       "members": [
         {
-          "id": 131,
-          "name": "George Christopher Abrahams",
-          "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=131",
-          "role": "Common Councillor",
-          "party": "",
-          "ward": "Farringdon Without"
+          "id": 292,
+          "name": "Edward Lord, OBE, JP",
         },
         etc...
       ]
     }
 
-The `time_created` is the time this data was fetched and the file created.
+The `time_created` is the time this file was created.
 
-The numeric IDs are the IDs used in URLs for each Member.
+The numeric IDs are the IDs used in URLs for each member ([such as this][member]), and for the names of the member's individual JSON file within `data/members/` (see below).
 
-### Interests files
+### Wards list file
 
-There is a file within `data/members/` for each Member, named using their ID. e.g. `data/members/292.json`. This contains data from their Register of Interests page. [Here's an example.](interests)
+The file `data/wards.json` is of this format:
 
-The data is of this format:
+    {
+      "meta": {
+        "time_created": "2018-05-02T17:30:32.046751+00:00"
+      },
+      "wards": [
+        {
+          "name": "Aldersgate"
+        },
+        etc...
+      ]
+    }
+
+The `time_created` is the time this file was created.
+
+There is no more information about each ward, other than the name. This file lists all the wards we have members representing.
+
+### Committees list file
+
+The file `data/committees.json` is of this format:
+
+    {
+      "meta": {
+        "time_created": "2018-05-02T17:30:32.046751+00:00"
+      },
+      "committees": [
+        {
+          "id": 122,
+          "name": "Epping Forest & Commons Committee"
+        },
+        etc...
+      ]
+    }
+
+The `time_created` is the time this file was created.
+
+The numeric IDs are the IDs used in URLs for each committee ([such as this][committee]), and are used when listing a member's committee memberships in the individual member files (see below).
+
+### Members detail files
+
+There is a file within `data/members/` for each member, named using their ID. e.g. `data/members/292.json`. This contains all the data we have about that member, including info from their page ([like this one][member]) and from their Register of Interests page ([like this][interests]).
+
+The data is of this format (this is a truncated version of one of the files):
 
     {
       "meta": {
         "time_created": "2018-05-02T17:27:38.786055+00:00"
       },
       "member": {
-        "id": 151
+        "id": 292,
+        "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=292",
+        "name": "Edward Lord, OBE, JP",
+        "role": "Deputy",
+        "ward": "Farringdon Without",
+        "party": ""
       },
+      "committees": [
+        {
+          "id": 1255,
+          "name": "Capital Buildings Committee",
+          "role": "Deputy Chairman"
+        }
+      ],
       "interests": [
         {
           "name": "Employment, office, trade, profession or vocation",
           "items": [
             {
-              "member": "Non-executive Director, Accumuli PLC",
-              "partner": "Director, Hampden and Co"
-            },
+              "member": "Managing Director: Stakeholder engagement, governancr, philantropy and diversity at Edward Lord Limited",
+              "partner": "Senior Lecturer, The Open University"
+            }
           ]
-        },
+        }
       ],
       "gifts": [
         {
-          "name": "Gresham College Stakeholder Presentation & Dinner (Worshipful Company of Mercers)",
-          "date_str": "22 February 2018",
-          "date": "2018-02-22"
+          "name": "Champagne reception and Dinner - Honourable Societies of the Inner Temple and Middle Temple",
+          "date_str": "14 May 2015",
+          "date": "2015-05-14"
         }
       ]
     }
 
 The `time_created` is the time this data was fetched and the file created.
 
-There are two arrays, `interests` and `gifts`.
+There are four arrays: `member`, `committees`, `interests` and `gifts`.
+
+#### Member
+
+Basic information about the member.
+
+`role` is probably one of "Alderman", "Common Councillor", "Deputy" or "" (empty string).
+
+`ward` is the name of an electoral ward. These are also listed in the `wards.json` file (see above).
+
+`party` is usually (currently) an empty string apart from a couple of "Independent"s.
+
+#### Committees
+
+An array of objects listing all the committee memberships this member has. Each one has:
+
+`id` as used on the website, used in the URL for the committee ([like this one][committee]).
+
+`name` is the name of the commmittee.
+
+`role` is the member's role of the committee, currently one of "Chairman", "Deputy Chairman" "Ex-Officio Member" or "" (empty string).
 
 #### Interests
 
-Each object within `interests` is a category of declared interests. It has a name, such as "Employment, office, trade, profession or vocation".
+An array of objects, each one a category of declared interests. The category has a `name`, such as "Employment, office, trade, profession or vocation".
 
-Each of these categories has an array of zero or more `item`s, each equivalent to a row in a table on [the web page][interests].
+Each category contains an array of zero or more `item`s, each equivalent to a row in a table on [the web page][interests].
 
 A single `item` object has `member` and `partner` elements, each equivalent to one cell on that web page. We use `partner` as an abbreviation for the full column heading used: "Spouse/Civil Partner/Living as such".
 
-If the value for either of these was "Nil", "n/a", "None", "-", etc, we use an empty string.
+If the value for either of these on the web page was "Nil", "n/a", "None", "-", etc, we use a "" (empty string).
 
 #### Gifts
 
-The gifts come from the "Gifts of Hospitality" table. Each object in the `gifts` array has a `name`, and two dates. `date_str` is the original text from web page. `date` is an attempt to create a `YYYY-MM-DD` date from this string using [dateparser](https://github.com/scrapinghub/dateparser). It's usually accurate but fails on some strings such as "2-3 February 2017", and if no year was supplied. In either case `date` will be `null`.
+The gifts come from the "Gifts of Hospitality" table. Each object in the `gifts` array has a `name`, and two dates. `date_str` is the original text from web page. `date` is an attempt to create a `YYYY-MM-DD` date from this string using [dateparser][dateparser]. It's usually accurate but fails on some strings such as "2-3 February 2017", and if no year was supplied. In either case `date` will be `null`.
 
-[interests]: http://democracy.cityoflondon.gov.uk/mgDeclarationSubmission.aspx?UID=292&HID=2996&FID=0&HPID=505557255
 
 ## Creating the SQLite database
 
@@ -120,3 +187,14 @@ Assuming all the JSON files are present, you can create an SQLite database by ru
     python convert_json_to_sqlite.py register.db
 
 You should be able to run it multiple times without things breaking...
+
+
+[colc]: http://democracy.cityoflondon.gov.uk/mgMemberIndex.aspx?VW=TABLE&PIC=1&FN=
+
+[member]: http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=292
+
+[committee]: http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=122
+
+[interests]: http://democracy.cityoflondon.gov.uk/mgDeclarationSubmission.aspx?UID=292&HID=3012&FID=0&HPID=505566937
+
+[dateparser]: https://github.com/scrapinghub/dateparser
