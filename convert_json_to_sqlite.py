@@ -9,6 +9,10 @@ import sqlite3
 
 DATA_DIRECTORY = 'data'
 
+
+wards_by_name = {}
+
+
 def init_db(filename):
     if os.path.exists(filename):
         return
@@ -21,8 +25,13 @@ def init_db(filename):
         name VARCHAR(255) NOT NULL,
         role VARCHAR(50),
         party VARCHAR(50),
-        ward VARCHAR(50),
+        ward_id VARCHAR(8) REFERENCES wards(id),
         url VARCHAR(255),
+        PRIMARY KEY (id)
+    );
+    CREATE TABLE wards(
+        id VARCHAR(8) NOT NULL,
+        name VARCHAR(50),
         PRIMARY KEY (id)
     );
     CREATE TABLE interest_categories (
@@ -46,6 +55,7 @@ def init_db(filename):
     CREATE INDEX gifts_member_id ON gifts("member_id");
     CREATE INDEX interests_category_id ON interests("category_id");
     CREATE INDEX interests_member_id ON interests("member_id");
+    CREATE INDEX members_ward_id ON members("ward_id");
     """
     )
     conn.close()
@@ -74,6 +84,34 @@ def delete(cursor, table, key, val):
     cursor.execute(sql, (val,))
 
 
+def load_wards(filepath, cursor):
+    """
+    Inserts/updates all the wards data, creating unique IDs, and adds them
+    to the wards_by_name dict for future use.
+    """
+    with open(filepath, 'r') as f:
+        data = json.load(f)
+
+    for ward in data['wards']:
+        ward_name = ward['name']
+
+        id = hashlib.sha1(
+            ward_name.encode("utf8")
+        ).hexdigest()[
+            :8
+        ]
+        insert_or_replace(
+            cursor,
+            'wards',
+            {
+                'id':   id,
+                'name': ward_name,
+            }
+        )
+
+        wards_by_name[ward_name] = id
+
+
 def load_member(filepath, cursor):
     """
     Load all data for an indvidual member.
@@ -97,6 +135,8 @@ def load_member_info(data, cursor):
 
     info = data['member']
 
+    ward_id = wards_by_name[ info['ward'] ]
+
     insert_or_replace(
         cursor,
         'members',
@@ -105,8 +145,8 @@ def load_member_info(data, cursor):
             'name':     info['name'],
             'role':     info['role'],
             'party':    info['party'],
-            'ward':     info['ward'],
             'url':      info['url'],
+            'ward_id':  ward_id,
         }
     )
 
@@ -197,6 +237,10 @@ if __name__ == "__main__":
     init_db(dbfile)
     conn = sqlite3.connect(dbfile)
     c = conn.cursor()
+
+    wards_filepath = os.path.join(DATA_DIRECTORY, 'wards.json')
+
+    load_wards(wards_filepath, c)
 
     members_dir = os.path.join(DATA_DIRECTORY, 'members')
 
