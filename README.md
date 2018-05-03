@@ -31,7 +31,7 @@ You can also fetch an individual Member's data if you know their numeric ID (use
     python ./scrape_members.py --id=292
 
 
-## Creating a SQLite database
+## Creating an SQLite database
 
 Assuming all the JSON files are present, you can create an SQLite database by running this command, passing in the name of the database file to create:
 
