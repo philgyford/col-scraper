@@ -93,8 +93,6 @@ def scrape_member(id):
             'ward':     '',
             'party':    '',
         },
-        'interests':    {},
-        'gifts':        {},
     }
 
     logger.debug("Requesting URL {}".format(url))
@@ -117,7 +115,6 @@ def scrape_member(id):
 
     member_data['member']['name'] = name
     member_data['member']['role'] = role
-
 
     # Find Ward and Party
 
@@ -142,7 +139,82 @@ def scrape_member(id):
                 member_data['member']['party'] = party
 
 
-    # Get Register of interests.
+    # Get committees.
+    member_data['committees'] = extract_member_committees(r)
+
+    # Get interests and gifts.
+    interests_data = extract_member_interests(r, id)
+    member_data['interests'] = interests_data['interests']
+    member_data['gifts'] = interests_data['gifts']
+
+    # Done. Write all the data.
+
+    filename = os.path.join(DATA_DIRECTORY, 'members', '{}.json'.format(id))
+
+    with open(filename, 'w') as f:
+        json.dump(member_data, f, indent=2, ensure_ascii=False)
+
+
+def extract_member_committees(r):
+    """
+    Get a member's committees from `r`, the requested page.
+
+    Returns a list.
+    """
+
+    committees = []
+
+    # Committees are listed in a ul.mgBulletList which isn't unique.
+    # So we go through all of those and look at the first item in each list.
+    # If that item has a link to a committee page, we know this is the
+    # correct list.
+
+    for ul in r.html.find('.mgBulletList'):
+        try:
+            items = ul.find('li')
+            first_href = items[0].find('a', first=True).attrs['href']
+            if first_href.startswith('mgCommitteeDetails'):
+                # This is the Committee list.
+
+                for item in items:
+                    committee_name = item.text
+                    committee_role = ''
+
+                    # The name might end in one of these, which we need to
+                    # remove and use as the member's role for that committee:
+                    roles = ['Chairman', 'Deputy Chairman', 'Ex-Officio Member']
+
+                    for role in roles:
+                        if committee_name.endswith(' ({})'.format(role)):
+                            trim = -(len(role) + 3)
+                            committee_name = committee_name[:trim]
+                            committee_role = role
+                            break
+
+                    # The URL is like 'mgCommitteeDetails.aspx?ID=220':
+                    committee_url = item.find('a', first=True).attrs['href']
+                    committee_id = int(committee_url.split('=')[-1])
+
+                    committees.append({
+                        'id': committee_id,
+                        'name': committee_name,
+                        'role': committee_role,
+                    })
+        except:
+            logger.debug("No Committees found.")
+
+    return committees
+
+
+def extract_member_interests(r, member_id):
+    """
+    Get a member's interests and gifts from `r`, the requested page.
+    """
+
+    return_data = {
+        'interests':    {},
+        'gifts':        [],
+    }
 
     links = r.html.find('.mgUserBody .mgBulletList li')
 
@@ -153,18 +225,12 @@ def scrape_member(id):
 
             interests_url = make_absolute( interests_url )
 
-            interests_data = scrape_members_interests(id, interests_url)
+            interests_data = scrape_members_interests(member_id, interests_url)
 
-            member_data['interests'] = interests_data['interests']
-            member_data['gifts'] = interests_data['gifts']
+            return_data['interests'] = interests_data['interests']
+            return_data['gifts'] = interests_data['gifts']
 
-
-    # Done. Write all the data.
-
-    filename = os.path.join(DATA_DIRECTORY, 'members', '{}.json'.format(id))
-
-    with open(filename, 'w') as f:
-        json.dump(member_data, f, indent=2, ensure_ascii=False)
+    return return_data
 
 
 def scrape_members_interests(id, url):
@@ -271,11 +337,14 @@ def create_list_files():
 
         * members.json, listing all the members we have JSON files for.
         * wards.json, listing the wards we have members for.
+        * committees.json, listing all the committees members are on.
     """
 
     ward_names = []
 
     members = []
+
+    committees = []
 
     dir_path = os.path.join(DATA_DIRECTORY, 'members')
 
@@ -295,24 +364,49 @@ def create_list_files():
             if ward != '' and ward not in ward_names:
                 ward_names.append(ward)
 
+            for committee in member['committees']:
+                committees.append({
+                    'id': committee['id'],
+                    'name': committee['name'],
+                })
 
     members_data = {
         'members': members,
     }
-    members_file = os.path.join(DATA_DIRECTORY, 'members.json')
 
-    with open(members_file, 'w') as f:
-        json.dump(members_data, f, indent=2, ensure_ascii=False)
-
+    write_json_file('members.json', members_data)
 
     wards_data = {
+        # Turn list of names into list of dicts:
         'wards': [{'name': w} for w in sorted(ward_names)],
     }
 
-    wards_file = os.path.join(DATA_DIRECTORY, 'wards.json')
+    write_json_file('wards.json', wards_data)
 
-    with open(wards_file, 'w') as f:
-        json.dump(wards_data, f, indent=2, ensure_ascii=False)
+    committees_data = {
+        # Make the committees dict unique:
+        'committees': [dict(y) for y in set(tuple(x.items()) for x in committees)]
+    }
+
+    write_json_file('committees.json', committees_data)
+
+
+
+def write_json_file(filename, data):
+    """
+    Writes `data` to `filename` within the DATA_DIRECTORY.
+    Adds a ['meta']['time_created'] value to `data`.
+    """
+
+    if 'meta' not in data:
+        data['meta'] = {}
+
+    data['meta']['time_created'] = json_time_now()
+
+    filepath = os.path.join(DATA_DIRECTORY, filename)
+
+    with open(filepath, 'w') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
 
 def make_absolute(url):
@@ -350,8 +444,6 @@ if __name__ == "__main__":
                 help="Verbose output",
                 required=False)
 
-    create_list_files()
-    exit()
     args = parser.parse_args()
 
     if args.verbose:
