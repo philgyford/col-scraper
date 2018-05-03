@@ -1,0 +1,79 @@
+{
+  "wards": [
+    {
+      "name": "Aldersgate"
+    },
+    {
+      "name": "Aldgate"
+    },
+    {
+      "name": "Bassishaw"
+    },
+    {
+      "name": "Billingsgate"
+    },
+    {
+      "name": "Bishopsgate"
+    },
+    {
+      "name": "Bread Street"
+    },
+    {
+      "name": "Bridge and Bridge Without"
+    },
+    {
+      "name": "Broad Street"
+    },
+    {
+      "name": "Candlewick"
+    },
+    {
+      "name": "Castle Baynard"
+    },
+    {
+      "name": "Cheap"
+    },
+    {
+      "name": "Coleman Street"
+    },
+    {
+      "name": "Cordwainer"
+    },
+    {
+      "name": "Cornhill"
+    },
+    {
+      "name": "Cripplegate"
+    },
+    {
+      "name": "Dowgate"
+    },
+    {
+      "name": "Farringdon Within"
+    },
+    {
+      "name": "Farringdon Without"
+    },
+    {
+      "name": "Langbourn"
+    },
+    {
+      "name": "Lime Street"
+    },
+    {
+      "name": "Portsoken"
+    },
+    {
+      "name": "Queenhithe"
+    },
+    {
+      "name": "Tower"
+    },
+    {
+      "name": "Vintry"
+    },
+    {
+      "name": "Walbrook"
+    }
+  ]
+}

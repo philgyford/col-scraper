@@ -35,8 +35,6 @@ logger = logging.getLogger(__name__)
 
 session = HTMLSession()
 
-all_wards = []
-
 
 def scrape_all():
     """
@@ -66,7 +64,7 @@ def scrape_all():
 
     logger.info("Saved data for {} members".format(len(rows)))
 
-    create_members_file()
+    create_list_files()
 
 
 def scrape_member(id):
@@ -136,8 +134,6 @@ def scrape_member(id):
             if matches:
                 ward = matches.group(1).strip()
                 member_data['member']['ward'] = ward
-                if ward not in all_wards:
-                    all_wards.append(ward)
 
         elif label.startswith('Party:'):
             matches = re.search('Party:(.*?)$', p.text)
@@ -269,15 +265,17 @@ def scrape_members_interests(id, url):
     }
 
 
-def create_members_file():
+def create_list_files():
     """
-    Go through all the JSON member files and create a master list.
-    Then save that as a single JSON file.
+    Go through all the JSON member files and create two extra files:
+
+        * members.json, listing all the members we have JSON files for.
+        * wards.json, listing the wards we have members for.
     """
 
-    members_data = {
-        'members': [],
-    }
+    ward_names = []
+
+    members = []
 
     dir_path = os.path.join(DATA_DIRECTORY, 'members')
 
@@ -287,15 +285,34 @@ def create_members_file():
         with open(filepath, 'r') as f:
             member = json.load(f)
 
-            members_data['members'].append({
+            members.append({
                 'id': member['member']['id'],
                 'name': member['member']['name'],
             })
 
-    filename = os.path.join(DATA_DIRECTORY, 'members.json')
+            ward = member['member']['ward']
 
-    with open(filename, 'w') as f:
+            if ward != '' and ward not in ward_names:
+                ward_names.append(ward)
+
+
+    members_data = {
+        'members': members,
+    }
+    members_file = os.path.join(DATA_DIRECTORY, 'members.json')
+
+    with open(members_file, 'w') as f:
         json.dump(members_data, f, indent=2, ensure_ascii=False)
+
+
+    wards_data = {
+        'wards': [{'name': w} for w in sorted(ward_names)],
+    }
+
+    wards_file = os.path.join(DATA_DIRECTORY, 'wards.json')
+
+    with open(wards_file, 'w') as f:
+        json.dump(wards_data, f, indent=2, ensure_ascii=False)
 
 
 def make_absolute(url):
@@ -333,6 +350,8 @@ if __name__ == "__main__":
                 help="Verbose output",
                 required=False)
 
+    create_list_files()
+    exit()
     args = parser.parse_args()
 
     if args.verbose:
