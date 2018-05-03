@@ -3,6 +3,7 @@ import dateparser
 import datetime
 import json
 import logging
+import os
 import re
 import sys
 import time
@@ -34,7 +35,7 @@ logger = logging.getLogger(__name__)
 
 session = HTMLSession()
 
-members = []
+all_wards = []
 
 
 def scrape_all():
@@ -53,95 +54,137 @@ def scrape_all():
     for row in rows:
         (photo_cell, member_cell, party_cell, ward_cell) = row.find('td')
 
-        # Get name and URL
-
         member_link =  member_cell.find('p', first=True).find('a', first=True)
 
-        url = make_absolute( member_link.attrs['href'] )
+        member_url = member_link.attrs['href']
 
-        name = member_link.text
-
-        role = 'Common Councillor'
-
-        if name.endswith(' (Alderman)'):
-            name = name[:11]
-            role = 'Alderman'
-        elif name.endswith(', Deputy'):
-            name = name[:8]
-
-        # Get ID from URL
-
-        id = int(url.split('=')[-1])
-
-        # Get party and ward
-
-        party = party_cell.text
-
-        ward = ward_cell.text
-
-        members.append({
-            'id': id,
-            'name': name,
-            'url': url,
-            'role': role,
-            'party': party,
-            'ward': ward,
-        })
+        member_id = int(member_url.split('=')[-1])
 
         time.sleep(1)
 
-        scrape_member(id)
+        scrape_member(member_id)
 
-    filename = '{}/members.json'.format(DATA_DIRECTORY)
+    logger.info("Saved data for {} members".format(len(rows)))
 
-    data = {
-        'meta': {
-            'time_created': json_time_now(),
-        },
-        'members': members,
-    }
-
-    with open(filename, 'w') as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-
-    logger.info("Saved data for {} members".format(len(members)))
+    create_members_file()
 
 
 def scrape_member(id):
     """
-    Given the numeric ID of a member (e.g. 292), fetch their interests and
+    Given the numeric ID of a member (e.g. 292), fetch their data and
     write a JSON file.
 
-    To get the URL for the interests, we first have to get the page of basic
-    info about the Member and find the URL on that.
+    Gets their basic info from the member's main page, then fetches their
+    interests/gifts from their Register of Interests page.
     """
+
+    logger.debug("Getting data for Member ID {}".format(id))
 
     url = MEMBERS_INFO_URL.replace('{id}', str(id))
 
-    logger.debug("Getting data for Member ID {}".format(id))
+    # What we'll end up saving to a file.
+    member_data = {
+        'meta': {
+            'time_created': json_time_now(),
+        },
+        'member': {
+            'id':       int(id),
+            'url':      url,
+            'name':     '',
+            'role':     '',
+            'ward':     '',
+            'party':    '',
+        },
+        'interests':    {},
+        'gifts':        {},
+    }
+
     logger.debug("Requesting URL {}".format(url))
 
     r = session.get(url)
 
+
+    # Find Member's Name and Role.
+
+    name = r.html.find('.header-page-content h1', first=True).text
+
+    if name.endswith(' (Alderman)'):
+        name = name[:-11]
+        role = 'Alderman'
+    elif name.endswith(', Deputy'):
+        role = 'Deputy'
+        name = name[:-8]
+    else:
+        role = ''
+
+    member_data['member']['name'] = name
+    member_data['member']['role'] = role
+
+
+    # Find Ward and Party
+
+    sidebar_ps = r.html.find('.mgUserSideBar p')
+
+    for p in sidebar_ps:
+        # A p is like:
+        # <p><span class="mgLabel">[label]:&nbsp;</span>[value]</p>
+
+        label = p.find('.mgLabel', first=True).text
+
+        if label.startswith('Ward:'):
+            matches = re.search('Ward:(.*?)$', p.text)
+            if matches:
+                ward = matches.group(1).strip()
+                member_data['member']['ward'] = ward
+                if ward not in all_wards:
+                    all_wards.append(ward)
+
+        elif label.startswith('Party:'):
+            matches = re.search('Party:(.*?)$', p.text)
+            if matches:
+                party = matches.group(1).strip()
+                member_data['member']['party'] = party
+
+
+    # Get Register of interests.
+
     links = r.html.find('.mgUserBody .mgBulletList li')
 
-    # Find the URL for the interests, and use that.
+    # Out of the links, find the URL for the interests, and use that.
     for li in links:
         if li.text == 'Register of interests':
             interests_url = li.find('a', first=True).attrs['href']
 
             interests_url = make_absolute( interests_url )
 
-            scrape_members_interests(id, interests_url)
+            interests_data = scrape_members_interests(id, interests_url)
+
+            member_data['interests'] = interests_data['interests']
+            member_data['gifts'] = interests_data['gifts']
+
+
+    # Done. Write all the data.
+
+    filename = os.path.join(DATA_DIRECTORY, 'members', '{}.json'.format(id))
+
+    with open(filename, 'w') as f:
+        json.dump(member_data, f, indent=2, ensure_ascii=False)
 
 
 def scrape_members_interests(id, url):
     """
-    Fetch the page about a Member's interests and write to a JSON file.
+    Fetch the page about a Member's interests and gifts and return the data.
 
     id is the numeric ID of the member (e.g. 292).
     url is the URL of the page containing the Member's interests.
         e.g. 'http://democracy.cityoflondon.gov.uk/mgRofI.aspx?UID=292&FID=-1&HPID=505555082'
+
+    Returned dict is like:
+
+        {
+            'interests': [ ... ],
+            'gifts': [ ... ],
+        }
     """
 
     logger.debug("Requesting URL {}".format(url))
@@ -220,21 +263,39 @@ def scrape_members_interests(id, url):
                 'items': items,
             })
 
-    filename = '{}/members/{}.json'.format(DATA_DIRECTORY, id)
-
-    data = {
-        'meta': {
-            'time_created': json_time_now(),
-        },
-        'member': {
-            'id': id,
-        },
+    return {
         'interests': interests,
         'gifts': gifts,
     }
 
+
+def create_members_file():
+    """
+    Go through all the JSON member files and create a master list.
+    Then save that as a single JSON file.
+    """
+
+    members_data = {
+        'members': [],
+    }
+
+    dir_path = os.path.join(DATA_DIRECTORY, 'members')
+
+    for filename in os.listdir(dir_path):
+        filepath = os.path.join(dir_path, filename)
+
+        with open(filepath, 'r') as f:
+            member = json.load(f)
+
+            members_data['members'].append({
+                'id': member['member']['id'],
+                'name': member['member']['name'],
+            })
+
+    filename = os.path.join(DATA_DIRECTORY, 'members.json')
+
     with open(filename, 'w') as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+        json.dump(members_data, f, indent=2, ensure_ascii=False)
 
 
 def make_absolute(url):
@@ -267,14 +328,14 @@ if __name__ == "__main__":
                 required=False)
 
     parser.add_argument(
-                '-v', '--verbosity',
+                '-v', '--verbose',
                 action='count',
                 help="Verbose output",
                 required=False)
 
     args = parser.parse_args()
 
-    if args.verbosity:
+    if args.verbose:
         logger.setLevel(logging.DEBUG)
 
     if args.id:
