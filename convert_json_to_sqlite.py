@@ -74,47 +74,46 @@ def delete(cursor, table, key, val):
     cursor.execute(sql, (val,))
 
 
-def load_members(filepath, cursor):
+def load_member(filepath, cursor):
     """
-    Load all the general data about Members from the file, and insert/replace
-    into the members table.
+    Load all data for an indvidual member.
     """
     with open(filepath, 'r') as f:
         data = json.load(f)
 
-    for member in data['members']:
-        insert_or_replace(
-            cursor,
-            'members',
-            {
-                'id':       member['id'],
-                'name':     member['name'],
-                'role':     member['role'],
-                'party':    member['party'],
-                'ward':     member['ward'],
-                'url':      member['url'],
-
-            }
-        )
-
-def load_interests_and_gifts(filepath, cursor):
-    """
-    For a single member, load the interests file and load the data for both
-    interests and gifts into the database.
-    """
-
-    with open(filepath, 'r') as f:
-        data = json.load(f)
+    load_member_info(data, cursor)
 
     load_interests(data, cursor)
 
     load_gifts(data, cursor)
 
 
+def load_member_info(data, cursor):
+    """
+    Given the data from a member file, load the general member info from it.
+    """
+    with open(filepath, 'r') as f:
+        data = json.load(f)
+
+    info = data['member']
+
+    insert_or_replace(
+        cursor,
+        'members',
+        {
+            'id':       info['id'],
+            'name':     info['name'],
+            'role':     info['role'],
+            'party':    info['party'],
+            'ward':     info['ward'],
+            'url':      info['url'],
+        }
+    )
+
+
 def load_interests(data, cursor):
     """
-    Given the data from an interests file, load only the interests part of it.
-    (No gifts.)
+    Given the data from a member file, load the interests.
     """
     # First, need to get all the categories, and insert/replace those.
 
@@ -170,8 +169,7 @@ def load_interests(data, cursor):
 
 def load_gifts(data, cursor):
     """
-    Given the data from an interests file, load only the gifts part of it.
-    (No interests.)
+    Given the data from a member file, load the gifts.
     """
     member_id = data['member']['id']
 
@@ -200,16 +198,11 @@ if __name__ == "__main__":
     conn = sqlite3.connect(dbfile)
     c = conn.cursor()
 
-    members_path = '{}/members.json'.format(DATA_DIRECTORY)
+    members_dir = os.path.join(DATA_DIRECTORY, 'members')
 
-    load_members(members_path, c)
-
-
-    interests_path = '{}/members'.format(DATA_DIRECTORY)
-
-    for filename in os.listdir(interests_path):
-        filepath = '{}/{}'.format(interests_path, filename)
-        load_interests_and_gifts(filepath, c)
+    for filename in os.listdir(members_dir):
+        filepath = os.path.join(members_dir, filename)
+        load_member(filepath, c)
 
     conn.commit()
     c.close()
