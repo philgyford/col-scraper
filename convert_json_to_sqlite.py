@@ -34,6 +34,16 @@ def init_db(filename):
         name VARCHAR(50),
         PRIMARY KEY (id)
     );
+    CREATE TABLE committees(
+        id INTEGER NOT NULL,
+        name VARCHAR(50),
+        PRIMARY KEY (id)
+    );
+    CREATE TABLE committee_membership(
+        committee_id INTEGER REFERENCES committees(id),
+        member_id INTEGER REFERENCES members(id),
+        role VARCHAR(50)
+    );
     CREATE TABLE interest_categories (
         id VARCHAR(8) NOT NULL,
         name VARCHAR(255),
@@ -56,6 +66,8 @@ def init_db(filename):
     CREATE INDEX interests_category_id ON interests("category_id");
     CREATE INDEX interests_member_id ON interests("member_id");
     CREATE INDEX members_ward_id ON members("ward_id");
+    CREATE INDEX committee_membership_committee_id ON committee_membership("committee_id");
+    CREATE INDEX committee_membership_member_id ON committee_membership("member_id");
     """
     )
     conn.close()
@@ -112,6 +124,24 @@ def load_wards(filepath, cursor):
         wards_by_name[ward_name] = id
 
 
+def load_committees(filepath, cursor):
+    """
+    Inserts/updates all the committees data.
+    """
+    with open(filepath, 'r') as f:
+        data = json.load(f)
+
+    for committee in data['committees']:
+        insert_or_replace(
+            cursor,
+            'committees',
+            {
+                'id':   committee['id'],
+                'name': committee['name'],
+            }
+        )
+
+
 def load_member(filepath, cursor):
     """
     Load all data for an indvidual member.
@@ -121,17 +151,17 @@ def load_member(filepath, cursor):
 
     load_member_info(data, cursor)
 
-    load_interests(data, cursor)
+    load_member_committees(data, cursor)
 
-    load_gifts(data, cursor)
+    load_member_interests(data, cursor)
+
+    load_member_gifts(data, cursor)
 
 
 def load_member_info(data, cursor):
     """
     Given the data from a member file, load the general member info from it.
     """
-    with open(filepath, 'r') as f:
-        data = json.load(f)
 
     info = data['member']
 
@@ -151,7 +181,25 @@ def load_member_info(data, cursor):
     )
 
 
-def load_interests(data, cursor):
+def load_member_committees(data, cursor):
+    """
+    Given the data from a member file, load any committee data from it.
+    We should already have the committees table populated.
+    """
+
+    for committee in data['committees']:
+        insert_or_replace(
+            cursor,
+            'committee_membership',
+            {
+                'committee_id': committee['id'],
+                'member_id':    data['member']['id'],
+                'role':         committee['role'],
+            }
+        )
+
+
+def load_member_interests(data, cursor):
     """
     Given the data from a member file, load the interests.
     """
@@ -207,7 +255,7 @@ def load_interests(data, cursor):
                     )
 
 
-def load_gifts(data, cursor):
+def load_member_gifts(data, cursor):
     """
     Given the data from a member file, load the gifts.
     """
@@ -241,6 +289,10 @@ if __name__ == "__main__":
     wards_filepath = os.path.join(DATA_DIRECTORY, 'wards.json')
 
     load_wards(wards_filepath, c)
+
+    committees_filepath = os.path.join(DATA_DIRECTORY, 'committees.json')
+
+    load_committees(committees_filepath, c)
 
     members_dir = os.path.join(DATA_DIRECTORY, 'members')
 
