@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:15.288677+00:00"
+    "time_created": "2018-05-03T15:13:39.369038+00:00"
   },
   "member": {
     "id": 1954,
@@ -10,6 +10,53 @@
     "ward": "Cheap",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 236,
+      "name": "Board of Governors of the City of London School for Girls",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 174,
+      "name": "Member Development Steering Group",
+      "role": ""
+    },
+    {
+      "id": 171,
+      "name": "Performance and Resource Management Sub (Police) Committee",
+      "role": ""
+    },
+    {
+      "id": 142,
+      "name": "Police Committee",
+      "role": ""
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee",
+      "role": ""
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 398,
+      "name": "Professional Standards and Integrity Sub (Police) Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

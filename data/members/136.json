@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:07.040024+00:00"
+    "time_created": "2018-05-03T15:13:31.701020+00:00"
   },
   "member": {
     "id": 136,
@@ -10,6 +10,73 @@
     "ward": "Cordwainer",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1229,
+      "name": "Courts Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 253,
+      "name": "Establishment Committee",
+      "role": ""
+    },
+    {
+      "id": 145,
+      "name": "Finance Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 183,
+      "name": "Freedom Applications Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 1256,
+      "name": "Housing Delivery Programme Working Group",
+      "role": "Chairman"
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 168,
+      "name": "Projects Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 125,
+      "name": "Property Investment Board",
+      "role": ""
+    },
+    {
+      "id": 1072,
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 396,
+      "name": "Resource Allocation Sub (Policy and Resources) Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

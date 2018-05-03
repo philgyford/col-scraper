@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:27:06.829594+00:00"
+    "time_created": "2018-05-03T15:16:15.325121+00:00"
   },
   "member": {
     "id": 1231,
@@ -10,6 +10,73 @@
     "ward": "Farringdon Within",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 141,
+      "name": "Ashtead Common Consultation Group",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 1228,
+      "name": "Burnham Beeches Consultation Group",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 122,
+      "name": "Epping Forest & Commons Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 1253,
+      "name": "Epping Forest Consultative Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 1251,
+      "name": "Epping Forest Joint Consultative Committee",
+      "role": ""
+    },
+    {
+      "id": 250,
+      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 175,
+      "name": "Open Spaces and City Gardens",
+      "role": "Chairman"
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    },
+    {
+      "id": 1094,
+      "name": "Wanstead Flats Playing Fields Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 1208,
+      "name": "Wanstead Park Working Party",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 400,
+      "name": "West Ham Park Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 1077,
+      "name": "West Wickham, Spring Park and Coulsdon Commons Consultation Group",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

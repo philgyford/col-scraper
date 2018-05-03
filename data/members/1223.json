@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:25:28.586428+00:00"
+    "time_created": "2018-05-03T15:14:49.078810+00:00"
   },
   "member": {
     "id": 1223,
@@ -10,6 +10,148 @@
     "ward": "Billingsgate",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 1134,
+      "name": "Assessment Sub (Standards) Committee",
+      "role": ""
+    },
+    {
+      "id": 244,
+      "name": "Audit and Risk Management Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 227,
+      "name": "Benefices Sub (Culture, Heritage & Libraries) Committee",
+      "role": ""
+    },
+    {
+      "id": 1255,
+      "name": "Capital Buildings Committee",
+      "role": ""
+    },
+    {
+      "id": 216,
+      "name": "Corporate Asset Sub (Finance) Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 173,
+      "name": "Crime and Disorder Scrutiny Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 1106,
+      "name": "Dispensations Sub (Standards) Committee",
+      "role": ""
+    },
+    {
+      "id": 245,
+      "name": "Efficiency and Performance Sub (Finance) Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 253,
+      "name": "Establishment Committee",
+      "role": ""
+    },
+    {
+      "id": 145,
+      "name": "Finance Committee",
+      "role": ""
+    },
+    {
+      "id": 192,
+      "name": "Finance Grants Oversight and Performance Sub Committee",
+      "role": ""
+    },
+    {
+      "id": 248,
+      "name": "Financial Investment Board",
+      "role": ""
+    },
+    {
+      "id": 257,
+      "name": "Information Technology Sub (Finance) Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 176,
+      "name": "Investment Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 254,
+      "name": "Joint Consultative Committee",
+      "role": ""
+    },
+    {
+      "id": 123,
+      "name": "Licensing Committee",
+      "role": ""
+    },
+    {
+      "id": 1183,
+      "name": "Mayoralty and Shrievalty Allowances - Joint Deputation of Representatives of the Court of Aldermen, the Policy & Resources Committee and the Finance Committee",
+      "role": ""
+    },
+    {
+      "id": 174,
+      "name": "Member Development Steering Group",
+      "role": ""
+    },
+    {
+      "id": 407,
+      "name": "Members Privileges Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee",
+      "role": ""
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 168,
+      "name": "Projects Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 986,
+      "name": "Reference Sub (Licensing) Committee",
+      "role": ""
+    },
+    {
+      "id": 396,
+      "name": "Resource Allocation Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 408,
+      "name": "Standards Committee",
+      "role": ""
+    },
+    {
+      "id": 179,
+      "name": "The City Bridge Trust Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

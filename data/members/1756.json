@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:47.243863+00:00"
+    "time_created": "2018-05-03T15:14:08.937265+00:00"
   },
   "member": {
     "id": 1756,
@@ -10,6 +10,53 @@
     "ward": "Tower",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 261,
+      "name": "Hampstead Heath Consultative Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 250,
+      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 240,
+      "name": "Highgate Wood Consultative Group",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 175,
+      "name": "Open Spaces and City Gardens",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 1072,
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 239,
+      "name": "Queen's Park Consultative Group",
+      "role": "Deputy Chairman"
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:16.877063+00:00"
+    "time_created": "2018-05-03T15:13:41.037790+00:00"
   },
   "member": {
     "id": 141,
@@ -10,6 +10,33 @@
     "ward": "Coleman Street",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 387,
+      "name": "Board of Governors of the Guildhall School of Music and Drama",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1256,
+      "name": "Housing Delivery Programme Working Group",
+      "role": ""
+    },
+    {
+      "id": 176,
+      "name": "Investment Committee",
+      "role": ""
+    },
+    {
+      "id": 125,
+      "name": "Property Investment Board",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

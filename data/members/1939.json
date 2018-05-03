@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:25:02.462426+00:00"
+    "time_created": "2018-05-03T15:14:21.918210+00:00"
   },
   "member": {
     "id": 1939,
@@ -10,6 +10,33 @@
     "ward": "Portsoken",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 120,
+      "name": "Community & Children's Services Committee",
+      "role": ""
+    },
+    {
+      "id": 220,
+      "name": "Court of Aldermen",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 174,
+      "name": "Member Development Steering Group",
+      "role": ""
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

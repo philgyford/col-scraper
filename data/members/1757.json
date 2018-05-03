@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:24.570501+00:00"
+    "time_created": "2018-05-03T15:13:48.670337+00:00"
   },
   "member": {
     "id": 1757,
@@ -10,6 +10,28 @@
     "ward": "Lime Street",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 233,
+      "name": "Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
+      "id": 216,
+      "name": "Corporate Asset Sub (Finance) Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 145,
+      "name": "Finance Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

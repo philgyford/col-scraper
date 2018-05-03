@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:30.957653+00:00"
+    "time_created": "2018-05-03T15:13:55.316755+00:00"
   },
   "member": {
     "id": 1956,
@@ -10,6 +10,18 @@
     "ward": "Aldersgate",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 411,
+      "name": "Markets Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

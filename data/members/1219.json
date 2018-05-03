@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:02.698976+00:00"
+    "time_created": "2018-05-03T15:13:30.340157+00:00"
   },
   "member": {
     "id": 1219,
@@ -10,6 +10,68 @@
     "ward": "Castle Baynard",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 244,
+      "name": "Audit and Risk Management Committee",
+      "role": ""
+    },
+    {
+      "id": 153,
+      "name": "Barbican Residential Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1106,
+      "name": "Dispensations Sub (Standards) Committee",
+      "role": ""
+    },
+    {
+      "id": 245,
+      "name": "Efficiency and Performance Sub (Finance) Committee",
+      "role": ""
+    },
+    {
+      "id": 145,
+      "name": "Finance Committee",
+      "role": ""
+    },
+    {
+      "id": 185,
+      "name": "Health and Social Care Scrutiny Committee",
+      "role": ""
+    },
+    {
+      "id": 252,
+      "name": "Inner North East London Joint Health Overview and Scrutiny Committee",
+      "role": ""
+    },
+    {
+      "id": 176,
+      "name": "Investment Committee",
+      "role": ""
+    },
+    {
+      "id": 125,
+      "name": "Property Investment Board",
+      "role": ""
+    },
+    {
+      "id": 1064,
+      "name": "Social Investment Board",
+      "role": ""
+    },
+    {
+      "id": 408,
+      "name": "Standards Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

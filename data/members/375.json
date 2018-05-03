@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:26:09.375262+00:00"
+    "time_created": "2018-05-03T15:15:20.351633+00:00"
   },
   "member": {
     "id": 375,
@@ -10,6 +10,78 @@
     "ward": "Farringdon Without",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 140,
+      "name": "Barbican Centre Board",
+      "role": ""
+    },
+    {
+      "id": 206,
+      "name": "Committee of Aldermanic Almoners, Common Council Governors and Donation Governors of Christ's Hospital",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 183,
+      "name": "Freedom Applications Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 259,
+      "name": "Gresham (City Side) Committee",
+      "role": ""
+    },
+    {
+      "id": 185,
+      "name": "Health and Social Care Scrutiny Committee",
+      "role": ""
+    },
+    {
+      "id": 383,
+      "name": "Livery Committee",
+      "role": ""
+    },
+    {
+      "id": 411,
+      "name": "Markets Committee",
+      "role": ""
+    },
+    {
+      "id": 174,
+      "name": "Member Development Steering Group",
+      "role": "Chairman"
+    },
+    {
+      "id": 407,
+      "name": "Members Privileges Sub (Policy and Resources) Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 175,
+      "name": "Open Spaces and City Gardens",
+      "role": ""
+    },
+    {
+      "id": 179,
+      "name": "The City Bridge Trust Committee",
+      "role": ""
+    },
+    {
+      "id": 400,
+      "name": "West Ham Park Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

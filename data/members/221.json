@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:51.664712+00:00"
+    "time_created": "2018-05-03T15:14:14.140297+00:00"
   },
   "member": {
     "id": 221,
@@ -10,6 +10,53 @@
     "ward": "Coleman Street",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 213,
+      "name": "Academic and Personnel Sub Committee of the Board of Governors of the City of London Freemen's School",
+      "role": ""
+    },
+    {
+      "id": 230,
+      "name": "Board of Governors of the City of London Freemen's School",
+      "role": ""
+    },
+    {
+      "id": 387,
+      "name": "Board of Governors of the Guildhall School of Music and Drama",
+      "role": ""
+    },
+    {
+      "id": 231,
+      "name": "Bursary Committee of the Board of Governors of the City of London Freemen's School",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1147,
+      "name": "Education Board",
+      "role": ""
+    },
+    {
+      "id": 212,
+      "name": "Finance, General Purposes and Estates Sub-Committee of the Board of Governors of the City of London Freemen's School",
+      "role": ""
+    },
+    {
+      "id": 250,
+      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee",
+      "role": ""
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

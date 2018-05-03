@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:25:44.076330+00:00"
+    "time_created": "2018-05-03T15:15:02.138528+00:00"
   },
   "member": {
     "id": 1944,
@@ -10,6 +10,43 @@
     "ward": "Bridge and Bridge Without",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 233,
+      "name": "Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 145,
+      "name": "Finance Committee",
+      "role": ""
+    },
+    {
+      "id": 248,
+      "name": "Financial Investment Board",
+      "role": ""
+    },
+    {
+      "id": 257,
+      "name": "Information Technology Sub (Finance) Committee",
+      "role": ""
+    },
+    {
+      "id": 176,
+      "name": "Investment Committee",
+      "role": ""
+    },
+    {
+      "id": 411,
+      "name": "Markets Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:23:52.292220+00:00"
+    "time_created": "2018-05-03T15:13:19.441398+00:00"
   },
   "member": {
     "id": 1951,
@@ -10,6 +10,38 @@
     "ward": "Cordwainer",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 244,
+      "name": "Audit and Risk Management Committee",
+      "role": ""
+    },
+    {
+      "id": 233,
+      "name": "Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1233,
+      "name": "Finance & Estates Sub-Committee of the Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
+      "id": 1206,
+      "name": "Police Pensions Board",
+      "role": ""
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

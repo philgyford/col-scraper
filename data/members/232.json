@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:25:08.144257+00:00"
+    "time_created": "2018-05-03T15:14:28.983463+00:00"
   },
   "member": {
     "id": 232,
@@ -10,6 +10,48 @@
     "ward": "Cornhill",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 234,
+      "name": "Bursary Committee of the Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
+      "id": 120,
+      "name": "Community & Children's Services Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 253,
+      "name": "Establishment Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 254,
+      "name": "Joint Consultative Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 235,
+      "name": "Reference Sub Committee of the Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
+      "id": 396,
+      "name": "Resource Allocation Sub (Policy and Resources) Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

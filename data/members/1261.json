@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:12.487694+00:00"
+    "time_created": "2018-05-03T15:13:36.645971+00:00"
   },
   "member": {
     "id": 1261,
@@ -10,6 +10,38 @@
     "ward": "Lime Street",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 220,
+      "name": "Court of Aldermen",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 259,
+      "name": "Gresham (City Side) Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 850,
+      "name": "Lord Mayor's Show Ltd",
+      "role": ""
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 179,
+      "name": "The City Bridge Trust Committee",
+      "role": "Ex-Officio Member"
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

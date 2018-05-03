@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:23:47.282917+00:00"
+    "time_created": "2018-05-03T15:13:14.848275+00:00"
   },
   "member": {
     "id": 1227,
@@ -10,6 +10,138 @@
     "ward": "Aldersgate",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 244,
+      "name": "Audit and Risk Management Committee",
+      "role": ""
+    },
+    {
+      "id": 153,
+      "name": "Barbican Residential Committee",
+      "role": ""
+    },
+    {
+      "id": 236,
+      "name": "Board of Governors of the City of London School for Girls",
+      "role": ""
+    },
+    {
+      "id": 387,
+      "name": "Board of Governors of the Guildhall School of Music and Drama",
+      "role": ""
+    },
+    {
+      "id": 237,
+      "name": "Bursary Committee of the Board of Governors of the City of London School for Girls",
+      "role": ""
+    },
+    {
+      "id": 206,
+      "name": "Committee of Aldermanic Almoners, Common Council Governors and Donation Governors of Christ's Hospital",
+      "role": ""
+    },
+    {
+      "id": 120,
+      "name": "Community & Children's Services Committee",
+      "role": ""
+    },
+    {
+      "id": 216,
+      "name": "Corporate Asset Sub (Finance) Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1241,
+      "name": "Education Charity Sub (Education Board) Committee",
+      "role": ""
+    },
+    {
+      "id": 245,
+      "name": "Efficiency and Performance Sub (Finance) Committee",
+      "role": ""
+    },
+    {
+      "id": 253,
+      "name": "Establishment Committee",
+      "role": ""
+    },
+    {
+      "id": 145,
+      "name": "Finance Committee",
+      "role": ""
+    },
+    {
+      "id": 192,
+      "name": "Finance Grants Oversight and Performance Sub Committee",
+      "role": ""
+    },
+    {
+      "id": 994,
+      "name": "Health and Wellbeing Board",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 1256,
+      "name": "Housing Delivery Programme Working Group",
+      "role": ""
+    },
+    {
+      "id": 247,
+      "name": "Housing Management and Almshouses Sub (Community and Children's Services) Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 257,
+      "name": "Information Technology Sub (Finance) Committee",
+      "role": ""
+    },
+    {
+      "id": 1247,
+      "name": "Integrated Commissioning Board",
+      "role": ""
+    },
+    {
+      "id": 254,
+      "name": "Joint Consultative Committee",
+      "role": ""
+    },
+    {
+      "id": 392,
+      "name": "Local Plans Sub (Planning and Transportation) Committee",
+      "role": ""
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    },
+    {
+      "id": 196,
+      "name": "Reference Sub Committee of the Board of Governors of the City of London School for Girls",
+      "role": ""
+    },
+    {
+      "id": 1196,
+      "name": "Safeguarding Inter-Board Chairmen's Meeting",
+      "role": ""
+    },
+    {
+      "id": 1096,
+      "name": "Safeguarding Sub (Community & Children's Services) Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 389,
+      "name": "Streets and Walkways Sub (Planning and Transportation) Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

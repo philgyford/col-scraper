@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:56.553493+00:00"
+    "time_created": "2018-05-03T15:14:16.961451+00:00"
   },
   "member": {
     "id": 225,
@@ -10,6 +10,33 @@
     "ward": "Walbrook",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 244,
+      "name": "Audit and Risk Management Committee",
+      "role": ""
+    },
+    {
+      "id": 120,
+      "name": "Community & Children's Services Committee",
+      "role": ""
+    },
+    {
+      "id": 220,
+      "name": "Court of Aldermen",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

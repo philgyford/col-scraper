@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:23:55.253726+00:00"
+    "time_created": "2018-05-03T15:13:22.360985+00:00"
   },
   "member": {
     "id": 1952,
@@ -10,6 +10,23 @@
     "ward": "Aldersgate",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 411,
+      "name": "Markets Committee",
+      "role": ""
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

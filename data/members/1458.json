@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:41.133887+00:00"
+    "time_created": "2018-05-03T15:14:04.027481+00:00"
   },
   "member": {
     "id": 1458,
@@ -10,6 +10,43 @@
     "ward": "Castle Baynard",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 236,
+      "name": "Board of Governors of the City of London School for Girls",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 185,
+      "name": "Health and Social Care Scrutiny Committee",
+      "role": ""
+    },
+    {
+      "id": 123,
+      "name": "Licensing Committee",
+      "role": ""
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    },
+    {
+      "id": 142,
+      "name": "Police Committee",
+      "role": ""
+    },
+    {
+      "id": 389,
+      "name": "Streets and Walkways Sub (Planning and Transportation) Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

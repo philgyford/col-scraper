@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:38.227046+00:00"
+    "time_created": "2018-05-03T15:14:00.494705+00:00"
   },
   "member": {
     "id": 200,
@@ -10,6 +10,43 @@
     "ward": "Cornhill",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 123,
+      "name": "Licensing Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 986,
+      "name": "Reference Sub (Licensing) Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 1110,
+      "name": "Safer City Partnership Strategy Group",
+      "role": ""
+    },
+    {
+      "id": 179,
+      "name": "The City Bridge Trust Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

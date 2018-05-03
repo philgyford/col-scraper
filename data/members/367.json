@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:26:44.276181+00:00"
+    "time_created": "2018-05-03T15:15:57.119135+00:00"
   },
   "member": {
     "id": 367,
@@ -10,6 +10,63 @@
     "ward": "Farringdon Within",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 236,
+      "name": "Board of Governors of the City of London School for Girls",
+      "role": ""
+    },
+    {
+      "id": 237,
+      "name": "Bursary Committee of the Board of Governors of the City of London School for Girls",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 513,
+      "name": "Economic Crime Board of the Police Committee",
+      "role": ""
+    },
+    {
+      "id": 253,
+      "name": "Establishment Committee",
+      "role": ""
+    },
+    {
+      "id": 383,
+      "name": "Livery Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 407,
+      "name": "Members Privileges Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 398,
+      "name": "Professional Standards and Integrity Sub (Police) Committee",
+      "role": ""
+    },
+    {
+      "id": 196,
+      "name": "Reference Sub Committee of the Board of Governors of the City of London School for Girls",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

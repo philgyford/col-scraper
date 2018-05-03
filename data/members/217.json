@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:48.857763+00:00"
+    "time_created": "2018-05-03T15:14:10.482053+00:00"
   },
   "member": {
     "id": 217,
@@ -10,6 +10,43 @@
     "ward": "Coleman Street",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 253,
+      "name": "Establishment Committee",
+      "role": ""
+    },
+    {
+      "id": 145,
+      "name": "Finance Committee",
+      "role": ""
+    },
+    {
+      "id": 123,
+      "name": "Licensing Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 411,
+      "name": "Markets Committee",
+      "role": ""
+    },
+    {
+      "id": 986,
+      "name": "Reference Sub (Licensing) Committee",
+      "role": "Deputy Chairman"
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

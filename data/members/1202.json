@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:26:51.386332+00:00"
+    "time_created": "2018-05-03T15:16:01.463320+00:00"
   },
   "member": {
     "id": 1202,
@@ -10,6 +10,73 @@
     "ward": "Bread Street",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 236,
+      "name": "Board of Governors of the City of London School for Girls",
+      "role": ""
+    },
+    {
+      "id": 387,
+      "name": "Board of Governors of the Guildhall School of Music and Drama",
+      "role": ""
+    },
+    {
+      "id": 1197,
+      "name": "City of London School for Girls - 125th Anniversary Working Party",
+      "role": "Chairman"
+    },
+    {
+      "id": 220,
+      "name": "Court of Aldermen",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1147,
+      "name": "Education Board",
+      "role": ""
+    },
+    {
+      "id": 163,
+      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": ""
+    },
+    {
+      "id": 192,
+      "name": "Finance Grants Oversight and Performance Sub Committee",
+      "role": ""
+    },
+    {
+      "id": 383,
+      "name": "Livery Committee",
+      "role": ""
+    },
+    {
+      "id": 850,
+      "name": "Lord Mayor's Show Ltd",
+      "role": ""
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee",
+      "role": ""
+    },
+    {
+      "id": 410,
+      "name": "Reference Sub Committee of the Board of Governors of the Guildhall School of Music and Drama",
+      "role": ""
+    },
+    {
+      "id": 210,
+      "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

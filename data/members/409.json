@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:26:40.119534+00:00"
+    "time_created": "2018-05-03T15:15:52.547474+00:00"
   },
   "member": {
     "id": 409,
@@ -10,6 +10,23 @@
     "ward": "Castle Baynard",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 120,
+      "name": "Community & Children's Services Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

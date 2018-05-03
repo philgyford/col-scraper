@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:25:35.618677+00:00"
+    "time_created": "2018-05-03T15:14:54.910087+00:00"
   },
   "member": {
     "id": 2104,
@@ -10,6 +10,28 @@
     "ward": "Bishopsgate",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 123,
+      "name": "Licensing Committee",
+      "role": ""
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

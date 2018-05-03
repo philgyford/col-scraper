@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:13.871551+00:00"
+    "time_created": "2018-05-03T15:13:38.031097+00:00"
   },
   "member": {
     "id": 137,
@@ -10,6 +10,33 @@
     "ward": "Cripplegate",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 153,
+      "name": "Barbican Residential Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 250,
+      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee",
+      "role": ""
+    },
+    {
+      "id": 404,
+      "name": "Reference Sub (Barbican Residential) Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

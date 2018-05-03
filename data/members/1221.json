@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:26:28.316996+00:00"
+    "time_created": "2018-05-03T15:15:39.252758+00:00"
   },
   "member": {
     "id": 1221,
@@ -10,6 +10,83 @@
     "ward": "Castle Baynard",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 201,
+      "name": "Audit and Risk Management Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": ""
+    },
+    {
+      "id": 140,
+      "name": "Barbican Centre Board",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 153,
+      "name": "Barbican Residential Committee",
+      "role": ""
+    },
+    {
+      "id": 227,
+      "name": "Benefices Sub (Culture, Heritage & Libraries) Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 230,
+      "name": "Board of Governors of the City of London Freemen's School",
+      "role": ""
+    },
+    {
+      "id": 387,
+      "name": "Board of Governors of the Guildhall School of Music and Drama",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 413,
+      "name": "Keats House Consultative Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 123,
+      "name": "Licensing Committee",
+      "role": ""
+    },
+    {
+      "id": 219,
+      "name": "Nominations Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": ""
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 986,
+      "name": "Reference Sub (Licensing) Committee",
+      "role": ""
+    },
+    {
+      "id": 389,
+      "name": "Streets and Walkways Sub (Planning and Transportation) Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

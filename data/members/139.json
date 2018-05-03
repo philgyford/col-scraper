@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:23:58.025738+00:00"
+    "time_created": "2018-05-03T15:13:25.179793+00:00"
   },
   "member": {
     "id": 139,
@@ -10,6 +10,68 @@
     "ward": "Broad Street",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 140,
+      "name": "Barbican Centre Board",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 230,
+      "name": "Board of Governors of the City of London Freemen's School",
+      "role": ""
+    },
+    {
+      "id": 387,
+      "name": "Board of Governors of the Guildhall School of Music and Drama",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 163,
+      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": "Chairman"
+    },
+    {
+      "id": 218,
+      "name": "Governance and Effectiveness Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 259,
+      "name": "Gresham (City Side) Committee",
+      "role": ""
+    },
+    {
+      "id": 219,
+      "name": "Nominations Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": "Chairman"
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 410,
+      "name": "Reference Sub Committee of the Board of Governors of the Guildhall School of Music and Drama",
+      "role": "Chairman"
+    },
+    {
+      "id": 210,
+      "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": "Deputy Chairman"
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

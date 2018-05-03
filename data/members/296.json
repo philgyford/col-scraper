@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:25:51.793005+00:00"
+    "time_created": "2018-05-03T15:15:08.133128+00:00"
   },
   "member": {
     "id": 296,
@@ -10,6 +10,68 @@
     "ward": "Castle Baynard",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 244,
+      "name": "Audit and Risk Management Committee",
+      "role": ""
+    },
+    {
+      "id": 1255,
+      "name": "Capital Buildings Committee",
+      "role": ""
+    },
+    {
+      "id": 220,
+      "name": "Court of Aldermen",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 259,
+      "name": "Gresham (City Side) Committee",
+      "role": ""
+    },
+    {
+      "id": 334,
+      "name": "Gresham Working Party",
+      "role": ""
+    },
+    {
+      "id": 1187,
+      "name": "Local Government Pensions Board",
+      "role": "Chairman"
+    },
+    {
+      "id": 175,
+      "name": "Open Spaces and City Gardens",
+      "role": ""
+    },
+    {
+      "id": 142,
+      "name": "Police Committee",
+      "role": ""
+    },
+    {
+      "id": 1206,
+      "name": "Police Pensions Board",
+      "role": "Chairman"
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee",
+      "role": ""
+    },
+    {
+      "id": 400,
+      "name": "West Ham Park Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

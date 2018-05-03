@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:23:43.083914+00:00"
+    "time_created": "2018-05-03T15:13:09.728028+00:00"
   },
   "member": {
     "id": 1947,
@@ -10,6 +10,28 @@
     "ward": "Farringdon Without",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 123,
+      "name": "Licensing Committee",
+      "role": ""
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 408,
+      "name": "Standards Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:25:05.243758+00:00"
+    "time_created": "2018-05-03T15:14:26.136820+00:00"
   },
   "member": {
     "id": 1260,
@@ -10,6 +10,33 @@
     "ward": "Bassishaw",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 220,
+      "name": "Court of Aldermen",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1229,
+      "name": "Courts Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 850,
+      "name": "Lord Mayor's Show Ltd",
+      "role": ""
+    },
+    {
+      "id": 174,
+      "name": "Member Development Steering Group",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

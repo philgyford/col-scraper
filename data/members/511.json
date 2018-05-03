@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:25:12.585689+00:00"
+    "time_created": "2018-05-03T15:14:33.828242+00:00"
   },
   "member": {
     "id": 511,
@@ -10,6 +10,43 @@
     "ward": "Aldgate",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 236,
+      "name": "Board of Governors of the City of London School for Girls",
+      "role": ""
+    },
+    {
+      "id": 220,
+      "name": "Court of Aldermen",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 248,
+      "name": "Financial Investment Board",
+      "role": ""
+    },
+    {
+      "id": 176,
+      "name": "Investment Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 125,
+      "name": "Property Investment Board",
+      "role": ""
+    },
+    {
+      "id": 1064,
+      "name": "Social Investment Board",
+      "role": "Chairman"
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

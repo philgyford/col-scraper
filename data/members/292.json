@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:25:49.321115+00:00"
+    "time_created": "2018-05-03T15:15:06.532846+00:00"
   },
   "member": {
     "id": 292,
@@ -10,6 +10,143 @@
     "ward": "Farringdon Without",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 140,
+      "name": "Barbican Centre Board",
+      "role": ""
+    },
+    {
+      "id": 233,
+      "name": "Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
+      "id": 234,
+      "name": "Bursary Committee of the Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
+      "id": 1255,
+      "name": "Capital Buildings Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 206,
+      "name": "Committee of Aldermanic Almoners, Common Council Governors and Donation Governors of Christ's Hospital",
+      "role": ""
+    },
+    {
+      "id": 216,
+      "name": "Corporate Asset Sub (Finance) Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1229,
+      "name": "Courts Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 1106,
+      "name": "Dispensations Sub (Standards) Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 253,
+      "name": "Establishment Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 1233,
+      "name": "Finance & Estates Sub-Committee of the Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
+      "id": 259,
+      "name": "Gresham (City Side) Committee",
+      "role": ""
+    },
+    {
+      "id": 334,
+      "name": "Gresham Working Party",
+      "role": ""
+    },
+    {
+      "id": 254,
+      "name": "Joint Consultative Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 411,
+      "name": "Markets Committee",
+      "role": ""
+    },
+    {
+      "id": 407,
+      "name": "Members Privileges Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 164,
+      "name": "Nominations Committee of the Barbican Centre Board",
+      "role": ""
+    },
+    {
+      "id": 1205,
+      "name": "Outside Bodies Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee",
+      "role": ""
+    },
+    {
+      "id": 1072,
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 563,
+      "name": "Reference Sub (Markets) Committee",
+      "role": ""
+    },
+    {
+      "id": 235,
+      "name": "Reference Sub Committee of the Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
+      "id": 396,
+      "name": "Resource Allocation Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 249,
+      "name": "Risk Committee of the Barbican Centre Board",
+      "role": ""
+    },
+    {
+      "id": 1064,
+      "name": "Social Investment Board",
+      "role": ""
+    },
+    {
+      "id": 408,
+      "name": "Standards Committee",
+      "role": ""
+    },
+    {
+      "id": 179,
+      "name": "The City Bridge Trust Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

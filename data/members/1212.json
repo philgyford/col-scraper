@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:26:37.260977+00:00"
+    "time_created": "2018-05-03T15:15:49.700567+00:00"
   },
   "member": {
     "id": 1212,
@@ -10,6 +10,48 @@
     "ward": "Langbourn",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 140,
+      "name": "Barbican Centre Board",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 165,
+      "name": "Finance Committee of the Barbican Centre Board",
+      "role": ""
+    },
+    {
+      "id": 123,
+      "name": "Licensing Committee",
+      "role": ""
+    },
+    {
+      "id": 383,
+      "name": "Livery Committee",
+      "role": ""
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    },
+    {
+      "id": 249,
+      "name": "Risk Committee of the Barbican Centre Board",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:27:03.943353+00:00"
+    "time_created": "2018-05-03T15:16:12.530367+00:00"
   },
   "member": {
     "id": 384,
@@ -10,6 +10,93 @@
     "ward": "Castle Baynard",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 141,
+      "name": "Ashtead Common Consultation Group",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 122,
+      "name": "Epping Forest & Commons Committee",
+      "role": ""
+    },
+    {
+      "id": 994,
+      "name": "Health and Wellbeing Board",
+      "role": ""
+    },
+    {
+      "id": 413,
+      "name": "Keats House Consultative Committee",
+      "role": ""
+    },
+    {
+      "id": 407,
+      "name": "Members Privileges Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 175,
+      "name": "Open Spaces and City Gardens",
+      "role": ""
+    },
+    {
+      "id": 1205,
+      "name": "Outside Bodies Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 172,
+      "name": "Reference Sub Committee of the Barbican Centre Board",
+      "role": ""
+    },
+    {
+      "id": 210,
+      "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": ""
+    },
+    {
+      "id": 389,
+      "name": "Streets and Walkways Sub (Planning and Transportation) Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 555,
+      "name": "Taught Degree Awarding Powers Sub Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": ""
+    },
+    {
+      "id": 400,
+      "name": "West Ham Park Committee",
+      "role": ""
+    },
+    {
+      "id": 1077,
+      "name": "West Wickham, Spring Park and Coulsdon Commons Consultation Group",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

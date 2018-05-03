@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:25:00.739713+00:00"
+    "time_created": "2018-05-03T15:14:20.236357+00:00"
   },
   "member": {
     "id": 229,
@@ -10,6 +10,73 @@
     "ward": "Dowgate",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 1255,
+      "name": "Capital Buildings Committee",
+      "role": ""
+    },
+    {
+      "id": 216,
+      "name": "Corporate Asset Sub (Finance) Committee",
+      "role": ""
+    },
+    {
+      "id": 220,
+      "name": "Court of Aldermen",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1229,
+      "name": "Courts Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 185,
+      "name": "Health and Social Care Scrutiny Committee",
+      "role": ""
+    },
+    {
+      "id": 176,
+      "name": "Investment Committee",
+      "role": ""
+    },
+    {
+      "id": 142,
+      "name": "Police Committee",
+      "role": ""
+    },
+    {
+      "id": 398,
+      "name": "Professional Standards and Integrity Sub (Police) Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 125,
+      "name": "Property Investment Board",
+      "role": ""
+    },
+    {
+      "id": 1064,
+      "name": "Social Investment Board",
+      "role": ""
+    },
+    {
+      "id": 389,
+      "name": "Streets and Walkways Sub (Planning and Transportation) Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 179,
+      "name": "The City Bridge Trust Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

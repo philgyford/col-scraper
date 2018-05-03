@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:27:18.207789+00:00"
+    "time_created": "2018-05-03T15:16:25.862969+00:00"
   },
   "member": {
     "id": 1211,
@@ -10,6 +10,153 @@
     "ward": "Langbourn",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 213,
+      "name": "Academic and Personnel Sub Committee of the Board of Governors of the City of London Freemen's School",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 141,
+      "name": "Ashtead Common Consultation Group",
+      "role": "Chairman"
+    },
+    {
+      "id": 230,
+      "name": "Board of Governors of the City of London Freemen's School",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 1228,
+      "name": "Burnham Beeches Consultation Group",
+      "role": "Chairman"
+    },
+    {
+      "id": 231,
+      "name": "Bursary Committee of the Board of Governors of the City of London Freemen's School",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 120,
+      "name": "Community & Children's Services Committee",
+      "role": ""
+    },
+    {
+      "id": 216,
+      "name": "Corporate Asset Sub (Finance) Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1147,
+      "name": "Education Board",
+      "role": ""
+    },
+    {
+      "id": 1241,
+      "name": "Education Charity Sub (Education Board) Committee",
+      "role": ""
+    },
+    {
+      "id": 245,
+      "name": "Efficiency and Performance Sub (Finance) Committee",
+      "role": ""
+    },
+    {
+      "id": 122,
+      "name": "Epping Forest & Commons Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 1253,
+      "name": "Epping Forest Consultative Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 1251,
+      "name": "Epping Forest Joint Consultative Committee",
+      "role": ""
+    },
+    {
+      "id": 253,
+      "name": "Establishment Committee",
+      "role": ""
+    },
+    {
+      "id": 145,
+      "name": "Finance Committee",
+      "role": ""
+    },
+    {
+      "id": 192,
+      "name": "Finance Grants Oversight and Performance Sub Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 212,
+      "name": "Finance, General Purposes and Estates Sub-Committee of the Board of Governors of the City of London Freemen's School",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 248,
+      "name": "Financial Investment Board",
+      "role": ""
+    },
+    {
+      "id": 1256,
+      "name": "Housing Delivery Programme Working Group",
+      "role": ""
+    },
+    {
+      "id": 176,
+      "name": "Investment Committee",
+      "role": ""
+    },
+    {
+      "id": 383,
+      "name": "Livery Committee",
+      "role": ""
+    },
+    {
+      "id": 1222,
+      "name": "Nominations Sub (Education Board) Committee",
+      "role": ""
+    },
+    {
+      "id": 175,
+      "name": "Open Spaces and City Gardens",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee",
+      "role": ""
+    },
+    {
+      "id": 125,
+      "name": "Property Investment Board",
+      "role": ""
+    },
+    {
+      "id": 1094,
+      "name": "Wanstead Flats Playing Fields Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 1208,
+      "name": "Wanstead Park Working Party",
+      "role": "Chairman"
+    },
+    {
+      "id": 1077,
+      "name": "West Wickham, Spring Park and Coulsdon Commons Consultation Group",
+      "role": "Chairman"
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

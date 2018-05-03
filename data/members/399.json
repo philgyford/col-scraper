@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:27:24.095009+00:00"
+    "time_created": "2018-05-03T15:16:32.524336+00:00"
   },
   "member": {
     "id": 399,
@@ -10,6 +10,23 @@
     "ward": "Bridge and Bridge Without",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 206,
+      "name": "Committee of Aldermanic Almoners, Common Council Governors and Donation Governors of Christ's Hospital",
+      "role": ""
+    },
+    {
+      "id": 220,
+      "name": "Court of Aldermen",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

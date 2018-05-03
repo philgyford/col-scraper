@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:23:59.535669+00:00"
+    "time_created": "2018-05-03T15:13:26.979240+00:00"
   },
   "member": {
     "id": 1888,
@@ -10,6 +10,58 @@
     "ward": "Walbrook",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 1255,
+      "name": "Capital Buildings Committee",
+      "role": ""
+    },
+    {
+      "id": 206,
+      "name": "Committee of Aldermanic Almoners, Common Council Governors and Donation Governors of Christ's Hospital",
+      "role": ""
+    },
+    {
+      "id": 120,
+      "name": "Community & Children's Services Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 122,
+      "name": "Epping Forest & Commons Committee",
+      "role": ""
+    },
+    {
+      "id": 411,
+      "name": "Markets Committee",
+      "role": ""
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 563,
+      "name": "Reference Sub (Markets) Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

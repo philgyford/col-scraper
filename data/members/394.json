@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:27:12.605738+00:00"
+    "time_created": "2018-05-03T15:16:20.934685+00:00"
   },
   "member": {
     "id": 394,
@@ -10,12 +10,77 @@
     "ward": "Tower",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 257,
+      "name": "Information Technology Sub (Finance) Committee",
+      "role": ""
+    },
+    {
+      "id": 123,
+      "name": "Licensing Committee",
+      "role": ""
+    },
+    {
+      "id": 1187,
+      "name": "Local Government Pensions Board",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 411,
+      "name": "Markets Committee",
+      "role": ""
+    },
+    {
+      "id": 1205,
+      "name": "Outside Bodies Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 398,
+      "name": "Professional Standards and Integrity Sub (Police) Committee",
+      "role": ""
+    },
+    {
+      "id": 168,
+      "name": "Projects Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 1072,
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 986,
+      "name": "Reference Sub (Licensing) Committee",
+      "role": ""
+    },
+    {
+      "id": 563,
+      "name": "Reference Sub (Markets) Committee",
+      "role": "Chairman"
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Venner Shipley LLP",
+          "member": "Partner, Venner Shipley LLP",
+          "partner": "Employed by HSBC"
+        },
+        {
+          "member": "Director of the five companies of the Kinetica Group of companies",
+          "partner": ""
+        },
+        {
+          "member": "Tribunal Chairman (Police)",
           "partner": ""
         }
       ]

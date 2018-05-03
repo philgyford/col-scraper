@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:23:49.027270+00:00"
+    "time_created": "2018-05-03T15:13:16.389012+00:00"
   },
   "member": {
     "id": 1950,
@@ -10,6 +10,28 @@
     "ward": "Farringdon Within",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 120,
+      "name": "Community & Children's Services Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 994,
+      "name": "Health and Wellbeing Board",
+      "role": ""
+    },
+    {
+      "id": 411,
+      "name": "Markets Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

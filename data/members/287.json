@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:25:45.864813+00:00"
+    "time_created": "2018-05-03T15:15:03.521808+00:00"
   },
   "member": {
     "id": 287,
@@ -10,6 +10,88 @@
     "ward": "Cripplegate",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 140,
+      "name": "Barbican Centre Board",
+      "role": ""
+    },
+    {
+      "id": 227,
+      "name": "Benefices Sub (Culture, Heritage & Libraries) Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 230,
+      "name": "Board of Governors of the City of London Freemen's School",
+      "role": ""
+    },
+    {
+      "id": 387,
+      "name": "Board of Governors of the Guildhall School of Music and Drama",
+      "role": ""
+    },
+    {
+      "id": 206,
+      "name": "Committee of Aldermanic Almoners, Common Council Governors and Donation Governors of Christ's Hospital",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 163,
+      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 165,
+      "name": "Finance Committee of the Barbican Centre Board",
+      "role": ""
+    },
+    {
+      "id": 218,
+      "name": "Governance and Effectiveness Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": ""
+    },
+    {
+      "id": 185,
+      "name": "Health and Social Care Scrutiny Committee",
+      "role": ""
+    },
+    {
+      "id": 413,
+      "name": "Keats House Consultative Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 219,
+      "name": "Nominations Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 410,
+      "name": "Reference Sub Committee of the Board of Governors of the Guildhall School of Music and Drama",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 210,
+      "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

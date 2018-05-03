@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:26:26.961675+00:00"
+    "time_created": "2018-05-03T15:15:37.864838+00:00"
   },
   "member": {
     "id": 363,
@@ -10,6 +10,63 @@
     "ward": "Aldersgate",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 153,
+      "name": "Barbican Residential Committee",
+      "role": ""
+    },
+    {
+      "id": 1228,
+      "name": "Burnham Beeches Consultation Group",
+      "role": ""
+    },
+    {
+      "id": 120,
+      "name": "Community & Children's Services Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 253,
+      "name": "Establishment Committee",
+      "role": ""
+    },
+    {
+      "id": 247,
+      "name": "Housing Management and Almshouses Sub (Community and Children's Services) Committee",
+      "role": ""
+    },
+    {
+      "id": 175,
+      "name": "Open Spaces and City Gardens",
+      "role": ""
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    },
+    {
+      "id": 1208,
+      "name": "Wanstead Park Working Party",
+      "role": ""
+    },
+    {
+      "id": 400,
+      "name": "West Ham Park Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:24:23.125823+00:00"
+    "time_created": "2018-05-03T15:13:47.249201+00:00"
   },
   "member": {
     "id": 160,
@@ -10,6 +10,53 @@
     "ward": "Langbourn",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 387,
+      "name": "Board of Governors of the Guildhall School of Music and Drama",
+      "role": ""
+    },
+    {
+      "id": 216,
+      "name": "Corporate Asset Sub (Finance) Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 163,
+      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": ""
+    },
+    {
+      "id": 257,
+      "name": "Information Technology Sub (Finance) Committee",
+      "role": ""
+    },
+    {
+      "id": 411,
+      "name": "Markets Committee",
+      "role": ""
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 125,
+      "name": "Property Investment Board",
+      "role": ""
+    },
+    {
+      "id": 1259,
+      "name": "Standards Appeals Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

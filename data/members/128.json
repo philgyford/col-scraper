@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:23:53.797255+00:00"
+    "time_created": "2018-05-03T15:13:20.840328+00:00"
   },
   "member": {
     "id": 128,
@@ -10,6 +10,53 @@
     "ward": "Aldgate",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 1255,
+      "name": "Capital Buildings Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 513,
+      "name": "Economic Crime Board of the Police Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 171,
+      "name": "Performance and Resource Management Sub (Police) Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 142,
+      "name": "Police Committee",
+      "role": "Chairman"
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee",
+      "role": ""
+    },
+    {
+      "id": 398,
+      "name": "Professional Standards and Integrity Sub (Police) Committee",
+      "role": "Ex-Officio Member"
+    },
+    {
+      "id": 1196,
+      "name": "Safeguarding Inter-Board Chairmen's Meeting",
+      "role": ""
+    },
+    {
+      "id": 1110,
+      "name": "Safer City Partnership Strategy Group",
+      "role": "Chairman"
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

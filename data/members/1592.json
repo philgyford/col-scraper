@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:26:55.841922+00:00"
+    "time_created": "2018-05-03T15:16:06.890856+00:00"
   },
   "member": {
     "id": 1592,
@@ -10,6 +10,23 @@
     "ward": "Bishopsgate",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 220,
+      "name": "Court of Aldermen",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee",
+      "role": "Ex-Officio Member"
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",

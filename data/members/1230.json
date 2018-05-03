@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T13:25:22.755110+00:00"
+    "time_created": "2018-05-03T15:14:42.946883+00:00"
   },
   "member": {
     "id": 1230,
@@ -10,6 +10,83 @@
     "ward": "Farringdon Within",
     "party": ""
   },
+  "committees": [
+    {
+      "id": 1134,
+      "name": "Assessment Sub (Standards) Committee",
+      "role": ""
+    },
+    {
+      "id": 153,
+      "name": "Barbican Residential Committee",
+      "role": ""
+    },
+    {
+      "id": 227,
+      "name": "Benefices Sub (Culture, Heritage & Libraries) Committee",
+      "role": ""
+    },
+    {
+      "id": 236,
+      "name": "Board of Governors of the City of London School for Girls",
+      "role": ""
+    },
+    {
+      "id": 387,
+      "name": "Board of Governors of the Guildhall School of Music and Drama",
+      "role": ""
+    },
+    {
+      "id": 1197,
+      "name": "City of London School for Girls - 125th Anniversary Working Party",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 1106,
+      "name": "Dispensations Sub (Standards) Committee",
+      "role": ""
+    },
+    {
+      "id": 1147,
+      "name": "Education Board",
+      "role": ""
+    },
+    {
+      "id": 1241,
+      "name": "Education Charity Sub (Education Board) Committee",
+      "role": ""
+    },
+    {
+      "id": 174,
+      "name": "Member Development Steering Group",
+      "role": ""
+    },
+    {
+      "id": 407,
+      "name": "Members Privileges Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 1222,
+      "name": "Nominations Sub (Education Board) Committee",
+      "role": ""
+    },
+    {
+      "id": 408,
+      "name": "Standards Committee",
+      "role": ""
+    }
+  ],
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
