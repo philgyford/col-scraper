@@ -9,7 +9,7 @@ There are currently two scripts here:
 
 Install requirements with:
 
-    pip install -f requirements.txt
+    pip install -r requirements.txt
 
 This currently gets basic data about each member (e.g. name, ward, party), their data from the Register of Interests, and their committee memberships. It could fetch more, such as contact details, voting record, etc.
 
