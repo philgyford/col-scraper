@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:30.941849+00:00"
+    "time_created": "2018-05-03T13:25:24.275088+00:00"
   },
   "member": {
-    "id": 255
+    "id": 255,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=255",
+    "name": "Robert Picton Seymour Howard",
+    "role": "Alderman",
+    "ward": "Cornhill",
+    "party": ""
   },
   "interests": [
     {

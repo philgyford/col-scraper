@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:08.995766+00:00"
+    "time_created": "2018-05-03T13:26:04.739494+00:00"
   },
   "member": {
-    "id": 370
+    "id": 370,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=370",
+    "name": "Jeremy Mayhew MA, MBA",
+    "role": "",
+    "ward": "Aldersgate",
+    "party": ""
   },
   "interests": [
     {

@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:44.748995+00:00"
+    "time_created": "2018-05-03T13:26:37.260977+00:00"
   },
   "member": {
-    "id": 1212
+    "id": 1212,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1212",
+    "name": "Judith Pleasance",
+    "role": "",
+    "ward": "Langbourn",
+    "party": ""
   },
   "interests": [
     {

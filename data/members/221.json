@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:57.191245+00:00"
+    "time_created": "2018-05-03T13:24:51.664712+00:00"
   },
   "member": {
-    "id": 221
+    "id": 221,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=221",
+    "name": "Stuart John Fraser, CBE",
+    "role": "",
+    "ward": "Coleman Street",
+    "party": ""
   },
   "interests": [
     {

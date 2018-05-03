@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:30:01.044590+00:00"
+    "time_created": "2018-05-03T13:26:54.339304+00:00"
   },
   "member": {
-    "id": 1938
+    "id": 1938,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1938",
+    "name": "Ruby Sayed",
+    "role": "",
+    "ward": "Farringdon Without",
+    "party": ""
   },
   "interests": [
     {
@@ -11,7 +16,7 @@
       "items": [
         {
           "member": "Member of the Bar of England & Wales in practice at 1 Pump Court Chambers, Elm Court, Temple, London EC4Y7AB",
-          "partner": ""
+          "partner": "Nirvana Capital Ltd., 693 Charteris Road, London, NW6 7EY"
         },
         {
           "member": "Nirvana Capital Ltd. - 698 Charters Road, London NW6 7EY",

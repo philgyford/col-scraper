@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:12.977342+00:00"
+    "time_created": "2018-05-03T13:24:11.112536+00:00"
   },
   "member": {
-    "id": 1666
+    "id": 1666,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1666",
+    "name": "Keith David Forbes Bottomley",
+    "role": "Deputy",
+    "ward": "Bridge and Bridge Without",
+    "party": ""
   },
   "interests": [
     {

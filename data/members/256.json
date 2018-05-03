@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:32.626928+00:00"
+    "time_created": "2018-05-03T13:25:25.721684+00:00"
   },
   "member": {
-    "id": 256
+    "id": 256,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=256",
+    "name": "Michael Hudson",
+    "role": "",
+    "ward": "Castle Baynard",
+    "party": ""
   },
   "interests": [
     {

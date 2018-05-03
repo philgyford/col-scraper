@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:49.785074+00:00"
+    "time_created": "2018-05-03T13:25:42.084680+00:00"
   },
   "member": {
-    "id": 276
+    "id": 276,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=276",
+    "name": "Gregory Alfred Lawrence",
+    "role": "",
+    "ward": "Farringdon Without",
+    "party": ""
   },
   "interests": [
     {

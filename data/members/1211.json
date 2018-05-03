@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:30:27.354498+00:00"
+    "time_created": "2018-05-03T13:27:18.207789+00:00"
   },
   "member": {
-    "id": 1211
+    "id": 1211,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1211",
+    "name": "Philip Woodhouse",
+    "role": "Deputy",
+    "ward": "Langbourn",
+    "party": ""
   },
   "interests": [
     {

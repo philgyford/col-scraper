@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:22.454144+00:00"
+    "time_created": "2018-05-03T13:26:15.182346+00:00"
   },
   "member": {
-    "id": 380
+    "id": 380,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=380",
+    "name": "Hugh Fenton Morris",
+    "role": "",
+    "ward": "Aldgate",
+    "party": ""
   },
   "interests": [
     {

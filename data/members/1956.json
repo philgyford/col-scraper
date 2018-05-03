@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:34.408767+00:00"
+    "time_created": "2018-05-03T13:24:30.957653+00:00"
   },
   "member": {
-    "id": 1956
+    "id": 1956,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1956",
+    "name": "Richard Peter Crossan",
+    "role": "",
+    "ward": "Aldersgate",
+    "party": ""
   },
   "interests": [
     {

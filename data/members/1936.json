@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:43.216977+00:00"
+    "time_created": "2018-05-03T13:26:35.693027+00:00"
   },
   "member": {
-    "id": 1936
+    "id": 1936,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1936",
+    "name": "William Pimlott",
+    "role": "",
+    "ward": "Cripplegate",
+    "party": ""
   },
   "interests": [
     {

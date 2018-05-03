@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:26:35.577300+00:00"
+    "time_created": "2018-05-03T13:23:41.680537+00:00"
   },
   "member": {
-    "id": 132
+    "id": 132,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=132",
+    "name": "John David Absalom",
+    "role": "Deputy",
+    "ward": "Farringdon Without",
+    "party": ""
   },
   "interests": [
     {

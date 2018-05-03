@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:17.351120+00:00"
+    "time_created": "2018-05-03T13:26:10.792587+00:00"
   },
   "member": {
-    "id": 377
+    "id": 377,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=377",
+    "name": "Robert Allan Merrett",
+    "role": "Deputy",
+    "ward": "Bassishaw",
+    "party": ""
   },
   "interests": [
     {

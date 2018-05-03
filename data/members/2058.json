@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:29.651430+00:00"
+    "time_created": "2018-05-03T13:26:22.230234+00:00"
   },
   "member": {
-    "id": 2058
+    "id": 2058,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=2058",
+    "name": "Benjamin Daniel Murphy",
+    "role": "",
+    "ward": "Bishopsgate",
+    "party": "Independent"
   },
   "interests": [
     {

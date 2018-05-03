@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:59.171713+00:00"
+    "time_created": "2018-05-03T13:24:54.835590+00:00"
   },
   "member": {
-    "id": 223
+    "id": 223,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=223",
+    "name": "Marianne Bernadette Fredericks",
+    "role": "",
+    "ward": "Tower",
+    "party": ""
   },
   "interests": [
     {

@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:29.209718+00:00"
+    "time_created": "2018-05-03T13:25:22.755110+00:00"
   },
   "member": {
-    "id": 1230
+    "id": 1230,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1230",
+    "name": "Ann Holmes",
+    "role": "",
+    "ward": "Farringdon Within",
+    "party": ""
   },
   "interests": [
     {

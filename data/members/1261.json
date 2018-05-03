@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:14.630768+00:00"
+    "time_created": "2018-05-03T13:24:12.487694+00:00"
   },
   "member": {
-    "id": 1261
+    "id": 1261,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1261",
+    "name": "The Rt. Hon. the Lord Mayor, Charles Edward Beck Bowman",
+    "role": "Alderman",
+    "ward": "Lime Street",
+    "party": ""
   },
   "interests": [
     {

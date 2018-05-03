@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:49.550233+00:00"
+    "time_created": "2018-05-03T13:24:45.564186+00:00"
   },
   "member": {
-    "id": 213
+    "id": 213,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=213",
+    "name": "Kevin Malcolm Everett DSc",
+    "role": "Deputy",
+    "ward": "Candlewick",
+    "party": ""
   },
   "interests": [
     {

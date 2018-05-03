@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:26:58.559205+00:00"
+    "time_created": "2018-05-03T13:24:00.972519+00:00"
   },
   "member": {
-    "id": 1472
+    "id": 1472,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1472",
+    "name": "Nicholas Michael Bensted-Smith, JP",
+    "role": "",
+    "ward": "Cheap",
+    "party": ""
   },
   "interests": [
     {

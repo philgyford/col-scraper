@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:30:23.583760+00:00"
+    "time_created": "2018-05-03T13:27:14.338393+00:00"
   },
   "member": {
-    "id": 1935
+    "id": 1935,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1935",
+    "name": "William Upton",
+    "role": "",
+    "ward": "Farringdon Without",
+    "party": ""
   },
   "interests": [
     {

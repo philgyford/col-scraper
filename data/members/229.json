@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:06.444801+00:00"
+    "time_created": "2018-05-03T13:25:00.739713+00:00"
   },
   "member": {
-    "id": 229
+    "id": 229,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=229",
+    "name": "Alison Gowman",
+    "role": "Alderman",
+    "ward": "Dowgate",
+    "party": ""
   },
   "interests": [
     {

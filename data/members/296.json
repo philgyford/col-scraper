@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:59.523205+00:00"
+    "time_created": "2018-05-03T13:25:51.793005+00:00"
   },
   "member": {
-    "id": 296
+    "id": 296,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=296",
+    "name": "Ian David Luder JP BSc (Econ)",
+    "role": "Alderman",
+    "ward": "Castle Baynard",
+    "party": ""
   },
   "interests": [
     {

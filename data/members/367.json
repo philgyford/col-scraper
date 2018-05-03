@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:52.559699+00:00"
+    "time_created": "2018-05-03T13:26:44.276181+00:00"
   },
   "member": {
-    "id": 367
+    "id": 367,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=367",
+    "name": "Richard David Regan, OBE",
+    "role": "Deputy",
+    "ward": "Farringdon Within",
+    "party": ""
   },
   "interests": [
     {

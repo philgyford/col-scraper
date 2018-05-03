@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:11.418855+00:00"
+    "time_created": "2018-05-03T13:26:06.162971+00:00"
   },
   "member": {
-    "id": 373
+    "id": 373,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=373",
+    "name": "Catherine McGuinness",
+    "role": "Deputy",
+    "ward": "Castle Baynard",
+    "party": ""
   },
   "interests": [
     {

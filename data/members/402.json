@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:30:04.245651+00:00"
+    "time_created": "2018-05-03T13:26:57.180583+00:00"
   },
   "member": {
-    "id": 402
+    "id": 402,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=402",
+    "name": "Ian Christopher Norman Seaton",
+    "role": "",
+    "ward": "Cornhill",
+    "party": ""
   },
   "interests": [
     {

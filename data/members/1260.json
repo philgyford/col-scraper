@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:11.988629+00:00"
+    "time_created": "2018-05-03T13:25:05.243758+00:00"
   },
   "member": {
-    "id": 1260
+    "id": 1260,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1260",
+    "name": "Sheriff Timothy Russell Hailes JP",
+    "role": "Alderman",
+    "ward": "Bassishaw",
+    "party": ""
   },
   "interests": [
     {

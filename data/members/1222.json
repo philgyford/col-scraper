@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:35.943350+00:00"
+    "time_created": "2018-05-03T13:24:34.783952+00:00"
   },
   "member": {
-    "id": 1222
+    "id": 1222,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1222",
+    "name": "Karina Dostalova",
+    "role": "",
+    "ward": "Farringdon Within",
+    "party": ""
   },
   "interests": [
     {

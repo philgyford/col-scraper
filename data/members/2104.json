@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:43.335426+00:00"
+    "time_created": "2018-05-03T13:25:35.618677+00:00"
   },
   "member": {
-    "id": 2104
+    "id": 2104,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=2104",
+    "name": "Shravan Jashvantrai Joshi",
+    "role": "",
+    "ward": "Bishopsgate",
+    "party": ""
   },
   "interests": [
     {

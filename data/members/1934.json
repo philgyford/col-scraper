@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:39.231954+00:00"
+    "time_created": "2018-05-03T13:26:32.609014+00:00"
   },
   "member": {
-    "id": 1934
+    "id": 1934,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1934",
+    "name": "Susan Jane Pearson",
+    "role": "",
+    "ward": "Cripplegate",
+    "party": ""
   },
   "interests": [
     {

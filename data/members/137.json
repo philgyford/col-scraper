@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:16.462875+00:00"
+    "time_created": "2018-05-03T13:24:13.871551+00:00"
   },
   "member": {
-    "id": 137
+    "id": 137,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=137",
+    "name": "David John Bradshaw",
+    "role": "Deputy",
+    "ward": "Cripplegate",
+    "party": ""
   },
   "interests": [
     {

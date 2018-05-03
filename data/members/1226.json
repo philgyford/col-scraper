@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:24.001813+00:00"
+    "time_created": "2018-05-03T13:26:16.569327+00:00"
   },
   "member": {
-    "id": 1226
+    "id": 1226,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1226",
+    "name": "Alastair Michael Moss",
+    "role": "Deputy",
+    "ward": "Cheap",
+    "party": ""
   },
   "interests": [
     {

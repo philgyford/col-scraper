@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:13.585603+00:00"
+    "time_created": "2018-05-03T13:26:07.950903+00:00"
   },
   "member": {
-    "id": 1225
+    "id": 1225,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1225",
+    "name": "Andrew Stratton McMurtrie, JP",
+    "role": "",
+    "ward": "Coleman Street",
+    "party": ""
   },
   "interests": [
     {

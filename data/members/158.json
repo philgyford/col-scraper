@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:24.727247+00:00"
+    "time_created": "2018-05-03T13:24:18.714452+00:00"
   },
   "member": {
-    "id": 158
+    "id": 158,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=158",
+    "name": "Roger Arthur Holden Chadwick, OBE",
+    "role": "Deputy",
+    "ward": "Tower",
+    "party": ""
   },
   "interests": [
     {

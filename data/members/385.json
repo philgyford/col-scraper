@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:30:14.666280+00:00"
+    "time_created": "2018-05-03T13:27:08.274131+00:00"
   },
   "member": {
-    "id": 385
+    "id": 385,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=385",
+    "name": "Sir Michael Snyder",
+    "role": "",
+    "ward": "Cordwainer",
+    "party": ""
   },
   "interests": [
     {

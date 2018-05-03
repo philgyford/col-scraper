@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:20.691281+00:00"
+    "time_created": "2018-05-03T13:26:13.787478+00:00"
   },
   "member": {
-    "id": 378
+    "id": 378,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=378",
+    "name": "Brian Desmond Francis Mooney, MA",
+    "role": "Deputy",
+    "ward": "Queenhithe",
+    "party": ""
   },
   "interests": [
     {

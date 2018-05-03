@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:25.579225+00:00"
+    "time_created": "2018-05-03T13:26:17.942890+00:00"
   },
   "member": {
-    "id": 207
+    "id": 207,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=207",
+    "name": "The Lord Mountevans, Jeffrey Evans",
+    "role": "Alderman",
+    "ward": "Cheap",
+    "party": ""
   },
   "interests": [
     {

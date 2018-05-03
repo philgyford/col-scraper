@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:27.435837+00:00"
+    "time_created": "2018-05-03T13:25:21.127049+00:00"
   },
   "member": {
-    "id": 251
+    "id": 251,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=251",
+    "name": "Tom Hoffman",
+    "role": "Deputy",
+    "ward": "Vintry",
+    "party": ""
   },
   "interests": [
     {

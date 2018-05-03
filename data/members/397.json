@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:30:30.412374+00:00"
+    "time_created": "2018-05-03T13:27:21.837730+00:00"
   },
   "member": {
-    "id": 397
+    "id": 397,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=397",
+    "name": "Sir David Hugh Wootton",
+    "role": "Alderman",
+    "ward": "Langbourn",
+    "party": ""
   },
   "interests": [
     {

@@ -1,25 +1,26 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:57.214763+00:00"
+    "time_created": "2018-05-03T13:25:49.321115+00:00"
   },
   "member": {
-    "id": 292
+    "id": 292,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=292",
+    "name": "Edward Lord, OBE, JP",
+    "role": "Deputy",
+    "ward": "Farringdon Without",
+    "party": ""
   },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "",
+          "member": "Managing Director: Stakeholder engagement, governancr, philantropy and diversity at Edward Lord Limited",
           "partner": "Senior Lecturer, The Open University"
         },
         {
-          "member": "Occasional public affairs, protocol, governance and fundraising consultancy t/a Edward Lord Limited",
-          "partner": "Author, Editor and Psychotherapist"
-        },
-        {
           "member": "Chair, Capital Ambition Board, London Councils",
-          "partner": ""
+          "partner": "Author, Editor and Psychotherapist"
         },
         {
           "member": "Chairman, Megalith Realty Ltd.",
@@ -213,6 +214,14 @@
         },
         {
           "member": "Audit and Risk Management Committee Member, University of Essex",
+          "partner": ""
+        },
+        {
+          "member": "Independant Director, British Basketball League",
+          "partner": ""
+        },
+        {
+          "member": "Independant Governor, University of Southampton",
           "partner": ""
         }
       ]
@@ -413,6 +422,16 @@
       "name": "Mounted brass plaque from the Managing Director, The Cook & Butler Event Company Ltd.",
       "date_str": "26 March 2018",
       "date": "2018-03-26"
+    },
+    {
+      "name": "Livery Dinner - Haberdasher's Company",
+      "date_str": "08 March 2018",
+      "date": "2018-03-08"
+    },
+    {
+      "name": "Dinner - guest of Inner Temple",
+      "date_str": "22 March 2018",
+      "date": "2018-03-22"
     }
   ]
 }

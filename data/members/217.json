@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:53.734993+00:00"
+    "time_created": "2018-05-03T13:24:48.857763+00:00"
   },
   "member": {
-    "id": 217
+    "id": 217,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=217",
+    "name": "Sophie Anne Fernandes",
+    "role": "",
+    "ward": "Coleman Street",
+    "party": ""
   },
   "interests": [
     {

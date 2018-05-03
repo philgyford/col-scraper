@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:26:47.735954+00:00"
+    "time_created": "2018-05-03T13:23:52.292220+00:00"
   },
   "member": {
-    "id": 1951
+    "id": 1951,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1951",
+    "name": "Alexander Robertson Martin Barr",
+    "role": "",
+    "ward": "Cordwainer",
+    "party": ""
   },
   "interests": [
     {

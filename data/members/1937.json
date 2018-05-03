@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:49.489024+00:00"
+    "time_created": "2018-05-03T13:26:41.458090+00:00"
   },
   "member": {
-    "id": 1937
+    "id": 1937,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1937",
+    "name": "Jason Paul Pritchard",
+    "role": "",
+    "ward": "Portsoken",
+    "party": ""
   },
   "interests": [
     {

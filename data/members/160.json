@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:26.403738+00:00"
+    "time_created": "2018-05-03T13:24:23.125823+00:00"
   },
   "member": {
-    "id": 160
+    "id": 160,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=160",
+    "name": "John Douglas Chapman",
+    "role": "",
+    "ward": "Langbourn",
+    "party": ""
   },
   "interests": [
     {

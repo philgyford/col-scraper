@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:41.855198+00:00"
+    "time_created": "2018-05-03T13:25:34.135920+00:00"
   },
   "member": {
-    "id": 265
+    "id": 265,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=265",
+    "name": "Henry Llewellyn Michael Jones",
+    "role": "Deputy",
+    "ward": "Portsoken",
+    "party": ""
   },
   "interests": [
     {

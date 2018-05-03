@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:45.086003+00:00"
+    "time_created": "2018-05-03T13:25:37.034949+00:00"
   },
   "member": {
-    "id": 1395
+    "id": 1395,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1395",
+    "name": "Vincent Thomas Keaveny",
+    "role": "Alderman",
+    "ward": "Farringdon Within",
+    "party": ""
   },
   "interests": [
     {

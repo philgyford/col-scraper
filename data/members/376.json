@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:56.049544+00:00"
+    "time_created": "2018-05-03T13:26:49.825593+00:00"
   },
   "member": {
-    "id": 376
+    "id": 376,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=376",
+    "name": "Elizabeth Rogula",
+    "role": "Deputy",
+    "ward": "Lime Street",
+    "party": ""
   },
   "interests": [
     {

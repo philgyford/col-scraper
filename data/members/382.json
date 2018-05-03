@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:31.477871+00:00"
+    "time_created": "2018-05-03T13:26:24.927848+00:00"
   },
   "member": {
-    "id": 382
+    "id": 382,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=382",
+    "name": "Joyce Carruthers Nash, OBE",
+    "role": "Deputy",
+    "ward": "Aldersgate",
+    "party": ""
   },
   "interests": [
     {

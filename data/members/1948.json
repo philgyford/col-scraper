@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:26:40.540695+00:00"
+    "time_created": "2018-05-03T13:23:45.849384+00:00"
   },
   "member": {
-    "id": 1948
+    "id": 1948,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1948",
+    "name": "Rehana Banu Ameer",
+    "role": "",
+    "ward": "Vintry",
+    "party": ""
   },
   "interests": [
     {

@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:46.410450+00:00"
+    "time_created": "2018-05-03T13:26:38.641217+00:00"
   },
   "member": {
-    "id": 408
+    "id": 408,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=408",
+    "name": "James Henry George Pollard",
+    "role": "Deputy",
+    "ward": "Dowgate",
+    "party": ""
   },
   "interests": [
     {

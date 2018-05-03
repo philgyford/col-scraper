@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:26:49.458561+00:00"
+    "time_created": "2018-05-03T13:23:53.797255+00:00"
   },
   "member": {
-    "id": 128
+    "id": 128,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=128",
+    "name": "Douglas Barrow",
+    "role": "Deputy",
+    "ward": "Aldgate",
+    "party": ""
   },
   "interests": [
     {

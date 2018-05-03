@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:30:25.572356+00:00"
+    "time_created": "2018-05-03T13:27:15.841074+00:00"
   },
   "member": {
-    "id": 1229
+    "id": 1229,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1229",
+    "name": "Mark Raymond Peter Henry Delano Wheatley",
+    "role": "",
+    "ward": "Dowgate",
+    "party": ""
   },
   "interests": [
     {

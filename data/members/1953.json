@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:26:52.883731+00:00"
+    "time_created": "2018-05-03T13:23:56.597091+00:00"
   },
   "member": {
-    "id": 1953
+    "id": 1953,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1953",
+    "name": "Matthew Bell",
+    "role": "",
+    "ward": "Farringdon Within",
+    "party": ""
   },
   "interests": [
     {

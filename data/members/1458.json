@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:45.153857+00:00"
+    "time_created": "2018-05-03T13:24:41.133887+00:00"
   },
   "member": {
-    "id": 1458
+    "id": 1458,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1458",
+    "name": "Emma Edhem",
+    "role": "",
+    "ward": "Castle Baynard",
+    "party": ""
   },
   "interests": [
     {

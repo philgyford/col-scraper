@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:30:07.700998+00:00"
+    "time_created": "2018-05-03T13:27:01.573264+00:00"
   },
   "member": {
-    "id": 383
+    "id": 383,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=383",
+    "name": "Dr Giles Robert Evelyn Shilson",
+    "role": "Deputy",
+    "ward": "Bread Street",
+    "party": ""
   },
   "interests": [
     {

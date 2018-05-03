@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:13.575721+00:00"
+    "time_created": "2018-05-03T13:25:06.758111+00:00"
   },
   "member": {
-    "id": 1940
+    "id": 1940,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1940",
+    "name": "Caroline Wilma Haines",
+    "role": "",
+    "ward": "Queenhithe",
+    "party": ""
   },
   "interests": [
     {

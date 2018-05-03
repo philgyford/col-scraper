@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:31.112989+00:00"
+    "time_created": "2018-05-03T13:24:27.434639+00:00"
   },
   "member": {
-    "id": 1210
+    "id": 1210,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1210",
+    "name": "Henry Nicholas Almroth Colthurst",
+    "role": "",
+    "ward": "Lime Street",
+    "party": ""
   },
   "interests": [
     {

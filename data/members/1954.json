@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:18.109021+00:00"
+    "time_created": "2018-05-03T13:24:15.288677+00:00"
   },
   "member": {
-    "id": 1954
+    "id": 1954,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1954",
+    "name": "Tijs Broeke",
+    "role": "",
+    "ward": "Cheap",
+    "party": ""
   },
   "interests": [
     {

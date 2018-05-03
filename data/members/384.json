@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:30:09.400484+00:00"
+    "time_created": "2018-05-03T13:27:03.943353+00:00"
   },
   "member": {
-    "id": 384
+    "id": 384,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=384",
+    "name": "Jeremy Lewis Simons, MSc",
+    "role": "",
+    "ward": "Castle Baynard",
+    "party": ""
   },
   "interests": [
     {

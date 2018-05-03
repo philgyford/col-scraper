@@ -1,16 +1,21 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:38.786055+00:00"
+    "time_created": "2018-05-03T13:24:36.701585+00:00"
   },
   "member": {
-    "id": 151
+    "id": 151,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=151",
+    "name": "Simon D'Olier Duckworth, OBE, DL",
+    "role": "",
+    "ward": "Bishopsgate",
+    "party": ""
   },
   "interests": [
     {
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Non-executive Director, Accumuli PLC",
+          "member": "Non-executive Director, Adept 4 PLC",
           "partner": "Director, Hampden and Co"
         },
         {
@@ -26,7 +31,7 @@
           "partner": ""
         },
         {
-          "member": "Consultant, Norbrook Ltd",
+          "member": "Non-executive Director, Bell Integration Ltd.",
           "partner": ""
         }
       ]
@@ -68,23 +73,7 @@
           "partner": ""
         },
         {
-          "member": "Freemasons' Grand Charity",
-          "partner": ""
-        },
-        {
-          "member": "Court, Skinners' Company",
-          "partner": ""
-        },
-        {
-          "member": "Bishopsgate Ward Club",
-          "partner": ""
-        },
-        {
           "member": "City Pickwick Club",
-          "partner": ""
-        },
-        {
-          "member": "Freemasonry",
           "partner": ""
         },
         {
@@ -104,7 +93,7 @@
           "partner": ""
         },
         {
-          "member": "Gresham College",
+          "member": "Masonic Charitable Foundation",
           "partner": ""
         }
       ]

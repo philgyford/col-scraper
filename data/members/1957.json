@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:43.501298+00:00"
+    "time_created": "2018-05-03T13:24:39.641279+00:00"
   },
   "member": {
-    "id": 1957
+    "id": 1957,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1957",
+    "name": "Mary Durcan",
+    "role": "",
+    "ward": "Cripplegate",
+    "party": ""
   },
   "interests": [
     {

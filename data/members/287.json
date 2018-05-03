@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:53.469754+00:00"
+    "time_created": "2018-05-03T13:25:45.864813+00:00"
   },
   "member": {
-    "id": 287
+    "id": 287,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=287",
+    "name": "Vivienne Littlechild JP",
+    "role": "",
+    "ward": "Cripplegate",
+    "party": ""
   },
   "interests": [
     {

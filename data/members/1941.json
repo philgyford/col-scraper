@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:30:06.109587+00:00"
+    "time_created": "2018-05-03T13:26:58.537961+00:00"
   },
   "member": {
-    "id": 1941
+    "id": 1941,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1941",
+    "name": "Oliver Sells QC",
+    "role": "",
+    "ward": "Farringdon Without",
+    "party": ""
   },
   "interests": [
     {

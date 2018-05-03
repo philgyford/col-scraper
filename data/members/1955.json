@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:29.498296+00:00"
+    "time_created": "2018-05-03T13:24:26.075737+00:00"
   },
   "member": {
-    "id": 1955
+    "id": 1955,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1955",
+    "name": "Thomas Cowley Clementi",
+    "role": "",
+    "ward": "Lime Street",
+    "party": ""
   },
   "interests": [
     {
@@ -71,6 +76,14 @@
         },
         {
           "member": "Director - Lloyd's Market Association (Professional and Trade Association)",
+          "partner": ""
+        },
+        {
+          "member": "Board Member, Lloyd's Market Association",
+          "partner": ""
+        },
+        {
+          "member": "Board Member, Lloyd's Community Board",
           "partner": ""
         }
       ]

@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:27:55.485181+00:00"
+    "time_created": "2018-05-03T13:24:50.259380+00:00"
   },
   "member": {
-    "id": 220
+    "id": 220,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=220",
+    "name": "John William Fletcher, BSc",
+    "role": "",
+    "ward": "Portsoken",
+    "party": ""
   },
   "interests": [
     {

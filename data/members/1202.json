@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:57.948825+00:00"
+    "time_created": "2018-05-03T13:26:51.386332+00:00"
   },
   "member": {
-    "id": 1202
+    "id": 1202,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1202",
+    "name": "William Anthony Bowater Russell",
+    "role": "Alderman",
+    "ward": "Bread Street",
+    "party": ""
   },
   "interests": [
     {

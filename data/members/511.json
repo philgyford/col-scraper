@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:23.923886+00:00"
+    "time_created": "2018-05-03T13:25:12.585689+00:00"
   },
   "member": {
-    "id": 511
+    "id": 511,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=511",
+    "name": "Peter Lionel Raleigh Hewitt, JP, FCSI, FRSA",
+    "role": "Alderman",
+    "ward": "Aldgate",
+    "party": ""
   },
   "interests": [
     {

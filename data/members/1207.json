@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:30:18.451944+00:00"
+    "time_created": "2018-05-03T13:27:09.691073+00:00"
   },
   "member": {
-    "id": 1207
+    "id": 1207,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1207",
+    "name": "James Michael Douglas Thomson",
+    "role": "Deputy",
+    "ward": "Walbrook",
+    "party": ""
   },
   "interests": [
     {

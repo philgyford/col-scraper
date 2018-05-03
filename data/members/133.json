@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:26:46.037340+00:00"
+    "time_created": "2018-05-03T13:23:50.879503+00:00"
   },
   "member": {
-    "id": 133
+    "id": 133,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=133",
+    "name": "Nicholas Anstee",
+    "role": "Alderman",
+    "ward": "Aldersgate",
+    "party": ""
   },
   "interests": [
     {

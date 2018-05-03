@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:54.099336+00:00"
+    "time_created": "2018-05-03T13:26:45.908186+00:00"
   },
   "member": {
-    "id": 374
+    "id": 374,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=374",
+    "name": "Matthew Richardson",
+    "role": "Alderman",
+    "ward": "Billingsgate",
+    "party": ""
   },
   "interests": [
     {

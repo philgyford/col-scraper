@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:29:47.888185+00:00"
+    "time_created": "2018-05-03T13:26:40.119534+00:00"
   },
   "member": {
-    "id": 409
+    "id": 409,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=409",
+    "name": "Henrika Johanna Sofia Priest",
+    "role": "",
+    "ward": "Castle Baynard",
+    "party": ""
   },
   "interests": [
     {

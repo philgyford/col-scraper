@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:26:51.087177+00:00"
+    "time_created": "2018-05-03T13:23:55.253726+00:00"
   },
   "member": {
-    "id": 1952
+    "id": 1952,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1952",
+    "name": "Adrian Mark Bastow",
+    "role": "",
+    "ward": "Aldersgate",
+    "party": ""
   },
   "interests": [
     {

@@ -1,9 +1,14 @@
 {
   "meta": {
-    "time_created": "2018-05-02T17:28:18.449823+00:00"
+    "time_created": "2018-05-03T13:25:11.025321+00:00"
   },
   "member": {
-    "id": 1218
+    "id": 1218,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1218",
+    "name": "Christopher Michael Hayward",
+    "role": "",
+    "ward": "Broad Street",
+    "party": ""
   },
   "interests": [
     {
