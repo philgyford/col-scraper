@@ -26,9 +26,11 @@ Add the `--verbose` flag to see more debug output:
 
     python ./scrape_members.py --verbose
 
-You can also fetch an individual Member's data if you know their numeric ID (useful for debugging):
+You can also fetch an individual member's data if you know their numeric ID (useful for debugging):
 
     python ./scrape_members.py --id=292
+
+That won't update any of the "list" JSON files, only the member's individual file.
 
 
 ## Creating an SQLite database
