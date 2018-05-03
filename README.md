@@ -30,6 +30,16 @@ You can also fetch an individual Member's data if you know their numeric ID (use
 
     python ./scrape_members.py --id=292
 
+
+## Creating a SQLite database
+
+Assuming all the JSON files are present, you can create an SQLite database by running this command, passing in the name of the database file to create:
+
+    python convert_json_to_sqlite.py register.db
+
+You should be able to run it multiple times without things breaking...
+
+
 ## The JSON files
 
 There are three files listing members, wards and committees, and then a single file for each member.
@@ -178,15 +188,6 @@ If the value for either of these on the web page was "Nil", "n/a", "None", "-", 
 #### Gifts
 
 The gifts come from the "Gifts of Hospitality" table. Each object in the `gifts` array has a `name`, and two dates. `date_str` is the original text from web page. `date` is an attempt to create a `YYYY-MM-DD` date from this string using [dateparser][dateparser]. It's usually accurate but fails on some strings such as "2-3 February 2017", and if no year was supplied. In either case `date` will be `null`.
-
-
-## Creating the SQLite database
-
-Assuming all the JSON files are present, you can create an SQLite database by running this command, passing in the name of the database file to create:
-
-    python convert_json_to_sqlite.py register.db
-
-You should be able to run it multiple times without things breaking...
 
 
 [colc]: http://democracy.cityoflondon.gov.uk/mgMemberIndex.aspx?VW=TABLE&PIC=1&FN=
