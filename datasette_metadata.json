@@ -1,0 +1,35 @@
+{
+  "title": "City of London councillors",
+  "description": "Data about Aldermen and Common Councillors scraped from the City of London website",
+  "source": "See col-scraper on GitHub",
+  "source_url": "https://github.com/philgyford/col-scraper",
+  "databases": {
+    "register": {
+      "tables": {
+        "committees": {
+          "label_column": "name"
+        },
+        "committee_membership": {
+          "hidden": true
+        },
+        "gifts": {
+          "description_html": "<p>Gifts of Hospitality declared in the Register of Interests.</p><p><code>date_str</code> is the date as supplied in the Register, and <code>date</code> is an attempt to create a year-month-day date from that string.</p>"
+        },
+        "interest_categories": {
+          "label_column": "name"
+        },
+        "interests": {
+          "description": "Interests declared for members and their partners ( 'Spouse/Civil Partner/Living as such') from the Register of Interests."
+        },
+        "members": {
+          "description": "Aldermen and Common Councillors. There are 25 Aldermen and 100 Common Councillors.",
+          "label_column": "name"
+        },
+        "wards": {
+          "description": "Electoral wards within the City of London. Each ward elects one Alderman and two or more Common Councillors.",
+          "label_column": "name"
+        }
+      }
+    }
+  }
+}
