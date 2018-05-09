@@ -238,7 +238,7 @@ An array of objects listing all the committee memberships this member has. Each 
 
 #### Interests
 
-An array of objects, each one a category of declared interests. The category has a `name`, such as "Employment, office, trade, profession or vocation".
+An array of objects, each one a category of interests. The category has a `name`, such as "Employment, office, trade, profession or vocation".
 
 Each category contains an array of zero or more `item`s, each equivalent to a row in a table on [the web page][interests].
 
