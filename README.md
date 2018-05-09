@@ -39,7 +39,7 @@ The JSON data is included here, so this step isn't required, but to re-fetch it,
 
 Add the `--verbose` flag to see more debug output:
 
-    python ./scrape_members.py --verbose
+    python scrape_members.py --verbose
 
 You can also fetch an individual member's data if you know their numeric ID (useful for debugging):
 
