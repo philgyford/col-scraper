@@ -94,7 +94,7 @@ def create_and_populate_fts(cursor):
     # Gifts
     conn.executescript("""
         CREATE VIRTUAL TABLE "gifts_fts"
-        USING FTS4 (name, category, member, content="interests");
+        USING FTS4 (name, member, content="gifts");
     """)
     conn.executescript("""
         INSERT INTO "gifts_fts" (rowid, name, member)
