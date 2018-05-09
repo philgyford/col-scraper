@@ -10,7 +10,7 @@ This repo provides several things:
 
 4. A Dockerfile suitable for deploying the Datasette interface to something like [Zeit.co][zeit].
 
-Each step is detailed below.
+Each step is detailed below, along with more information about the structure of the JSON files.
 
 The scraping script currently gets basic data about each member (e.g. name, ward, party), their data from the Register of Interests, and their committee memberships. It could fetch more, such as contact details, voting record, etc.
 
