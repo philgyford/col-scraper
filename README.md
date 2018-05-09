@@ -1,6 +1,6 @@
 # City of London councillors data scraper
 
-This repo provides several things:
+This repository provides several things:
 
 1. A script that scrapes data from pages at [City of London's Councillors][colc] and saves them into JSON files, which area included here in the `data/` directory. (`scrape_members.py`)
 
@@ -11,6 +11,8 @@ This repo provides several things:
 4. A Dockerfile suitable for deploying the Datasette interface to something like [Zeit.co][zeit].
 
 Each step is detailed below, along with more information about the structure of the JSON files.
+
+**You can browse the resulting database at https://city-of-london-councillors.now.sh**
 
 The scraping script currently gets basic data about each member (e.g. name, ward, party), their data from the Register of Interests, and their committee memberships. It could fetch more, such as contact details, voting record, etc.
 
