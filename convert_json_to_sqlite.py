@@ -52,7 +52,7 @@ def init_db(filename):
     CREATE TABLE interests (
         kind VARCHAR(10),
         name TEXT,
-        category_id VARCHAR(8) REFERENCES categories(id),
+        category_id VARCHAR(8) REFERENCES interest_categories(id),
         member_id INTEGER REFERENCES members(id)
     );
     CREATE TABLE gifts (
