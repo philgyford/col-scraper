@@ -2,7 +2,7 @@
 
 This repository provides several things:
 
-1. A script that scrapes data from pages at [City of London's Councillors][colc] and saves them into JSON files, which area included here in the `data/` directory. (`scrape_members.py`)
+1. A script that scrapes data from pages at [City of London's Councillors][colc] and saves them into JSON files, which are included here in the `data/` directory. (`scrape_members.py`)
 
 2. A script that converts these JSON files into an SQLite database. (`convert_json_to_sqlite.py`)
 
