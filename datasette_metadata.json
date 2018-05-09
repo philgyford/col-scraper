@@ -22,13 +22,13 @@
           "hidden": true
         },
         "gifts": {
-          "description_html": "<p>Gifts of Hospitality declared in the Register of Interests.</p><p><code>date_str</code> is the date as supplied in the Register, and <code>date</code> is an attempt to create a year-month-day date from that string.</p>"
+          "description_html": "<p>Gifts of Hospitality in the Register of Interests.</p><p><code>date_str</code> is the date as supplied in the Register, and <code>date</code> is an attempt to create a year-month-day date from that string.</p>"
         },
         "interest_categories": {
           "label_column": "name"
         },
         "interests": {
-          "description": "Interests declared for members and their partners ( 'Spouse/Civil Partner/Living as such') from the Register of Interests."
+          "description": "Interests for members and their partners ('Spouse/Civil Partner/Living as such') from the Register of Interests."
         },
         "members": {
           "description": "Aldermen and Common Councillors. There are 25 Aldermen and 100 Common Councillors.",
