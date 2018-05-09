@@ -37,7 +37,7 @@ That won't update any of the "list" JSON files, only the member's individual fil
 
 Assuming all the JSON files are present, you can create an SQLite database by running this command, passing in the name of the database file to create:
 
-    python convert_json_to_sqlite.py register.db
+    python convert_json_to_sqlite.py colmem.db
 
 You should be able to run it multiple times without things breaking...
 
