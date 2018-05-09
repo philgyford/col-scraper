@@ -4,7 +4,7 @@
   "source": "See col-scraper on GitHub",
   "source_url": "https://github.com/philgyford/col-scraper",
   "databases": {
-    "register": {
+    "colmem": {
       "queries": {
         "gifts_committee_search": "SELECT m.id, m.name, g.name, g.date_str, g.date FROM members AS m, committee_membership AS cm, gifts AS g WHERE m.id = cm.member_id AND m.id = g.member_id AND cm.committee_id = :committee_id AND g.name LIKE :term ORDER BY m.name",
 
