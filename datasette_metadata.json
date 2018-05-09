@@ -5,6 +5,15 @@
   "source_url": "https://github.com/philgyford/col-scraper",
   "databases": {
     "register": {
+      "queries": {
+        "gifts_committee_search": "SELECT m.id, m.name, g.name, g.date_str, g.date FROM members AS m, committee_membership AS cm, gifts AS g WHERE m.id = cm.member_id AND m.id = g.member_id AND cm.committee_id = :committee_id AND g.name LIKE :term ORDER BY m.name",
+
+        "gifts_search": "SELECT m.id, m.name, g.name, g.date_str, g.date FROM members AS m, gifts AS g WHERE m.id = g.member_id AND g.name LIKE :term ORDER BY m.name",
+
+        "interests_committee_search": "SELECT m.id, m.name, i.kind, i.name FROM members AS m, committee_membership AS cm, interests AS i WHERE m.id = cm.member_id AND m.id = i.member_id AND cm.committee_id = :committee_id AND i.name LIKE :term ORDER BY m.name, i.kind",
+
+        "interests_search": "SELECT m.id, m.name, i.kind, i.name FROM members AS m, interests AS i WHERE m.id = i.member_id AND i.name LIKE :term ORDER BY m.name, i.kind"
+      },
       "tables": {
         "committees": {
           "label_column": "name"
