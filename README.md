@@ -2,7 +2,7 @@
 
 This repo provides several things:
 
-1. A script that scrapes data from pages [City of London's Councillors][colc] and saves them into JSON files (which area included here in the `data/` directory). (`scrape_members.py`)
+1. A script that scrapes data from pages at [City of London's Councillors][colc] and saves them into JSON files, which area included here in the `data/` directory. (`scrape_members.py`)
 
 2. A script that converts these JSON files into an SQLite database. (`convert_json_to_sqlite.py`)
 
@@ -33,7 +33,7 @@ From scraping the data through to deploying on Zeit.co.
 
 The JSON data is included here, so this step isn't required, but to re-fetch it, or start from scratch:
 
-    python ./scrape_members.py
+    python scrape_members.py
 
 Add the `--verbose` flag to see more debug output:
 
@@ -41,7 +41,7 @@ Add the `--verbose` flag to see more debug output:
 
 You can also fetch an individual member's data if you know their numeric ID (useful for debugging):
 
-    python ./scrape_members.py --id=292
+    python scrape_members.py --id=292
 
 That won't update any of the "list" JSON files, only the member's individual file.
 
@@ -61,7 +61,7 @@ The database should be called `colmem.db` for use with the Datasette metadata fi
 
 ### 3. Browse the database with Datasette
 
-Assuming you have an SQLite database, then run this command:
+Assuming you have an SQLite database from step 2, then run this command:
 
     datasette colmem.db --metadata datasette_metadata.json
 
@@ -70,7 +70,7 @@ You should now be able to visit http://127.0.0.1:8001 in your browser.
 
 ### 4. Deploying to Zeit.co
 
-You could run the Datasette interface anywhere, but here's how to get it on Zeit.co.
+You could run the Datasette interface anywhere, but here's how to get it running on Zeit.co.
 
 Set up an account on [Zeit.co][zeit].
 
@@ -80,15 +80,23 @@ Then run:
 
     now
 
-This should, hopefully, create a deployment for you called something like `col-scraper-abcdefghij.now.sh` which you could visit at https://col-scraper-abcdefghij.now.sh .
+This should, hopefully, create a deployment for you called something like `col-scraper-abcdefghij.now.sh` which you could visit at `https://col-scraper-abcdefghij.now.sh`
 
-To give it a nicer domain name do:
+To give it a nicer domain name, give it an alias:
 
     now alias https://col-scraper-abcdefghij.now.sh my-nice-alias
 
-Which would make the site accessible at https://my-nice-alias.now.sh
+Which would make the site accessible at `https://my-nice-alias.now.sh`
 
 If you want to update the site, you run `now` again, which creates a brand new deployment. You then need to point your existing alias to this new deployment, by running `now alias` again with the new deployment's URL.
+
+List all the deployments for this app with:
+
+    now ls col-scraper
+
+Remove unused ones with:
+
+    now rm col-scraper-abcdefghij.now.sh
 
 
 ## The JSON files
