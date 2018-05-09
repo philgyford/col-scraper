@@ -73,6 +73,37 @@ def init_db(filename):
     conn.close()
 
 
+def create_and_populate_fts(cursor):
+    """
+    Create full text search tables.
+    """
+
+    # Interests
+    conn.executescript("""
+        CREATE VIRTUAL TABLE "interests_fts"
+        USING FTS4 (name, category, member, content="interests");
+    """)
+    conn.executescript("""
+        INSERT INTO "interests_fts" (rowid, name, category, member)
+        SELECT interests.rowid, interests.name, interest_categories.name, members.name
+        FROM interests
+        JOIN interest_categories ON interests.category_id = interest_categories.id
+        JOIN members ON interests.member_id = members.id;
+    """)
+
+    # Gifts
+    conn.executescript("""
+        CREATE VIRTUAL TABLE "gifts_fts"
+        USING FTS4 (name, category, member, content="interests");
+    """)
+    conn.executescript("""
+        INSERT INTO "gifts_fts" (rowid, name, member)
+        SELECT gifts.rowid, gifts.name, members.name
+        FROM gifts
+        JOIN members ON gifts.member_id = members.id;
+    """)
+
+
 def insert_or_replace(cursor, table, record):
     pairs = record.items()
     columns = [p[0] for p in pairs]
@@ -300,5 +331,8 @@ if __name__ == "__main__":
         filepath = os.path.join(members_dir, filename)
         load_member(filepath, c)
 
+    create_and_populate_fts(c)
+
     conn.commit()
+
     c.close()
