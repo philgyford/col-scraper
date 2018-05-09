@@ -1,24 +1,37 @@
 # City of London councillors data scraper
 
-There are currently two scripts here:
+This repo provides several things:
 
-* `scrape_members.py` scrapes the [City of London's Councillors][colc] page and creates the JSON files included here in the `data/` directory.
+1. A script that scrapes data from pages [City of London's Councillors][colc] and saves them into JSON files (which area included here in the `data/` directory). (`scrape_members.py`)
 
-* `convert_json_to_sqlite.py` uses those JSON files to create an SQLite database of the data.
+2. A script that converts these JSON files into an SQLite database. (`convert_json_to_sqlite.py`)
 
+3. Configuration to use [Datasette][datasette] to create a web-browsable version of the SQLite database.
 
-Install requirements with:
+4. A Dockerfile suitable for deploying the Datasette interface to something like [Zeit.co][zeit].
 
-    pip install -r requirements.txt
+Each step is detailed below.
 
-This currently gets basic data about each member (e.g. name, ward, party), their data from the Register of Interests, and their committee memberships. It could fetch more, such as contact details, voting record, etc.
+The scraping script currently gets basic data about each member (e.g. name, ward, party), their data from the Register of Interests, and their committee memberships. It could fetch more, such as contact details, voting record, etc.
 
 While every effort has been taken to ensure accuracy, I haven't checked every single piece of saved data, so use at your own risk.
 
 
-## Fetching the JSON data
+## Setup
 
-The JSON data is included here, but to re-fetch it, or start from scratch:
+Install python requirements with:
+
+    pip install -r requirements.txt
+
+
+## The four steps
+
+From scraping the data through to deploying on Zeit.co.
+
+
+### 1. Fetching the JSON data
+
+The JSON data is included here, so this step isn't required, but to re-fetch it, or start from scratch:
 
     python ./scrape_members.py
 
@@ -32,14 +45,50 @@ You can also fetch an individual member's data if you know their numeric ID (use
 
 That won't update any of the "list" JSON files, only the member's individual file.
 
+See below for more information about what the JSON files contain.
 
-## Creating an SQLite database
+
+### 2. Creating an SQLite database
 
 Assuming all the JSON files are present, you can create an SQLite database by running this command, passing in the name of the database file to create:
 
     python convert_json_to_sqlite.py colmem.db
 
-You should be able to run it multiple times without things breaking...
+You should be able to run it multiple times without things breaking.
+
+The database should be called `colmem.db` for use with the Datasette metadata file in step 3.
+
+
+### 3. Browse the database with Datasette
+
+Assuming you have an SQLite database, then run this command:
+
+    datasette colmem.db --metadata datasette_metadata.json
+
+You should now be able to visit http://127.0.0.1:8001 in your browser.
+
+
+### 4. Deploying to Zeit.co
+
+You could run the Datasette interface anywhere, but here's how to get it on Zeit.co.
+
+Set up an account on [Zeit.co][zeit].
+
+Install the Zeit command line tools.
+
+Then run:
+
+    now
+
+This should, hopefully, create a deployment for you called something like `col-scraper-abcdefghij.now.sh` which you could visit at https://col-scraper-abcdefghij.now.sh .
+
+To give it a nicer domain name do:
+
+    now alias https://col-scraper-abcdefghij.now.sh my-nice-alias
+
+Which would make the site accessible at https://my-nice-alias.now.sh
+
+If you want to update the site, you run `now` again, which creates a brand new deployment. You then need to point your existing alias to this new deployment, by running `now alias` again with the new deployment's URL.
 
 
 ## The JSON files
@@ -193,6 +242,10 @@ The gifts come from the "Gifts of Hospitality" table. Each object in the `gifts`
 
 
 [colc]: http://democracy.cityoflondon.gov.uk/mgMemberIndex.aspx?VW=TABLE&PIC=1&FN=
+
+[datasette]: https://github.com/simonw/datasette
+
+[zeit]: https://zeit.co/dashboard
 
 [member]: http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=292
 
