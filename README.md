@@ -82,9 +82,9 @@ Then run:
 
     now
 
-This should, hopefully, create a deployment for you called something like `col-scraper-abcdefghij.now.sh` which you could visit at `https://col-scraper-abcdefghij.now.sh`
+This will use the `Dockerfile` to create a new deployment of the site. If it works, you will have a new site called something like `col-scraper-abcdefghij.now.sh` which you could visit at `https://col-scraper-abcdefghij.now.sh`
 
-To give it a nicer domain name, give it an alias:
+To give this a nicer domain name, give it an alias:
 
     now alias https://col-scraper-abcdefghij.now.sh my-nice-alias
 
