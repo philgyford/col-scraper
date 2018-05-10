@@ -14,6 +14,8 @@ Each step is detailed below, along with more information about the structure of 
 
 **You can browse the resulting database at https://city-of-london-councillors.now.sh**
 
+I wrote about this project [on my website][post].
+
 The scraping script currently gets basic data about each member (e.g. name, ward, party), their data from the Register of Interests, and their committee memberships. It could fetch more, such as contact details, voting record, etc.
 
 While every effort has been taken to ensure accuracy, I haven't checked every single piece of saved data, so use at your own risk.
@@ -264,3 +266,5 @@ The gifts come from the "Gifts of Hospitality" table. Each object in the `gifts`
 [interests]: http://democracy.cityoflondon.gov.uk/mgDeclarationSubmission.aspx?UID=292&HID=3012&FID=0&HPID=505566937
 
 [dateparser]: https://github.com/scrapinghub/dateparser
+
+[post]: http://www.gyford.com/phil/writing/2018/05/10/city-london-councillors-data/
