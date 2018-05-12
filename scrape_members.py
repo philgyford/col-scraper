@@ -182,7 +182,10 @@ def extract_member_committees(r):
 
                     # The name might end in one of these, which we need to
                     # remove and use as the member's role for that committee:
-                    roles = ['Chairman', 'Deputy Chairman', 'Ex-Officio Member']
+                    roles = ['Chairman',
+                            'Deputy Chairman',
+                            'Ex-Officio Member',
+                            'Vice-Chair',]
 
                     for role in roles:
                         if committee_name.endswith(' ({})'.format(role)):
