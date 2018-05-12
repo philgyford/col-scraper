@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:14:47.246235+00:00"
+    "time_created": "2018-05-12T10:20:43.865304+00:00"
   },
   "member": {
     "id": 263,
@@ -14,6 +14,11 @@
     {
       "id": 140,
       "name": "Barbican Centre Board",
+      "role": ""
+    },
+    {
+      "id": 216,
+      "name": "Corporate Asset Sub (Finance) Committee",
       "role": ""
     },
     {

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:16:12.530367+00:00"
+    "time_created": "2018-05-12T10:21:25.935996+00:00"
   },
   "member": {
     "id": 384,
@@ -14,6 +14,11 @@
     {
       "id": 141,
       "name": "Ashtead Common Consultation Group",
+      "role": ""
+    },
+    {
+      "id": 216,
+      "name": "Corporate Asset Sub (Finance) Committee",
       "role": ""
     },
     {
@@ -69,11 +74,6 @@
     {
       "id": 172,
       "name": "Reference Sub Committee of the Barbican Centre Board",
-      "role": ""
-    },
-    {
-      "id": 210,
-      "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama",
       "role": ""
     },
     {

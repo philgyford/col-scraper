@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:16:16.709542+00:00"
+    "time_created": "2018-05-12T10:21:30.412082+00:00"
   },
   "member": {
     "id": 385,
@@ -37,11 +37,6 @@
       "role": ""
     },
     {
-      "id": 168,
-      "name": "Projects Sub (Policy and Resources) Committee",
-      "role": "Chairman"
-    },
-    {
       "id": 1072,
       "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
       "role": ""
@@ -62,20 +57,16 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Senior Partner - Kingston Smith LLP; Kingston Smith & Partners LLP; Kingston Smith Property Partnership (Romford); Devonshire Corporate Services LLP; Kingston Smith Consulting LLP; Kingston Smith Pension Trustees LLP, Goswell Road EC1",
+          "member": "Consultant - Kingston Smith LLP; Kingston Smith & Partners LLP",
           "partner": ""
         },
         {
-          "member": "Director - Kingston Sorel International; KSI Logo Ltd; Devonshire Group Services Ltd; Devonshire Corporate Finance Ltd; HR Insight Ltd; Kingston Smith Advisers Ltd; Kingston Smith Services Ltd; Kingston Smith Financial Services Ltd; Devonshire House (Nominees) Ltd; VAT Agents Ltd; Kingston Smith INOX DC Outsourcing Private Ltd; Letchford House Management Ltd; Resources for Associations Ltd; Kingston Smith Financial Advisers Ltd; Kingston Smith Group Services Ltd; KSLS Management Ltd, Goswell Road EC1",
+          "member": "Director - Metro Bank Plc",
           "partner": ""
         },
         {
-          "member": "Director, GLE Loan Finance Limited (10-12 Queen Elizabeth Street, SE1)",
-          "partner": ""
-        },
-        {
-          "member": "Director of Metro Bank Plc",
-          "partner": ""
+          "member": "Senior Partner - Bramdean Consultants LLP",
+          "partner": "Wife: Partner - Bramdean Consultants LLP"
         }
       ]
     },
@@ -87,7 +78,7 @@
       "name": "Contracts",
       "items": [
         {
-          "member": "Director and Trustee, Crossrail Arts Foundation (25 Canada Square, E14).",
+          "member": "Director and Trustee- Crossrail Arts Foundation (25 Canada Square, E14)",
           "partner": ""
         }
       ]
@@ -117,23 +108,23 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Brentwood School",
+          "member": "Chairman of Governers - Brentwood School",
           "partner": ""
         },
         {
-          "member": "Ward of Cordwainer Club",
+          "member": "Vice President - Ward of Cordwainer Club",
           "partner": ""
         },
         {
-          "member": "City Pickwick Club",
+          "member": "Member - City Pickwick Club",
           "partner": ""
         },
         {
-          "member": "The Imperial Society",
+          "member": "Life Member - The Imperial Society",
           "partner": ""
         },
         {
-          "member": "Freemason - United Grand Lodge of England, Guildhall Lodge",
+          "member": "Freemason - United Grand Lodge of England, Guildhall Lodge and Metropolitan Grand Lodge of London",
           "partner": ""
         },
         {
@@ -145,7 +136,7 @@
           "partner": ""
         },
         {
-          "member": "Fellow - The Royal Society of Arts (Chatham House) Learned Society",
+          "member": "Fellow - The Royal Society of Arts, (Chatham House) Learned Society",
           "partner": ""
         },
         {
@@ -153,7 +144,7 @@
           "partner": ""
         },
         {
-          "member": "Fellow - Institute of Directors",
+          "member": "Patron of Arcubus (associated with Just Share)",
           "partner": ""
         },
         {
@@ -161,27 +152,27 @@
           "partner": ""
         },
         {
-          "member": "Chairman - The Association of Practicing Accountants",
+          "member": "Governor – City of London School for Girls",
           "partner": ""
         },
         {
-          "member": "Group A (Firms of CAs)",
+          "member": "Chairman - Tallow's Wine Appreciation Society (TWAS)",
           "partner": ""
         },
         {
-          "member": "Chairman of GLE Loan Finance Ltd",
+          "member": "Member - The Athenaeum Club",
           "partner": ""
         },
         {
-          "member": "Patron of Arcubus (associated with Just Share)",
+          "member": "Member - The British Association for Shooting and Conservation",
           "partner": ""
         },
         {
-          "member": "Co Chair of the Government’s Professional and Business Services Council",
+          "member": "Member - The Country Landowners Association",
           "partner": ""
         },
         {
-          "member": "Chairman of the Governors – City of London School for Girls",
+          "member": "Member - The Inland Waterways Association",
           "partner": ""
         },
         {
@@ -197,23 +188,7 @@
           "partner": ""
         },
         {
-          "member": "Life Member - National Trust",
-          "partner": ""
-        },
-        {
-          "member": "Member - The Inland Waterways Association",
-          "partner": ""
-        },
-        {
-          "member": "Member - Country Landowners Association",
-          "partner": ""
-        },
-        {
-          "member": "Member - The British Association for Shooting and Conservation",
-          "partner": ""
-        },
-        {
-          "member": "Chairman - Tallow's Wine Appreciation Society (TWAS)",
+          "member": "Life Member - The National Trust",
           "partner": ""
         }
       ]

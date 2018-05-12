@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:15:26.158556+00:00"
+    "time_created": "2018-05-12T10:20:47.131171+00:00"
   },
   "member": {
     "id": 380,
@@ -29,16 +29,6 @@
     {
       "id": 257,
       "name": "Information Technology Sub (Finance) Committee",
-      "role": "Deputy Chairman"
-    },
-    {
-      "id": 176,
-      "name": "Investment Committee",
-      "role": "Ex-Officio Member"
-    },
-    {
-      "id": 168,
-      "name": "Projects Sub (Policy and Resources) Committee",
       "role": "Deputy Chairman"
     },
     {
@@ -73,15 +63,11 @@
           "partner": ""
         },
         {
-          "member": "Chairman of Osprey Lodges Ltd",
+          "member": "Head of Change for Wholesale Markets, Towergate",
           "partner": ""
         },
         {
-          "member": "De minimus share holdings in Genpact Inc Vodafone plc and Verizon Communications Inc",
-          "partner": ""
-        },
-        {
-          "member": "Master Mason of the Guildhall Lodge of Freemasons",
+          "member": "De minimus share holdings in Vodafone plc and Verizon Communications Inc",
           "partner": ""
         },
         {
@@ -89,11 +75,7 @@
           "partner": ""
         },
         {
-          "member": "Liveryman of the Worshipful Company of Makers of Playing Cards",
-          "partner": ""
-        },
-        {
-          "member": "Liveryman of the Worshipful Company of Management Consultants",
+          "member": "Member of the Institute of Directors",
           "partner": ""
         }
       ]
@@ -124,7 +106,24 @@
     },
     {
       "name": "Non-pecuniary interests",
-      "items": []
+      "items": [
+        {
+          "member": "Liveryman of the Worshipful Company of Management Consultants",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman of the Worshipful Company of Makers of Playing Cards",
+          "partner": ""
+        },
+        {
+          "member": "Master Mason of the Guildhall Lodge of Freemasons",
+          "partner": ""
+        },
+        {
+          "member": "Chairman of Osprey Lodges Ltd",
+          "partner": ""
+        }
+      ]
     }
   ],
   "gifts": []

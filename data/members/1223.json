@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:14:49.078810+00:00"
+    "time_created": "2018-05-12T10:20:45.194856+00:00"
   },
   "member": {
     "id": 1223,
@@ -129,7 +129,7 @@
     {
       "id": 168,
       "name": "Projects Sub (Policy and Resources) Committee",
-      "role": ""
+      "role": "Deputy Chairman"
     },
     {
       "id": 986,
@@ -144,6 +144,11 @@
     {
       "id": 408,
       "name": "Standards Committee",
+      "role": ""
+    },
+    {
+      "id": 389,
+      "name": "Streets and Walkways Sub (Planning and Transportation) Committee",
       "role": ""
     },
     {

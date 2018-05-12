@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:16:08.284751+00:00"
+    "time_created": "2018-05-12T10:21:21.699322+00:00"
   },
   "member": {
     "id": 402,
@@ -85,6 +85,11 @@
       "id": 235,
       "name": "Reference Sub Committee of the Board of Governors of the City of London School",
       "role": "Deputy Chairman"
+    },
+    {
+      "id": 1064,
+      "name": "Social Investment Board",
+      "role": ""
     },
     {
       "id": 179,

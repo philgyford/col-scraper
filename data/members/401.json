@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:13:53.267208+00:00"
+    "time_created": "2018-05-12T10:19:55.355935+00:00"
   },
   "member": {
     "id": 401,
@@ -70,7 +70,7 @@
       "name": "Contracts",
       "items": [
         {
-          "member": "Historystore Ltd has a contract for the provision of Menus for selected City of London Corporation events.",
+          "member": "Historystore Ltd has a contract for the provision of antique documents and reproduction menus[",
           "partner": ""
         }
       ]
@@ -109,6 +109,18 @@
         {
           "member": "Membership of the Council of Gresham College",
           "partner": "Liveryman of the Worshipful Company of Stationers and Newspaper Makers"
+        },
+        {
+          "member": "Royal Philatelic Society London",
+          "partner": ""
+        },
+        {
+          "member": "Broad Street Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Arts Scholars livery company",
+          "partner": ""
         }
       ]
     }

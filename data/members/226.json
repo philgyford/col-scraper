@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:14:18.388571+00:00"
+    "time_created": "2018-05-12T10:20:16.144293+00:00"
   },
   "member": {
     "id": 226,
@@ -43,7 +43,7 @@
       "items": [
         {
           "member": "UK Country Manager, SEB, One Carter Lane, EC4",
-          "partner": ""
+          "partner": "City Music Foundation"
         }
       ]
     },
@@ -152,6 +152,38 @@
         },
         {
           "member": "Trustee - Barbican Centre Trust",
+          "partner": ""
+        },
+        {
+          "member": "St.Pauls Cathedral Foundation",
+          "partner": ""
+        },
+        {
+          "member": "English Chamber Orchestra and Music Society Ltd.",
+          "partner": ""
+        },
+        {
+          "member": "The Tenebrae Chior",
+          "partner": ""
+        },
+        {
+          "member": "City Music Foundation",
+          "partner": ""
+        },
+        {
+          "member": "Barbican Centre Trust",
+          "partner": ""
+        },
+        {
+          "member": "Sedbergh School",
+          "partner": ""
+        },
+        {
+          "member": "Multrees Investor Services (subsidiary of SERB Pension)",
+          "partner": ""
+        },
+        {
+          "member": "SEB Life Ireland (related to SEB London)",
           "partner": ""
         }
       ]

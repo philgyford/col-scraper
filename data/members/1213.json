@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:16:13.914539+00:00"
+    "time_created": "2018-05-12T10:21:27.531054+00:00"
   },
   "member": {
     "id": 1213,
@@ -49,12 +49,12 @@
     {
       "id": 395,
       "name": "Policy and Resources Committee",
-      "role": ""
+      "role": "Vice-Chair"
     },
     {
       "id": 125,
       "name": "Property Investment Board",
-      "role": "Deputy Chairman"
+      "role": "Chairman"
     },
     {
       "id": 1072,

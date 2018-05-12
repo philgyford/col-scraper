@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:14:33.828242+00:00"
+    "time_created": "2018-05-12T10:20:29.350187+00:00"
   },
   "member": {
     "id": 511,
@@ -27,14 +27,9 @@
       "role": ""
     },
     {
-      "id": 248,
-      "name": "Financial Investment Board",
-      "role": ""
-    },
-    {
       "id": 176,
       "name": "Investment Committee",
-      "role": "Ex-Officio Member"
+      "role": ""
     },
     {
       "id": 125,

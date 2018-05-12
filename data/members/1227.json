@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:13:14.848275+00:00"
+    "time_created": "2018-05-12T10:19:18.321655+00:00"
   },
   "member": {
     "id": 1227,
@@ -54,6 +54,11 @@
     {
       "id": 223,
       "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1147,
+      "name": "Education Board",
       "role": ""
     },
     {
@@ -119,6 +124,11 @@
     {
       "id": 143,
       "name": "Planning and Transportation Committee",
+      "role": ""
+    },
+    {
+      "id": 168,
+      "name": "Projects Sub (Policy and Resources) Committee",
       "role": ""
     },
     {

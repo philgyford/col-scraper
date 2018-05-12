@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:15:40.628703+00:00"
+    "time_created": "2018-05-12T10:20:57.940059+00:00"
   },
   "member": {
     "id": 404,
@@ -178,6 +178,62 @@
         },
         {
           "member": "Director, Sculptura Ltd",
+          "partner": ""
+        },
+        {
+          "member": "Patron, Jonas foundation",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, Blackpool Museum of Entertainment",
+          "partner": ""
+        },
+        {
+          "member": "Honourable Artillery Company, Court of Assistants",
+          "partner": ""
+        },
+        {
+          "member": "Wellington Livery Masters' Lodge",
+          "partner": ""
+        },
+        {
+          "member": "Royal Order of ScotlandHon. Liveryman of Clockmakers' Company",
+          "partner": ""
+        },
+        {
+          "member": "Honorary Liveryman of Constructors' Company",
+          "partner": ""
+        },
+        {
+          "member": "Honorary Liveryman of Builders' Merchants' Company",
+          "partner": ""
+        },
+        {
+          "member": "Sponsoring Alderman - Guild of Nurses",
+          "partner": ""
+        },
+        {
+          "member": "Honorary Liveryman of Tobacco Pipe Makers & Tobacco Blenders' Company",
+          "partner": ""
+        },
+        {
+          "member": "Honorary Freeman of Environmental Cleaners' Company",
+          "partner": ""
+        },
+        {
+          "member": "Honorary Liveryman of Security Professionals' Company",
+          "partner": ""
+        },
+        {
+          "member": "Honorary Liveryman of the Management Consultants' Company",
+          "partner": ""
+        },
+        {
+          "member": "Honorary Liveryman of the Painter-Stainers' Company",
+          "partner": ""
+        },
+        {
+          "member": "Honorary Liveryman of the Gold anf Silver Wyre Drawers' Company",
           "partner": ""
         }
       ]

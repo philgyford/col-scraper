@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:16:24.396099+00:00"
+    "time_created": "2018-05-12T10:21:37.443926+00:00"
   },
   "member": {
     "id": 1229,
@@ -47,7 +47,7 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "DIRECTOR PARKWELL MANAGEMENT CONSULTANTS 8, LAURENCE POUNTNEY HILL LONDON EC4R 0BE",
+          "member": "DIRECTOR PARKWELL MANAGEMENT CONSULTANTS & SUBSIDIARY COMPEER LIMITED 8, LAURENCE POUNTNEY HILL LONDON EC4R 0BE",
           "partner": "PHYSIOTHERAPIST LEWISHAM & GREENWICH NHS TRUST HIGH STREET LEWISHAM LONDON SE13 6LH"
         }
       ]
@@ -62,12 +62,7 @@
     },
     {
       "name": "Land",
-      "items": [
-        {
-          "member": "EQUITY STAKE IN PARKWELL MANAGEMENT CONSULTANTS WHICH IN TURN OWNS 1 PROPERTY ON BOTOLPH LANE, LONDON. EC3R 8DE.",
-          "partner": ""
-        }
-      ]
+      "items": []
     },
     {
       "name": "Licences",
@@ -143,6 +138,10 @@
         },
         {
           "member": "COMMUNICANT MEMBER OF THE CHURCH OF ENGLAND",
+          "partner": ""
+        },
+        {
+          "member": "TRUSTEE, CITY & METROPOLITAN CHARITY",
           "partner": ""
         }
       ]

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:14:23.537402+00:00"
+    "time_created": "2018-05-12T10:20:20.853218+00:00"
   },
   "member": {
     "id": 231,
@@ -14,6 +14,11 @@
     {
       "id": 1134,
       "name": "Assessment Sub (Standards) Committee",
+      "role": ""
+    },
+    {
+      "id": 140,
+      "name": "Barbican Centre Board",
       "role": ""
     },
     {

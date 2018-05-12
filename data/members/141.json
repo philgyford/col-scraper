@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:13:41.037790+00:00"
+    "time_created": "2018-05-12T10:19:42.379575+00:00"
   },
   "member": {
     "id": 141,
@@ -30,11 +30,6 @@
       "id": 176,
       "name": "Investment Committee",
       "role": ""
-    },
-    {
-      "id": 125,
-      "name": "Property Investment Board",
-      "role": ""
     }
   ],
   "interests": [
@@ -42,11 +37,7 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Non-Executive Director, UBS Ltd, Finsbury Avenue, EC2",
-          "partner": ""
-        },
-        {
-          "member": "Non-Executive Director, Crossrail Ltd, Citibank, Canary Wharf",
+          "member": "Consultant, Crossrail Ltd, Citibank, Canary Wharf",
           "partner": ""
         },
         {
@@ -54,7 +45,7 @@
           "partner": ""
         },
         {
-          "member": "Consultant to - H B Reavis Karadžicova 12 821 08 Bratislava Slovak Republic",
+          "member": "Director, H B Reavis",
           "partner": ""
         },
         {
@@ -79,8 +70,8 @@
       "name": "Land",
       "items": [
         {
-          "member": "Cromwell Tower, Barbican, EC2",
-          "partner": "Cromwell Tower, Barbican, EC2"
+          "member": "202 Cromwell Tower, Barbican, EC2",
+          "partner": "202 Cromwell Tower, Barbican, EC2"
         }
       ]
     },
@@ -105,6 +96,10 @@
         },
         {
           "member": "City of London Solicitors Company",
+          "partner": ""
+        },
+        {
+          "member": "Pastmaster Solicitors Livery Company",
           "partner": ""
         }
       ]

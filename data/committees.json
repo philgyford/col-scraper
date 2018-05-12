@@ -1,451 +1,447 @@
 {
   "committees": [
     {
-      "id": 122,
-      "name": "Epping Forest & Commons Committee"
-    },
-    {
-      "id": 140,
-      "name": "Barbican Centre Board"
-    },
-    {
-      "id": 1247,
-      "name": "Integrated Commissioning Board"
-    },
-    {
-      "id": 1183,
-      "name": "Mayoralty and Shrievalty Allowances - Joint Deputation of Representatives of the Court of Aldermen, the Policy & Resources Committee and the Finance Committee"
-    },
-    {
-      "id": 210,
-      "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama"
-    },
-    {
-      "id": 185,
-      "name": "Health and Social Care Scrutiny Committee"
-    },
-    {
-      "id": 192,
-      "name": "Finance Grants Oversight and Performance Sub Committee"
-    },
-    {
-      "id": 172,
-      "name": "Reference Sub Committee of the Barbican Centre Board"
-    },
-    {
-      "id": 173,
-      "name": "Crime and Disorder Scrutiny Committee"
-    },
-    {
-      "id": 334,
-      "name": "Gresham Working Party"
-    },
-    {
-      "id": 183,
-      "name": "Freedom Applications Committee"
-    },
-    {
-      "id": 179,
-      "name": "The City Bridge Trust Committee"
-    },
-    {
-      "id": 196,
-      "name": "Reference Sub Committee of the Board of Governors of the City of London School for Girls"
-    },
-    {
-      "id": 254,
-      "name": "Joint Consultative Committee"
-    },
-    {
-      "id": 408,
-      "name": "Standards Committee"
-    },
-    {
-      "id": 261,
-      "name": "Hampstead Heath Consultative Committee"
-    },
-    {
-      "id": 234,
-      "name": "Bursary Committee of the Board of Governors of the City of London School"
-    },
-    {
-      "id": 216,
-      "name": "Corporate Asset Sub (Finance) Committee"
-    },
-    {
-      "id": 141,
-      "name": "Ashtead Common Consultation Group"
-    },
-    {
-      "id": 555,
-      "name": "Taught Degree Awarding Powers Sub Committee of the Board of Governors of the Guildhall School of Music & Drama"
-    },
-    {
-      "id": 257,
-      "name": "Information Technology Sub (Finance) Committee"
-    },
-    {
-      "id": 244,
-      "name": "Audit and Risk Management Committee"
-    },
-    {
-      "id": 188,
-      "name": "Barbican Estate Residents Consultation Committee"
-    },
-    {
-      "id": 1196,
-      "name": "Safeguarding Inter-Board Chairmen's Meeting"
-    },
-    {
-      "id": 1187,
-      "name": "Local Government Pensions Board"
-    },
-    {
-      "id": 239,
-      "name": "Queen's Park Consultative Group"
-    },
-    {
-      "id": 177,
-      "name": "Culture, Heritage and Libraries Committee"
-    },
-    {
-      "id": 230,
-      "name": "Board of Governors of the City of London Freemen's School"
-    },
-    {
-      "id": 389,
-      "name": "Streets and Walkways Sub (Planning and Transportation) Committee"
-    },
-    {
-      "id": 248,
-      "name": "Financial Investment Board"
-    },
-    {
-      "id": 247,
-      "name": "Housing Management and Almshouses Sub (Community and Children's Services) Committee"
-    },
-    {
-      "id": 1251,
-      "name": "Epping Forest Joint Consultative Committee"
-    },
-    {
-      "id": 1256,
-      "name": "Housing Delivery Programme Working Group"
-    },
-    {
-      "id": 125,
-      "name": "Property Investment Board"
-    },
-    {
-      "id": 231,
-      "name": "Bursary Committee of the Board of Governors of the City of London Freemen's School"
-    },
-    {
-      "id": 223,
-      "name": "Court of Common Council"
-    },
-    {
-      "id": 212,
-      "name": "Finance, General Purposes and Estates Sub-Committee of the Board of Governors of the City of London Freemen's School"
-    },
-    {
-      "id": 213,
-      "name": "Academic and Personnel Sub Committee of the Board of Governors of the City of London Freemen's School"
-    },
-    {
-      "id": 1072,
-      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee"
-    },
-    {
-      "id": 236,
-      "name": "Board of Governors of the City of London School for Girls"
-    },
-    {
-      "id": 1197,
-      "name": "City of London School for Girls - 125th Anniversary Working Party"
-    },
-    {
-      "id": 400,
-      "name": "West Ham Park Committee"
-    },
-    {
-      "id": 395,
-      "name": "Policy and Resources Committee"
-    },
-    {
-      "id": 235,
-      "name": "Reference Sub Committee of the Board of Governors of the City of London School"
-    },
-    {
-      "id": 411,
-      "name": "Markets Committee"
-    },
-    {
-      "id": 994,
-      "name": "Health and Wellbeing Board"
-    },
-    {
-      "id": 1077,
-      "name": "West Wickham, Spring Park and Coulsdon Commons Consultation Group"
-    },
-    {
-      "id": 513,
-      "name": "Economic Crime Board of the Police Committee"
-    },
-    {
-      "id": 563,
-      "name": "Reference Sub (Markets) Committee"
-    },
-    {
-      "id": 163,
-      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama"
-    },
-    {
-      "id": 1222,
-      "name": "Nominations Sub (Education Board) Committee"
-    },
-    {
-      "id": 253,
-      "name": "Establishment Committee"
-    },
-    {
       "id": 1228,
       "name": "Burnham Beeches Consultation Group"
-    },
-    {
-      "id": 171,
-      "name": "Performance and Resource Management Sub (Police) Committee"
-    },
-    {
-      "id": 1229,
-      "name": "Courts Sub (Policy and Resources) Committee"
-    },
-    {
-      "id": 396,
-      "name": "Resource Allocation Sub (Policy and Resources) Committee"
-    },
-    {
-      "id": 252,
-      "name": "Inner North East London Joint Health Overview and Scrutiny Committee"
-    },
-    {
-      "id": 249,
-      "name": "Risk Committee of the Barbican Centre Board"
-    },
-    {
-      "id": 1205,
-      "name": "Outside Bodies Sub (Policy and Resources) Committee"
-    },
-    {
-      "id": 1064,
-      "name": "Social Investment Board"
-    },
-    {
-      "id": 407,
-      "name": "Members Privileges Sub (Policy and Resources) Committee"
-    },
-    {
-      "id": 250,
-      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee"
-    },
-    {
-      "id": 259,
-      "name": "Gresham (City Side) Committee"
-    },
-    {
-      "id": 240,
-      "name": "Highgate Wood Consultative Group"
-    },
-    {
-      "id": 245,
-      "name": "Efficiency and Performance Sub (Finance) Committee"
-    },
-    {
-      "id": 1106,
-      "name": "Dispensations Sub (Standards) Committee"
-    },
-    {
-      "id": 176,
-      "name": "Investment Committee"
-    },
-    {
-      "id": 1232,
-      "name": "Academic & Education Sub-Committee of the Board of Governors of the City of London School"
-    },
-    {
-      "id": 383,
-      "name": "Livery Committee"
-    },
-    {
-      "id": 986,
-      "name": "Reference Sub (Licensing) Committee"
-    },
-    {
-      "id": 1206,
-      "name": "Police Pensions Board"
-    },
-    {
-      "id": 387,
-      "name": "Board of Governors of the Guildhall School of Music and Drama"
-    },
-    {
-      "id": 1147,
-      "name": "Education Board"
-    },
-    {
-      "id": 1259,
-      "name": "Standards Appeals Committee"
-    },
-    {
-      "id": 164,
-      "name": "Nominations Committee of the Barbican Centre Board"
-    },
-    {
-      "id": 120,
-      "name": "Community & Children's Services Committee"
-    },
-    {
-      "id": 398,
-      "name": "Professional Standards and Integrity Sub (Police) Committee"
-    },
-    {
-      "id": 175,
-      "name": "Open Spaces and City Gardens"
-    },
-    {
-      "id": 174,
-      "name": "Member Development Steering Group"
-    },
-    {
-      "id": 201,
-      "name": "Audit and Risk Management Committee of the Board of Governors of the Guildhall School of Music & Drama"
-    },
-    {
-      "id": 413,
-      "name": "Keats House Consultative Committee"
-    },
-    {
-      "id": 1096,
-      "name": "Safeguarding Sub (Community & Children's Services) Committee"
-    },
-    {
-      "id": 1241,
-      "name": "Education Charity Sub (Education Board) Committee"
-    },
-    {
-      "id": 165,
-      "name": "Finance Committee of the Barbican Centre Board"
-    },
-    {
-      "id": 143,
-      "name": "Planning and Transportation Committee"
-    },
-    {
-      "id": 1255,
-      "name": "Capital Buildings Committee"
-    },
-    {
-      "id": 142,
-      "name": "Police Committee"
-    },
-    {
-      "id": 1208,
-      "name": "Wanstead Park Working Party"
-    },
-    {
-      "id": 404,
-      "name": "Reference Sub (Barbican Residential) Committee"
-    },
-    {
-      "id": 1134,
-      "name": "Assessment Sub (Standards) Committee"
-    },
-    {
-      "id": 850,
-      "name": "Lord Mayor's Show Ltd"
-    },
-    {
-      "id": 218,
-      "name": "Governance and Effectiveness Committee of the Board of Governors of the Guildhall School of Music & Drama"
-    },
-    {
-      "id": 219,
-      "name": "Nominations Committee of the Board of Governors of the Guildhall School of Music & Drama"
-    },
-    {
-      "id": 410,
-      "name": "Reference Sub Committee of the Board of Governors of the Guildhall School of Music and Drama"
-    },
-    {
-      "id": 237,
-      "name": "Bursary Committee of the Board of Governors of the City of London School for Girls"
-    },
-    {
-      "id": 1110,
-      "name": "Safer City Partnership Strategy Group"
-    },
-    {
-      "id": 153,
-      "name": "Barbican Residential Committee"
-    },
-    {
-      "id": 392,
-      "name": "Local Plans Sub (Planning and Transportation) Committee"
-    },
-    {
-      "id": 206,
-      "name": "Committee of Aldermanic Almoners, Common Council Governors and Donation Governors of Christ's Hospital"
-    },
-    {
-      "id": 1063,
-      "name": "Reference Sub (Committee of Aldermanic Almoners, Common Council Governors and Donation Governors of Christ's Hospital) Committee"
-    },
-    {
-      "id": 395,
-      "name": "Policy and Resources Committee (Vice-Chair)"
-    },
-    {
-      "id": 168,
-      "name": "Projects Sub (Policy and Resources) Committee"
-    },
-    {
-      "id": 227,
-      "name": "Benefices Sub (Culture, Heritage & Libraries) Committee"
-    },
-    {
-      "id": 1253,
-      "name": "Epping Forest Consultative Committee"
-    },
-    {
-      "id": 123,
-      "name": "Licensing Committee"
-    },
-    {
-      "id": 1233,
-      "name": "Finance & Estates Sub-Committee of the Board of Governors of the City of London School"
-    },
-    {
-      "id": 1094,
-      "name": "Wanstead Flats Playing Fields Committee"
-    },
-    {
-      "id": 220,
-      "name": "Court of Aldermen"
     },
     {
       "id": 262,
       "name": "Port Health & Environmental Services Committee"
     },
     {
+      "id": 122,
+      "name": "Epping Forest & Commons Committee"
+    },
+    {
+      "id": 1096,
+      "name": "Safeguarding Sub (Community & Children's Services) Committee"
+    },
+    {
+      "id": 165,
+      "name": "Finance Committee of the Barbican Centre Board"
+    },
+    {
+      "id": 400,
+      "name": "West Ham Park Committee"
+    },
+    {
+      "id": 234,
+      "name": "Bursary Committee of the Board of Governors of the City of London School"
+    },
+    {
+      "id": 259,
+      "name": "Gresham (City Side) Committee"
+    },
+    {
+      "id": 201,
+      "name": "Audit and Risk Management Committee of the Board of Governors of the Guildhall School of Music & Drama"
+    },
+    {
+      "id": 235,
+      "name": "Reference Sub Committee of the Board of Governors of the City of London School"
+    },
+    {
+      "id": 206,
+      "name": "Committee of Aldermanic Almoners, Common Council Governors and Donation Governors of Christ's Hospital"
+    },
+    {
+      "id": 383,
+      "name": "Livery Committee"
+    },
+    {
+      "id": 174,
+      "name": "Member Development Steering Group"
+    },
+    {
+      "id": 153,
+      "name": "Barbican Residential Committee"
+    },
+    {
+      "id": 396,
+      "name": "Resource Allocation Sub (Policy and Resources) Committee"
+    },
+    {
+      "id": 185,
+      "name": "Health and Social Care Scrutiny Committee"
+    },
+    {
+      "id": 1229,
+      "name": "Courts Sub (Policy and Resources) Committee"
+    },
+    {
+      "id": 404,
+      "name": "Reference Sub (Barbican Residential) Committee"
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee"
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council"
+    },
+    {
+      "id": 1064,
+      "name": "Social Investment Board"
+    },
+    {
+      "id": 249,
+      "name": "Risk Committee of the Barbican Centre Board"
+    },
+    {
+      "id": 176,
+      "name": "Investment Committee"
+    },
+    {
+      "id": 240,
+      "name": "Highgate Wood Consultative Group"
+    },
+    {
+      "id": 563,
+      "name": "Reference Sub (Markets) Committee"
+    },
+    {
+      "id": 216,
+      "name": "Corporate Asset Sub (Finance) Committee"
+    },
+    {
+      "id": 212,
+      "name": "Finance, General Purposes and Estates Sub-Committee of the Board of Governors of the City of London Freemen's School"
+    },
+    {
+      "id": 1106,
+      "name": "Dispensations Sub (Standards) Committee"
+    },
+    {
+      "id": 1208,
+      "name": "Wanstead Park Working Party"
+    },
+    {
+      "id": 140,
+      "name": "Barbican Centre Board"
+    },
+    {
+      "id": 1110,
+      "name": "Safer City Partnership Strategy Group"
+    },
+    {
       "id": 145,
       "name": "Finance Committee"
     },
     {
+      "id": 196,
+      "name": "Reference Sub Committee of the Board of Governors of the City of London School for Girls"
+    },
+    {
+      "id": 1077,
+      "name": "West Wickham, Spring Park and Coulsdon Commons Consultation Group"
+    },
+    {
+      "id": 407,
+      "name": "Members Privileges Sub (Policy and Resources) Committee"
+    },
+    {
+      "id": 120,
+      "name": "Community & Children's Services Committee"
+    },
+    {
+      "id": 218,
+      "name": "Governance and Effectiveness Committee of the Board of Governors of the Guildhall School of Music & Drama"
+    },
+    {
+      "id": 192,
+      "name": "Finance Grants Oversight and Performance Sub Committee"
+    },
+    {
+      "id": 261,
+      "name": "Hampstead Heath Consultative Committee"
+    },
+    {
+      "id": 1255,
+      "name": "Capital Buildings Committee"
+    },
+    {
+      "id": 168,
+      "name": "Projects Sub (Policy and Resources) Committee"
+    },
+    {
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee"
+    },
+    {
+      "id": 219,
+      "name": "Nominations Committee of the Board of Governors of the Guildhall School of Music & Drama"
+    },
+    {
+      "id": 1251,
+      "name": "Epping Forest Joint Consultative Committee"
+    },
+    {
+      "id": 513,
+      "name": "Economic Crime Board of the Police Committee"
+    },
+    {
+      "id": 1247,
+      "name": "Integrated Commissioning Board"
+    },
+    {
+      "id": 850,
+      "name": "Lord Mayor's Show Ltd"
+    },
+    {
+      "id": 1134,
+      "name": "Assessment Sub (Standards) Committee"
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee"
+    },
+    {
+      "id": 392,
+      "name": "Local Plans Sub (Planning and Transportation) Committee"
+    },
+    {
+      "id": 334,
+      "name": "Gresham Working Party"
+    },
+    {
+      "id": 408,
+      "name": "Standards Committee"
+    },
+    {
+      "id": 254,
+      "name": "Joint Consultative Committee"
+    },
+    {
+      "id": 986,
+      "name": "Reference Sub (Licensing) Committee"
+    },
+    {
+      "id": 410,
+      "name": "Reference Sub Committee of the Board of Governors of the Guildhall School of Music and Drama"
+    },
+    {
       "id": 233,
       "name": "Board of Governors of the City of London School"
+    },
+    {
+      "id": 1232,
+      "name": "Academic & Education Sub-Committee of the Board of Governors of the City of London School"
+    },
+    {
+      "id": 1205,
+      "name": "Outside Bodies Sub (Policy and Resources) Committee"
+    },
+    {
+      "id": 1233,
+      "name": "Finance & Estates Sub-Committee of the Board of Governors of the City of London School"
+    },
+    {
+      "id": 1072,
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee"
+    },
+    {
+      "id": 163,
+      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama"
+    },
+    {
+      "id": 1196,
+      "name": "Safeguarding Inter-Board Chairmen's Meeting"
+    },
+    {
+      "id": 389,
+      "name": "Streets and Walkways Sub (Planning and Transportation) Committee"
+    },
+    {
+      "id": 245,
+      "name": "Efficiency and Performance Sub (Finance) Committee"
+    },
+    {
+      "id": 175,
+      "name": "Open Spaces and City Gardens"
+    },
+    {
+      "id": 188,
+      "name": "Barbican Estate Residents Consultation Committee"
+    },
+    {
+      "id": 1094,
+      "name": "Wanstead Flats Playing Fields Committee"
+    },
+    {
+      "id": 213,
+      "name": "Academic and Personnel Sub Committee of the Board of Governors of the City of London Freemen's School"
+    },
+    {
+      "id": 125,
+      "name": "Property Investment Board"
+    },
+    {
+      "id": 220,
+      "name": "Court of Aldermen"
+    },
+    {
+      "id": 172,
+      "name": "Reference Sub Committee of the Barbican Centre Board"
+    },
+    {
+      "id": 244,
+      "name": "Audit and Risk Management Committee"
+    },
+    {
+      "id": 1183,
+      "name": "Mayoralty and Shrievalty Allowances - Joint Deputation of Representatives of the Court of Aldermen, the Policy & Resources Committee and the Finance Committee"
+    },
+    {
+      "id": 183,
+      "name": "Freedom Applications Committee"
+    },
+    {
+      "id": 231,
+      "name": "Bursary Committee of the Board of Governors of the City of London Freemen's School"
+    },
+    {
+      "id": 236,
+      "name": "Board of Governors of the City of London School for Girls"
+    },
+    {
+      "id": 1256,
+      "name": "Housing Delivery Programme Working Group"
+    },
+    {
+      "id": 398,
+      "name": "Professional Standards and Integrity Sub (Police) Committee"
+    },
+    {
+      "id": 411,
+      "name": "Markets Committee"
+    },
+    {
+      "id": 123,
+      "name": "Licensing Committee"
+    },
+    {
+      "id": 164,
+      "name": "Nominations Committee of the Barbican Centre Board"
+    },
+    {
+      "id": 1222,
+      "name": "Nominations Sub (Education Board) Committee"
+    },
+    {
+      "id": 248,
+      "name": "Financial Investment Board"
+    },
+    {
+      "id": 171,
+      "name": "Performance and Resource Management Sub (Police) Committee"
+    },
+    {
+      "id": 994,
+      "name": "Health and Wellbeing Board"
+    },
+    {
+      "id": 1206,
+      "name": "Police Pensions Board"
+    },
+    {
+      "id": 1253,
+      "name": "Epping Forest Consultative Committee"
+    },
+    {
+      "id": 237,
+      "name": "Bursary Committee of the Board of Governors of the City of London School for Girls"
+    },
+    {
+      "id": 387,
+      "name": "Board of Governors of the Guildhall School of Music and Drama"
+    },
+    {
+      "id": 1241,
+      "name": "Education Charity Sub (Education Board) Committee"
+    },
+    {
+      "id": 253,
+      "name": "Establishment Committee"
+    },
+    {
+      "id": 1197,
+      "name": "City of London School for Girls - 125th Anniversary Working Party"
+    },
+    {
+      "id": 142,
+      "name": "Police Committee"
+    },
+    {
+      "id": 239,
+      "name": "Queen's Park Consultative Group"
+    },
+    {
+      "id": 227,
+      "name": "Benefices Sub (Culture, Heritage & Libraries) Committee"
+    },
+    {
+      "id": 1063,
+      "name": "Reference Sub (Committee of Aldermanic Almoners, Common Council Governors and Donation Governors of Christ's Hospital) Committee"
+    },
+    {
+      "id": 413,
+      "name": "Keats House Consultative Committee"
+    },
+    {
+      "id": 1147,
+      "name": "Education Board"
+    },
+    {
+      "id": 230,
+      "name": "Board of Governors of the City of London Freemen's School"
+    },
+    {
+      "id": 141,
+      "name": "Ashtead Common Consultation Group"
+    },
+    {
+      "id": 252,
+      "name": "Inner North East London Joint Health Overview and Scrutiny Committee"
+    },
+    {
+      "id": 247,
+      "name": "Housing Management and Almshouses Sub (Community and Children's Services) Committee"
+    },
+    {
+      "id": 1187,
+      "name": "Local Government Pensions Board"
+    },
+    {
+      "id": 1259,
+      "name": "Standards Appeals Committee"
+    },
+    {
+      "id": 250,
+      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee"
+    },
+    {
+      "id": 257,
+      "name": "Information Technology Sub (Finance) Committee"
+    },
+    {
+      "id": 210,
+      "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama"
+    },
+    {
+      "id": 173,
+      "name": "Crime and Disorder Scrutiny Committee"
+    },
+    {
+      "id": 555,
+      "name": "Taught Degree Awarding Powers Sub Committee of the Board of Governors of the Guildhall School of Music & Drama"
+    },
+    {
+      "id": 179,
+      "name": "The City Bridge Trust Committee"
     }
   ],
   "meta": {
-    "time_created": "2018-05-03T15:16:33.055085+00:00"
+    "time_created": "2018-05-12T10:21:44.038651+00:00"
   }
 }

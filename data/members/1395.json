@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:14:56.305167+00:00"
+    "time_created": "2018-05-12T10:20:18.956974+00:00"
   },
   "member": {
     "id": 1395,
@@ -154,6 +154,10 @@
         {
           "member": "Member, City Pickwick Club",
           "partner": ""
+        },
+        {
+          "member": "Member, GB Executive, Co-operation Ireland",
+          "partner": ""
         }
       ]
     }
@@ -243,6 +247,171 @@
       "name": "Lunch, Worshipful Company of Spectacle Makers",
       "date_str": "6 December 2016",
       "date": "2016-12-06"
+    },
+    {
+      "name": "Court Dinner, Worshipful Company of Drapers (guest of Nick Bence-Trower),",
+      "date_str": "15 February 2017",
+      "date": "2017-02-15"
+    },
+    {
+      "name": "Worshipful Company of Information Technologists' 25th Anniversary Banquet,",
+      "date_str": "4 May 2017",
+      "date": "2017-05-04"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Cooks (guest of Mark Grove),",
+      "date_str": "10 May 2017",
+      "date": "2017-05-10"
+    },
+    {
+      "name": "Dinner, Worshipful Society of Apothecaries",
+      "date_str": "16 May 2017",
+      "date": "2017-05-16"
+    },
+    {
+      "name": "Lime Street & Cornhill Ward Club Civic Luncheon (with a guest)",
+      "date_str": "12 June 2017",
+      "date": "2017-06-12"
+    },
+    {
+      "name": "Summer Party, Crosby Hall (guest of Dr Christopher Moran)",
+      "date_str": "6 July 2017",
+      "date": "2017-07-06"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Educators (guest of David O'Reilly)",
+      "date_str": "22 September 2017",
+      "date": "2017-09-22"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Plaisterers (guest of Bryan Lincoln)",
+      "date_str": "3 October 2017",
+      "date": "2017-10-03"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Wheelwrights (guest of Alan Culverhouse)",
+      "date_str": "12 October 2017",
+      "date": "2017-10-12"
+    },
+    {
+      "name": "Dinner (with a guest), Worshipful Company of Upholders (guest of Judy Tayler-Smith)",
+      "date_str": "26 October 2017",
+      "date": "2017-10-26"
+    },
+    {
+      "name": "British And Irish Trading Alliance lunch",
+      "date_str": "27 October 2017",
+      "date": "2017-10-27"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Cutlers (guest of Richard Regan CC) 8 November 2017",
+      "date_str": "8 November 2017",
+      "date": "2017-11-08"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Stationers (guest of Tom Corrigan)",
+      "date_str": "22 November 2017",
+      "date": "2017-11-22"
+    },
+    {
+      "name": "Duke of Edinburgh's Award Trustees Dinner (guest of Patricia Teahan)",
+      "date_str": "28 November 2017",
+      "date": "2017-11-28"
+    },
+    {
+      "name": "Lunch, Worshipful Company of Spectacle Makers",
+      "date_str": "5 December 2017",
+      "date": "2017-12-05"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Makers of Playing Cards (guest of Tom Corrigan)",
+      "date_str": "7 December 2017",
+      "date": "2017-12-07"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Plaisterers",
+      "date_str": "9 January 2018",
+      "date": "2018-01-09"
+    },
+    {
+      "name": "Lunch, Worshipful Company of Plumbers (guest of Christopher Hill CC)",
+      "date_str": "24 January 2018",
+      "date": "2018-01-24"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Marketors",
+      "date_str": "25 January 2018",
+      "date": "2018-01-25"
+    },
+    {
+      "name": "Dinner (with a guest), Co-operation Ireland (guest of Dr Christopher Moran)",
+      "date_str": "1 February 2018",
+      "date": "2018-02-01"
+    },
+    {
+      "name": "Lunch, Worshipful Company of Founders",
+      "date_str": "7 February 2018",
+      "date": "2018-02-07"
+    },
+    {
+      "name": "Lunch, Worshipful Company of Information Technologists",
+      "date_str": "21 February 2018",
+      "date": "2018-02-21"
+    },
+    {
+      "name": "Faculty Dinner (with a guest), Goodenough College",
+      "date_str": "21 February 2018",
+      "date": "2018-02-21"
+    },
+    {
+      "name": "Dinner, Worshipful Company of World Traders",
+      "date_str": "22 February 2018",
+      "date": "2018-02-22"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Cordwainers (guest of Ann Holmes CC)",
+      "date_str": "9 March 2018",
+      "date": "2018-03-09"
+    },
+    {
+      "name": "Lunch, Worshipful Company of Masons",
+      "date_str": "20 March 2018",
+      "date": "2018-03-20"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Drapers",
+      "date_str": "21 March 2018",
+      "date": "2018-03-21"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Gardeners (guest of William Fraser)",
+      "date_str": "3 April 2018",
+      "date": "2018-04-03"
+    },
+    {
+      "name": "Lunch, Worshipful Company of Loriners (guest of Nicholas Bensted-Smith CC)",
+      "date_str": "12 April 2018",
+      "date": "2018-04-12"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Makers of Playing Cards",
+      "date_str": "12 April 2018",
+      "date": "2018-04-12"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Fletchers (guest of Clare James CC)",
+      "date_str": "17 April 2018",
+      "date": "2018-04-17"
+    },
+    {
+      "name": "Dinner (with a guest), Worshipful Company of Spectacle Makers (guest of Felicity Harding)",
+      "date_str": "25 April 2018",
+      "date": "2018-04-25"
+    },
+    {
+      "name": "Dinner, Worshipful Company of Actuaries (guest of Clare James CC)",
+      "date_str": "2 May 2018",
+      "date": "2018-05-02"
     }
   ]
 }

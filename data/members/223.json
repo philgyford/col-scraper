@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:14:15.547706+00:00"
+    "time_created": "2018-05-12T10:20:13.423055+00:00"
   },
   "member": {
     "id": 223,
@@ -11,6 +11,11 @@
     "party": ""
   },
   "committees": [
+    {
+      "id": 244,
+      "name": "Audit and Risk Management Committee",
+      "role": ""
+    },
     {
       "id": 201,
       "name": "Audit and Risk Management Committee of the Board of Governors of the Guildhall School of Music & Drama",
@@ -34,6 +39,11 @@
     {
       "id": 120,
       "name": "Community & Children's Services Committee",
+      "role": ""
+    },
+    {
+      "id": 216,
+      "name": "Corporate Asset Sub (Finance) Committee",
       "role": ""
     },
     {

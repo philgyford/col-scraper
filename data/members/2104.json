@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:14:54.910087+00:00"
+    "time_created": "2018-05-12T10:20:17.623422+00:00"
   },
   "member": {
     "id": 2104,
@@ -11,6 +11,11 @@
     "party": ""
   },
   "committees": [
+    {
+      "id": 230,
+      "name": "Board of Governors of the City of London Freemen's School",
+      "role": ""
+    },
     {
       "id": 223,
       "name": "Court of Common Council",

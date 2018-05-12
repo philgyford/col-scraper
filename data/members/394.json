@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:16:20.934685+00:00"
+    "time_created": "2018-05-12T10:21:34.624034+00:00"
   },
   "member": {
     "id": 394,
@@ -34,21 +34,11 @@
     {
       "id": 411,
       "name": "Markets Committee",
-      "role": ""
-    },
-    {
-      "id": 1205,
-      "name": "Outside Bodies Sub (Policy and Resources) Committee",
-      "role": ""
+      "role": "Chairman"
     },
     {
       "id": 398,
       "name": "Professional Standards and Integrity Sub (Police) Committee",
-      "role": ""
-    },
-    {
-      "id": 168,
-      "name": "Projects Sub (Policy and Resources) Committee",
       "role": ""
     },
     {

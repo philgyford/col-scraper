@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:15:18.955742+00:00"
+    "time_created": "2018-05-12T10:20:40.414164+00:00"
   },
   "member": {
     "id": 1225,
@@ -29,12 +29,12 @@
     {
       "id": 248,
       "name": "Financial Investment Board",
-      "role": ""
+      "role": "Chairman"
     },
     {
       "id": 176,
       "name": "Investment Committee",
-      "role": ""
+      "role": "Chairman"
     },
     {
       "id": 395,
@@ -44,6 +44,11 @@
     {
       "id": 262,
       "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 168,
+      "name": "Projects Sub (Policy and Resources) Committee",
       "role": ""
     },
     {

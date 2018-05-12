@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:13:57.056053+00:00"
+    "time_created": "2018-05-12T10:19:58.086204+00:00"
   },
   "member": {
     "id": 1222,
@@ -11,11 +11,6 @@
     "party": ""
   },
   "committees": [
-    {
-      "id": 216,
-      "name": "Corporate Asset Sub (Finance) Committee",
-      "role": ""
-    },
     {
       "id": 223,
       "name": "Court of Common Council",
@@ -50,11 +45,6 @@
       "id": 175,
       "name": "Open Spaces and City Gardens",
       "role": "Ex-Officio Member"
-    },
-    {
-      "id": 168,
-      "name": "Projects Sub (Policy and Resources) Committee",
-      "role": ""
     },
     {
       "id": 239,

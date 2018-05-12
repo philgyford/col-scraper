@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-03T15:15:51.073511+00:00"
+    "time_created": "2018-05-12T10:21:06.593834+00:00"
   },
   "member": {
     "id": 408,
@@ -67,7 +67,7 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Managing Director at C&E Capital Consulting",
+          "member": "Managing Director & Owner - C&E Capital Consulting Ltd",
           "partner": ""
         }
       ]
@@ -100,15 +100,31 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Liveryman, Skinners' Company",
+          "member": "Liveryman - Skinners' Company",
           "partner": ""
         },
         {
-          "member": "Member, Conservative Party",
+          "member": "Member - Conservative Party",
           "partner": ""
         },
         {
-          "member": "I am a Freemason",
+          "member": "Freemason",
+          "partner": ""
+        },
+        {
+          "member": "Member - The Honourable The Irish Society",
+          "partner": ""
+        },
+        {
+          "member": "Member - Vintry & Dowgate Wards Club",
+          "partner": ""
+        },
+        {
+          "member": "Skinners' Liveryman",
+          "partner": ""
+        },
+        {
+          "member": "Member - Investment Managers Guild",
           "partner": ""
         }
       ]
