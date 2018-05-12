@@ -371,6 +371,7 @@ def create_list_files():
                 committees.append({
                     'id': committee['id'],
                     'name': committee['name'],
+                    'url': 'http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID={}'.format(committee['id']),
                 })
 
     members_data = {
