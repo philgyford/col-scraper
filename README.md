@@ -159,7 +159,8 @@ The file `data/committees.json` is of this format:
       "committees": [
         {
           "id": 122,
-          "name": "Epping Forest & Commons Committee"
+          "name": "Epping Forest & Commons Committee",
+          "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=122"
         },
         etc...
       ]
