@@ -160,7 +160,8 @@ The file `data/committees.json` is of this format:
         {
           "id": 122,
           "name": "Epping Forest & Commons Committee",
-          "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=122"
+          "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=122",
+          "kind": "standard"
         },
         etc...
       ]
@@ -169,6 +170,16 @@ The file `data/committees.json` is of this format:
 The `time_created` is the time this file was created.
 
 The numeric IDs are the IDs used in URLs for each committee ([such as this][committee]), and are used when listing a member's committee memberships in the individual member files (see below).
+
+The `kind` is one of the following, each matching one category from the [page that lists all committees](committees):
+
+* `consultative`
+* `other`
+* `overview`
+* `regulatory`
+* `standard`
+* `sub`
+* `working`
 
 ### Members detail files
 
@@ -263,6 +274,8 @@ The gifts come from the "Gifts of Hospitality" table. Each object in the `gifts`
 [member]: http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=292
 
 [committee]: http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=122
+
+[committees]: http://democracy.cityoflondon.gov.uk/mgListCommittees.aspx?bcr=1
 
 [interests]: http://democracy.cityoflondon.gov.uk/mgDeclarationSubmission.aspx?UID=292&HID=3012&FID=0&HPID=505566937
 
