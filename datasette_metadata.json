@@ -16,6 +16,7 @@
       },
       "tables": {
         "committees": {
+          "description_html": "<p>As listed on <a href=\"http://democracy.cityoflondon.gov.uk/mgListCommittees.aspx?bcr=1\">this page</a>. The <code>kind</code> column maps to the sections on that page.</p>",
           "label_column": "name"
         },
         "committee_membership": {
