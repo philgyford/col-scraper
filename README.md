@@ -171,7 +171,7 @@ The `time_created` is the time this file was created.
 
 The numeric IDs are the IDs used in URLs for each committee ([such as this][committee]), and are used when listing a member's committee memberships in the individual member files (see below).
 
-The `kind` is one of the following, each matching one category from the [page that lists all committees](committees):
+The `kind` is one of the following, each matching one category from the [page that lists all committees][committees]:
 
 * `consultative`
 * `other`
