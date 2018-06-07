@@ -20,6 +20,9 @@ MEMBERS_LIST_URL = 'http://democracy.cityoflondon.gov.uk/mgMemberIndex.aspx?VW=T
 # The {id} will be replaced with the member's ID.
 MEMBERS_INFO_URL = 'http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID={id}'
 
+# URL that lists all the full and sub committees.
+COMMITTEES_LIST_URL = 'http://democracy.cityoflondon.gov.uk/mgListCommittees.aspx?bcr=1'
+
 # Output files
 DATA_DIRECTORY = 'data'
 
@@ -41,6 +44,11 @@ def scrape_all():
     Fetch the page listing all Members.
     Save a JSON file with basic data about each Member.
     For each Member, fetch their interests and write a JSON file for that.
+
+    Then get the list of all the committees and save that as JSON.
+
+    Then go through all the indidivual members' files and make JSON files
+    listing all members and the wards.
     """
 
     logger.debug("Requesting URL {}".format(MEMBERS_LIST_URL))
@@ -63,6 +71,8 @@ def scrape_all():
         scrape_member(member_id)
 
     logger.info("Saved data for {} members".format(len(rows)))
+
+    scrape_committees()
 
     create_list_files()
 
@@ -340,14 +350,11 @@ def create_list_files():
 
         * members.json, listing all the members we have JSON files for.
         * wards.json, listing the wards we have members for.
-        * committees.json, listing all the committees members are on.
     """
 
     ward_names = []
 
     members = []
-
-    committees = []
 
     dir_path = os.path.join(DATA_DIRECTORY, 'members')
 
@@ -367,13 +374,6 @@ def create_list_files():
             if ward != '' and ward not in ward_names:
                 ward_names.append(ward)
 
-            for committee in member['committees']:
-                committees.append({
-                    'id': committee['id'],
-                    'name': committee['name'],
-                    'url': 'http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID={}'.format(committee['id']),
-                })
-
     members_data = {
         'members': members,
     }
@@ -387,13 +387,68 @@ def create_list_files():
 
     write_json_file('wards.json', wards_data)
 
-    committees_data = {
-        # Make the committees dict unique:
-        'committees': [dict(y) for y in set(tuple(x.items()) for x in committees)]
+
+def scrape_committees_list():
+    """
+    Scrape the lists of committees and save to committees.json.
+
+    Although we could get info about all committees by going through all the
+    saved members' data, that wouldn't include whether the committees are
+    sub committees, regulatory committees, etc. So we get the full list here.
+    """
+
+    # Mapping text from headings in the page to our internal keys:
+    kinds = {
+        'Committees':               'standard',
+        'Sub Committees':           'sub',
+        'Regulatory Committees':    'regulatory',
+        'Overview and Scrutiny':    'overview',
+        'Consultative Committees':  'consultative',
+        'Working Parties':          'working',
+        'Other':                    'other',
     }
 
-    write_json_file('committees.json', committees_data)
+    committees = []
 
+    logger.debug("Requesting URL {}".format(COMMITTEES_LIST_URL))
+
+    r = session.get(COMMITTEES_LIST_URL)
+
+    # Get all the headers and their lists.
+    elements = r.html.find('.mgContent > h2,.mgContent > ul')
+
+    current_kind = None
+
+    for el in elements:
+        if 'class' in el.attrs:
+            if 'mgSectionTitle' in el.attrs['class']:
+                # This is a heading.
+                # If the heading text is one of the committee kinds that we
+                # want to get, set current_kind to it.
+                # Otherwise, ignore, by setting current_kind to None.
+
+                if el.text in kinds:
+                    current_kind = kinds[el.text]
+                else:
+                    current_kind = None
+
+            elif 'mgBulletList' in el.attrs['class']:
+                # It's a list.
+                # If we're "within" a committee kind, get and save the committees.
+                # Otherwise, ignore.
+                if current_kind is not None:
+                    for item in el.find('li'):
+                        url = item.find('a', first=True).attrs['href']
+                        id = int(url.split('=')[-1])
+
+                        committees.append({
+                            'id': id,
+                            'name': item.text,
+                            'url': make_absolute(url),
+                            'kind': current_kind,
+                        })
+
+    write_json_file('committees.json', {'committees': committees,})
 
 
 def write_json_file(filename, data):
