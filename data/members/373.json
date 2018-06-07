@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:38.796277+00:00"
+    "time_created": "2018-06-07T14:12:23.812176+00:00"
   },
   "member": {
     "id": 373,
@@ -197,7 +197,7 @@
           "partner": "Governor (chair of governors) – Drayton Park Primary School"
         },
         {
-          "member": "Governor, director and trustee, The City Academy, Hackney",
+          "member": "Member, The City Academy, Hackney",
           "partner": "Trustee – Christchurch, Highbury"
         },
         {
@@ -221,11 +221,11 @@
           "partner": ""
         },
         {
-          "member": "Associated with AIMA (Alternative Investment Management Association)",
+          "member": "Deputy Chairman, International Regulatory Strategy Group",
           "partner": ""
         },
         {
-          "member": "East London & City Culture Partnership Strategy Group",
+          "member": "Deputy Chairman, TheCityUK",
           "partner": ""
         },
         {
@@ -234,14 +234,6 @@
         },
         {
           "member": "London and Partners",
-          "partner": ""
-        },
-        {
-          "member": "TheCityUK (Deputy Chairman)",
-          "partner": ""
-        },
-        {
-          "member": "International Regulatory Strategy Group (Deputy Chairman)",
           "partner": ""
         }
       ]
@@ -557,6 +549,16 @@
       "name": "Guest of London and Partners at Promotion of London Lunch",
       "date_str": "27 April 2018",
       "date": "2018-04-27"
+    },
+    {
+      "name": "Guest of Association of Foreign Banks Lunch",
+      "date_str": "22 May 2018",
+      "date": "2018-05-22"
+    },
+    {
+      "name": "Guest of Confederation of British Industry Dinner",
+      "date_str": "22 May 2018",
+      "date": "2018-05-22"
     }
   ]
 }

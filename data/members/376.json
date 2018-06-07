@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:21:14.975990+00:00"
+    "time_created": "2018-06-07T14:13:07.055453+00:00"
   },
   "member": {
     "id": 376,
@@ -29,11 +29,6 @@
     {
       "id": 253,
       "name": "Establishment Committee",
-      "role": ""
-    },
-    {
-      "id": 247,
-      "name": "Housing Management and Almshouses Sub (Community and Children's Services) Committee",
       "role": ""
     },
     {
@@ -91,6 +86,14 @@
       "items": [
         {
           "member": "Lime Street Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Trustee - Housing the Homeless Central Fund",
+          "partner": ""
+        },
+        {
+          "member": "Director - Imago Community",
           "partner": ""
         }
       ]

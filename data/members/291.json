@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:27.105201+00:00"
+    "time_created": "2018-06-07T14:12:11.204831+00:00"
   },
   "member": {
     "id": 291,
@@ -39,7 +39,7 @@
     {
       "id": 408,
       "name": "Standards Committee",
-      "role": ""
+      "role": "Chairman"
     }
   ],
   "interests": [
@@ -53,10 +53,6 @@
         {
           "member": "",
           "partner": "Employee, Universal Aunts, Talfourd Road, SE15"
-        },
-        {
-          "member": "",
-          "partner": "Employee, Mountain Beds, Hundred House, Weston, Beccles, NR34"
         }
       ]
     },
@@ -72,8 +68,8 @@
       "name": "Land",
       "items": [
         {
-          "member": "Member of Pewterers' Company which owns Pewterers Hall and other City Property",
-          "partner": "Member of Skinners' Company which owns Skinners' Hall, Dowgate and other City Property"
+          "member": "Member of Pewterers' Company which owns Pewterers Hall and other City Properties",
+          "partner": "Member of Skinners' Company which owns Skinners' Hall, Dowgate and other City Properties"
         }
       ]
     },

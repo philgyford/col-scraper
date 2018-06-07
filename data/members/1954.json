@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:19:41.030922+00:00"
+    "time_created": "2018-06-07T14:10:50.360118+00:00"
   },
   "member": {
     "id": 1954,
@@ -54,6 +54,11 @@
     {
       "id": 398,
       "name": "Professional Standards and Integrity Sub (Police) Committee",
+      "role": ""
+    },
+    {
+      "id": 1072,
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
       "role": ""
     }
   ],

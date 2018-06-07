@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:21:41.746417+00:00"
+    "time_created": "2018-06-07T14:13:39.620961+00:00"
   },
   "member": {
     "id": 397,
@@ -34,7 +34,7 @@
     {
       "id": 183,
       "name": "Freedom Applications Committee",
-      "role": "Chairman"
+      "role": ""
     },
     {
       "id": 1183,
@@ -59,6 +59,11 @@
     {
       "id": 396,
       "name": "Resource Allocation Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
+      "id": 1259,
+      "name": "Standards Appeals Committee",
       "role": ""
     }
   ],

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:42.479634+00:00"
+    "time_created": "2018-06-07T14:11:50.865677+00:00"
   },
   "member": {
     "id": 256,
@@ -79,6 +79,10 @@
         {
           "member": "Self employed solicitor",
           "partner": "Office manager for mhlaw"
+        },
+        {
+          "member": "Company Secretary Gamespati plc",
+          "partner": ""
         }
       ]
     },
@@ -90,7 +94,7 @@
       "name": "Contracts",
       "items": [
         {
-          "member": "Lease from City of London Corporation dated 1.10.14 (further details contained under Corporate Tenancies)",
+          "member": "Lease from City of London Corporation dated 27.10.16 (further details contained under Corporate Tenancies)",
           "partner": ""
         }
       ]
@@ -112,7 +116,7 @@
       "name": "Corporate Tenancies",
       "items": [
         {
-          "member": "Lease from City of London Corporation dated 1.10.14 of office at 5 London Wall Buildings, London EC2M 5NS for 2 years from 29.9.2014 at a rent of £6570 pa plus service charge, insurance and VAT",
+          "member": "Lease from City of London Corporation dated 27.10.16 of office at 5 London Wall Buildings, London EC2M 5NS for 2 years from 29.9.2014 at a rent of £6862 pa plus service charge, insurance and VAT",
           "partner": ""
         }
       ]
@@ -129,7 +133,7 @@
           "partner": ""
         },
         {
-          "member": "Castle Baynard Ward Club (Chairman)",
+          "member": "Castle Baynard Ward Club (Past Chairman)",
           "partner": ""
         },
         {
@@ -174,6 +178,18 @@
         },
         {
           "member": "Diamonds Past Masters’ Association.",
+          "partner": ""
+        },
+        {
+          "member": "Richard Reeves Foundation",
+          "partner": ""
+        },
+        {
+          "member": "Castle Baynard Educational Foundation",
+          "partner": ""
+        },
+        {
+          "member": "Samuel Wilson Trust",
           "partner": ""
         }
       ]

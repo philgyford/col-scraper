@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:21:07.942430+00:00"
+    "time_created": "2018-06-07T14:12:59.998582+00:00"
   },
   "member": {
     "id": 409,
@@ -32,7 +32,7 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Event Manager, Capital Group, 40 Grovsvenor Place, London, SW1 7GG",
+          "member": "Investor Services Marketing Manager JLL, 30 Warwick Street, London. W1B 5NH",
           "partner": ""
         }
       ]
@@ -49,8 +49,8 @@
       "name": "Land",
       "items": [
         {
-          "member": "Owns a flat in the City",
-          "partner": ""
+          "member": "Owns a flat in the City with husband",
+          "partner": "Owns flat in City"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:21:25.935996+00:00"
+    "time_created": "2018-06-07T14:13:21.684530+00:00"
   },
   "member": {
     "id": 384,
@@ -69,11 +69,16 @@
     {
       "id": 262,
       "name": "Port Health & Environmental Services Committee",
-      "role": ""
+      "role": "Chairman"
     },
     {
       "id": 172,
       "name": "Reference Sub Committee of the Barbican Centre Board",
+      "role": ""
+    },
+    {
+      "id": 408,
+      "name": "Standards Committee",
       "role": ""
     },
     {
@@ -114,11 +119,11 @@
       "name": "Land",
       "items": [
         {
-          "member": "Leasehold Interest, Pemberton Row,EC4",
+          "member": "Leasehold Interest- Pemberton Row,EC4",
           "partner": ""
         },
         {
-          "member": "Part Freehold Interest, Pemberton Row EC4",
+          "member": "Part Freehold Interest- Pemberton Row, EC4",
           "partner": ""
         }
       ]
@@ -135,7 +140,7 @@
       "name": "Securities",
       "items": [
         {
-          "member": "Share of Pemberton Row Limited, EC4",
+          "member": "One share of Pemberton Row Limited, EC4",
           "partner": ""
         }
       ]
@@ -172,7 +177,7 @@
           "partner": ""
         },
         {
-          "member": "Member, Guildhall Circle (Guildhall School)",
+          "member": "Member, Guildhall Circle (Guildhall School Friends)",
           "partner": ""
         },
         {
@@ -180,11 +185,23 @@
           "partner": ""
         },
         {
-          "member": "Member of the Chartered Institute of Management",
+          "member": "Member, Chartered Institute of Management",
           "partner": ""
         },
         {
-          "member": "Director & Trustee, The Tree Council",
+          "member": "Trustee, The Tree Council",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, Thames 21",
+          "partner": ""
+        },
+        {
+          "member": "Member, Friends of Heath Hands",
+          "partner": ""
+        },
+        {
+          "member": "Member, London Society",
           "partner": ""
         }
       ]

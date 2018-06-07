@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:21:38.776779+00:00"
+    "time_created": "2018-06-07T14:13:35.178591+00:00"
   },
   "member": {
     "id": 1211,
@@ -28,7 +28,7 @@
     },
     {
       "id": 1228,
-      "name": "Burnham Beeches Consultation Group",
+      "name": "Burnham Beeches and Stoke Common Consultation Group",
       "role": "Chairman"
     },
     {
@@ -54,11 +54,6 @@
     {
       "id": 1147,
       "name": "Education Board",
-      "role": ""
-    },
-    {
-      "id": 1241,
-      "name": "Education Charity Sub (Education Board) Committee",
       "role": ""
     },
     {
@@ -137,6 +132,11 @@
       "role": ""
     },
     {
+      "id": 168,
+      "name": "Projects Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
       "id": 125,
       "name": "Property Investment Board",
       "role": ""
@@ -162,7 +162,7 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "COMPANY DIRECTOR, WOODHOUSE CAREY & BROWNE LIMITED",
+          "member": "COMPANY DIRECTOR, WOODHOUSE CAREY & BROWNE LIMITED, STANSTED, ESSEX.",
           "partner": ""
         }
       ]
@@ -240,7 +240,7 @@
           "partner": ""
         },
         {
-          "member": "Member, Hoppers",
+          "member": "Member, Hoppers Club",
           "partner": ""
         },
         {

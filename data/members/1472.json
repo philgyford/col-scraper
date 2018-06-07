@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:19:30.705527+00:00"
+    "time_created": "2018-06-07T14:10:38.618176+00:00"
   },
   "member": {
     "id": 1472,
@@ -44,7 +44,7 @@
     {
       "id": 513,
       "name": "Economic Crime Board of the Police Committee",
-      "role": ""
+      "role": "Chairman"
     },
     {
       "id": 145,
@@ -121,7 +121,15 @@
           "partner": ""
         },
         {
-          "member": "Director of Sarasin Investment Managment Partnership LTD. Juxon House 100 St Paul's Churchyard London EC4M 8BU",
+          "member": "Director of Sarasin Investment Managment LTD. Juxon House 100 St Paul's Churchyard London EC4M 8BU",
+          "partner": ""
+        },
+        {
+          "member": "Director, Loriners Investment Company (non-remunerated)",
+          "partner": ""
+        },
+        {
+          "member": "Director, Gresham College Council (non-remunerated)",
           "partner": ""
         }
       ]
@@ -138,7 +146,7 @@
       "name": "Land",
       "items": [
         {
-          "member": "Partmer of Sarasin & Partners LLP and the firm leases Juxon House, 100 St Paul's Churchyard, London, EC4M 8BU.",
+          "member": "Partner of Sarasin & Partners LLP and the firm leases Juxon House, 100 St Paul's Churchyard, London, EC4M 8BU.",
           "partner": ""
         }
       ]
@@ -147,7 +155,7 @@
       "name": "Licences",
       "items": [
         {
-          "member": "Partmer of Sarasin & Partners LLP and the firm leases Juxon House, 100 St Paul's Churchyard, London, EC4M 8BU.",
+          "member": "Partner of Sarasin & Partners LLP and the firm leases Juxon House, 100 St Paul's Churchyard, London, EC4M 8BU.",
           "partner": ""
         }
       ]
@@ -164,7 +172,7 @@
           "partner": ""
         },
         {
-          "member": "Sarasin Investment Management Partnership LTD",
+          "member": "Sarasin Investment Management LTD",
           "partner": ""
         }
       ]
@@ -177,7 +185,7 @@
           "partner": ""
         },
         {
-          "member": "Member, Ward of Cheap Club",
+          "member": "Member, Ward of Cheap Club (Committee Member)",
           "partner": ""
         },
         {
@@ -193,11 +201,11 @@
           "partner": ""
         },
         {
-          "member": "Member, Lodge of St. Julian",
+          "member": "Member, Lodge of St. Julien",
           "partner": ""
         },
         {
-          "member": "Liveryman, Worshipful Company of Loriners",
+          "member": "Liveryman, Worshipful Company of Loriners (Court Member)",
           "partner": ""
         },
         {
@@ -206,6 +214,14 @@
         },
         {
           "member": "Co-opted Member of the Finance Committee of the Honourable The Irish Society",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman, Goldsmith's Livery Company (as of 04/07/18)",
+          "partner": ""
+        },
+        {
+          "member": "Gresham College Council, Director",
           "partner": ""
         }
       ]

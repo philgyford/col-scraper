@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:33.309085+00:00"
+    "time_created": "2018-06-07T14:12:18.130512+00:00"
   },
   "member": {
     "id": 1323,
@@ -34,6 +34,11 @@
     {
       "id": 563,
       "name": "Reference Sub (Markets) Committee",
+      "role": ""
+    },
+    {
+      "id": 408,
+      "name": "Standards Committee",
       "role": ""
     }
   ],

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:56.624828+00:00"
+    "time_created": "2018-06-07T14:12:44.548211+00:00"
   },
   "member": {
     "id": 1221,
@@ -49,7 +49,7 @@
     {
       "id": 177,
       "name": "Culture, Heritage and Libraries Committee",
-      "role": ""
+      "role": "Chairman"
     },
     {
       "id": 413,
@@ -59,11 +59,6 @@
     {
       "id": 123,
       "name": "Licensing Committee",
-      "role": ""
-    },
-    {
-      "id": 219,
-      "name": "Nominations Committee of the Board of Governors of the Guildhall School of Music & Drama",
       "role": ""
     },
     {

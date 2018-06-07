@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:19:58.086204+00:00"
+    "time_created": "2018-06-07T14:11:04.873951+00:00"
   },
   "member": {
     "id": 1222,
@@ -45,6 +45,11 @@
       "id": 175,
       "name": "Open Spaces and City Gardens",
       "role": "Ex-Officio Member"
+    },
+    {
+      "id": 168,
+      "name": "Projects Sub (Policy and Resources) Committee",
+      "role": ""
     },
     {
       "id": 239,
@@ -99,11 +104,19 @@
           "partner": ""
         },
         {
-          "member": "Member of Eight Members Club",
+          "member": "Member, Eight Members Club",
           "partner": ""
         },
         {
-          "member": "Member of Hampstead and Kilburn Conservative Association",
+          "member": "Member, Hampstead and Kilburn Conservative Association",
+          "partner": ""
+        },
+        {
+          "member": "Institute of Internal Communications (IOIC)",
+          "partner": ""
+        },
+        {
+          "member": "Titanium Dioxide Manufacturers Association",
           "partner": ""
         }
       ]

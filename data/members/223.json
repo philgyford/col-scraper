@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:13.423055+00:00"
+    "time_created": "2018-06-07T14:11:21.621239+00:00"
   },
   "member": {
     "id": 223,
@@ -19,7 +19,7 @@
     {
       "id": 201,
       "name": "Audit and Risk Management Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": "Deputy Chairman"
+      "role": "Chairman"
     },
     {
       "id": 233,
@@ -57,6 +57,11 @@
       "role": "Chairman"
     },
     {
+      "id": 218,
+      "name": "Governance and Effectiveness Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": ""
+    },
+    {
       "id": 994,
       "name": "Health and Wellbeing Board",
       "role": ""
@@ -68,7 +73,7 @@
     },
     {
       "id": 1247,
-      "name": "Integrated Commissioning Board",
+      "name": "Integrated Commissioning Sub Committee",
       "role": ""
     },
     {
@@ -114,6 +119,11 @@
     {
       "id": 986,
       "name": "Reference Sub (Licensing) Committee",
+      "role": ""
+    },
+    {
+      "id": 396,
+      "name": "Resource Allocation Sub (Policy and Resources) Committee",
       "role": ""
     },
     {

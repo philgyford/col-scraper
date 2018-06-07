@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:19:35.076239+00:00"
+    "time_created": "2018-06-07T14:10:42.892250+00:00"
   },
   "member": {
     "id": 1958,
@@ -29,6 +29,11 @@
     {
       "id": 250,
       "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee",
+      "role": ""
+    },
+    {
+      "id": 392,
+      "name": "Local Plans Sub (Planning and Transportation) Committee",
       "role": ""
     },
     {

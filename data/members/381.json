@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:51.187751+00:00"
+    "time_created": "2018-06-07T14:12:37.889739+00:00"
   },
   "member": {
     "id": 381,
@@ -28,7 +28,7 @@
     },
     {
       "id": 1228,
-      "name": "Burnham Beeches Consultation Group",
+      "name": "Burnham Beeches and Stoke Common Consultation Group",
       "role": ""
     },
     {
@@ -49,6 +49,11 @@
     {
       "id": 122,
       "name": "Epping Forest & Commons Committee",
+      "role": ""
+    },
+    {
+      "id": 1253,
+      "name": "Epping Forest Consultative Committee",
       "role": ""
     },
     {

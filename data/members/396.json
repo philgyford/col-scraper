@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:21:40.105994+00:00"
+    "time_created": "2018-06-07T14:13:37.617777+00:00"
   },
   "member": {
     "id": 396,
@@ -47,7 +47,7 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Partner, CMS Cameron McKenna, Aldersgate Street, EC1",
+          "member": "Partner, CMS Cameron McKenna Nabarro Olowang, Aldersgate Street, EC1",
           "partner": ""
         }
       ]
@@ -60,7 +60,7 @@
       "name": "Contracts",
       "items": [
         {
-          "member": "CMS Cameron McKenna is providing legal advice to the City of London Corporation on one of its projects",
+          "member": "CMS Cameron McKenna Nabarro Olowang has provided legal advice to the City of London Corporation and may do so again in the future.",
           "partner": ""
         }
       ]
@@ -69,7 +69,7 @@
       "name": "Land",
       "items": [
         {
-          "member": "CMS Cameron McKenna has a Leasehold interest for a property in Aldersgate Street, EC1",
+          "member": "CMS Cameron McKenna Nabarro Olowang has a Leasehold interest in a property in Canon Street.",
           "partner": ""
         }
       ]
@@ -82,7 +82,7 @@
       "name": "Corporate Tenancies",
       "items": [
         {
-          "member": "CMS Cameron McKenna has a Leasehold interest for a property in Aldersgate Street, EC1",
+          "member": "CMS Cameron McKenna has a Leasehold interest in a property in Canon Street.",
           "partner": ""
         }
       ]
@@ -108,7 +108,7 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Raleigh International",
+          "member": "Trustee, Science Museum Group",
           "partner": ""
         },
         {
@@ -132,19 +132,19 @@
           "partner": ""
         },
         {
-          "member": "The Law Society of England and Wales",
+          "member": "Member, The Law Society of England and Wales",
           "partner": ""
         },
         {
-          "member": "The City of London Law Society",
+          "member": "Member, Aldersgate Group",
           "partner": ""
         },
         {
-          "member": "Middle Temple",
+          "member": "Member, Middle Temple",
           "partner": ""
         },
         {
-          "member": "The Association of Wood Turners of Great Britain",
+          "member": "Trustee, Wexford Festival Opera (UK)",
           "partner": ""
         }
       ]

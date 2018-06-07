@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:45.810598+00:00"
+    "time_created": "2018-06-07T14:12:32.213245+00:00"
   },
   "member": {
     "id": 378,
@@ -49,7 +49,7 @@
       "name": "Land",
       "items": [
         {
-          "member": "Two addresses, Queen's Quay, London EC4",
+          "member": "Two flats: Queen's Quay, Upper Thames Street, London EC4",
           "partner": ""
         }
       ]
@@ -66,7 +66,7 @@
       "name": "Securities",
       "items": [
         {
-          "member": "Lloyd's of London",
+          "member": "Owner of an LLP at Lloyd's of London",
           "partner": ""
         }
       ]
@@ -75,7 +75,7 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Chairman of Confraternity of Pilgrims to Rome",
+          "member": "Chairman, Confraternity of Pilgrims to Rome",
           "partner": ""
         }
       ]

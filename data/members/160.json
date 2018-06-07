@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:19:49.383843+00:00"
+    "time_created": "2018-06-07T14:10:57.088943+00:00"
   },
   "member": {
     "id": 160,
@@ -39,6 +39,11 @@
     {
       "id": 262,
       "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 210,
+      "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama",
       "role": ""
     },
     {

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:21:09.235279+00:00"
+    "time_created": "2018-06-07T14:13:01.445161+00:00"
   },
   "member": {
     "id": 1937,
@@ -11,6 +11,11 @@
     "party": ""
   },
   "committees": [
+    {
+      "id": 120,
+      "name": "Community & Children's Services Committee",
+      "role": ""
+    },
     {
       "id": 223,
       "name": "Court of Common Council",

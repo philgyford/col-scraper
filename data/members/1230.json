@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:39.760816+00:00"
+    "time_created": "2018-06-07T14:11:48.065428+00:00"
   },
   "member": {
     "id": 1230,
@@ -59,11 +59,16 @@
     {
       "id": 1147,
       "name": "Education Board",
-      "role": ""
+      "role": "Deputy Chairman"
     },
     {
       "id": 1241,
       "name": "Education Charity Sub (Education Board) Committee",
+      "role": ""
+    },
+    {
+      "id": 218,
+      "name": "Governance and Effectiveness Committee of the Board of Governors of the Guildhall School of Music & Drama",
       "role": ""
     },
     {
@@ -84,7 +89,7 @@
     {
       "id": 408,
       "name": "Standards Committee",
-      "role": ""
+      "role": "Deputy Chairman"
     }
   ],
   "interests": [
@@ -135,10 +140,6 @@
         },
         {
           "member": "Liveryman of the Worshipful Company of Cordwainers",
-          "partner": ""
-        },
-        {
-          "member": "Retired Associate Member Royal Society of Medicine",
           "partner": ""
         }
       ]

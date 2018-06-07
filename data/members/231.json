@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:20.853218+00:00"
+    "time_created": "2018-06-07T14:11:29.515283+00:00"
   },
   "member": {
     "id": 231,
@@ -39,11 +39,6 @@
     {
       "id": 223,
       "name": "Court of Common Council",
-      "role": ""
-    },
-    {
-      "id": 1106,
-      "name": "Dispensations Sub (Standards) Committee",
       "role": ""
     },
     {

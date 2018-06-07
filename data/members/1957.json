@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:02.085986+00:00"
+    "time_created": "2018-06-07T14:11:09.064426+00:00"
   },
   "member": {
     "id": 1957,
@@ -44,6 +44,11 @@
     {
       "id": 262,
       "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 1096,
+      "name": "Safeguarding Sub (Community & Children's Services) Committee",
       "role": ""
     }
   ],

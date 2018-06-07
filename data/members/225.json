@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:14.777236+00:00"
+    "time_created": "2018-06-07T14:11:23.025103+00:00"
   },
   "member": {
     "id": 225,
@@ -43,7 +43,7 @@
       "items": [
         {
           "member": "Non-Executive Director, Stobart Group",
-          "partner": "Incom Tours and Events"
+          "partner": "CEO, Incom Tours and Events"
         }
       ]
     },
@@ -79,11 +79,11 @@
           "partner": "Vice President, British Red Cross, City area"
         },
         {
-          "member": "President, City Livery Club",
+          "member": "Council Member, City Livery Club (Past President)",
           "partner": ""
         },
         {
-          "member": "Council Member, Guild of Freemen of the City of London",
+          "member": "Warden/Council Member, Guild of Freemen of the City of London",
           "partner": ""
         },
         {
@@ -95,23 +95,23 @@
           "partner": ""
         },
         {
-          "member": "Council Member, Royal Society of St. George (City Branch)",
+          "member": "Vice-Chairman, Royal Society of St. George (City Branch)",
           "partner": ""
         },
         {
-          "member": "Deputy Chair, Parochial Church Council of St. Stephen Walbrook Church",
+          "member": "Lay Chairman/Church Warden, St. Stephen Walbrook Church",
           "partner": ""
         },
         {
-          "member": "Freemason",
+          "member": "Freemason (Past Member)",
           "partner": ""
         },
         {
-          "member": "Renter Bailiff, Worshipful Company of Weavers",
+          "member": "Upper Bailiff (Master), Worshipful Company of Weavers",
           "partner": ""
         },
         {
-          "member": "Court Member, Worshipful Company of Joiners and Ceilers",
+          "member": "Honorary Court Member, Worshipful Company of Joiners and Ceilers",
           "partner": ""
         },
         {
@@ -136,6 +136,10 @@
         },
         {
           "member": "Visiting Professor, University of West London",
+          "partner": ""
+        },
+        {
+          "member": "Guild of Investment Managers (Sponsoring Alderman)",
           "partner": ""
         }
       ]

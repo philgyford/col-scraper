@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:21:34.624034+00:00"
+    "time_created": "2018-06-07T14:13:30.996730+00:00"
   },
   "member": {
     "id": 394,
@@ -42,6 +42,11 @@
       "role": ""
     },
     {
+      "id": 168,
+      "name": "Projects Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
       "id": 1072,
       "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
       "role": ""
@@ -71,6 +76,10 @@
         },
         {
           "member": "Tribunal Chairman (Police)",
+          "partner": ""
+        },
+        {
+          "member": "Non Executive Director of Kanto Elect",
           "partner": ""
         }
       ]
@@ -103,27 +112,19 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Conservative Party",
-          "partner": ""
-        },
-        {
           "member": "American Bar Association (ABA)",
           "partner": ""
         },
         {
-          "member": "International Association for the Protection of Intellectual Property (AIPPI), UK Council Member",
+          "member": "Chartered Institute of Patent Attorneys (CIPA)",
           "partner": ""
         },
         {
-          "member": "International Trade Mark Association (INTA), Committee Member",
+          "member": "Chartered Institute of Trade Mark Attorneys (CITMA)",
           "partner": ""
         },
         {
-          "member": "Member of the Chartered Institute of Arbitration (MCIArb.)",
-          "partner": ""
-        },
-        {
-          "member": "Institute of Trade Mark Attorneys (ITMA)",
+          "member": "Conservative Party",
           "partner": ""
         },
         {
@@ -131,7 +132,7 @@
           "partner": ""
         },
         {
-          "member": "Member of the Honourable Society of the Middle Temple",
+          "member": "Director of the Kinetica Group",
           "partner": ""
         },
         {
@@ -139,7 +140,11 @@
           "partner": ""
         },
         {
-          "member": "Director of the Kinetica Group",
+          "member": "Freemason",
+          "partner": ""
+        },
+        {
+          "member": "International Association for the Protection of Intellectual Property (AIPPI), UK Council Member",
           "partner": ""
         },
         {
@@ -151,7 +156,7 @@
           "partner": ""
         },
         {
-          "member": "Intellectual Property Owners Association (IPO)",
+          "member": "International Trade Mark Association (INTA), Committee Member",
           "partner": ""
         },
         {
@@ -159,15 +164,15 @@
           "partner": ""
         },
         {
-          "member": "The Intellectual Property Lawyers’ Organisation (TIPLO)",
-          "partner": ""
-        },
-        {
-          "member": "Chartered Institute of Patent Attorneys (CIPA)",
-          "partner": ""
-        },
-        {
           "member": "Member of Lincoln’s Inn",
+          "partner": ""
+        },
+        {
+          "member": "Member of the Chartered Institute of Arbitration (MCIArb.)",
+          "partner": ""
+        },
+        {
+          "member": "Member of the Honourable Society of the Middle Temple",
           "partner": ""
         },
         {
@@ -175,7 +180,15 @@
           "partner": ""
         },
         {
-          "member": "Governor of Brentwood School",
+          "member": "Police Tribunal Chairman",
+          "partner": ""
+        },
+        {
+          "member": "The Intellectual Property Lawyers’ Organisation (TIPLO)",
+          "partner": ""
+        },
+        {
+          "member": "UNION of European Patent Attorneys",
           "partner": ""
         }
       ]

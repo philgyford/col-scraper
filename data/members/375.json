@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:41.773763+00:00"
+    "time_created": "2018-06-07T14:12:27.889442+00:00"
   },
   "member": {
     "id": 375,
@@ -42,6 +42,11 @@
       "role": ""
     },
     {
+      "id": 250,
+      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee",
+      "role": ""
+    },
+    {
       "id": 185,
       "name": "Health and Social Care Scrutiny Committee",
       "role": ""
@@ -57,14 +62,9 @@
       "role": ""
     },
     {
-      "id": 174,
-      "name": "Member Development Steering Group",
-      "role": "Chairman"
-    },
-    {
       "id": 407,
       "name": "Members Privileges Sub (Policy and Resources) Committee",
-      "role": "Chairman"
+      "role": ""
     },
     {
       "id": 175,
@@ -115,7 +115,7 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Chairman, The Save Bart's Campaign",
+          "member": "Coordinator, Bart's Hospital Volunteers",
           "partner": ""
         },
         {
@@ -139,7 +139,23 @@
           "partner": ""
         },
         {
-          "member": "Member, Bassishaw Ward Club",
+          "member": "Member, Farringdon Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Member, London Historical Society",
+          "partner": ""
+        },
+        {
+          "member": "Associate Member, City of London 600 Squadron Association",
+          "partner": ""
+        },
+        {
+          "member": "Member, Sheriffs & Recorder's Fund",
+          "partner": ""
+        },
+        {
+          "member": "Member, City of London Heritage Society",
           "partner": ""
         }
       ]

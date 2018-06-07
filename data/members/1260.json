@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:22.398043+00:00"
+    "time_created": "2018-06-07T14:11:31.050908+00:00"
   },
   "member": {
     "id": 1260,
@@ -49,7 +49,12 @@
     },
     {
       "name": "Sponsorship",
-      "items": []
+      "items": [
+        {
+          "member": "Ten Trinity Square Club; Reignwood Group",
+          "partner": ""
+        }
+      ]
     },
     {
       "name": "Contracts",
@@ -178,6 +183,10 @@
         {
           "member": "Vice Chairman of Governors, King Edwards School",
           "partner": ""
+        },
+        {
+          "member": "Trustee, Mansion House Scholarship Scheme",
+          "partner": ""
         }
       ]
     }
@@ -272,6 +281,11 @@
       "name": "Membership - Number Twenty client space, Grosvenor Street, London (KPMG)",
       "date_str": "28th March 2018",
       "date": "2018-03-28"
+    },
+    {
+      "name": "Dinner guest - Dr Chanchai of Reignwood, Ten Trinity Square. Two bottles of Chateau Siaurac pomerol wine received.",
+      "date_str": "13th May 2018",
+      "date": "2018-05-13"
     }
   ]
 }

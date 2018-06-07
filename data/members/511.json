@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:29.350187+00:00"
+    "time_created": "2018-06-07T14:11:39.164165+00:00"
   },
   "member": {
     "id": 511,
@@ -11,11 +11,6 @@
     "party": ""
   },
   "committees": [
-    {
-      "id": 236,
-      "name": "Board of Governors of the City of London School for Girls",
-      "role": ""
-    },
     {
       "id": 220,
       "name": "Court of Aldermen",
@@ -40,6 +35,11 @@
       "id": 1064,
       "name": "Social Investment Board",
       "role": "Chairman"
+    },
+    {
+      "id": 1259,
+      "name": "Standards Appeals Committee",
+      "role": ""
     }
   ],
   "interests": [
@@ -47,67 +47,55 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Finance for Companies Ltd - Director",
+          "member": "Director, Armadillo B Limited",
           "partner": "MWR InfoSecurity Ltd - Consultant (Global Operational Psychologist)"
         },
         {
-          "member": "Basinghall Capital Ltd - Director",
+          "member": "Director, Puma VCT 10 PLC",
           "partner": ""
         },
         {
-          "member": "JQA Ltd - Director",
+          "member": "Director, Provident and Regional LLP",
           "partner": ""
         },
         {
-          "member": "The Armadillo Group Ltd - Non-Executive Director",
+          "member": "Director, EP Capital Partners LTD",
           "partner": ""
         },
         {
-          "member": "Armadillo B Limited - Director",
+          "member": "Director, The Guild of Entrepreneurs LTD",
           "partner": ""
         },
         {
-          "member": "Human Capital Management Ltd - Secretary",
+          "member": "Director, New Gresham Group LTD",
           "partner": ""
         },
         {
-          "member": "Provident & Regional Estates Ltd - Director",
+          "member": "Director, Finance for Companies LTD",
           "partner": ""
         },
         {
-          "member": "Provident & Regional LLP - Partner",
+          "member": "Director, Human Capital Management LTD",
           "partner": ""
         },
         {
-          "member": "EP Capital Partners Ltd - Director",
+          "member": "Director, Provident & Regional Estates LTD",
           "partner": ""
         },
         {
-          "member": "The Guild of Entrepreneurs Trustee Ltd - Director",
+          "member": "Director, Premier Non-Executives LTD",
           "partner": ""
         },
         {
-          "member": "New Gresham Group Ltd - Director",
+          "member": "Director, Proven Planned Exit VCT PLC",
           "partner": ""
         },
         {
-          "member": "The Woolmen Trustees Ltd - Director",
+          "member": "Director, Basinghall Capital LTD",
           "partner": ""
         },
         {
-          "member": "Puma VCT VII PLC (in liquidation) - Non-Executive Director",
-          "partner": ""
-        },
-        {
-          "member": "Proven Planned Exit VCT PLC (in Liquidation) - Non-Executive Director",
-          "partner": ""
-        },
-        {
-          "member": "Brennan and Partners - Senior Advisor",
-          "partner": ""
-        },
-        {
-          "member": "Mesmerise Global Ltd - Advisor",
+          "member": "Director, JQA LTD",
           "partner": ""
         }
       ]
@@ -126,7 +114,12 @@
     },
     {
       "name": "Licences",
-      "items": []
+      "items": [
+        {
+          "member": "City of London Club (Freehold held) - Committee Member",
+          "partner": "City of London Club (Freehold held) - Committee Member"
+        }
+      ]
     },
     {
       "name": "Corporate Tenancies",
@@ -144,7 +137,7 @@
           "partner": ""
         },
         {
-          "member": "Government’s Advisory Group on Social Investment and Retail Participation - Member",
+          "member": "Government’s Advisory Task Force on Social Investment and Retail Participation - Member",
           "partner": ""
         },
         {
@@ -168,7 +161,7 @@
           "partner": ""
         },
         {
-          "member": "ABF, The Soldiers Charity – Member of the Finance Committee",
+          "member": "ABF, The Soldiers Charity – Trustee",
           "partner": ""
         },
         {
@@ -176,11 +169,11 @@
           "partner": ""
         },
         {
-          "member": "The Worshipful Company of Woolmen - Master",
+          "member": "The Worshipful Company of Woolmen - Past Master 2016/17",
           "partner": ""
         },
         {
-          "member": "The Guild of Entrepreneurs – Upper Warden and Founding Freeman",
+          "member": "The Guild of Entrepreneurs – Senior Warden and Trustee",
           "partner": ""
         },
         {
@@ -220,7 +213,7 @@
           "partner": ""
         },
         {
-          "member": "City of London Club – General Committee Member",
+          "member": "City of London Club – Committee Member",
           "partner": ""
         },
         {
@@ -249,6 +242,26 @@
         },
         {
           "member": "Phoenix Masters Association – Committee member",
+          "partner": ""
+        },
+        {
+          "member": "Government Task Force on Retail Social Investment",
+          "partner": ""
+        },
+        {
+          "member": "Conservative Party",
+          "partner": ""
+        },
+        {
+          "member": "Chartered Institute for Securities and Investment - Individually chartered fellow",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of International Bankers",
+          "partner": ""
+        },
+        {
+          "member": "CISI - Individually Chartererd Fellow",
           "partner": ""
         }
       ]
@@ -393,12 +406,12 @@
     {
       "name": "Embassy of Luxembourg - frequent dinners and receptions",
       "date_str": "2015-17",
-      "date": "2015-05-17"
+      "date": "2015-06-17"
     },
     {
       "name": "Apostolic Nunciature - Receptions and lunches",
       "date_str": "2015-17",
-      "date": "2015-05-17"
+      "date": "2015-06-17"
     }
   ]
 }

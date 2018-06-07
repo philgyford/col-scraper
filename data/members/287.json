@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:25.798492+00:00"
+    "time_created": "2018-06-07T14:12:09.308432+00:00"
   },
   "member": {
     "id": 287,
@@ -29,7 +29,7 @@
     {
       "id": 387,
       "name": "Board of Governors of the Guildhall School of Music and Drama",
-      "role": ""
+      "role": "Chairman"
     },
     {
       "id": 206,
@@ -49,7 +49,7 @@
     {
       "id": 163,
       "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": "Deputy Chairman"
+      "role": "Chairman"
     },
     {
       "id": 165,
@@ -69,12 +69,12 @@
     {
       "id": 413,
       "name": "Keats House Consultative Committee",
-      "role": "Deputy Chairman"
+      "role": ""
     },
     {
       "id": 219,
       "name": "Nominations Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": "Deputy Chairman"
+      "role": "Chairman"
     },
     {
       "id": 262,
@@ -84,7 +84,7 @@
     {
       "id": 410,
       "name": "Reference Sub Committee of the Board of Governors of the Guildhall School of Music and Drama",
-      "role": "Deputy Chairman"
+      "role": "Chairman"
     },
     {
       "id": 210,

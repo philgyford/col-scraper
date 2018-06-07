@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:21:31.725418+00:00"
+    "time_created": "2018-06-07T14:13:28.266003+00:00"
   },
   "member": {
     "id": 1207,
@@ -13,7 +13,7 @@
   "committees": [
     {
       "id": 1232,
-      "name": "Academic & Education Sub-Committee of the Board of Governors of the City of London School",
+      "name": "Academic and Education Sub-Committee of the Board of Governors of the City of London School",
       "role": ""
     },
     {
@@ -77,7 +77,7 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "FOR PROFIT /GAIN: KEEPMOAT HOMES CHIEF EXECUTIVE, THE WATERFRONT, LAKESIDE BOULEVARD, DONCASTER DN4 5PL",
+          "member": "CHIEF EXECUTIVE, KEEPMOAT HOMES, THE WATERFRONT, LAKESIDE BOULEVARD, DONCASTER DN4 5PL",
           "partner": ""
         }
       ]
@@ -131,7 +131,15 @@
           "partner": ""
         },
         {
-          "member": "HOUSING AND FINANCE INSTITUTE BOARD NON EXECUTIVE MEMBER",
+          "member": "COURTS OF ASSISTANTS",
+          "partner": ""
+        },
+        {
+          "member": "FREEMAN",
+          "partner": ""
+        },
+        {
+          "member": "NON EXECUTIVE BOARD MEMBER, HOUSING & FINANCE INSTITUTE",
           "partner": ""
         }
       ]

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:21:16.348466+00:00"
+    "time_created": "2018-06-07T14:13:09.421474+00:00"
   },
   "member": {
     "id": 1202,
@@ -42,13 +42,13 @@
       "role": ""
     },
     {
-      "id": 163,
-      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "id": 253,
+      "name": "Establishment Committee",
       "role": ""
     },
     {
-      "id": 192,
-      "name": "Finance Grants Oversight and Performance Sub Committee",
+      "id": 163,
+      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama",
       "role": ""
     },
     {
@@ -64,6 +64,11 @@
     {
       "id": 395,
       "name": "Policy and Resources Committee",
+      "role": ""
+    },
+    {
+      "id": 1072,
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
       "role": ""
     },
     {
@@ -86,7 +91,7 @@
           "partner": "DIRECTOR, GONVILLE HOTEL, GRESHAM HOUSE, GONVILLE PLACE, CB1 1CY"
         },
         {
-          "member": "DIRECTOR RED SAVANNAH LTD, CHELTENHAM HOUSE, CLARENCE STREET, CHELTENHAM, GLOS, GL50 3JR",
+          "member": "DIRECTOR RED SAVANNAH Travel, Eagle Tower, Montpellier Drive, Cheltenham, Gloucestershire GL50 1TA",
           "partner": "KEXBY FARM ING/ ABINGTON FARMS LTD, ABINGTON PARK FARM, CAMBRIDGE CB21 6AX"
         },
         {
@@ -98,11 +103,11 @@
           "partner": "DIRECTOR, C.L. EAGLEN LTD"
         },
         {
-          "member": "Director of Knightsbridge School International Senior Advisor of STJ Advisors",
+          "member": "Director of Knightsbridge School International 124 - 128 Barlby Road, London W10 6BL",
           "partner": "DIRECTOR, RIDGEON ESTATE COMPANY LTD"
         },
         {
-          "member": "CHAIRMAN OF CDAM (UK) LTD",
+          "member": "CHAIRMAN OF CDAM (UK) LTD, 16 Clifford Street, London W1S 3RG",
           "partner": ""
         },
         {
@@ -216,7 +221,7 @@
           "partner": "FARMERS LIVERY COMPANY"
         },
         {
-          "member": "TRUSTEE OF PLACE 2 BE",
+          "member": "Deputy Chairma of PLACE2BE",
           "partner": "Trustee of Best Beginnings"
         },
         {
@@ -236,7 +241,7 @@
           "partner": ""
         },
         {
-          "member": "Trustee of the Thomas Carpenter Trust",
+          "member": "Trustee of Morden College",
           "partner": ""
         }
       ]

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:59.591285+00:00"
+    "time_created": "2018-06-07T14:12:47.347405+00:00"
   },
   "member": {
     "id": 1224,
@@ -14,7 +14,7 @@
     {
       "id": 120,
       "name": "Community & Children's Services Committee",
-      "role": ""
+      "role": "Deputy Chairman"
     },
     {
       "id": 223,
@@ -27,18 +27,13 @@
       "role": ""
     },
     {
-      "id": 1256,
-      "name": "Housing Delivery Programme Working Group",
-      "role": ""
-    },
-    {
       "id": 247,
       "name": "Housing Management and Almshouses Sub (Community and Children's Services) Committee",
       "role": ""
     },
     {
       "id": 1247,
-      "name": "Integrated Commissioning Board",
+      "name": "Integrated Commissioning Sub Committee",
       "role": ""
     },
     {
@@ -111,6 +106,10 @@
         },
         {
           "member": "Director, shareholder - Clockwork Farms Limited 215-217 Victoria Park Road, London E9 7HD",
+          "partner": ""
+        },
+        {
+          "member": "Company Secretary - P & A Developments (London) Ltd, 215-217 Victoria Park Road, London E9 7HD",
           "partner": ""
         }
       ]
@@ -206,7 +205,7 @@
           "partner": ""
         },
         {
-          "member": "Governor - East London NHS Foundation Trust",
+          "member": "Court Assistant - The Society of Young Freemen, Guildhall, PO Box 270, Gresham Street, London EC2P 2EJ",
           "partner": ""
         },
         {
@@ -214,7 +213,7 @@
           "partner": ""
         },
         {
-          "member": "Member - The Society of Young Freemen, Guildhall PO Box 270 Gresham Street, London EC2P 2EJ",
+          "member": "Chairman of Governors, Avanti Court Primary School, Carlton Drive Ilford IG6 1LZ",
           "partner": ""
         },
         {
@@ -223,10 +222,6 @@
         },
         {
           "member": "Director - City of London Academies Trust, Guildhall PO Box 270 Gresham Street, London EC2P 2EJ",
-          "partner": ""
-        },
-        {
-          "member": "Chairman of Governors, Avanti Court Primary School, Carlton Drive Ilford IG6 1LZ",
           "partner": ""
         }
       ]

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:43.093439+00:00"
+    "time_created": "2018-06-07T14:12:29.330840+00:00"
   },
   "member": {
     "id": 377,
@@ -89,11 +89,11 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Member, Bassishaw Ward Club",
-          "partner": ""
+          "member": "Member and Vice-President, Bassishaw Ward Club",
+          "partner": "Member, English Heritage"
         },
         {
-          "member": "Liveryman, The Worshipful Company of International Bankers",
+          "member": "Liveryman and Court Assistant, The Worshipful Company of International Bankers",
           "partner": ""
         },
         {
@@ -106,6 +106,10 @@
         },
         {
           "member": "Member - Automobile Association",
+          "partner": ""
+        },
+        {
+          "member": "Member, English Heritage",
           "partner": ""
         }
       ]

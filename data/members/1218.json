@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:27.892573+00:00"
+    "time_created": "2018-06-07T14:11:37.699510+00:00"
   },
   "member": {
     "id": 1218,
@@ -19,11 +19,6 @@
     {
       "id": 223,
       "name": "Court of Common Council",
-      "role": ""
-    },
-    {
-      "id": 1106,
-      "name": "Dispensations Sub (Standards) Committee",
       "role": ""
     },
     {
@@ -67,8 +62,8 @@
       "role": "Chairman"
     },
     {
-      "id": 1222,
-      "name": "Nominations Sub (Education Board) Committee",
+      "id": 407,
+      "name": "Members Privileges Sub (Policy and Resources) Committee",
       "role": ""
     },
     {
@@ -151,6 +146,14 @@
         },
         {
           "member": "Director of 7 Lothbury Freehold Ltd",
+          "partner": ""
+        },
+        {
+          "member": "Director of the Royal Masonic School for Girls Ltd",
+          "partner": ""
+        },
+        {
+          "member": "Director of the City Livery Club Ltd",
           "partner": ""
         }
       ]
@@ -292,6 +295,11 @@
       "name": "Guest of London Chamber of Commerce at a Presidents Lunch at MIPIM",
       "date_str": "14 March 2018",
       "date": "2018-03-14"
+    },
+    {
+      "name": "Guest of Christopher Moran Dinner at Crosby Hall",
+      "date_str": "16 May 2018",
+      "date": "2018-05-16"
     }
   ]
 }

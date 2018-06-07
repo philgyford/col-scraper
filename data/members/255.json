@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:41.144210+00:00"
+    "time_created": "2018-06-07T14:11:49.478957+00:00"
   },
   "member": {
     "id": 255,
@@ -19,6 +19,11 @@
     {
       "id": 223,
       "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 245,
+      "name": "Efficiency and Performance Sub (Finance) Committee",
       "role": ""
     },
     {
@@ -69,7 +74,12 @@
     },
     {
       "name": "Securities",
-      "items": []
+      "items": [
+        {
+          "member": "Charles Stanley Group PLC",
+          "partner": "Charles Stanley Group PLC"
+        }
+      ]
     },
     {
       "name": "Non-pecuniary interests",
@@ -83,15 +93,19 @@
           "partner": ""
         },
         {
-          "member": "Lime Street Ward Club",
+          "member": "Member, Lime Street & Cornhill Ward Club",
           "partner": ""
         },
         {
-          "member": "Member of trade association: the Wealth Management Association (WMA)",
+          "member": "Chartered Institute for Securities and Investment (CISI), Member",
           "partner": ""
         },
         {
           "member": "City of London Club",
+          "partner": ""
+        },
+        {
+          "member": "Governor, Capel Manor College",
           "partner": ""
         }
       ]

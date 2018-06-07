@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:07.922381+00:00"
+    "time_created": "2018-06-07T14:11:15.849115+00:00"
   },
   "member": {
     "id": 1756,
@@ -11,6 +11,11 @@
     "party": ""
   },
   "committees": [
+    {
+      "id": 244,
+      "name": "Audit and Risk Management Committee",
+      "role": ""
+    },
     {
       "id": 223,
       "name": "Court of Common Council",
@@ -44,6 +49,11 @@
     {
       "id": 262,
       "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 168,
+      "name": "Projects Sub (Policy and Resources) Committee",
       "role": ""
     },
     {
@@ -140,7 +150,7 @@
           "partner": ""
         },
         {
-          "member": "Member, CIPR (Chartered Institute of Public Relations)",
+          "member": "Member, Chartered Institute of Public Relations (CIPR)",
           "partner": ""
         },
         {
@@ -148,11 +158,19 @@
           "partner": ""
         },
         {
-          "member": "Member - Tower Ward Club",
+          "member": "Member, Tower Ward Club",
           "partner": ""
         },
         {
-          "member": "Member - Progress",
+          "member": "Member, Progress",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, The City Academy Hackney",
+          "partner": ""
+        },
+        {
+          "member": "Micham Common Conservators (non-remunerated)",
           "partner": ""
         }
       ]

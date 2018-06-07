@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:19:33.357526+00:00"
+    "time_created": "2018-06-07T14:10:41.381192+00:00"
   },
   "member": {
     "id": 136,
@@ -17,11 +17,6 @@
       "role": ""
     },
     {
-      "id": 1229,
-      "name": "Courts Sub (Policy and Resources) Committee",
-      "role": ""
-    },
-    {
       "id": 177,
       "name": "Culture, Heritage and Libraries Committee",
       "role": ""
@@ -30,11 +25,6 @@
       "id": 253,
       "name": "Establishment Committee",
       "role": ""
-    },
-    {
-      "id": 183,
-      "name": "Freedom Applications Committee",
-      "role": "Ex-Officio Member"
     },
     {
       "id": 1256,
@@ -64,7 +54,7 @@
     {
       "id": 1072,
       "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
-      "role": "Deputy Chairman"
+      "role": ""
     },
     {
       "id": 396,
@@ -106,22 +96,19 @@
           "partner": ""
         },
         {
-          "member": "New Entrepreneurs Foundation Business Council (unpaid)",
-          "partner": ""
-        },
-        {
           "member": "London Councils Pensions Collective Investment Vehicle Joint Committee (unpaid)",
-          "partner": ""
-        },
-        {
-          "member": "City of London Academies Trust (Member) (unpaid)",
           "partner": ""
         }
       ]
     },
     {
       "name": "Land",
-      "items": []
+      "items": [
+        {
+          "member": "Tenancy of a flat at 172 Aldersgate Street, London",
+          "partner": ""
+        }
+      ]
     },
     {
       "name": "Licences",
@@ -183,7 +170,7 @@
           "partner": ""
         },
         {
-          "member": "New Entrepreneurs Foundation Business Council",
+          "member": "International Business and Development Exchange",
           "partner": ""
         },
         {
@@ -191,7 +178,7 @@
           "partner": ""
         },
         {
-          "member": "Jersey Policy Forum",
+          "member": "Franco-British Council",
           "partner": ""
         },
         {

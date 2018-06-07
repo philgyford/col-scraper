@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:21:29.034452+00:00"
+    "time_created": "2018-06-07T14:13:25.456625+00:00"
   },
   "member": {
     "id": 1231,
@@ -18,7 +18,7 @@
     },
     {
       "id": 1228,
-      "name": "Burnham Beeches Consultation Group",
+      "name": "Burnham Beeches and Stoke Common Consultation Group",
       "role": "Deputy Chairman"
     },
     {
@@ -109,18 +109,13 @@
     },
     {
       "name": "Securities",
-      "items": [
-        {
-          "member": "",
-          "partner": "Part owner of companies listed above, where currently a Director."
-        }
-      ]
+      "items": []
     },
     {
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Freeman - Worshipful Company of Information Technologists",
+          "member": "Liveryman - Worshipful Company of Information Technologists",
           "partner": ""
         },
         {
@@ -177,6 +172,10 @@
         },
         {
           "member": "Member - International Association of Privacy Professionals",
+          "partner": ""
+        },
+        {
+          "member": "Member, Old Bancroftians' Association",
           "partner": ""
         }
       ]

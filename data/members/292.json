@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:28.431685+00:00"
+    "time_created": "2018-06-07T14:12:13.212986+00:00"
   },
   "member": {
     "id": 292,
@@ -49,7 +49,7 @@
     {
       "id": 253,
       "name": "Establishment Committee",
-      "role": "Deputy Chairman"
+      "role": "Chairman"
     },
     {
       "id": 1233,
@@ -69,7 +69,7 @@
     {
       "id": 254,
       "name": "Joint Consultative Committee",
-      "role": "Deputy Chairman"
+      "role": "Chairman"
     },
     {
       "id": 411,
@@ -79,11 +79,6 @@
     {
       "id": 407,
       "name": "Members Privileges Sub (Policy and Resources) Committee",
-      "role": ""
-    },
-    {
-      "id": 164,
-      "name": "Nominations Committee of the Barbican Centre Board",
       "role": ""
     },
     {
@@ -114,11 +109,6 @@
     {
       "id": 396,
       "name": "Resource Allocation Sub (Policy and Resources) Committee",
-      "role": ""
-    },
-    {
-      "id": 249,
-      "name": "Risk Committee of the Barbican Centre Board",
       "role": ""
     },
     {

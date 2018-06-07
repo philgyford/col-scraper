@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:21:43.485779+00:00"
+    "time_created": "2018-06-07T14:13:41.202137+00:00"
   },
   "member": {
     "id": 399,
@@ -32,15 +32,23 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Chairman, Chartered Institute for Securities & Investment, Eastcheap, EC3",
-          "partner": "Governor, City of London Freemen's School"
-        },
-        {
-          "member": "Senior Advisor, Kleinwort Benson Group Ltd, George Street, W1",
+          "member": "Chairman, Chartered Institute for Securities & Investment, 20 Fenchurch Street, London. EC3M 3BY",
           "partner": ""
         },
         {
-          "member": "Non-Executive Director, Turquoise Global Holdings Ltd, Paternoster Square, EC4",
+          "member": "Director, Arbuthnot Banking Group PLC, 7 Wilson Street, London. EC2M 2SN",
+          "partner": ""
+        },
+        {
+          "member": "Chairman Turquoise Global Holdings Ltd, Paternoster Square, EC4",
+          "partner": ""
+        },
+        {
+          "member": "Director, Institutional Protection Services Limited, 1-3 Staple Inn, London. WC1V 7QH",
+          "partner": ""
+        },
+        {
+          "member": "Independent Partnership Advisor, James Hambro Partners, 45 Pall Mall, London. SW1Y 5JG",
           "partner": ""
         }
       ]
@@ -51,12 +59,7 @@
     },
     {
       "name": "Contracts",
-      "items": [
-        {
-          "member": "Chartered Institute for Securities & Investment, Rent/Lease agreement on property at Eastcheap",
-          "partner": ""
-        }
-      ]
+      "items": []
     },
     {
       "name": "Land",
@@ -83,7 +86,7 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Police Foundation (Trustee)",
+          "member": "HM Lieutenant of the City of London",
           "partner": ""
         },
         {
@@ -95,11 +98,23 @@
           "partner": ""
         },
         {
-          "member": "City of London Club",
+          "member": "Member of Commonwealth Enterprise & Investment Council, Advisory Board",
           "partner": ""
         },
         {
-          "member": "Livery Companies - Fishmongers (Member of Court), Glaziers, International Bankers, Honorary Member of Scientific Instruments Makers, Launderers and the Security Professionals.",
+          "member": "Livery Companies - Fishmongers, Glaziers, International Bankers, Honorary Member of Scientific Instruments Makers, Launderers and the Security Professionals.",
+          "partner": ""
+        },
+        {
+          "member": "Member, Takeover Appeal Board",
+          "partner": ""
+        },
+        {
+          "member": "Chartered Honorary Fellow, Chartered Institute for Securities & Investment",
+          "partner": ""
+        },
+        {
+          "member": "Honorary Fellow, Institute of Chartered Secretaries & Administrators",
           "partner": ""
         }
       ]

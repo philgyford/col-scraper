@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:19:39.723029+00:00"
+    "time_created": "2018-06-07T14:10:48.944007+00:00"
   },
   "member": {
     "id": 137,
@@ -43,7 +43,7 @@
       "items": [
         {
           "member": "John Lewis Partnership, Peter Jones Department Store, Sloane Square, SW1",
-          "partner": "Secretary to the Sheriffs of London, Old Bailey, EC4"
+          "partner": ""
         }
       ]
     },
@@ -81,11 +81,35 @@
       "items": [
         {
           "member": "Friend of Guildhall Art Gallery",
-          "partner": ""
+          "partner": "Friend of Guildhall Art Gallery"
         },
         {
           "member": "Member - Cripplegate Ward Club",
-          "partner": ""
+          "partner": "Member, Cripplegate Ward Club"
+        },
+        {
+          "member": "Institute of Marketing and Sales Management",
+          "partner": "Member, Aldersgate Ward Club"
+        },
+        {
+          "member": "",
+          "partner": "Member, Bishopsgate Ward Club"
+        },
+        {
+          "member": "",
+          "partner": "Member, United Wards Club"
+        },
+        {
+          "member": "",
+          "partner": "Member, Royal Society of St George (City Branch)"
+        },
+        {
+          "member": "",
+          "partner": "Member, City Livery Club"
+        },
+        {
+          "member": "",
+          "partner": "Livery Member, Coopers"
         }
       ]
     }

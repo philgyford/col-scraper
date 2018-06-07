@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:19.191443+00:00"
+    "time_created": "2018-06-07T14:11:27.787638+00:00"
   },
   "member": {
     "id": 1939,
@@ -43,7 +43,7 @@
       "items": [
         {
           "member": "CEO, Global Markets Consultants – 46-48 East Smithfield, London E1W 1AW",
-          "partner": "Director, Global Markets Consultants – 46-48 East Smithfield, London E1W 1AW"
+          "partner": ""
         },
         {
           "member": "Institute of Directors, City of London Branch",
@@ -79,14 +79,6 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Worshipful Company of Plumbers",
-          "partner": ""
-        },
-        {
-          "member": "Worshipful Company of World Traders",
-          "partner": ""
-        },
-        {
           "member": "Guild of Freemen",
           "partner": ""
         },
@@ -99,11 +91,11 @@
           "partner": ""
         },
         {
-          "member": "Cripplegate Ward Club",
+          "member": "Broad Street Ward Club",
           "partner": ""
         },
         {
-          "member": "Broad Street Ward Club",
+          "member": "Cripplegate Ward Club",
           "partner": ""
         },
         {
@@ -112,6 +104,18 @@
         },
         {
           "member": "Bishopsgate Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of Plumbers",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of World Traders",
+          "partner": ""
+        },
+        {
+          "member": "Institute of Directors, City of London Branch",
           "partner": ""
         }
       ]

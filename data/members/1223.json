@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:20:45.194856+00:00"
+    "time_created": "2018-06-07T14:11:53.756416+00:00"
   },
   "member": {
     "id": 1223,
@@ -64,7 +64,7 @@
     {
       "id": 145,
       "name": "Finance Committee",
-      "role": ""
+      "role": "Deputy Chairman"
     },
     {
       "id": 192,
@@ -130,6 +130,11 @@
       "id": 168,
       "name": "Projects Sub (Policy and Resources) Committee",
       "role": "Deputy Chairman"
+    },
+    {
+      "id": 1072,
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
+      "role": ""
     },
     {
       "id": 986,
@@ -212,7 +217,7 @@
           "partner": ""
         },
         {
-          "member": "Safeguarding Officer at St. Michael & All Angels, Mill Hill",
+          "member": "Member, Aldgate Ward Club",
           "partner": ""
         },
         {
@@ -220,7 +225,7 @@
           "partner": ""
         },
         {
-          "member": "Billingsgate Ward Club Aldgate Ward Club Tower Ward Club",
+          "member": "Member, Billingsgate Ward Club",
           "partner": ""
         },
         {
@@ -237,6 +242,10 @@
         },
         {
           "member": "Veteran Member, Honourable Artillery Company",
+          "partner": ""
+        },
+        {
+          "member": "Member, Tower Ward Club",
           "partner": ""
         }
       ]

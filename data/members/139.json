@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:19:27.746288+00:00"
+    "time_created": "2018-06-07T14:10:35.474274+00:00"
   },
   "member": {
     "id": 139,
@@ -24,7 +24,7 @@
     {
       "id": 387,
       "name": "Board of Governors of the Guildhall School of Music and Drama",
-      "role": ""
+      "role": "Deputy Chairman"
     },
     {
       "id": 223,
@@ -39,7 +39,7 @@
     {
       "id": 163,
       "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": "Chairman"
+      "role": "Deputy Chairman"
     },
     {
       "id": 218,
@@ -54,7 +54,7 @@
     {
       "id": 219,
       "name": "Nominations Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": "Chairman"
+      "role": "Deputy Chairman"
     },
     {
       "id": 262,
@@ -64,12 +64,12 @@
     {
       "id": 410,
       "name": "Reference Sub Committee of the Board of Governors of the Guildhall School of Music and Drama",
-      "role": "Chairman"
+      "role": "Deputy Chairman"
     },
     {
       "id": 210,
       "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": "Deputy Chairman"
+      "role": ""
     }
   ],
   "interests": [

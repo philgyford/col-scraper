@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-05-12T10:21:11.899224+00:00"
+    "time_created": "2018-06-07T14:13:04.240164+00:00"
   },
   "member": {
     "id": 367,
@@ -32,11 +32,6 @@
       "role": ""
     },
     {
-      "id": 513,
-      "name": "Economic Crime Board of the Police Committee",
-      "role": ""
-    },
-    {
       "id": 253,
       "name": "Establishment Committee",
       "role": ""
@@ -54,11 +49,6 @@
     {
       "id": 262,
       "name": "Port Health & Environmental Services Committee",
-      "role": ""
-    },
-    {
-      "id": 398,
-      "name": "Professional Standards and Integrity Sub (Police) Committee",
       "role": ""
     },
     {
