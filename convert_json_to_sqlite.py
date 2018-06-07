@@ -38,6 +38,7 @@ def init_db(filename):
         id INTEGER NOT NULL,
         name VARCHAR(50),
         url VARCHAR(255),
+        kind VARCHAR(50),
         PRIMARY KEY (id)
     );
     CREATE TABLE committee_membership(
@@ -171,6 +172,7 @@ def load_committees(filepath, cursor):
                 'id':   committee['id'],
                 'name': committee['name'],
                 'url':  committee['url'],
+                'kind': committee['kind'],
             }
         )
 
