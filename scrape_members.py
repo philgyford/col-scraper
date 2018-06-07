@@ -72,7 +72,7 @@ def scrape_all():
 
     logger.info("Saved data for {} members".format(len(rows)))
 
-    scrape_committees()
+    scrape_committees_list()
 
     create_list_files()
 
