@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:12:06.556754+00:00"
+    "time_created": "2018-10-11T15:40:13.163566+00:00"
   },
   "member": {
     "id": 276,
@@ -19,6 +19,11 @@
     {
       "id": 122,
       "name": "Epping Forest & Commons Committee",
+      "role": ""
+    },
+    {
+      "id": 1251,
+      "name": "Epping Forest Joint Consultative Committee",
       "role": ""
     },
     {

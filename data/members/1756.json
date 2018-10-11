@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:11:15.849115+00:00"
+    "time_created": "2018-10-11T15:39:27.077798+00:00"
   },
   "member": {
     "id": 1756,
@@ -45,6 +45,11 @@
       "id": 175,
       "name": "Open Spaces and City Gardens",
       "role": "Ex-Officio Member"
+    },
+    {
+      "id": 1264,
+      "name": "Open Spaces Working Party",
+      "role": ""
     },
     {
       "id": 262,

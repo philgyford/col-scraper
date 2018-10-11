@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:11:55.400025+00:00"
+    "time_created": "2018-10-11T15:40:01.477785+00:00"
   },
   "member": {
     "id": 264,
@@ -32,11 +32,6 @@
       "role": "Chairman"
     },
     {
-      "id": 1197,
-      "name": "City of London School for Girls - 125th Anniversary Working Party",
-      "role": ""
-    },
-    {
       "id": 223,
       "name": "Court of Common Council",
       "role": ""
@@ -54,6 +49,11 @@
     {
       "id": 176,
       "name": "Investment Committee",
+      "role": ""
+    },
+    {
+      "id": 1267,
+      "name": "Procurement Sub-Committee",
       "role": ""
     },
     {

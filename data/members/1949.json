@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:10:22.035883+00:00"
+    "time_created": "2018-10-11T15:38:34.288607+00:00"
   },
   "member": {
     "id": 1949,
@@ -88,5 +88,11 @@
       ]
     }
   ],
-  "gifts": []
+  "gifts": [
+    {
+      "name": "Dinner at Mansion House (Canary Wharf Group)",
+      "date_str": "6th September 2018",
+      "date": "2018-09-06"
+    }
+  ]
 }

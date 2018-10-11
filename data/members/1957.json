@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:11:09.064426+00:00"
+    "time_created": "2018-10-11T15:39:20.503332+00:00"
   },
   "member": {
     "id": 1957,
@@ -24,6 +24,11 @@
     {
       "id": 223,
       "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1261,
+      "name": "Homelessness and Rough Sleepers Sub Committee",
       "role": ""
     },
     {

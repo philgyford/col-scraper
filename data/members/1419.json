@@ -1,12 +1,12 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:11:11.956679+00:00"
+    "time_created": "2018-10-11T15:39:23.511479+00:00"
   },
   "member": {
     "id": 1419,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1419",
-    "name": "Peter Estlin",
-    "role": "Alderman",
+    "name": "Lord Mayor-Elect Alderman Peter Estlin",
+    "role": "",
     "ward": "Coleman Street",
     "party": ""
   },
@@ -150,22 +150,22 @@
     {
       "name": "Pewter tankard with coat of arms of Jesus College Cambridge, presented as a gift by the 34th Symposium on Economic Crime.",
       "date_str": "September 2016",
-      "date": "2016-09-07"
+      "date": "2016-09-11"
     },
     {
       "name": "Bottle of alcohol and two small guide books to Belarus, received from the Ambassador of Belarus",
       "date_str": "February 2018",
-      "date": "2018-02-07"
+      "date": "2018-02-11"
     },
     {
       "name": "Hanging mobile, received from the Chief Scientist of Israel",
       "date_str": "February 2018",
-      "date": "2018-02-07"
+      "date": "2018-02-11"
     },
     {
       "name": "Bottle of Howard Park 2011 wine from the Agent General of Western Australia",
       "date_str": "March 2018",
-      "date": "2018-03-07"
+      "date": "2018-03-11"
     }
   ]
 }

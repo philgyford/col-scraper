@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:10:57.088943+00:00"
+    "time_created": "2018-10-11T15:39:08.459437+00:00"
   },
   "member": {
     "id": 160,
@@ -12,6 +12,11 @@
   },
   "committees": [
     {
+      "id": 201,
+      "name": "Audit and Risk Management Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "role": ""
+    },
+    {
       "id": 387,
       "name": "Board of Governors of the Guildhall School of Music and Drama",
       "role": ""
@@ -19,11 +24,6 @@
     {
       "id": 223,
       "name": "Court of Common Council",
-      "role": ""
-    },
-    {
-      "id": 163,
-      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama",
       "role": ""
     },
     {
@@ -39,6 +39,11 @@
     {
       "id": 262,
       "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 125,
+      "name": "Property Investment Board",
       "role": ""
     },
     {

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:12:09.308432+00:00"
+    "time_created": "2018-10-11T15:40:16.123519+00:00"
   },
   "member": {
     "id": 287,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=287",
-    "name": "Vivienne Littlechild JP",
+    "name": "Vivienne Littlechild JP, MBE",
     "role": "",
     "ward": "Cripplegate",
     "party": ""
@@ -15,11 +15,6 @@
       "id": 140,
       "name": "Barbican Centre Board",
       "role": ""
-    },
-    {
-      "id": 227,
-      "name": "Benefices Sub (Culture, Heritage & Libraries) Committee",
-      "role": "Ex-Officio Member"
     },
     {
       "id": 230,
@@ -52,14 +47,9 @@
       "role": "Chairman"
     },
     {
-      "id": 165,
-      "name": "Finance Committee of the Barbican Centre Board",
-      "role": ""
-    },
-    {
       "id": 218,
       "name": "Governance and Effectiveness Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": ""
+      "role": "Deputy Chairman"
     },
     {
       "id": 185,
@@ -89,7 +79,7 @@
     {
       "id": 210,
       "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": ""
+      "role": "Deputy Chairman"
     }
   ],
   "interests": [

@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "time_created": "2018-10-11T15:39:56.658552+00:00"
+  },
+  "member": {
+    "id": 257,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=257",
+    "name": "Robert Charles Hughes-Penney",
+    "role": "Alderman",
+    "ward": "Cheap",
+    "party": ""
+  },
+  "committees": [
+    {
+      "id": 220,
+      "name": "Court of Aldermen",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Rathbone Bros Plc, 8 Finsbury Circus, London. EC2M 7AZ",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "Rathbone Bros Plc",
+          "partner": "Rathbone Bros Plc"
+        },
+        {
+          "member": "Payden Global Inflation Linked Bond Fund",
+          "partner": "Vanguard FTSE All World High Dividend Yield Fund"
+        },
+        {
+          "member": "Vanguard Lifestrategy Fund",
+          "partner": "DB X-tracker Global Select Dividend Fund"
+        },
+        {
+          "member": "F + C Private Equity Trust",
+          "partner": "Vanguard Lifestrategy Fund"
+        },
+        {
+          "member": "Triplepoint VCT",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Patron- Cheap Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Member - Farringdon Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman - Haberdashers' Company",
+          "partner": ""
+        },
+        {
+          "member": "Member - Guild of Investment Managers",
+          "partner": ""
+        },
+        {
+          "member": "Chartered Fellow - Chartered Institute for Securities and Investment",
+          "partner": ""
+        },
+        {
+          "member": "Non-Executive Director, Investing For Good",
+          "partner": ""
+        },
+        {
+          "member": "City & Guilds of London Institute - Lifetime member",
+          "partner": ""
+        },
+        {
+          "member": "National Trust - Lifetime member",
+          "partner": ""
+        },
+        {
+          "member": "Member - Lord Mayor’s Appeal Fundraising Board",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:10:17.029778+00:00"
+    "time_created": "2018-10-11T15:38:28.403610+00:00"
   },
   "member": {
     "id": 131,
@@ -28,6 +28,22 @@
       "items": [
         {
           "member": "Managing Director, George Abrahams Group, 217/218 Smithfield, London EC1A 9LH",
+          "partner": "Baycrest Developments Ltd."
+        },
+        {
+          "member": "Baycrest Developments Ltd.",
+          "partner": "Baycrest Properties Ltd."
+        },
+        {
+          "member": "Baycrest Properties Ltd.",
+          "partner": ""
+        },
+        {
+          "member": "GA International Food Services",
+          "partner": ""
+        },
+        {
+          "member": "Market Provisions (Smithfield) Ltd.",
           "partner": ""
         }
       ]
@@ -42,11 +58,21 @@
     },
     {
       "name": "Land",
-      "items": []
+      "items": [
+        {
+          "member": "Corporation Tenant - 20, 22, 217-218 Central Markets, Smithfield, London EC1",
+          "partner": ""
+        }
+      ]
     },
     {
       "name": "Licences",
-      "items": []
+      "items": [
+        {
+          "member": "Corporation Tenant - 20, 22, 217-218 Central Markets, Smithfield, London EC1",
+          "partner": ""
+        }
+      ]
     },
     {
       "name": "Corporate Tenancies",
@@ -59,7 +85,12 @@
     },
     {
       "name": "Securities",
-      "items": []
+      "items": [
+        {
+          "member": "Corporation Tenant - 20, 22, 217-218 Central Markets, Smithfield, London EC1",
+          "partner": ""
+        }
+      ]
     },
     {
       "name": "Non-pecuniary interests",
@@ -69,11 +100,19 @@
           "partner": ""
         },
         {
-          "member": "Worshipful Company of Butchers",
+          "member": "International Meat Traders Association (IMTA)",
           "partner": ""
         },
         {
           "member": "International Meat Trades Association (IMTA)",
+          "partner": ""
+        },
+        {
+          "member": "Butchers Company - Liveryman",
+          "partner": ""
+        },
+        {
+          "member": "Smithfield Market Tenants Association (SMTA)",
           "partner": ""
         }
       ]

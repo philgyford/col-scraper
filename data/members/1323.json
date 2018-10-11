@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:12:18.130512+00:00"
+    "time_created": "2018-10-11T15:40:24.801244+00:00"
   },
   "member": {
     "id": 1323,
@@ -24,6 +24,11 @@
     {
       "id": 259,
       "name": "Gresham (City Side) Committee",
+      "role": ""
+    },
+    {
+      "id": 850,
+      "name": "Lord Mayor's Show Ltd",
       "role": ""
     },
     {
@@ -208,5 +213,11 @@
       ]
     }
   ],
-  "gifts": []
+  "gifts": [
+    {
+      "name": "The Worshipful Company of Mercers Gresham Dinner",
+      "date_str": "14 November 2017",
+      "date": "2017-11-14"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:11:20.201776+00:00"
+    "time_created": "2018-10-11T15:39:32.175796+00:00"
   },
   "member": {
     "id": 221,
@@ -12,11 +12,6 @@
   },
   "committees": [
     {
-      "id": 213,
-      "name": "Academic and Personnel Sub Committee of the Board of Governors of the City of London Freemen's School",
-      "role": ""
-    },
-    {
       "id": 230,
       "name": "Board of Governors of the City of London Freemen's School",
       "role": ""
@@ -27,11 +22,6 @@
       "role": ""
     },
     {
-      "id": 231,
-      "name": "Bursary Committee of the Board of Governors of the City of London Freemen's School",
-      "role": ""
-    },
-    {
       "id": 223,
       "name": "Court of Common Council",
       "role": ""
@@ -39,11 +29,6 @@
     {
       "id": 1147,
       "name": "Education Board",
-      "role": ""
-    },
-    {
-      "id": 212,
-      "name": "Finance, General Purposes and Estates Sub-Committee of the Board of Governors of the City of London Freemen's School",
       "role": ""
     },
     {

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:10:53.051297+00:00"
+    "time_created": "2018-10-11T15:39:04.780209+00:00"
   },
   "member": {
     "id": 158,
@@ -129,18 +129,17 @@
         {
           "member": "Honorary Treasurer of the Guild Church of St Lawrence Jewry",
           "partner": ""
+        },
+        {
+          "member": "Chairman of Governors - City of London Freemen's School",
+          "partner": ""
         }
       ]
     }
   ],
   "gifts": [
     {
-      "name": "In my capacity as Past Deputy Governor of the Honourable Irish Society and as the current Chairman of the Co-operation Ireland GB Executive, I have regularly attended events hosted by Dr Christopher Moran both personally and in his role as Chairman of Co-operation Ireland, the cost of which in total, is likely to have exceeded the culmulative registration threshold.",
-      "date_str": "2016 - ongoing",
-      "date": null
-    },
-    {
-      "name": "Also in my capacity as Past Deputy Governor of the Honourable Irish Society and current Chairman of the Co-operation Ireland GB Executive, I have regularly attended receptions and other events hosted by the Irish Embassy in London (including double invitations to concerts), the cost of which in total is likely to have exceeded the culmulative registration threshold.",
+      "name": "In my capacity as Past Deputy Governor of the Honourable Irish Society and as the cuurent Chairman of the Co-operation Ireland GB Executive, I have regularly attended events hosted by Dr Christopher Moran both personally and in his role as Chairman of Co-operation Ireland, the cost of which in total, is likely to have exceeded the cumulative registration threshhold.",
       "date_str": "2016 - ongoing",
       "date": null
     },
@@ -272,6 +271,21 @@
     {
       "name": "Opera Tickets (2) Goodenough College",
       "date_str": "24/04/18",
+      "date": null
+    },
+    {
+      "name": "RIBA Awards Ceremony/Dinner - Hawkins Brown",
+      "date_str": "17/05/18",
+      "date": null
+    },
+    {
+      "name": "Lunch Goodenough College",
+      "date_str": "27/06/18",
+      "date": null
+    },
+    {
+      "name": "Construction News Awards Ceremony/Dinner - Gilbert Ash",
+      "date_str": "12/07/18",
       "date": null
     }
   ]

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:12:19.553302+00:00"
+    "time_created": "2018-10-11T15:40:26.547826+00:00"
   },
   "member": {
     "id": 1217,
@@ -73,11 +73,11 @@
         },
         {
           "member": "206 LONDON CENTRAL MARKETS",
-          "partner": ""
+          "partner": "206 LONDON CENTRAL MARKETS"
         },
         {
           "member": "210-213 LONDON CENTRAL MARKETS",
-          "partner": ""
+          "partner": "210-213 LONDON CENTRAL MARKETS"
         }
       ]
     },
@@ -90,11 +90,15 @@
       "items": [
         {
           "member": "2/4 & 25 LONDON CENTRAL MARKETS SMITHFIELD",
-          "partner": ""
+          "partner": "2/4 & 25 LONDON CENTRAL MARKETS SMITHFIELD"
         },
         {
           "member": "225 LONDON CENTRAL MARKETS (TREASURER & TRUSTEE OF SMTA)",
-          "partner": ""
+          "partner": "206 LONDON CENTRAL MARKETS SMITHFIELD"
+        },
+        {
+          "member": "",
+          "partner": "210 - 213 LONDON CENTRAL MARKETS SMITHFIELD"
         }
       ]
     },
@@ -124,6 +128,10 @@
         },
         {
           "member": "Governor, Museum of London",
+          "partner": ""
+        },
+        {
+          "member": "Treasurer, Temple and Farringdon Together",
           "partner": ""
         }
       ]

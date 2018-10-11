@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:11:31.050908+00:00"
+    "time_created": "2018-10-11T15:39:42.023873+00:00"
   },
   "member": {
     "id": 1260,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1260",
-    "name": "Sheriff Timothy Russell Hailes JP",
+    "name": "Timothy Russell Hailes JP",
     "role": "Alderman",
     "ward": "Bassishaw",
     "party": ""
@@ -278,6 +278,11 @@
       "date": "2017-09-25"
     },
     {
+      "name": "Dinner guest- The Worshipful Company of Mercers - Gresham",
+      "date_str": "14 November 2017",
+      "date": "2017-11-14"
+    },
+    {
       "name": "Membership - Number Twenty client space, Grosvenor Street, London (KPMG)",
       "date_str": "28th March 2018",
       "date": "2018-03-28"
@@ -286,6 +291,11 @@
       "name": "Dinner guest - Dr Chanchai of Reignwood, Ten Trinity Square. Two bottles of Chateau Siaurac pomerol wine received.",
       "date_str": "13th May 2018",
       "date": "2018-05-13"
+    },
+    {
+      "name": "Lunch - Senior Trade and Investment Commissioner, Austrade (Austrade)",
+      "date_str": "7th August 2018",
+      "date": "2018-08-07"
     }
   ]
 }

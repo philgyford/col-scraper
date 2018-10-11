@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:12:07.927674+00:00"
+    "time_created": "2018-10-11T15:40:14.664882+00:00"
   },
   "member": {
     "id": 1944,
@@ -12,14 +12,29 @@
   },
   "committees": [
     {
+      "id": 1232,
+      "name": "Academic & Education Committee of the Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
       "id": 233,
       "name": "Board of Governors of the City of London School",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 234,
+      "name": "Bursary Committee of the Board of Governors of the City of London School",
       "role": ""
     },
     {
       "id": 223,
       "name": "Court of Common Council",
       "role": ""
+    },
+    {
+      "id": 1233,
+      "name": "Finance & Estates Sub-Committee of the Board of Governors of the City of London School",
+      "role": "Chairman"
     },
     {
       "id": 145,
@@ -52,11 +67,7 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Managing Partner - Augmentum Capital GP - 27 St James's Place, London, SW1A 1NR",
-          "partner": ""
-        },
-        {
-          "member": "Managing Partner - Augmentum Capital Management - 27 St James's Place, London, SW1A 1NR",
+          "member": "CEO - Augmentum Capital GP - 2-4 Old Street, London, EC1V 9HL",
           "partner": ""
         },
         {
@@ -64,27 +75,15 @@
           "partner": ""
         },
         {
-          "member": "Director - Zopa Holidays Inc, Corporation Trust Centre, 1209 Orange Street, Delaware, 19801, USA",
+          "member": "Director - Zopa Ltd, 1st Floor Cottons Centre, Tooley Street, London SE1 2QG",
+          "partner": ""
+        },
+        {
+          "member": "Director - Pheonix GSB, 171 Old Bakery Street, Valeta, Malta",
           "partner": ""
         },
         {
           "member": "Director - Seeders Ltd - Churchill House, 142-146 Old Street, London EC1V 9BW",
-          "partner": ""
-        },
-        {
-          "member": "Director - Interactive Investor PLC - Standon House, 21 Hansell Street, London, E1 8AA",
-          "partner": ""
-        },
-        {
-          "member": "Director - Phoenix GSB. Palazzo Capua, George Borg Olivier Street, Siliema, SLM1807, Malta",
-          "partner": ""
-        },
-        {
-          "member": "Director - 47 Queens Crescent Management Company - 5 Ingram Avenue, London NW11 6TG",
-          "partner": ""
-        },
-        {
-          "member": "Director - Elmlea Consultants Ltd - 5 Ingram Avenue, London NW11 6TG",
           "partner": ""
         }
       ]

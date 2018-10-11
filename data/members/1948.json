@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:10:23.497811+00:00"
+    "time_created": "2018-10-11T15:38:35.907319+00:00"
   },
   "member": {
     "id": 1948,
@@ -29,6 +29,11 @@
     {
       "id": 223,
       "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 257,
+      "name": "Information Technology Sub (Finance) Committee",
       "role": ""
     },
     {

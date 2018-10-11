@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:13:04.240164+00:00"
+    "time_created": "2018-10-11T15:41:03.157631+00:00"
   },
   "member": {
     "id": 367,
@@ -39,7 +39,7 @@
     {
       "id": 383,
       "name": "Livery Committee",
-      "role": "Chairman"
+      "role": ""
     },
     {
       "id": 407,
@@ -49,6 +49,11 @@
     {
       "id": 262,
       "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 398,
+      "name": "Professional Standards and Integrity Sub (Police) Committee",
       "role": ""
     },
     {

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:13:33.770075+00:00"
+    "time_created": "2018-10-11T15:41:31.410176+00:00"
   },
   "member": {
     "id": 1229,
@@ -24,6 +24,16 @@
     {
       "id": 177,
       "name": "Culture, Heritage and Libraries Committee",
+      "role": ""
+    },
+    {
+      "id": 192,
+      "name": "Finance Grants Oversight and Performance Sub Committee",
+      "role": ""
+    },
+    {
+      "id": 1261,
+      "name": "Homelessness and Rough Sleepers Sub Committee",
       "role": ""
     },
     {

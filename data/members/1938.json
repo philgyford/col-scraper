@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:13:12.772687+00:00"
+    "time_created": "2018-10-11T15:41:10.962558+00:00"
   },
   "member": {
     "id": 1938,
@@ -27,6 +27,11 @@
       "role": ""
     },
     {
+      "id": 1241,
+      "name": "Education Charity Sub (Education Board) Committee",
+      "role": ""
+    },
+    {
       "id": 253,
       "name": "Establishment Committee",
       "role": ""
@@ -49,6 +54,11 @@
     {
       "id": 1096,
       "name": "Safeguarding Sub (Community & Children's Services) Committee",
+      "role": ""
+    },
+    {
+      "id": 1262,
+      "name": "Senior Remuneration Sub-Committee",
       "role": ""
     }
   ],

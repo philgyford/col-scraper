@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:11:23.025103+00:00"
+    "time_created": "2018-10-11T15:39:34.890375+00:00"
   },
   "member": {
     "id": 225,
@@ -42,7 +42,7 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Non-Executive Director, Stobart Group",
+          "member": "",
           "partner": "CEO, Incom Tours and Events"
         }
       ]
@@ -76,14 +76,14 @@
       "items": [
         {
           "member": "Chairman, International Students' Trust",
-          "partner": "Vice President, British Red Cross, City area"
-        },
-        {
-          "member": "Council Member, City Livery Club (Past President)",
           "partner": ""
         },
         {
-          "member": "Warden/Council Member, Guild of Freemen of the City of London",
+          "member": "Council Member, City Livery Club (Immediate Past President)",
+          "partner": ""
+        },
+        {
+          "member": "Junior Warden, Guild of Freemen of the City of London",
           "partner": ""
         },
         {
@@ -103,7 +103,7 @@
           "partner": ""
         },
         {
-          "member": "Freemason (Past Member)",
+          "member": "Freemason",
           "partner": ""
         },
         {
@@ -131,11 +131,11 @@
           "partner": ""
         },
         {
-          "member": "Member of Advisory Board and Honorary Visiting Professor, London Metropolitan University",
+          "member": "Honorary Visiting Professor, London Metropolitan University",
           "partner": ""
         },
         {
-          "member": "Visiting Professor, University of West London",
+          "member": "Honorary Visiting Professor, University of West London",
           "partner": ""
         },
         {

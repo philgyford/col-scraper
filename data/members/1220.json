@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:11:57.383376+00:00"
+    "time_created": "2018-10-11T15:40:03.003825+00:00"
   },
   "member": {
     "id": 1220,
@@ -29,6 +29,11 @@
     {
       "id": 122,
       "name": "Epping Forest & Commons Committee",
+      "role": ""
+    },
+    {
+      "id": 250,
+      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee",
       "role": ""
     },
     {
@@ -205,6 +210,10 @@
         },
         {
           "member": "Temple & Farringdon Together - Member",
+          "partner": ""
+        },
+        {
+          "member": "Non-Executive Director, GAIA RE DEVELOPERS LIMITED (Company number 10938345)",
           "partner": ""
         }
       ]

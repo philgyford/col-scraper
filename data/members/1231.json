@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:13:25.456625+00:00"
+    "time_created": "2018-10-11T15:41:22.237616+00:00"
   },
   "member": {
     "id": 1231,
@@ -52,6 +52,11 @@
       "role": "Chairman"
     },
     {
+      "id": 1264,
+      "name": "Open Spaces Working Party",
+      "role": ""
+    },
+    {
       "id": 143,
       "name": "Planning and Transportation Committee",
       "role": ""
@@ -82,7 +87,7 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "",
+          "member": "Owner /Managing Director - Firecrest Risk Limited",
           "partner": "Dhiren Doshi, Director of DPR WHOLESALERS LIMITED, and of RENRICK PRODUCTS LIMITED"
         }
       ]

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:12:20.943145+00:00"
+    "time_created": "2018-10-11T15:40:27.899972+00:00"
   },
   "member": {
     "id": 1945,
@@ -37,8 +37,8 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Head of Public Affairs, UK & Ireland, BASF plc, 21st Floor, 110 Bishopsgate. London. EC2N 4AY",
-          "partner": "Helen Mayer Senior Client Manager, Kanto, 15 Great College Street, London. SW1P 3EX"
+          "member": "Chief Operating Officer, Institute of Economic Affairs, 2 Lord North Street, Westminster, London, SW1P 3LB",
+          "partner": "Helen Mayer StandUp4Brexit 77 Victoria Street London SW1H 0HW"
         }
       ]
     },
@@ -70,19 +70,11 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Governor, Charles Dickens Primary School",
-          "partner": ""
-        },
-        {
-          "member": "Age Endeavour Fellowship Trustee",
-          "partner": ""
-        },
-        {
           "member": "Fellow of Royal Society for the encouragement of Arts, Manufacturers & Commerce",
           "partner": ""
         },
         {
-          "member": "Think Tank associations: Civitas, IEA, IFS, IPPR, TPA",
+          "member": "Age Endeavour Fellowship Trustee",
           "partner": ""
         }
       ]

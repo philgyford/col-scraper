@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:10:42.892250+00:00"
+    "time_created": "2018-10-11T15:38:55.518628+00:00"
   },
   "member": {
     "id": 1958,
@@ -90,8 +90,8 @@
       "name": "Corporate Tenancies",
       "items": [
         {
-          "member": "815 Frobisher Crescent, London, EC2Y 8HD",
-          "partner": "815 Frobisher Crescent, London, EC2Y 8HD"
+          "member": "80% Leaseholder 815 Frobisher Crescent, London, EC2Y 8HD",
+          "partner": "20% Leaseholder 815 Frobisher Crescent, London, EC2Y 8HD"
         }
       ]
     },
@@ -112,6 +112,10 @@
         },
         {
           "member": "Institution for Civil Engineers",
+          "partner": ""
+        },
+        {
+          "member": "Woolverstone Parish Council (Suffolk)",
           "partner": ""
         }
       ]

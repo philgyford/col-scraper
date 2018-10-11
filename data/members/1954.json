@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:10:50.360118+00:00"
+    "time_created": "2018-10-11T15:39:01.466723+00:00"
   },
   "member": {
     "id": 1954,
@@ -25,6 +25,16 @@
       "id": 177,
       "name": "Culture, Heritage and Libraries Committee",
       "role": ""
+    },
+    {
+      "id": 1147,
+      "name": "Education Board",
+      "role": ""
+    },
+    {
+      "id": 1261,
+      "name": "Homelessness and Rough Sleepers Sub Committee",
+      "role": "Deputy Chairman"
     },
     {
       "id": 174,
@@ -60,6 +70,11 @@
       "id": 1072,
       "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
       "role": ""
+    },
+    {
+      "id": 1110,
+      "name": "Safer City Partnership Strategy Group",
+      "role": ""
     }
   ],
   "interests": [
@@ -86,12 +101,7 @@
     },
     {
       "name": "Licences",
-      "items": [
-        {
-          "member": "Leasehold interest Cromwell Tower, London EC2Y PDD",
-          "partner": ""
-        }
-      ]
+      "items": []
     },
     {
       "name": "Corporate Tenancies",
@@ -109,7 +119,7 @@
           "partner": ""
         },
         {
-          "member": "Future Care Capital - Trustee",
+          "member": "Historic Scotland, Member",
           "partner": ""
         },
         {
@@ -141,7 +151,7 @@
           "partner": ""
         },
         {
-          "member": "Historic Scotland, Member",
+          "member": "Freeman-Worshipful Company of Goldsmiths",
           "partner": ""
         }
       ]
@@ -162,6 +172,26 @@
       "name": "Dinner at Worshipful Company of Haberdashers",
       "date_str": "8 March 2018",
       "date": "2018-03-08"
+    },
+    {
+      "name": "Saddlers’ Company lunch (with husband)",
+      "date_str": "24 April 2018",
+      "date": "2018-04-24"
+    },
+    {
+      "name": "Goldsmiths’ Company lunch",
+      "date_str": "27 April 2018",
+      "date": "2018-04-27"
+    },
+    {
+      "name": "Mercers’ Company dinner",
+      "date_str": "24 May 2018",
+      "date": "2018-05-24"
+    },
+    {
+      "name": "Ticket plus guest ticket for morning session of Hockey World Cup (City of London Corporation)",
+      "date_str": "22 July 2018",
+      "date": "2018-07-22"
     }
   ]
 }

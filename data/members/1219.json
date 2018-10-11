@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:10:40.047858+00:00"
+    "time_created": "2018-10-11T15:38:52.526482+00:00"
   },
   "member": {
     "id": 1219,
@@ -39,11 +39,21 @@
     {
       "id": 185,
       "name": "Health and Social Care Scrutiny Committee",
-      "role": ""
+      "role": "Chairman"
     },
     {
       "id": 252,
       "name": "Inner North East London Joint Health Overview and Scrutiny Committee",
+      "role": ""
+    },
+    {
+      "id": 176,
+      "name": "Investment Committee",
+      "role": ""
+    },
+    {
+      "id": 125,
+      "name": "Property Investment Board",
       "role": ""
     },
     {
@@ -132,6 +142,18 @@
         },
         {
           "member": "Non-remunerated directorship, Numismay Limited",
+          "partner": ""
+        },
+        {
+          "member": "Member, appointed by Cambridgeshire County Council - Board of Hunts Area Community Transport (HACT)",
+          "partner": ""
+        },
+        {
+          "member": "Member, appointed by Cambridgeshire County Council - Fenland Area Community Transport Ltd (FACT)",
+          "partner": ""
+        },
+        {
+          "member": "Member, appointed by Cambridgeshire County Council - Ely & Soham Area Community Transport (ESACT)",
           "partner": ""
         }
       ]

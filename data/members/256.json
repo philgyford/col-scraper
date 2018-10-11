@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:11:50.865677+00:00"
+    "time_created": "2018-10-11T15:39:55.157628+00:00"
   },
   "member": {
     "id": 256,
@@ -14,7 +14,7 @@
     {
       "id": 153,
       "name": "Barbican Residential Committee",
-      "role": ""
+      "role": "Chairman"
     },
     {
       "id": 230,
@@ -49,6 +49,11 @@
     {
       "id": 185,
       "name": "Health and Social Care Scrutiny Committee",
+      "role": "Deputy Chairman"
+    },
+    {
+      "id": 176,
+      "name": "Investment Committee",
       "role": ""
     },
     {
@@ -59,6 +64,16 @@
     {
       "id": 411,
       "name": "Markets Committee",
+      "role": ""
+    },
+    {
+      "id": 1267,
+      "name": "Procurement Sub-Committee",
+      "role": ""
+    },
+    {
+      "id": 125,
+      "name": "Property Investment Board",
       "role": ""
     },
     {

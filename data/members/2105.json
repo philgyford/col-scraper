@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:12:50.622070+00:00"
+    "time_created": "2018-10-11T15:40:53.343297+00:00"
   },
   "member": {
     "id": 2105,
@@ -83,7 +83,7 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Governor, United College Group",
+          "member": "Governor, United Colleges Group",
           "partner": ""
         },
         {
@@ -120,6 +120,10 @@
         },
         {
           "member": "Member, St John Ceremonial Team",
+          "partner": ""
+        },
+        {
+          "member": "Protocol Adviser to Government House in Antigua",
           "partner": ""
         }
       ]

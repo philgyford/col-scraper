@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:11:53.756416+00:00"
+    "time_created": "2018-10-11T15:39:59.949978+00:00"
   },
   "member": {
     "id": 1223,
@@ -124,6 +124,11 @@
     {
       "id": 262,
       "name": "Port Health & Environmental Services Committee",
+      "role": ""
+    },
+    {
+      "id": 1267,
+      "name": "Procurement Sub-Committee",
       "role": ""
     },
     {

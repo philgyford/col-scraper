@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:12:44.548211+00:00"
+    "time_created": "2018-10-11T15:40:47.807294+00:00"
   },
   "member": {
     "id": 1221,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1221",
-    "name": "Graham David Packham",
+    "name": "Graham Packham",
     "role": "",
     "ward": "Castle Baynard",
     "party": ""
@@ -14,7 +14,7 @@
     {
       "id": 201,
       "name": "Audit and Risk Management Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": ""
+      "role": "Deputy Chairman"
     },
     {
       "id": 140,

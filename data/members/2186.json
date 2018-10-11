@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "time_created": "2018-10-11T15:40:11.627468+00:00"
+  },
+  "member": {
+    "id": 2186,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=2186",
+    "name": "Susan Langley, OBE",
+    "role": "Alderman",
+    "ward": "Aldgate",
+    "party": ""
+  },
+  "committees": [
+    {
+      "id": 230,
+      "name": "Board of Governors of the City of London Freemen's School",
+      "role": ""
+    },
+    {
+      "id": 220,
+      "name": "Court of Aldermen",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Chairwoman - A J Gallagher Holdings (UK) Limited The Walbrook Building, 25 Walbrook, London. EC4N 8AW",
+          "partner": "Director - Intueri"
+        },
+        {
+          "member": "Senior Independent Director - UK Asset Resolution Croft Road, Crossflats, Bingley, West Yorkshire. BD16 2UA",
+          "partner": ""
+        },
+        {
+          "member": "Director - Intueri",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": []
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Trustee - Macmillan Cancer, 89 Albert Embankment, Lambeth. London. SE1 7UR",
+          "partner": ""
+        },
+        {
+          "member": "Lead Non-Executive Director - Home Office 2 Marsham Street, Westminster, London. SW1P 4DF",
+          "partner": ""
+        },
+        {
+          "member": "Liveryman - Insurers",
+          "partner": ""
+        },
+        {
+          "member": "Member - Chartered Institute of Insurers",
+          "partner": ""
+        },
+        {
+          "member": "Member - Women's Business Council",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

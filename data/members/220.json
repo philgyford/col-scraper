@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:11:18.805265+00:00"
+    "time_created": "2018-10-11T15:39:30.351451+00:00"
   },
   "member": {
     "id": 220,
@@ -35,6 +35,11 @@
       "id": 247,
       "name": "Housing Management and Almshouses Sub (Community and Children's Services) Committee",
       "role": "Chairman"
+    },
+    {
+      "id": 1267,
+      "name": "Procurement Sub-Committee",
+      "role": ""
     }
   ],
   "interests": [

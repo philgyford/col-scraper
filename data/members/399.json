@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:13:41.202137+00:00"
+    "time_created": "2018-10-11T15:41:35.760024+00:00"
   },
   "member": {
     "id": 399,
@@ -49,6 +49,10 @@
         },
         {
           "member": "Independent Partnership Advisor, James Hambro Partners, 45 Pall Mall, London. SW1Y 5JG",
+          "partner": ""
+        },
+        {
+          "member": "Advisory Board Member - Zeamo Incorporated (USA)",
           "partner": ""
         }
       ]

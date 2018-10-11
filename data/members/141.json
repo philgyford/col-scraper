@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:10:51.698282+00:00"
+    "time_created": "2018-10-11T15:39:03.262869+00:00"
   },
   "member": {
     "id": 141,
@@ -19,6 +19,11 @@
     {
       "id": 223,
       "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 218,
+      "name": "Governance and Effectiveness Committee of the Board of Governors of the Guildhall School of Music & Drama",
       "role": ""
     },
     {

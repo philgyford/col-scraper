@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-06-07T14:11:34.843812+00:00"
+    "time_created": "2018-10-11T15:39:45.314685+00:00"
   },
   "member": {
     "id": 232,
@@ -14,11 +14,6 @@
     {
       "id": 227,
       "name": "Benefices Sub (Culture, Heritage & Libraries) Committee",
-      "role": ""
-    },
-    {
-      "id": 234,
-      "name": "Bursary Committee of the Board of Governors of the City of London School",
       "role": ""
     },
     {
@@ -49,6 +44,11 @@
     {
       "id": 235,
       "name": "Reference Sub Committee of the Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
+      "id": 1262,
+      "name": "Senior Remuneration Sub-Committee",
       "role": ""
     }
   ],
