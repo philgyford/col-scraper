@@ -3,7 +3,8 @@ RUN apt update
 RUN apt install -y python3-dev gcc wget
 COPY . /app
 WORKDIR /app
-RUN pip install -r requirements.txt
+RUN pip install pipenv
+RUN pipenv install --skip-lock --system
 RUN python convert_json_to_sqlite.py colmem.db
 RUN datasette inspect colmem.db --inspect-file inspect-data.json
 
