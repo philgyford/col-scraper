@@ -23,9 +23,9 @@ While every effort has been taken to ensure accuracy, I haven't checked every si
 
 ## Setup
 
-Install python requirements with:
+Install python requirements using [pipenv](https://pipenv.readthedocs.io/en/latest/) with:
 
-    pip install -r requirements.txt
+    pipenv install
 
 
 ## The four steps
