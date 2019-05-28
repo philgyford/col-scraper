@@ -40,6 +40,15 @@ logger = logging.getLogger(__name__)
 session = HTMLSession()
 
 
+def set_up_directories():
+    """
+    Just in case they don't exist.
+    """
+    members_dir = os.path.join(DATA_DIRECTORY, "members")
+    if not os.path.exists(members_dir):
+        os.makedirs(members_dir)
+
+
 def scrape_all():
     """
     Fetch the page listing all Members.
@@ -491,6 +500,8 @@ if __name__ == "__main__":
 
     if args.verbose:
         logger.setLevel(logging.DEBUG)
+
+    set_up_directories()
 
     if args.id:
         logger.info("Scraping a single Members' data")
