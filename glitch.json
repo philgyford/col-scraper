@@ -1,0 +1,4 @@
+{
+    "install":  "pip3 install --user --requirement requirements.txt && cp colmem.db .data/colmem.db",
+    "start": "datasette .data/colmem.db -p 3000 -m datasette_metadata.json"
+}
