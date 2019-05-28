@@ -1,4 +1,21 @@
 {
-    "install":  "pip3 install --user --requirement requirements.txt && rm -r data && cp colmem.db .data/colmem.db",
-    "start": "datasette .data/colmem.db -p 3000 -m datasette_metadata.json"
+  "install":  "rm -r data && pip3 install --user --r requirements.txt && cp colmem.db .data/colmem.db",
+  "start": "datasette .data/colmem.db -p 3000 -m datasette_metadata.json",
+  "watch": {
+    "ignore": [
+      "\\.pyc$"
+    ],
+    "install": {
+      "include": [
+        "requirements.txt"
+      ]
+    },
+    "restart": {
+      "include": [
+        "\\.py$",
+        "^start\\.sh"
+      ]
+    },
+    "throttle": 5000
+  }
 }
