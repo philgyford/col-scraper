@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:43.557266+00:00"
+    "time_created": "2019-05-28T16:43:33.776123+00:00"
   },
   "member": {
     "id": 1940,
@@ -18,7 +18,7 @@
     },
     {
       "id": 227,
-      "name": "Benefices Sub (Culture, Heritage & Libraries) Committee",
+      "name": "Benefices Sub (Culture, Heritage & Libraries) CommitteeQueenhithe",
       "role": ""
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "id": 120,
-      "name": "Community & Children's Services Committee",
+      "name": "Community & Children's Services CommitteeQueenhithe",
       "role": ""
     },
     {
       "id": 223,
-      "name": "Court of Common Council",
+      "name": "Court of Common CouncilQueenhithe",
       "role": ""
     },
     {
       "id": 177,
-      "name": "Culture, Heritage and Libraries Committee",
+      "name": "Culture, Heritage and Libraries CommitteeQueenhithe",
       "role": ""
     },
     {
@@ -47,28 +47,43 @@
       "role": ""
     },
     {
+      "id": 1241,
+      "name": "Education Charity Sub (Education Board) CommitteeCommunity and Children's Services Committee",
+      "role": ""
+    },
+    {
       "id": 122,
-      "name": "Epping Forest & Commons Committee",
+      "name": "Epping Forest & Commons CommitteeQueenhithe",
+      "role": ""
+    },
+    {
+      "id": 1253,
+      "name": "Epping Forest Consultative CommitteeQueenhithe",
+      "role": ""
+    },
+    {
+      "id": 145,
+      "name": "Finance CommitteeQueenhithe",
       "role": ""
     },
     {
       "id": 174,
-      "name": "Member Development Steering Group",
+      "name": "Member Development Steering GroupQueenhithe",
       "role": ""
     },
     {
       "id": 1222,
-      "name": "Nominations Sub (Education Board) Committee",
+      "name": "Nominations Sub (Education Board) CommitteeQueenhithe",
       "role": ""
     },
     {
       "id": 175,
-      "name": "Open Spaces and City Gardens",
+      "name": "Open Spaces and City GardensQueenhithe",
       "role": ""
     },
     {
       "id": 400,
-      "name": "West Ham Park Committee",
+      "name": "West Ham Park CommitteeQueenhithe",
       "role": ""
     }
   ],

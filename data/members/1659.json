@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:46.856410+00:00"
+    "time_created": "2019-05-28T16:43:36.978579+00:00"
   },
   "member": {
     "id": 1659,
@@ -24,11 +24,6 @@
     {
       "id": 177,
       "name": "Culture, Heritage and Libraries Committee",
-      "role": ""
-    },
-    {
-      "id": 413,
-      "name": "Keats House Consultative Committee",
       "role": ""
     },
     {
@@ -84,23 +79,15 @@
           "partner": ""
         },
         {
-          "member": "Fellow Commoner, Clare Hall, University of Cambridge",
-          "partner": ""
-        },
-        {
           "member": "Liveryman, Worshipful Company of Scriveners",
           "partner": ""
         },
         {
-          "member": "Chairman, Bassishaw Ward Club",
+          "member": "Committee Member, Bassishaw Ward Club",
           "partner": ""
         },
         {
           "member": "Member, City University Club",
-          "partner": ""
-        },
-        {
-          "member": "Member of Development Committee, Legatum Institute Foundation",
           "partner": ""
         }
       ]

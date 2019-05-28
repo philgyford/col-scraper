@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:32.241381+00:00"
+    "time_created": "2019-05-28T16:44:47.389275+00:00"
   },
   "member": {
     "id": 1225,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1225",
-    "name": "Andrew Stratton McMurtrie, JP",
+    "name": "Andrew Stratton McMurtrie",
     "role": "",
     "ward": "Coleman Street",
     "party": ""
@@ -14,7 +14,7 @@
     {
       "id": 227,
       "name": "Benefices Sub (Culture, Heritage & Libraries) Committee",
-      "role": "Chairman"
+      "role": ""
     },
     {
       "id": 223,
@@ -24,36 +24,11 @@
     {
       "id": 145,
       "name": "Finance Committee",
-      "role": "Ex-Officio Member"
-    },
-    {
-      "id": 248,
-      "name": "Financial Investment Board",
-      "role": "Chairman"
-    },
-    {
-      "id": 176,
-      "name": "Investment Committee",
-      "role": "Chairman"
+      "role": ""
     },
     {
       "id": 395,
       "name": "Policy and Resources Committee",
-      "role": ""
-    },
-    {
-      "id": 262,
-      "name": "Port Health & Environmental Services Committee",
-      "role": ""
-    },
-    {
-      "id": 168,
-      "name": "Projects Sub (Policy and Resources) Committee",
-      "role": ""
-    },
-    {
-      "id": 1064,
-      "name": "Social Investment Board",
       "role": ""
     }
   ],

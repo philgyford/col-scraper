@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:53.343297+00:00"
+    "time_created": "2019-05-28T16:45:20.027660+00:00"
   },
   "member": {
     "id": 2105,
@@ -28,7 +28,7 @@
     },
     {
       "id": 411,
-      "name": "Markets Committee",
+      "name": "Markets CommitteeBillingsgate",
       "role": ""
     },
     {
@@ -107,7 +107,7 @@
           "partner": ""
         },
         {
-          "member": "Member, Freemasonary",
+          "member": "Member, Freemasonry including Guildhall Lodge",
           "partner": ""
         },
         {
@@ -124,6 +124,10 @@
         },
         {
           "member": "Protocol Adviser to Government House in Antigua",
+          "partner": ""
+        },
+        {
+          "member": "Member, Pilgrims Society",
           "partner": ""
         }
       ]

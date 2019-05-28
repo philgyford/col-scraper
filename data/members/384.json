@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:41:19.286725+00:00"
+    "time_created": "2019-05-28T16:45:55.644317+00:00"
   },
   "member": {
     "id": 384,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=384",
-    "name": "Jeremy Lewis Simons, MSc",
+    "name": "Jeremy Lewis Simons",
     "role": "",
     "ward": "Castle Baynard",
     "party": ""
@@ -13,12 +13,7 @@
   "committees": [
     {
       "id": 141,
-      "name": "Ashtead Common Consultation Group",
-      "role": ""
-    },
-    {
-      "id": 216,
-      "name": "Corporate Asset Sub (Finance) Committee",
+      "name": "Ashtead Common Consultative Group",
       "role": ""
     },
     {
@@ -38,12 +33,7 @@
     },
     {
       "id": 994,
-      "name": "Health and Wellbeing Board",
-      "role": ""
-    },
-    {
-      "id": 413,
-      "name": "Keats House Consultative Committee",
+      "name": "Health and Wellbeing BoardChairman of Port Health and Environmental Services Committee",
       "role": ""
     },
     {
@@ -57,24 +47,14 @@
       "role": ""
     },
     {
-      "id": 1264,
-      "name": "Open Spaces Working Party",
-      "role": ""
-    },
-    {
-      "id": 1205,
-      "name": "Outside Bodies Sub (Policy and Resources) Committee",
-      "role": ""
-    },
-    {
       "id": 395,
-      "name": "Policy and Resources Committee",
-      "role": "Ex-Officio Member"
+      "name": "Policy and Resources Committee(Ex-Officio Member)",
+      "role": ""
     },
     {
       "id": 262,
-      "name": "Port Health & Environmental Services Committee",
-      "role": "Chairman"
+      "name": "Port Health & Environmental Services Committee(Chairman)",
+      "role": ""
     },
     {
       "id": 172,
@@ -149,35 +129,35 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Trustee, Castle Baynard Educational Foundation and Alderman Samuel Wilson Fund",
+          "member": "Trustee - Castle Baynard Educational Foundation and Alderman Samuel Wilson Fund",
           "partner": ""
         },
         {
-          "member": "Trustee, City of London Archaeological Trust",
+          "member": "Trustee - City of London Archaeological Trust",
           "partner": ""
         },
         {
-          "member": "Trustee, Dr Johnson House Trust",
+          "member": "Trustee - Dr Johnson House Trust",
           "partner": ""
         },
         {
-          "member": "Trustee, St Andrew Holborn Charity",
+          "member": "Trustee - St Andrew Holborn and Stafford’s Charity",
           "partner": ""
         },
         {
-          "member": "Trustee, The Alexander Stafford Charity",
+          "member": "Trustee - The Tree Council",
           "partner": ""
         },
         {
-          "member": "Trustee, Housing the Homeless Central Fund",
+          "member": "Trustee - Housing the Homeless Central Fund",
           "partner": ""
         },
         {
-          "member": "Member, Castle Baynard Ward Club",
+          "member": "Member - Castle Baynard Ward Club",
           "partner": ""
         },
         {
-          "member": "Member, Guildhall Circle (Guildhall School Friends)",
+          "member": "Member - Guildhall Circle (Guildhall School Friends)",
           "partner": ""
         },
         {
@@ -185,11 +165,11 @@
           "partner": ""
         },
         {
-          "member": "Member, Chartered Institute of Management",
+          "member": "Member - Chartered Institute of Management",
           "partner": ""
         },
         {
-          "member": "Trustee, The Tree Council",
+          "member": "Member - Epping Forest Heritage Trust",
           "partner": ""
         },
         {

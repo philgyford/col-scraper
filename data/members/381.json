@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:42.326286+00:00"
+    "time_created": "2019-05-28T16:45:02.779761+00:00"
   },
   "member": {
     "id": 381,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=381",
-    "name": "Sylvia Doreen Moys, MBE",
+    "name": "Sylvia Doreen Moys",
     "role": "",
     "ward": "Aldgate",
     "party": ""
@@ -13,7 +13,7 @@
   "committees": [
     {
       "id": 141,
-      "name": "Ashtead Common Consultation Group",
+      "name": "Ashtead Common Consultative Group",
       "role": ""
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "id": 1228,
-      "name": "Burnham Beeches and Stoke Common Consultation Group",
+      "name": "Burnham Beeches and Stoke Common Consultation GroupEpping Forest & Commons Committee",
       "role": ""
     },
     {
@@ -59,11 +59,6 @@
     {
       "id": 253,
       "name": "Establishment Committee",
-      "role": ""
-    },
-    {
-      "id": 257,
-      "name": "Information Technology Sub (Finance) Committee",
       "role": ""
     },
     {

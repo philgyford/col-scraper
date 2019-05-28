@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:41:31.410176+00:00"
+    "time_created": "2019-05-28T16:46:13.952060+00:00"
   },
   "member": {
     "id": 1229,
@@ -12,8 +12,8 @@
   },
   "committees": [
     {
-      "id": 120,
-      "name": "Community & Children's Services Committee",
+      "id": 153,
+      "name": "Barbican Residential Committee",
       "role": ""
     },
     {
@@ -27,18 +27,8 @@
       "role": ""
     },
     {
-      "id": 192,
-      "name": "Finance Grants Oversight and Performance Sub Committee",
-      "role": ""
-    },
-    {
-      "id": 1261,
-      "name": "Homelessness and Rough Sleepers Sub Committee",
-      "role": ""
-    },
-    {
       "id": 411,
-      "name": "Markets Committee",
+      "name": "Markets CommitteeDowgate",
       "role": ""
     },
     {

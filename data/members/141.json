@@ -1,12 +1,12 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:03.262869+00:00"
+    "time_created": "2019-05-28T16:42:38.721324+00:00"
   },
   "member": {
     "id": 141,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=141",
-    "name": "Michael John Cassidy, CBE",
-    "role": "Deputy",
+    "name": "Michael John Cassidy",
+    "role": "",
     "ward": "Coleman Street",
     "party": ""
   },
@@ -22,18 +22,8 @@
       "role": ""
     },
     {
-      "id": 218,
-      "name": "Governance and Effectiveness Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": ""
-    },
-    {
-      "id": 1256,
-      "name": "Housing Delivery Programme Working Group",
-      "role": ""
-    },
-    {
       "id": 176,
-      "name": "Investment Committee",
+      "name": "Investment CommitteeAppointed by the Court of Common Council",
       "role": ""
     }
   ],

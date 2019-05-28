@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:10.145473+00:00"
+    "time_created": "2019-05-28T16:44:14.189277+00:00"
   },
   "member": {
     "id": 1943,
@@ -13,17 +13,17 @@
   "committees": [
     {
       "id": 120,
-      "name": "Community & Children's Services Committee",
+      "name": "Community & Children's Services CommitteeCastle Baynard",
       "role": ""
     },
     {
       "id": 223,
-      "name": "Court of Common Council",
+      "name": "Court of Common CouncilCastle Baynard",
       "role": ""
     },
     {
       "id": 411,
-      "name": "Markets Committee",
+      "name": "Markets CommitteeCastle Baynard",
       "role": ""
     }
   ],

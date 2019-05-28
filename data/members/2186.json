@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:11.627468+00:00"
+    "time_created": "2019-05-28T16:44:15.732465+00:00"
   },
   "member": {
     "id": 2186,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=2186",
-    "name": "Susan Langley, OBE",
+    "name": "Susan Langley",
     "role": "Alderman",
     "ward": "Aldgate",
     "party": ""
@@ -24,6 +24,16 @@
     {
       "id": 223,
       "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 408,
+      "name": "Standards Committee",
+      "role": ""
+    },
+    {
+      "id": 179,
+      "name": "The City Bridge Trust Committee",
       "role": ""
     }
   ],

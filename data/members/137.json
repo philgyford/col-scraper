@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:38:59.857285+00:00"
+    "time_created": "2019-05-28T16:42:35.462517+00:00"
   },
   "member": {
     "id": 137,
@@ -13,7 +13,12 @@
   "committees": [
     {
       "id": 153,
-      "name": "Barbican Residential Committee",
+      "name": "Barbican Residential CommitteeCripplegate Within",
+      "role": ""
+    },
+    {
+      "id": 387,
+      "name": "Board of Governors of the Guildhall School of Music and DramaCripplegate Within",
       "role": ""
     },
     {
@@ -23,12 +28,17 @@
     },
     {
       "id": 177,
-      "name": "Culture, Heritage and Libraries Committee",
+      "name": "Culture, Heritage and Libraries CommitteeCripplegate Within",
       "role": ""
     },
     {
       "id": 250,
-      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee",
+      "name": "Hampstead Heath, Highgate Wood and Queen's Park CommitteeCripplegate Within",
+      "role": ""
+    },
+    {
+      "id": 411,
+      "name": "Markets CommitteeCripplegate Within",
       "role": ""
     },
     {

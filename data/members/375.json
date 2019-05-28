@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:33.644072+00:00"
+    "time_created": "2019-05-28T16:44:49.031639+00:00"
   },
   "member": {
     "id": 375,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=375",
-    "name": "Wendy Mead, OBE",
+    "name": "Wendy Mead",
     "role": "",
     "ward": "Farringdon Without",
     "party": ""
@@ -28,13 +28,8 @@
     },
     {
       "id": 177,
-      "name": "Culture, Heritage and Libraries Committee",
+      "name": "Culture, Heritage and Libraries CommitteeFarringdon Without North Side",
       "role": ""
-    },
-    {
-      "id": 183,
-      "name": "Freedom Applications Committee",
-      "role": "Ex-Officio Member"
     },
     {
       "id": 259,
@@ -43,27 +38,22 @@
     },
     {
       "id": 250,
-      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee",
+      "name": "Hampstead Heath, Highgate Wood and Queen's Park CommitteeFarringdon Without North Side",
       "role": ""
     },
     {
       "id": 185,
-      "name": "Health and Social Care Scrutiny Committee",
+      "name": "Health and Social Care Scrutiny CommitteeFarringdon Without North Side",
       "role": ""
     },
     {
       "id": 383,
-      "name": "Livery Committee",
+      "name": "Livery CommitteeFarringdon Without North Side",
       "role": ""
     },
     {
       "id": 411,
-      "name": "Markets Committee",
-      "role": ""
-    },
-    {
-      "id": 407,
-      "name": "Members Privileges Sub (Policy and Resources) Committee",
+      "name": "Markets CommitteeFarringdon Without North Side",
       "role": ""
     },
     {
@@ -72,8 +62,8 @@
       "role": ""
     },
     {
-      "id": 1264,
-      "name": "Open Spaces Working Party",
+      "id": 395,
+      "name": "Policy and Resources CommitteeFarringdon Without North Side",
       "role": ""
     },
     {

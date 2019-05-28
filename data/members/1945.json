@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:27.899972+00:00"
+    "time_created": "2019-05-28T16:44:38.143371+00:00"
   },
   "member": {
     "id": 1945,
@@ -13,22 +13,22 @@
   "committees": [
     {
       "id": 223,
-      "name": "Court of Common Council",
+      "name": "Court of Common CouncilBishopsgate",
       "role": ""
     },
     {
       "id": 177,
-      "name": "Culture, Heritage and Libraries Committee",
+      "name": "Culture, Heritage and Libraries CommitteeBishopsgate Within",
       "role": ""
     },
     {
       "id": 143,
-      "name": "Planning and Transportation Committee",
+      "name": "Planning and Transportation CommitteeBishopsgate Within",
       "role": ""
     },
     {
       "id": 1072,
-      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) CommitteeBishopsgate Within",
       "role": ""
     }
   ],

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:53.758875+00:00"
+    "time_created": "2019-05-28T16:43:47.743325+00:00"
   },
   "member": {
     "id": 255,
@@ -22,13 +22,13 @@
       "role": ""
     },
     {
-      "id": 245,
-      "name": "Efficiency and Performance Sub (Finance) Committee",
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
       "role": ""
     },
     {
-      "id": 145,
-      "name": "Finance Committee",
+      "id": 122,
+      "name": "Epping Forest & Commons Committee",
       "role": ""
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "id": 176,
-      "name": "Investment Committee",
+      "name": "Investment CommitteeAppointed by the Court of Common Council",
       "role": ""
     }
   ],
@@ -47,8 +47,8 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Charles Stanley & Company Limited, 25 Luke Street, London, EC2A 4AR",
-          "partner": "Sotheby's, 34-35 New Bond Street, London, W15 2RT"
+          "member": "Charles Stanley & Company Limited, 55 Bishopsgate, London EC2N 3AS",
+          "partner": ""
         }
       ]
     },
@@ -106,6 +106,10 @@
         },
         {
           "member": "Governor, Capel Manor College",
+          "partner": ""
+        },
+        {
+          "member": "Governor of City of London Academy, Shoreditch Park",
           "partner": ""
         }
       ]

@@ -1,24 +1,29 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:39.258187+00:00"
+    "time_created": "2019-05-28T16:43:24.673281+00:00"
   },
   "member": {
     "id": 1939,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1939",
-    "name": "Prem Goyal OBE JP",
+    "name": "Prem Goyal",
     "role": "Alderman",
     "ward": "Portsoken",
     "party": ""
   },
   "committees": [
     {
+      "id": 236,
+      "name": "Board of Governors of the City of London School for Girls",
+      "role": ""
+    },
+    {
       "id": 120,
-      "name": "Community & Children's Services Committee",
+      "name": "Community & Children's Services CommitteePortsoken",
       "role": ""
     },
     {
       "id": 220,
-      "name": "Court of Aldermen",
+      "name": "Court of AldermenPortsoken",
       "role": ""
     },
     {
@@ -28,17 +33,22 @@
     },
     {
       "id": 250,
-      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee",
+      "name": "Hampstead Heath, Highgate Wood and Queen's Park CommitteePortsoken",
       "role": ""
     },
     {
       "id": 174,
-      "name": "Member Development Steering Group",
+      "name": "Member Development Steering GroupPortsoken",
       "role": ""
     },
     {
       "id": 143,
-      "name": "Planning and Transportation Committee",
+      "name": "Planning and Transportation CommitteePortsoken",
+      "role": ""
+    },
+    {
+      "id": 1072,
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) CommitteePortsoken",
       "role": ""
     }
   ],

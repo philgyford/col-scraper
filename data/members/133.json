@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:38:40.254369+00:00"
+    "time_created": "2019-05-28T16:42:10.594222+00:00"
   },
   "member": {
     "id": 133,
@@ -25,11 +25,6 @@
       "id": 223,
       "name": "Court of Common Council",
       "role": ""
-    },
-    {
-      "id": 262,
-      "name": "Port Health & Environmental Services Committee",
-      "role": ""
     }
   ],
   "interests": [
@@ -37,7 +32,7 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Senior Director, KBW 150 Cheapside London, EC2 6ET",
+          "member": "Senior Director, KWM 150 Cheapside London, EC2 6ET",
           "partner": "Self Employed"
         }
       ]
@@ -74,7 +69,12 @@
     },
     {
       "name": "Securities",
-      "items": []
+      "items": [
+        {
+          "member": "Investec Bank plc 30 Gresham Street London EC2V 7QP",
+          "partner": ""
+        }
+      ]
     },
     {
       "name": "Non-pecuniary interests",
@@ -84,7 +84,7 @@
           "partner": ""
         },
         {
-          "member": "Director of Barts Charity",
+          "member": "London Symphony Orchestra, Advisory Council Member",
           "partner": ""
         },
         {
@@ -109,10 +109,6 @@
         },
         {
           "member": "ICAEW, Member",
-          "partner": ""
-        },
-        {
-          "member": "London Symphony Orchestra, Advisory Council Member",
           "partner": ""
         }
       ]

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:07.207455+00:00"
+    "time_created": "2019-05-28T16:44:05.365068+00:00"
   },
   "member": {
     "id": 1395,
@@ -28,7 +28,7 @@
     },
     {
       "id": 1229,
-      "name": "Courts Sub (Policy and Resources) Committee",
+      "name": "Courts Sub (Policy & Resources) CommitteeSheriff",
       "role": ""
     },
     {
@@ -37,8 +37,18 @@
       "role": ""
     },
     {
+      "id": 1231,
+      "name": "Governance Committee of the Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
+      "id": 1261,
+      "name": "Homelessness and Rough Sleeping Sub Committeecourt",
+      "role": ""
+    },
+    {
       "id": 850,
-      "name": "Lord Mayor's Show Ltd",
+      "name": "Lord Mayor's Show LtdDirector",
       "role": ""
     }
   ],

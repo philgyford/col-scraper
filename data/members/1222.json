@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:15.776263+00:00"
+    "time_created": "2019-05-28T16:42:54.722002+00:00"
   },
   "member": {
     "id": 1222,
@@ -17,53 +17,68 @@
       "role": ""
     },
     {
-      "id": 145,
-      "name": "Finance Committee",
+      "id": 261,
+      "name": "Hampstead Heath Consultative Committee(Chairman)Farringdon Within",
       "role": ""
     },
     {
-      "id": 261,
-      "name": "Hampstead Heath Consultative Committee",
-      "role": "Chairman"
-    },
-    {
       "id": 250,
-      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee",
-      "role": "Chairman"
+      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee(Chairman)Farringdon Within",
+      "role": ""
     },
     {
       "id": 240,
-      "name": "Highgate Wood Consultative Group",
-      "role": "Chairman"
+      "name": "Highgate Wood Consultative Group(Chairman)Farringdon Within",
+      "role": ""
     },
     {
       "id": 413,
-      "name": "Keats House Consultative Committee",
+      "name": "Keats House Consultative CommitteeHampstead Heath, Highgate Wood and Queens Park Committee",
+      "role": ""
+    },
+    {
+      "id": 123,
+      "name": "Licensing CommitteeFarringdon Within",
       "role": ""
     },
     {
       "id": 175,
-      "name": "Open Spaces and City Gardens",
-      "role": "Ex-Officio Member"
+      "name": "Open Spaces and City Gardens(Ex-Officio Member)Farringdon Within",
+      "role": ""
     },
     {
-      "id": 1264,
-      "name": "Open Spaces Working Party",
+      "id": 143,
+      "name": "Planning and Transportation CommitteeFarringdon Within",
+      "role": ""
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources CommitteeFarringdon Within",
       "role": ""
     },
     {
       "id": 168,
-      "name": "Projects Sub (Policy and Resources) Committee",
+      "name": "Projects Sub (Policy and Resources) CommitteePolicy and Resources Committee",
+      "role": ""
+    },
+    {
+      "id": 1072,
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) CommitteeFarringdon Within",
       "role": ""
     },
     {
       "id": 239,
-      "name": "Queen's Park Consultative Group",
-      "role": "Chairman"
+      "name": "Queen's Park Consultative Group(Chairman)Farringdon Within",
+      "role": ""
+    },
+    {
+      "id": 396,
+      "name": "Resource Allocation Sub (Policy and Resources) CommitteeFarringdon Within",
+      "role": ""
     },
     {
       "id": 179,
-      "name": "The City Bridge Trust Committee",
+      "name": "The City Bridge Trust CommitteeFarringdon Within",
       "role": ""
     }
   ],

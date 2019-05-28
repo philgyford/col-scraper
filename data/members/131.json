@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:38:28.403610+00:00"
+    "time_created": "2019-05-28T16:41:54.993220+00:00"
   },
   "member": {
     "id": 131,
@@ -12,13 +12,23 @@
   },
   "committees": [
     {
+      "id": 387,
+      "name": "Board of Governors of the Guildhall School of Music and DramaFarringdon Without North Side",
+      "role": ""
+    },
+    {
       "id": 120,
-      "name": "Community & Children's Services Committee",
+      "name": "Community & Children's Services CommitteeFarringdon Without North Side",
       "role": ""
     },
     {
       "id": 223,
       "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 163,
+      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & DramaFarringdon Without North Side",
       "role": ""
     }
   ],

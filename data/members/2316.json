@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "time_created": "2019-05-28T16:43:26.383773+00:00"
+  },
+  "member": {
+    "id": 2316,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=2316",
+    "name": "Tracey Graham",
+    "role": "",
+    "ward": "Cordwainer",
+    "party": ""
+  },
+  "committees": [
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    }
+  ],
+  "interests": {},
+  "gifts": []
+}

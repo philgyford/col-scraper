@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:04.424512+00:00"
+    "time_created": "2019-05-28T16:44:02.071570+00:00"
   },
   "member": {
     "id": 265,
@@ -12,18 +12,13 @@
   },
   "committees": [
     {
-      "id": 120,
-      "name": "Community & Children's Services Committee",
-      "role": ""
-    },
-    {
       "id": 223,
       "name": "Court of Common Council",
       "role": ""
     },
     {
       "id": 411,
-      "name": "Markets Committee",
+      "name": "Markets CommitteePortsoken",
       "role": ""
     }
   ],
@@ -85,6 +80,10 @@
         },
         {
           "member": "Governor, Sir John Cass Primary School",
+          "partner": ""
+        },
+        {
+          "member": "Devonshire Club, Member (March 2017)",
           "partner": ""
         }
       ]

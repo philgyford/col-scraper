@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:41:13.661352+00:00"
+    "time_created": "2019-05-28T16:45:46.391103+00:00"
   },
   "member": {
     "id": 401,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=401",
-    "name": "John George Stewart Scott, JP, BA(Hons), FRPSL",
+    "name": "John George Stewart Scott",
     "role": "",
     "ward": "Broad Street",
     "party": ""
@@ -23,13 +23,18 @@
     },
     {
       "id": 1229,
-      "name": "Courts Sub (Policy and Resources) Committee",
+      "name": "Courts Sub (Policy & Resources) CommitteeCourt of Common Council",
+      "role": ""
+    },
+    {
+      "id": 145,
+      "name": "Finance Committee",
       "role": ""
     },
     {
       "id": 183,
-      "name": "Freedom Applications Committee",
-      "role": "Ex-Officio Member"
+      "name": "Freedom Applications Committee(Ex-Officio Member)",
+      "role": ""
     },
     {
       "id": 259,
@@ -38,28 +43,18 @@
     },
     {
       "id": 411,
-      "name": "Markets Committee",
-      "role": ""
-    },
-    {
-      "id": 174,
-      "name": "Member Development Steering Group",
+      "name": "Markets CommitteeBroad Street",
       "role": ""
     },
     {
       "id": 407,
-      "name": "Members Privileges Sub (Policy and Resources) Committee",
-      "role": "Chairman"
-    },
-    {
-      "id": 395,
-      "name": "Policy and Resources Committee",
-      "role": "Ex-Officio Member"
+      "name": "Members Privileges Sub (Policy and Resources) Committee(Chairman)",
+      "role": ""
     },
     {
       "id": 563,
       "name": "Reference Sub (Markets) Committee",
-      "role": "Deputy Chairman"
+      "role": ""
     }
   ],
   "interests": [

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:27.077798+00:00"
+    "time_created": "2019-05-28T16:43:10.574792+00:00"
   },
   "member": {
     "id": 1756,
@@ -13,7 +13,7 @@
   "committees": [
     {
       "id": 244,
-      "name": "Audit and Risk Management Committee",
+      "name": "Audit and Risk Management CommitteeTower",
       "role": ""
     },
     {
@@ -23,53 +23,53 @@
     },
     {
       "id": 177,
-      "name": "Culture, Heritage and Libraries Committee",
+      "name": "Culture, Heritage and Libraries CommitteeTower",
       "role": ""
     },
     {
       "id": 261,
-      "name": "Hampstead Heath Consultative Committee",
-      "role": "Deputy Chairman"
+      "name": "Hampstead Heath Consultative Committee(Deputy Chairman)Tower",
+      "role": ""
     },
     {
       "id": 250,
-      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee",
-      "role": "Deputy Chairman"
+      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee(Deputy Chairman)Tower",
+      "role": ""
     },
     {
       "id": 240,
-      "name": "Highgate Wood Consultative Group",
-      "role": "Deputy Chairman"
+      "name": "Highgate Wood Consultative Group(Deputy Chairman)Tower",
+      "role": ""
     },
     {
       "id": 175,
-      "name": "Open Spaces and City Gardens",
-      "role": "Ex-Officio Member"
+      "name": "Open Spaces and City Gardens(Ex-Officio Member)Tower",
+      "role": ""
     },
     {
-      "id": 1264,
-      "name": "Open Spaces Working Party",
+      "id": 395,
+      "name": "Policy and Resources CommitteeTower",
       "role": ""
     },
     {
       "id": 262,
-      "name": "Port Health & Environmental Services Committee",
-      "role": ""
-    },
-    {
-      "id": 168,
-      "name": "Projects Sub (Policy and Resources) Committee",
+      "name": "Port Health & Environmental Services CommitteeTower",
       "role": ""
     },
     {
       "id": 1072,
-      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) CommitteeTower",
       "role": ""
     },
     {
       "id": 239,
-      "name": "Queen's Park Consultative Group",
-      "role": "Deputy Chairman"
+      "name": "Queen's Park Consultative Group(Deputy Chairman)Tower",
+      "role": ""
+    },
+    {
+      "id": 396,
+      "name": "Resource Allocation Sub (Policy and Resources) CommitteeTower",
+      "role": ""
     }
   ],
   "interests": [

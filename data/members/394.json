@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:41:28.529898+00:00"
+    "time_created": "2019-05-28T16:46:08.096727+00:00"
   },
   "member": {
     "id": 394,
@@ -17,43 +17,23 @@
       "role": ""
     },
     {
-      "id": 145,
-      "name": "Finance Committee",
-      "role": ""
-    },
-    {
-      "id": 257,
-      "name": "Information Technology Sub (Finance) Committee",
-      "role": ""
-    },
-    {
       "id": 123,
       "name": "Licensing Committee",
       "role": ""
     },
     {
       "id": 1187,
-      "name": "Local Government Pensions Board",
-      "role": "Deputy Chairman"
+      "name": "Local Government Pensions Board(Chairman)Appointed by the Court",
+      "role": ""
     },
     {
       "id": 411,
-      "name": "Markets Committee",
-      "role": "Chairman"
+      "name": "Markets Committee(Chairman)Tower",
+      "role": ""
     },
     {
       "id": 1205,
-      "name": "Outside Bodies Sub (Policy and Resources) Committee",
-      "role": ""
-    },
-    {
-      "id": 398,
-      "name": "Professional Standards and Integrity Sub (Police) Committee",
-      "role": ""
-    },
-    {
-      "id": 168,
-      "name": "Projects Sub (Policy and Resources) Committee",
+      "name": "Outside Bodies Sub (Policy and Resources) CommitteeAppointed by the Policy & Recources Committee",
       "role": ""
     },
     {
@@ -62,14 +42,9 @@
       "role": ""
     },
     {
-      "id": 986,
-      "name": "Reference Sub (Licensing) Committee",
-      "role": ""
-    },
-    {
       "id": 563,
-      "name": "Reference Sub (Markets) Committee",
-      "role": "Chairman"
+      "name": "Reference Sub (Markets) Committee(Chairman)",
+      "role": ""
     }
   ],
   "interests": [
@@ -78,7 +53,7 @@
       "items": [
         {
           "member": "Partner, Venner Shipley LLP",
-          "partner": "Employed by HSBC"
+          "partner": ""
         },
         {
           "member": "Director of the five companies of the Kinetica Group of companies",
@@ -134,6 +109,10 @@
           "partner": ""
         },
         {
+          "member": "Clothworkers' Company",
+          "partner": ""
+        },
+        {
           "member": "Conservative Party",
           "partner": ""
         },
@@ -142,15 +121,11 @@
           "partner": ""
         },
         {
-          "member": "Director of the Kinetica Group",
+          "member": "Director of the Kinetica Group of Companies",
           "partner": ""
         },
         {
           "member": "Elected councillor on Brentwood Borough Council",
-          "partner": ""
-        },
-        {
-          "member": "Freemason",
           "partner": ""
         },
         {
@@ -170,10 +145,6 @@
           "partner": ""
         },
         {
-          "member": "UNION of European Patent Attorneys",
-          "partner": ""
-        },
-        {
           "member": "Member of Lincoln’s Inn",
           "partner": ""
         },
@@ -190,7 +161,7 @@
           "partner": ""
         },
         {
-          "member": "Police Tribunal Chairman",
+          "member": "Masonic Charitable Foundation",
           "partner": ""
         },
         {
@@ -209,6 +180,11 @@
       "name": "Dinner guest - Poulters Company",
       "date_str": "9th November 2017",
       "date": "2017-11-09"
+    },
+    {
+      "name": "Guest for lunch of the Worshipful Company of Poulters",
+      "date_str": "9th January 2019",
+      "date": "2019-01-09"
     }
   ]
 }

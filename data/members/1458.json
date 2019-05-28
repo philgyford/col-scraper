@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:22.087351+00:00"
+    "time_created": "2019-05-28T16:43:05.456413+00:00"
   },
   "member": {
     "id": 1458,
@@ -27,8 +27,18 @@
       "role": ""
     },
     {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    },
+    {
       "id": 142,
-      "name": "Police Committee",
+      "name": "Police Authority Board",
+      "role": ""
+    },
+    {
+      "id": 398,
+      "name": "Professional Standards and Integrity Committee of the Police Authority Board",
       "role": ""
     }
   ],
@@ -39,6 +49,10 @@
         {
           "member": "Barrister, No. 5 Chambers, Greenwood House, 4-7 Salisbury Court EC4Y 8AA",
           "partner": "Jagex Games Studio, Cambridge Sciene Park, 220 Milton CB4 0WA"
+        },
+        {
+          "member": "Chairman of EMYA Global",
+          "partner": ""
         }
       ]
     },
@@ -52,12 +66,7 @@
     },
     {
       "name": "Land",
-      "items": [
-        {
-          "member": "PIP in Carmelite Chambers Building on Carmelite Street",
-          "partner": ""
-        }
-      ]
+      "items": []
     },
     {
       "name": "Licences",
@@ -87,19 +96,108 @@
           "partner": ""
         },
         {
-          "member": "Turkish British Legal Society",
+          "member": "Board of the UK Hungarian Business Council",
           "partner": ""
         },
         {
-          "member": "Turkish British Journalists Association",
+          "member": "Christ’s Hospital",
           "partner": ""
         },
         {
           "member": "Board of Turkish British Chamber of Commerce and Industry",
           "partner": ""
+        },
+        {
+          "member": "City Giving Day",
+          "partner": ""
+        },
+        {
+          "member": "Court Assistant of the Woolmen",
+          "partner": ""
         }
       ]
     }
   ],
-  "gifts": []
+  "gifts": [
+    {
+      "name": "Drinks reception at Is Bank (hosted by CEO of Is Bank) - organsied by TBCCI",
+      "date_str": "5th September 2018",
+      "date": "2018-09-05"
+    },
+    {
+      "name": "Drinks reception at the House of lords for JETCO - organised by DIT and DEIK",
+      "date_str": "11th September 2018",
+      "date": "2018-09-11"
+    },
+    {
+      "name": "Tea at the House of Lords hosted by Baroness Verma and Baroness Ece",
+      "date_str": "12th September 2018",
+      "date": "2018-09-12"
+    },
+    {
+      "name": "No2H8 Crime Awards dinner - organised by Faith Matters/Tell Mama",
+      "date_str": "13th September 2018",
+      "date": "2018-09-13"
+    },
+    {
+      "name": "Installation of Master Farrier and dinner at Vintner's Hall (guest of Martin Dudley)",
+      "date_str": "26th September 2018",
+      "date": "2018-09-26"
+    },
+    {
+      "name": "Drinks reception and fair at Goldsmith's Hall - organised by the Goldsmiths",
+      "date_str": "27th September 2018",
+      "date": "2018-09-27"
+    },
+    {
+      "name": "Tea and Tour of the Chapel at Kensington Palace with Serena Richards",
+      "date_str": "3rd october 2018",
+      "date": "2018-10-03"
+    },
+    {
+      "name": "Drinks reception for the departure of inga Beale (CEO of Lloyds) at the Lloyds Building - hosted by Inga Beale and organised by Lloyds Market Place",
+      "date_str": "4th October 2018",
+      "date": "2018-10-04"
+    },
+    {
+      "name": "Tea with the Turkish Ambassador at the Turkish Embassy - hosted by the Ambassador",
+      "date_str": "10th October 2018",
+      "date": "2018-10-10"
+    },
+    {
+      "name": "Presentation Dinner for the Lord Mayor-Elect at Ironmonger's Hall",
+      "date_str": "22nd October 2018",
+      "date": "2018-10-22"
+    },
+    {
+      "name": "Drinks reception at the residence of the Turksih Ambassador - organised by the Turkish Embassy",
+      "date_str": "29th October 2018",
+      "date": "2018-10-29"
+    },
+    {
+      "name": "Diwali dinner at Drapers Hall hosted by Baroness Verma - organised by The Hinduja Foundation",
+      "date_str": "30th October 2018",
+      "date": "2018-10-30"
+    },
+    {
+      "name": "Drinks reception and debate at the residence of the Dutch Ambassador - organised by IBDE and hosted by the Dutch Ambassador",
+      "date_str": "31st October 2018",
+      "date": "2018-10-31"
+    },
+    {
+      "name": "Lunch at the House of Lords hosted by Lord Rana - organised by UK Asian Business Council & Overseas Friends of India",
+      "date_str": "5th November 2018",
+      "date": "2018-11-05"
+    },
+    {
+      "name": "Installation of Master City Livery - guest of Trevor Brignall",
+      "date_str": "7th November 2018",
+      "date": "2018-11-07"
+    },
+    {
+      "name": "Vin d’honneur at the Residence of the Turkish Ambassador upon presentation of his Credentials to HM the Queen",
+      "date_str": "22nd November 2018",
+      "date": "2018-11-22"
+    }
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:20.087613+00:00"
+    "time_created": "2019-05-28T16:44:25.843973+00:00"
   },
   "member": {
     "id": 292,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=292",
-    "name": "Edward Lord, OBE, JP",
+    "name": "Edward Lord",
     "role": "Deputy",
     "ward": "Farringdon Without",
     "party": ""
@@ -18,8 +18,8 @@
     },
     {
       "id": 1255,
-      "name": "Capital Buildings Committee",
-      "role": "Deputy Chairman"
+      "name": "Capital Buildings Committee(Deputy Chairman)Farringdon Without South Side",
+      "role": ""
     },
     {
       "id": 206,
@@ -33,47 +33,57 @@
     },
     {
       "id": 1229,
-      "name": "Courts Sub (Policy and Resources) Committee",
+      "name": "Courts Sub (Policy & Resources) CommitteePolicy & Resources Committee",
       "role": ""
     },
     {
       "id": 253,
-      "name": "Establishment Committee",
-      "role": "Chairman"
+      "name": "Establishment Committee(Chairman)Farringdon Without South Side",
+      "role": ""
     },
     {
       "id": 1233,
-      "name": "Finance & Estates Sub-Committee of the Board of Governors of the City of London School",
+      "name": "Finance & Estates Committee of the Board of Governors of the City of London School",
+      "role": ""
+    },
+    {
+      "id": 1231,
+      "name": "Governance Committee of the Board of Governors of the City of London School",
       "role": ""
     },
     {
       "id": 259,
-      "name": "Gresham (City Side) Committee",
+      "name": "Gresham (City Side) CommitteeFarringdon Without South Side",
       "role": ""
     },
     {
       "id": 334,
-      "name": "Gresham Working Party",
+      "name": "Gresham Working PartyFarringdon Without South Side",
+      "role": ""
+    },
+    {
+      "id": 176,
+      "name": "Investment CommitteeAppointed by the Policy & Resources Committee",
       "role": ""
     },
     {
       "id": 254,
-      "name": "Joint Consultative Committee",
-      "role": "Chairman"
+      "name": "Joint Consultative Committee(Chairman)Farringdon Without South Side",
+      "role": ""
     },
     {
       "id": 411,
-      "name": "Markets Committee",
+      "name": "Markets CommitteeFarringdon Without",
       "role": ""
     },
     {
       "id": 407,
-      "name": "Members Privileges Sub (Policy and Resources) Committee",
+      "name": "Members Privileges Sub (Policy and Resources) CommitteeFarringdon Without South Side",
       "role": ""
     },
     {
       "id": 1205,
-      "name": "Outside Bodies Sub (Policy and Resources) Committee",
+      "name": "Outside Bodies Sub (Policy and Resources) CommitteeAppointed by the Court of Common Council",
       "role": ""
     },
     {
@@ -82,8 +92,13 @@
       "role": ""
     },
     {
+      "id": 125,
+      "name": "Property Investment BoardFarringdon Without South Side",
+      "role": ""
+    },
+    {
       "id": 1072,
-      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) CommitteeFarringdon Without South Side",
       "role": ""
     },
     {
@@ -93,13 +108,13 @@
     },
     {
       "id": 396,
-      "name": "Resource Allocation Sub (Policy and Resources) Committee",
+      "name": "Resource Allocation Sub (Policy and Resources) CommitteeFarringdon Without South Side",
       "role": ""
     },
     {
       "id": 1262,
-      "name": "Senior Remuneration Sub-Committee",
-      "role": "Chairman"
+      "name": "Senior Remuneration Sub-Committee(Chairman)Farringdon Without South Side",
+      "role": ""
     },
     {
       "id": 408,
@@ -117,12 +132,20 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Managing Director: Stakeholder engagement, governancr, philantropy and diversity at Edward Lord Limited",
-          "partner": "Senior Lecturer, The Open University"
+          "member": "Managing Director, Edward Lord Limited (Stakeholder engagement, governance/risk, philanthropy and diversity/inclusion)",
+          "partner": ""
         },
         {
-          "member": "Chair, Social Care Housing Ltd.",
-          "partner": "Author, Editor and Psychotherapist"
+          "member": "Chair, Social Care Housing Limited",
+          "partner": ""
+        },
+        {
+          "member": "Director, The Basketball League Limited",
+          "partner": ""
+        },
+        {
+          "member": "Director, James G Brown Limited.",
+          "partner": ""
         }
       ]
     },
@@ -144,7 +167,7 @@
       "items": [
         {
           "member": "Tenant, Union House, Martin Lane, EC4",
-          "partner": "Tenant, Union House, Martin Lane, EC4"
+          "partner": ""
         },
         {
           "member": "Freeman of the Leathersellers' Company, owner of the St Helen's Estate, EC3",
@@ -157,7 +180,7 @@
       "items": [
         {
           "member": "Tenant, Union House, Martin Lane, EC4",
-          "partner": "Tenant, Union House, Martin Lane, EC4"
+          "partner": ""
         }
       ]
     },
@@ -169,11 +192,11 @@
       "name": "Securities",
       "items": [
         {
-          "member": "Edward Lord Limited.",
+          "member": "Edward Lord Limited (100%)",
           "partner": ""
         },
         {
-          "member": "James G Brown Limited.",
+          "member": "James G Brown Limited (51%)",
           "partner": ""
         }
       ]
@@ -186,19 +209,15 @@
           "partner": ""
         },
         {
-          "member": "Role Model, Stonewall Equality Limited",
-          "partner": ""
-        },
-        {
           "member": "Trustee, The Black Fish UK",
           "partner": ""
         },
         {
-          "member": "Voting Member, Liberty",
+          "member": "Trustee, The Mark Benevolent Fund (with effect from 11 June 2019)",
           "partner": ""
         },
         {
-          "member": "Voting Member, Amnesty International",
+          "member": "Trustee, The Bishopsgate Foundation (with effect from 15 July 2019)",
           "partner": ""
         }
       ]
@@ -233,11 +252,11 @@
           "partner": ""
         },
         {
-          "member": "Freeman, Worshipful Company of Fletchers",
+          "member": "Freeman, Worshipful Company of Leathersellers",
           "partner": ""
         },
         {
-          "member": "Freeman, Worshipful Company of Leathersellers",
+          "member": "Freeman, Worshipful Company of Fletchers",
           "partner": ""
         }
       ]
@@ -283,23 +302,11 @@
           "partner": ""
         },
         {
-          "member": "Court Member, The Universty of Essex",
+          "member": "Governor, Christ’s Hospital",
           "partner": ""
         },
         {
-          "member": "Advisory Board Member, British German Forum, Foreign and Commonwealth Office",
-          "partner": ""
-        },
-        {
-          "member": "Deputy Chair, Community Advisory Board, London LGBT Pride",
-          "partner": ""
-        },
-        {
-          "member": "Board Member, BiUK",
-          "partner": ""
-        },
-        {
-          "member": "Director, James G Brown Limited.",
+          "member": "Court Member, The University of Essex",
           "partner": ""
         },
         {
@@ -307,11 +314,23 @@
           "partner": ""
         },
         {
-          "member": "Independent Director, British Basketball League",
+          "member": "Advisory Board Member, British German Forum, Foreign and Commonwealth Office",
           "partner": ""
         },
         {
-          "member": "Independent Governor, University of Northampton",
+          "member": "Board Member, BiUK",
+          "partner": ""
+        },
+        {
+          "member": "Role Model, Stonewall Equality Limited",
+          "partner": ""
+        },
+        {
+          "member": "Voting Member, Liberty",
+          "partner": ""
+        },
+        {
+          "member": "Voting Member, Amnesty International",
           "partner": ""
         }
       ]
@@ -547,6 +566,51 @@
       "name": "Dinner with Sir Brian Leveson/Liverpool John Moores University",
       "date_str": "16 May 2018",
       "date": "2018-05-16"
+    },
+    {
+      "name": "VIP courtside ticket and hospitality - British Basketball League and Women’s British Basketball League Play-Off Finals, O2 Arena",
+      "date_str": "20 May 2018",
+      "date": "2018-05-20"
+    },
+    {
+      "name": "VIP Wristband and hospitality – Manchester Pride",
+      "date_str": "24-27 August 2018",
+      "date": "2018-08-24"
+    },
+    {
+      "name": "Gresham Dinner - The Mercers' Company",
+      "date_str": "13 November 2018",
+      "date": "2018-11-13"
+    },
+    {
+      "name": "VIP ticket and hospitality – London New Years’ Parade",
+      "date_str": "1 January 2019",
+      "date": "2019-01-01"
+    },
+    {
+      "name": "Courtside seats – NBA London Game: Washington Wizards v New York Knicks",
+      "date_str": "17 January 2019",
+      "date": "2019-01-17"
+    },
+    {
+      "name": "Livery Dinner – Worshipful Company of Framework Knitters",
+      "date_str": "18 January 2019",
+      "date": "2019-01-18"
+    },
+    {
+      "name": "Australia Day Reception – High Commission of Australia",
+      "date_str": "24 January 2019",
+      "date": "2019-01-24"
+    },
+    {
+      "name": "National Day Reception (DECLINED) – Embassy of Kuwait",
+      "date_str": "25 February 2019",
+      "date": "2019-02-25"
+    },
+    {
+      "name": "Directors’ Box Tickets and hospitality: Celtic FC v Aberdeen FC",
+      "date_str": "9 March 2019",
+      "date": "2019-03-09"
     }
   ]
 }

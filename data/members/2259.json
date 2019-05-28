@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "time_created": "2019-05-28T16:44:36.617931+00:00"
+  },
+  "member": {
+    "id": 2259,
+    "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=2259",
+    "name": "Bronek Masojada",
+    "role": "Alderman",
+    "ward": "Billingsgate",
+    "party": ""
+  },
+  "committees": [
+    {
+      "id": 230,
+      "name": "Board of Governors of the City of London Freemen's SchoolBillingsgate",
+      "role": ""
+    },
+    {
+      "id": 220,
+      "name": "Court of Aldermen",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1261,
+      "name": "Homelessness and Rough Sleeping Sub Committeecourt",
+      "role": ""
+    },
+    {
+      "id": 411,
+      "name": "Markets Committee",
+      "role": ""
+    },
+    {
+      "id": 1064,
+      "name": "Social Investment BoardAppointed by the Court of Common Council",
+      "role": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Chief Executive, Hiscox Ltd, Wesex House, Reid Street, Hamilton, Bermuda.",
+          "partner": "Artist, Church Road, Woldingham, CR3 7JX."
+        },
+        {
+          "member": "Director of multiple entities within the Hiscox Group globally.",
+          "partner": "Chairman, Heptogon Assets Ltd, Church Road, Woldingham. CR3 7JX"
+        },
+        {
+          "member": "Chairman, Policy Placement Ltd",
+          "partner": "Chairman, Heptogon BIR Ltd, Church Road, Woldingham. CR3 7JX"
+        },
+        {
+          "member": "Director, Pool Reinsurane Company Ltd.",
+          "partner": "Beneficiary, Matterhorn Trust"
+        },
+        {
+          "member": "Director and Secretary, Heptogon Assets Ltd, Church Road, Woldingham. CR3 7JX",
+          "partner": ""
+        },
+        {
+          "member": "Beneficiary, Matterhorn Trust",
+          "partner": ""
+        },
+        {
+          "member": "Director, Bajko Investments Ltd, Durban, South Africa.",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": []
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": []
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "Hiscox property rental across multiple sites within the City.",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": [
+        {
+          "member": "Shares, Hiscox Ltd.",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member, Aldgate Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Worshipful Company of Insurers",
+          "partner": ""
+        },
+        {
+          "member": "Director, Association of British insurers",
+          "partner": ""
+        }
+      ]
+    }
+  ],
+  "gifts": []
+}

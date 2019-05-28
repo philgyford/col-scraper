@@ -1,16 +1,143 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:17.507749+00:00"
+    "time_created": "2019-05-28T16:44:22.194438+00:00"
   },
   "member": {
     "id": 2224,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=2224",
-    "name": "Natasha Lloyd-Owen",
+    "name": "Natasha Maria Cabrera Lloyd-Owen",
     "role": "",
     "ward": "Castle Baynard",
     "party": ""
   },
-  "committees": [],
-  "interests": {},
+  "committees": [
+    {
+      "id": 120,
+      "name": "Community & Children's Services Committee",
+      "role": ""
+    },
+    {
+      "id": 223,
+      "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 1261,
+      "name": "Homelessness and Rough Sleeping Sub Committeecommunity and children's services",
+      "role": ""
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
+      "role": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Employment, office, trade, profession or vocation",
+      "items": [
+        {
+          "member": "Barrister practising at 25 Bedford Row, London. WC1R 4HD",
+          "partner": "Creative Copywriter at M-Is, Church St, Isleworth. TW7 6DA"
+        },
+        {
+          "member": "Part-time lecturer on the Transnational Criminal justice LLM programme at BPP University Law School, 68-70 Red Lion Street, London. WC1R 4NY",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Sponsorship",
+      "items": [
+        {
+          "member": "Support from the City of London Branch of the Labour Party for election expenses",
+          "partner": ""
+        }
+      ]
+    },
+    {
+      "name": "Contracts",
+      "items": []
+    },
+    {
+      "name": "Land",
+      "items": [
+        {
+          "member": "Tenant at 301 Gilbert House, Barbican. London. EC2Y 8BD.",
+          "partner": "Tenant at 301 Gilbert House, Barbican. London. EC2Y 8BD."
+        }
+      ]
+    },
+    {
+      "name": "Licences",
+      "items": []
+    },
+    {
+      "name": "Corporate Tenancies",
+      "items": [
+        {
+          "member": "Tenant at 301 Gilbert House, Barbican. London. EC2Y 8BD.",
+          "partner": "Tenant at 301 Gilbert House, Barbican. London. EC2Y 8BD."
+        }
+      ]
+    },
+    {
+      "name": "Securities",
+      "items": []
+    },
+    {
+      "name": "Non-pecuniary interests",
+      "items": [
+        {
+          "member": "Member, Labour Party",
+          "partner": ""
+        },
+        {
+          "member": "Criminal Bar Association",
+          "partner": ""
+        },
+        {
+          "member": "Bar Council",
+          "partner": ""
+        },
+        {
+          "member": "Executive Committee Member, Haldane Society of Socialist Lawyers",
+          "partner": ""
+        },
+        {
+          "member": "Member, Society of Labour Lawyers",
+          "partner": ""
+        },
+        {
+          "member": "Member, JUSTICE",
+          "partner": ""
+        },
+        {
+          "member": "Member, Lincoln's Inn",
+          "partner": ""
+        },
+        {
+          "member": "Member, London Councils",
+          "partner": ""
+        },
+        {
+          "member": "Member, Castle Baynard Ward Club",
+          "partner": ""
+        },
+        {
+          "member": "Member, Golden Lane Sport & Fitness",
+          "partner": ""
+        },
+        {
+          "member": "Member, Barbican Centre",
+          "partner": ""
+        },
+        {
+          "member": "Member, Tate",
+          "partner": ""
+        }
+      ]
+    }
+  ],
   "gifts": []
 }

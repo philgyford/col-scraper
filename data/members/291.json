@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:18.702301+00:00"
+    "time_created": "2019-05-28T16:44:23.870872+00:00"
   },
   "member": {
     "id": 291,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=291",
-    "name": "Oliver Arthur Wynlayne Lodge, TD, BSc",
+    "name": "Oliver Arthur Wynlayne Lodge",
     "role": "",
     "ward": "Bread Street",
     "party": ""
@@ -27,19 +27,9 @@
       "role": ""
     },
     {
-      "id": 192,
-      "name": "Finance Grants Oversight and Performance Sub Committee",
-      "role": ""
-    },
-    {
       "id": 143,
       "name": "Planning and Transportation Committee",
       "role": ""
-    },
-    {
-      "id": 408,
-      "name": "Standards Committee",
-      "role": "Chairman"
     }
   ],
   "interests": [

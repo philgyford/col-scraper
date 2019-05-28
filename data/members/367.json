@@ -1,16 +1,21 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:41:03.157631+00:00"
+    "time_created": "2019-05-28T16:45:33.771367+00:00"
   },
   "member": {
     "id": 367,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=367",
-    "name": "Richard David Regan, OBE",
+    "name": "Richard David Regan",
     "role": "Deputy",
     "ward": "Farringdon Within",
     "party": ""
   },
   "committees": [
+    {
+      "id": 227,
+      "name": "Benefices Sub (Culture, Heritage & Libraries) Committee",
+      "role": ""
+    },
     {
       "id": 236,
       "name": "Board of Governors of the City of London School for Girls",
@@ -33,7 +38,7 @@
     },
     {
       "id": 253,
-      "name": "Establishment Committee",
+      "name": "Establishment CommitteeFarringdon Within North Side",
       "role": ""
     },
     {
@@ -49,11 +54,6 @@
     {
       "id": 262,
       "name": "Port Health & Environmental Services Committee",
-      "role": ""
-    },
-    {
-      "id": 398,
-      "name": "Professional Standards and Integrity Sub (Police) Committee",
       "role": ""
     },
     {

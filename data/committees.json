@@ -152,7 +152,7 @@
     },
     {
       "id": 142,
-      "name": "Police Committee",
+      "name": "Police Authority Board",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=142",
       "kind": "standard"
     },
@@ -254,8 +254,14 @@
     },
     {
       "id": 1229,
-      "name": "Courts Sub (Policy and Resources) Committee",
+      "name": "Courts Sub (Policy & Resources) Committee",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=1229",
+      "kind": "sub"
+    },
+    {
+      "id": 257,
+      "name": "Digital Services Sub (Finance) Committee",
+      "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=257",
       "kind": "sub"
     },
     {
@@ -266,7 +272,7 @@
     },
     {
       "id": 513,
-      "name": "Economic Crime Board of the Police Committee",
+      "name": "Economic Crime Committee of the Police Authority Board",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=513",
       "kind": "sub"
     },
@@ -284,7 +290,7 @@
     },
     {
       "id": 1233,
-      "name": "Finance & Estates Sub-Committee of the Board of Governors of the City of London School",
+      "name": "Finance & Estates Committee of the Board of Governors of the City of London School",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=1233",
       "kind": "sub"
     },
@@ -325,6 +331,12 @@
       "kind": "sub"
     },
     {
+      "id": 1231,
+      "name": "Governance Committee of the Board of Governors of the City of London School",
+      "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=1231",
+      "kind": "sub"
+    },
+    {
       "id": 1210,
       "name": "Hearing Sub (Standards) Committee",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=1210",
@@ -332,7 +344,7 @@
     },
     {
       "id": 1261,
-      "name": "Homelessness and Rough Sleepers Sub Committee",
+      "name": "Homelessness and Rough Sleeping Sub Committee",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=1261",
       "kind": "sub"
     },
@@ -340,12 +352,6 @@
       "id": 247,
       "name": "Housing Management and Almshouses Sub (Community and Children's Services) Committee",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=247",
-      "kind": "sub"
-    },
-    {
-      "id": 257,
-      "name": "Information Technology Sub (Finance) Committee",
-      "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=257",
       "kind": "sub"
     },
     {
@@ -379,12 +385,6 @@
       "kind": "sub"
     },
     {
-      "id": 219,
-      "name": "Nominations Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=219",
-      "kind": "sub"
-    },
-    {
       "id": 1260,
       "name": "Nominations Sub Committee of the Audit and Risk Management Committee",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=1260",
@@ -404,7 +404,7 @@
     },
     {
       "id": 171,
-      "name": "Performance and Resource Management Sub (Police) Committee",
+      "name": "Performance and Resource Management Committee of the Police Authority Board",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=171",
       "kind": "sub"
     },
@@ -416,13 +416,13 @@
     },
     {
       "id": 1267,
-      "name": "Procurement Sub-Committee",
+      "name": "Procurement Sub (Finance) Committee",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=1267",
       "kind": "sub"
     },
     {
       "id": 398,
-      "name": "Professional Standards and Integrity Sub (Police) Committee",
+      "name": "Professional Standards and Integrity Committee of the Police Authority Board",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=398",
       "kind": "sub"
     },
@@ -493,9 +493,9 @@
       "kind": "sub"
     },
     {
-      "id": 210,
-      "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=210",
+      "id": 1273,
+      "name": "Remuneration and Nominations Committee of the Board of Governors of the Guildhall School of Music and Drama",
+      "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=1273",
       "kind": "sub"
     },
     {
@@ -514,6 +514,12 @@
       "id": 1096,
       "name": "Safeguarding Sub (Community & Children's Services) Committee",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=1096",
+      "kind": "sub"
+    },
+    {
+      "id": 1262,
+      "name": "Senior Remuneration Sub-Committee",
+      "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=1262",
       "kind": "sub"
     },
     {
@@ -560,7 +566,7 @@
     },
     {
       "id": 141,
-      "name": "Ashtead Common Consultation Group",
+      "name": "Ashtead Common Consultative Group",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=141",
       "kind": "consultative"
     },
@@ -655,12 +661,6 @@
       "kind": "other"
     },
     {
-      "id": 1196,
-      "name": "Safeguarding Inter-Board Chairmen's Meeting",
-      "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=1196",
-      "kind": "other"
-    },
-    {
       "id": 1110,
       "name": "Safer City Partnership Strategy Group",
       "url": "http://democracy.cityoflondon.gov.uk/mgCommitteeDetails.aspx?ID=1110",
@@ -668,6 +668,6 @@
     }
   ],
   "meta": {
-    "time_created": "2018-10-11T15:41:36.981010+00:00"
+    "time_created": "2019-05-28T16:46:23.389912+00:00"
   }
 }

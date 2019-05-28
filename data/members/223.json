@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:33.527464+00:00"
+    "time_created": "2019-05-28T16:43:17.896803+00:00"
   },
   "member": {
     "id": 223,
@@ -18,8 +18,8 @@
     },
     {
       "id": 201,
-      "name": "Audit and Risk Management Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": "Chairman"
+      "name": "Audit and Risk Management Committee of the Board of Governors of the Guildhall School of Music & Drama(Chairman)",
+      "role": ""
     },
     {
       "id": 233,
@@ -33,8 +33,8 @@
     },
     {
       "id": 206,
-      "name": "Committee of Aldermanic Almoners, Common Council Governors and Donation Governors of Christ's Hospital",
-      "role": "Chairman"
+      "name": "Committee of Aldermanic Almoners, Common Council Governors and Donation Governors of Christ's Hospital(Chairman)",
+      "role": ""
     },
     {
       "id": 120,
@@ -43,7 +43,7 @@
     },
     {
       "id": 216,
-      "name": "Corporate Asset Sub (Finance) Committee",
+      "name": "Corporate Asset Sub (Finance) CommitteePolicy & Resources Committee",
       "role": ""
     },
     {
@@ -53,8 +53,8 @@
     },
     {
       "id": 173,
-      "name": "Crime and Disorder Scrutiny Committee",
-      "role": "Chairman"
+      "name": "Crime and Disorder Scrutiny Committee(Chairman)",
+      "role": ""
     },
     {
       "id": 218,
@@ -63,13 +63,13 @@
     },
     {
       "id": 994,
-      "name": "Health and Wellbeing Board",
+      "name": "Health and Wellbeing Board(Chairman)Court of Common Council",
       "role": ""
     },
     {
       "id": 1261,
-      "name": "Homelessness and Rough Sleepers Sub Committee",
-      "role": "Chairman"
+      "name": "Homelessness and Rough Sleeping Sub CommitteeCommunity and Childrens Services",
+      "role": ""
     },
     {
       "id": 247,
@@ -82,23 +82,18 @@
       "role": ""
     },
     {
+      "id": 200,
+      "name": "Licensing (Hearing) Sub Committee",
+      "role": ""
+    },
+    {
       "id": 123,
       "name": "Licensing Committee",
       "role": ""
     },
     {
-      "id": 392,
-      "name": "Local Plans Sub (Planning and Transportation) Committee",
-      "role": ""
-    },
-    {
       "id": 174,
       "name": "Member Development Steering Group",
-      "role": ""
-    },
-    {
-      "id": 219,
-      "name": "Nominations Committee of the Board of Governors of the Guildhall School of Music & Drama",
       "role": ""
     },
     {
@@ -112,11 +107,6 @@
       "role": ""
     },
     {
-      "id": 168,
-      "name": "Projects Sub (Policy and Resources) Committee",
-      "role": ""
-    },
-    {
       "id": 1063,
       "name": "Reference Sub (Committee of Aldermanic Almoners, Common Council Governors and Donation Governors of Christ's Hospital) Committee",
       "role": ""
@@ -127,8 +117,8 @@
       "role": ""
     },
     {
-      "id": 396,
-      "name": "Resource Allocation Sub (Policy and Resources) Committee",
+      "id": 1273,
+      "name": "Remuneration and Nominations Committee of the Board of Governors of the Guildhall School of Music and Drama",
       "role": ""
     },
     {
@@ -139,11 +129,6 @@
     {
       "id": 1259,
       "name": "Standards Appeals Committee",
-      "role": ""
-    },
-    {
-      "id": 389,
-      "name": "Streets and Walkways Sub (Planning and Transportation) Committee",
       "role": ""
     },
     {
@@ -236,6 +221,11 @@
       "name": "Dinner at Mansion House (Canary Wharf Group)",
       "date_str": "6th September 2018",
       "date": "2018-09-06"
+    },
+    {
+      "name": "Dinner at the Walbrook Club as guest of Tenacity Group",
+      "date_str": "20th November 2018",
+      "date": "2018-11-20"
     }
   ]
 }

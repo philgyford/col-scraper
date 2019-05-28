@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:01.477785+00:00"
+    "time_created": "2019-05-28T16:43:56.053186+00:00"
   },
   "member": {
     "id": 264,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=264",
-    "name": "Clare James MA",
+    "name": "Clare James",
     "role": "Deputy",
     "ward": "Farringdon Within",
     "party": ""
@@ -13,23 +13,23 @@
   "committees": [
     {
       "id": 230,
-      "name": "Board of Governors of the City of London Freemen's School",
-      "role": "Ex-Officio Member"
+      "name": "Board of Governors of the City of London Freemen's School(Ex-Officio Member)",
+      "role": ""
     },
     {
       "id": 233,
-      "name": "Board of Governors of the City of London School",
-      "role": "Ex-Officio Member"
+      "name": "Board of Governors of the City of London School(Ex-Officio Member)",
+      "role": ""
     },
     {
       "id": 236,
       "name": "Board of Governors of the City of London School for Girls",
-      "role": "Chairman"
+      "role": ""
     },
     {
       "id": 237,
-      "name": "Bursary Committee of the Board of Governors of the City of London School for Girls",
-      "role": "Chairman"
+      "name": "Bursary Committee of the Board of Governors of the City of London School for Girls(Chairman)",
+      "role": ""
     },
     {
       "id": 223,
@@ -37,8 +37,13 @@
       "role": ""
     },
     {
+      "id": 245,
+      "name": "Efficiency and Performance Sub (Finance) CommitteeFarringdon Within South Side",
+      "role": ""
+    },
+    {
       "id": 145,
-      "name": "Finance Committee",
+      "name": "Finance CommitteeFarringdon Within South Side",
       "role": ""
     },
     {
@@ -48,18 +53,13 @@
     },
     {
       "id": 176,
-      "name": "Investment Committee",
-      "role": ""
-    },
-    {
-      "id": 1267,
-      "name": "Procurement Sub-Committee",
+      "name": "Investment CommitteeAppointed by the Court of Common Council",
       "role": ""
     },
     {
       "id": 196,
-      "name": "Reference Sub Committee of the Board of Governors of the City of London School for Girls",
-      "role": "Chairman"
+      "name": "Reference Sub Committee of the Board of Governors of the City of London School for Girls(Chairman)",
+      "role": ""
     }
   ],
   "interests": [

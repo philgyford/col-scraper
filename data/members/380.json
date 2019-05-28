@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:39.273610+00:00"
+    "time_created": "2019-05-28T16:44:59.424938+00:00"
   },
   "member": {
     "id": 380,
@@ -22,6 +22,11 @@
       "role": ""
     },
     {
+      "id": 257,
+      "name": "Digital Services Sub (Finance) Committee",
+      "role": ""
+    },
+    {
       "id": 245,
       "name": "Efficiency and Performance Sub (Finance) Committee",
       "role": ""
@@ -32,14 +37,9 @@
       "role": ""
     },
     {
-      "id": 257,
-      "name": "Information Technology Sub (Finance) Committee",
-      "role": ""
-    },
-    {
       "id": 1267,
-      "name": "Procurement Sub-Committee",
-      "role": "Chairman"
+      "name": "Procurement Sub (Finance) Committee(Chairman)Finance Committee",
+      "role": ""
     }
   ],
   "interests": [
@@ -63,7 +63,7 @@
           "partner": ""
         },
         {
-          "member": "Head of Change for Wholesale Markets, Towergate",
+          "member": "Freelance Consultant for Wholesale Markets, Towergate",
           "partner": ""
         },
         {
@@ -121,6 +121,10 @@
         },
         {
           "member": "Chairman of Osprey Lodges Ltd",
+          "partner": ""
+        },
+        {
+          "member": "Contracted occasionally by TORI Global",
           "partner": ""
         }
       ]

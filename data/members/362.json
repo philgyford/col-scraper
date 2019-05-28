@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:41:01.767571+00:00"
+    "time_created": "2019-05-28T16:45:32.225684+00:00"
   },
   "member": {
     "id": 362,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=362",
-    "name": "Stephen Douglas Quilter, BSc(Hons)",
+    "name": "Stephen Douglas Quilter",
     "role": "",
     "ward": "Cripplegate",
     "party": ""
@@ -13,7 +13,7 @@
   "committees": [
     {
       "id": 153,
-      "name": "Barbican Residential Committee",
+      "name": "Barbican Residential CommitteeCripplegate Without",
       "role": ""
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "id": 411,
-      "name": "Markets Committee",
+      "name": "Markets CommitteeCripplegate Without",
       "role": ""
     }
   ],

@@ -1,21 +1,16 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:08.746267+00:00"
+    "time_created": "2019-05-28T16:44:07.208709+00:00"
   },
   "member": {
     "id": 269,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=269",
-    "name": "Alastair John Naisbitt King, MSc",
+    "name": "Alastair John Naisbitt King",
     "role": "Alderman",
     "ward": "Queenhithe",
     "party": ""
   },
   "committees": [
-    {
-      "id": 230,
-      "name": "Board of Governors of the City of London Freemen's School",
-      "role": ""
-    },
     {
       "id": 220,
       "name": "Court of Aldermen",
@@ -27,13 +22,13 @@
       "role": ""
     },
     {
-      "id": 145,
-      "name": "Finance Committee",
+      "id": 177,
+      "name": "Culture, Heritage and Libraries Committee",
       "role": ""
     },
     {
-      "id": 179,
-      "name": "The City Bridge Trust Committee",
+      "id": 145,
+      "name": "Finance Committee",
       "role": ""
     }
   ],

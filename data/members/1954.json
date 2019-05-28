@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:01.466723+00:00"
+    "time_created": "2019-05-28T16:42:37.027139+00:00"
   },
   "member": {
     "id": 1954,
@@ -28,27 +28,37 @@
     },
     {
       "id": 1147,
-      "name": "Education Board",
+      "name": "Education BoardPolicy & Resources Committee",
+      "role": ""
+    },
+    {
+      "id": 183,
+      "name": "Freedom Applications Committee",
       "role": ""
     },
     {
       "id": 1261,
-      "name": "Homelessness and Rough Sleepers Sub Committee",
-      "role": "Deputy Chairman"
+      "name": "Homelessness and Rough Sleeping Sub CommitteePolice Committee",
+      "role": ""
     },
     {
-      "id": 174,
-      "name": "Member Development Steering Group",
+      "id": 176,
+      "name": "Investment CommitteeAppointed by the Policy & Resources Committee",
+      "role": ""
+    },
+    {
+      "id": 1222,
+      "name": "Nominations Sub (Education Board) Committee",
       "role": ""
     },
     {
       "id": 171,
-      "name": "Performance and Resource Management Sub (Police) Committee",
+      "name": "Performance and Resource Management Committee of the Police Authority Board",
       "role": ""
     },
     {
       "id": 142,
-      "name": "Police Committee",
+      "name": "Police Authority Board",
       "role": ""
     },
     {
@@ -63,7 +73,7 @@
     },
     {
       "id": 398,
-      "name": "Professional Standards and Integrity Sub (Police) Committee",
+      "name": "Professional Standards and Integrity Committee of the Police Authority Board",
       "role": ""
     },
     {
@@ -72,8 +82,18 @@
       "role": ""
     },
     {
+      "id": 396,
+      "name": "Resource Allocation Sub (Policy and Resources) Committee",
+      "role": ""
+    },
+    {
       "id": 1110,
-      "name": "Safer City Partnership Strategy Group",
+      "name": "Safer City Partnership Strategy GroupPolice Committee",
+      "role": ""
+    },
+    {
+      "id": 1064,
+      "name": "Social Investment BoardAppointed by the Investment Committee",
       "role": ""
     }
   ],
@@ -83,7 +103,7 @@
       "items": [
         {
           "member": "Government Relations Manager UK, Ireland, Benelux and Nordics. HP Inc, 88 Wood Street London EC2V 7QT",
-          "partner": "Senior Competition and Regulatory Lawyer, BT plc, Newgate Street, London EC1A 7AJ"
+          "partner": "Senior Lawyer, BT plc, Newgate Street, London EC1A 7AJ"
         }
       ]
     },
@@ -135,7 +155,7 @@
           "partner": ""
         },
         {
-          "member": "Labour Party, Member",
+          "member": "Freeman-Worshipful Company of Goldsmiths",
           "partner": ""
         },
         {
@@ -148,10 +168,6 @@
         },
         {
           "member": "Governor, City Academy Hackney",
-          "partner": ""
-        },
-        {
-          "member": "Freeman-Worshipful Company of Goldsmiths",
           "partner": ""
         }
       ]
@@ -192,6 +208,21 @@
       "name": "Ticket plus guest ticket for morning session of Hockey World Cup (City of London Corporation)",
       "date_str": "22 July 2018",
       "date": "2018-07-22"
+    },
+    {
+      "name": "London Planning Awards (guest of The Tenacity Group)",
+      "date_str": "31 January 2019",
+      "date": "2019-01-31"
+    },
+    {
+      "name": "Dinner at Chartered Secretaries and Administrators’ Company",
+      "date_str": "25 March 2019",
+      "date": "2019-03-25"
+    },
+    {
+      "name": "Lunch at Goldsmiths’ Company (Trial of the Pyx)",
+      "date_str": "3 May 2019",
+      "date": "2019-05-03"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:38:47.858527+00:00"
+    "time_created": "2019-05-28T16:42:21.491765+00:00"
   },
   "member": {
     "id": 139,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=139",
     "name": "John Bennett",
-    "role": "Deputy",
+    "role": "",
     "ward": "Broad Street",
     "party": ""
   },
@@ -17,28 +17,13 @@
       "role": ""
     },
     {
-      "id": 387,
-      "name": "Board of Governors of the Guildhall School of Music and Drama",
-      "role": "Deputy Chairman"
-    },
-    {
       "id": 223,
       "name": "Court of Common Council",
       "role": ""
     },
     {
       "id": 177,
-      "name": "Culture, Heritage and Libraries Committee",
-      "role": ""
-    },
-    {
-      "id": 163,
-      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": "Deputy Chairman"
-    },
-    {
-      "id": 218,
-      "name": "Governance and Effectiveness Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "name": "Culture, Heritage and Libraries CommitteeBroad Street",
       "role": ""
     },
     {
@@ -47,23 +32,8 @@
       "role": ""
     },
     {
-      "id": 219,
-      "name": "Nominations Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": "Deputy Chairman"
-    },
-    {
       "id": 262,
       "name": "Port Health & Environmental Services Committee",
-      "role": ""
-    },
-    {
-      "id": 410,
-      "name": "Reference Sub Committee of the Board of Governors of the Guildhall School of Music and Drama",
-      "role": "Deputy Chairman"
-    },
-    {
-      "id": 210,
-      "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama",
       "role": ""
     }
   ],

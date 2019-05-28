@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:38:38.856557+00:00"
+    "time_created": "2019-05-28T16:42:08.776443+00:00"
   },
   "member": {
     "id": 1950,
@@ -23,12 +23,12 @@
     },
     {
       "id": 994,
-      "name": "Health and Wellbeing Board",
+      "name": "Health and Wellbeing BoardCourt of Common Council",
       "role": ""
     },
     {
       "id": 411,
-      "name": "Markets Committee",
+      "name": "Markets CommitteeFarringdon Within",
       "role": ""
     }
   ],
@@ -52,12 +52,7 @@
     },
     {
       "name": "Land",
-      "items": [
-        {
-          "member": "Flat rental at London EC2Y 8BP.",
-          "partner": ""
-        }
-      ]
+      "items": []
     },
     {
       "name": "Licences",

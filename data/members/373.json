@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:30.659986+00:00"
+    "time_created": "2019-05-28T16:44:45.205549+00:00"
   },
   "member": {
     "id": 373,
@@ -33,8 +33,8 @@
     },
     {
       "id": 1229,
-      "name": "Courts Sub (Policy and Resources) Committee",
-      "role": "Chairman"
+      "name": "Courts Sub (Policy & Resources) Committee(Chairman)",
+      "role": ""
     },
     {
       "id": 173,
@@ -43,58 +43,63 @@
     },
     {
       "id": 145,
-      "name": "Finance Committee",
-      "role": "Ex-Officio Member"
+      "name": "Finance Committee(Ex-Officio Member)Policy and Resources Committee",
+      "role": ""
     },
     {
       "id": 183,
-      "name": "Freedom Applications Committee",
-      "role": "Ex-Officio Member"
+      "name": "Freedom Applications Committee(Ex-Officio Member)",
+      "role": ""
     },
     {
       "id": 176,
-      "name": "Investment Committee",
-      "role": "Ex-Officio Member"
+      "name": "Investment Committee(Ex-Officio Member)Policy and Resources Committee",
+      "role": ""
+    },
+    {
+      "id": 1183,
+      "name": "Mayoralty and Shrievalty Allowances - Joint Deputation of Representatives of the Court of Aldermen, the Policy & Resources Committee and the Finance CommitteeChair, Policy & Resources Committee",
+      "role": ""
     },
     {
       "id": 407,
-      "name": "Members Privileges Sub (Policy and Resources) Committee",
-      "role": "Ex-Officio Member"
+      "name": "Members Privileges Sub (Policy and Resources) Committee(Ex-Officio Member)",
+      "role": ""
     },
     {
       "id": 1205,
-      "name": "Outside Bodies Sub (Policy and Resources) Committee",
+      "name": "Outside Bodies Sub (Policy and Resources) CommitteeChairman of the Policy & Resources Committee",
       "role": ""
     },
     {
       "id": 395,
-      "name": "Policy and Resources Committee",
-      "role": "Chairman"
+      "name": "Policy and Resources Committee(Chair)",
+      "role": ""
     },
     {
       "id": 168,
-      "name": "Projects Sub (Policy and Resources) Committee",
+      "name": "Projects Sub (Policy and Resources) CommitteeChair of the Policy and Resources Committee",
       "role": ""
     },
     {
       "id": 1072,
-      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee",
-      "role": "Chairman"
+      "name": "Public Relations and Economic Development Sub (Policy & Resources) Committee(Chairman)",
+      "role": ""
     },
     {
       "id": 172,
-      "name": "Reference Sub Committee of the Barbican Centre Board",
-      "role": "Chairman"
+      "name": "Reference Sub Committee of the Barbican Centre Board(Chairman)",
+      "role": ""
     },
     {
       "id": 396,
-      "name": "Resource Allocation Sub (Policy and Resources) Committee",
-      "role": "Chairman"
+      "name": "Resource Allocation Sub (Policy and Resources) Committee(Chairman)",
+      "role": ""
     },
     {
       "id": 1262,
-      "name": "Senior Remuneration Sub-Committee",
-      "role": "Deputy Chairman"
+      "name": "Senior Remuneration Sub-Committee(Deputy Chairman)",
+      "role": ""
     }
   ],
   "interests": [
@@ -562,6 +567,131 @@
       "name": "Received Scotch Whisky from the Briefing Circle as a thank you for being the keynote speaker",
       "date_str": "19 September 2018",
       "date": "2018-09-19"
+    },
+    {
+      "name": "Guest of International Bar Association [Lunch in Rome]",
+      "date_str": "11 October 2018",
+      "date": "2018-10-11"
+    },
+    {
+      "name": "Guest of TheCityUK [Dinner in Rome]",
+      "date_str": "11 October 2018",
+      "date": "2018-10-11"
+    },
+    {
+      "name": "Guest of the Investment Association [Annual Dinner]",
+      "date_str": "16 October 2018",
+      "date": "2018-10-16"
+    },
+    {
+      "name": "Guest of PIMFA [Lunch]",
+      "date_str": "17 October 2018",
+      "date": "2018-10-17"
+    },
+    {
+      "name": "Guest of DLA Piper [Drinks Reception]",
+      "date_str": "6 November 2018",
+      "date": "2018-11-06"
+    },
+    {
+      "name": "Guest of European Financial Forum [Cumberland Lodge Conference]",
+      "date_str": "8-9 November 2018",
+      "date": "2018-11-09"
+    },
+    {
+      "name": "Guest of Centre for European Reform [Ditchley Park Conference]",
+      "date_str": "16 November 2018",
+      "date": "2018-11-16"
+    },
+    {
+      "name": "Guest of Institute of International Finance [Lunch in New York]",
+      "date_str": "27 November 2018",
+      "date": "2018-11-27"
+    },
+    {
+      "name": "Guest of Investment Association [Dinner in Washington]",
+      "date_str": "28 November 2018",
+      "date": "2018-11-28"
+    },
+    {
+      "name": "Guest of Confederation of British Industry [Drinks Reception]",
+      "date_str": "3 December 2018",
+      "date": "2018-12-03"
+    },
+    {
+      "name": "Guest of Financial Markets Law Committee [Drinks Reception]",
+      "date_str": "5 December 2018",
+      "date": "2018-12-05"
+    },
+    {
+      "name": "Guest of Investment Association [Drinks Reception]",
+      "date_str": "5 December 2018",
+      "date": "2018-12-05"
+    },
+    {
+      "name": "Guest of Labour Business [Dinner]",
+      "date_str": "6 December 2018",
+      "date": "2018-12-06"
+    },
+    {
+      "name": "Guest of Law Society [Dinner]",
+      "date_str": "10 December 2018",
+      "date": "2018-12-10"
+    },
+    {
+      "name": "Guest of London Stock Exchange [Lunch]",
+      "date_str": "14 December 2018",
+      "date": "2018-12-14"
+    },
+    {
+      "name": "Received Bottle of Red Wine from Deputy High Commissioner of India",
+      "date_str": "24 December 2018",
+      "date": "2018-12-24"
+    },
+    {
+      "name": "Received two books from High Commissioner of India",
+      "date_str": "9 January 2019",
+      "date": "2019-01-09"
+    },
+    {
+      "name": "Received two tickets for Romeo and Juliet at the Barbican from Royal Shakespeare Company",
+      "date_str": "9 January 2019",
+      "date": "2019-01-09"
+    },
+    {
+      "name": "Guest of Inner City Trust with Dinner & Accommodation at the Bishopsgate Hotel, Derry/Londonderry",
+      "date_str": "3 February 2019",
+      "date": "2019-02-03"
+    },
+    {
+      "name": "Guest of Andre Villeneuve, ICE Company",
+      "date_str": "1 March 2019",
+      "date": "2019-03-01"
+    },
+    {
+      "name": "Flowers from Swiss Embassy",
+      "date_str": "1 March 2019",
+      "date": "2019-03-01"
+    },
+    {
+      "name": "Guest of the Irish Embassy, Brunch at Bentleys for St Patrick's Day",
+      "date_str": "17 March 2019",
+      "date": "2019-03-17"
+    },
+    {
+      "name": "Guest of Robinson Hambro [dinner]",
+      "date_str": "25 March 2019",
+      "date": "2019-03-25"
+    },
+    {
+      "name": "Guest of KPMG [lunch]",
+      "date_str": "25 March 2019",
+      "date": "2019-03-25"
+    },
+    {
+      "name": "Guest of Lord James Sassoon, Matheson & Co Lts [lunch]",
+      "date_str": "8 April 2019",
+      "date": "2019-04-08"
     }
   ]
 }

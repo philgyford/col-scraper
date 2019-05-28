@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:56.658552+00:00"
+    "time_created": "2019-05-28T16:43:51.028045+00:00"
   },
   "member": {
     "id": 257,
@@ -19,6 +19,26 @@
     {
       "id": 223,
       "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 122,
+      "name": "Epping Forest & Commons Committee",
+      "role": ""
+    },
+    {
+      "id": 248,
+      "name": "Financial Investment Board",
+      "role": ""
+    },
+    {
+      "id": 176,
+      "name": "Investment CommitteeAppointed by the Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 143,
+      "name": "Planning and Transportation Committee",
       "role": ""
     }
   ],
@@ -81,7 +101,7 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Patron- Cheap Ward Club",
+          "member": "Patron- Ward of Cheap Club",
           "partner": ""
         },
         {
@@ -89,11 +109,11 @@
           "partner": ""
         },
         {
-          "member": "Liveryman - Haberdashers' Company",
+          "member": "Court - Haberdashers' Company",
           "partner": ""
         },
         {
-          "member": "Member - Guild of Investment Managers",
+          "member": "Upper Warden - Guild of Investment Managers",
           "partner": ""
         },
         {
@@ -114,6 +134,18 @@
         },
         {
           "member": "Member - Lord Mayor’s Appeal Fundraising Board",
+          "partner": ""
+        },
+        {
+          "member": "Member – Chartered Institute for Securities and Investment, Integrity & Ethics Committee",
+          "partner": ""
+        },
+        {
+          "member": "Governor – Sons & Friends of the Clergy",
+          "partner": ""
+        },
+        {
+          "member": "Chair – City of London Prayer Breakfast",
           "partner": ""
         }
       ]

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:30.351451+00:00"
+    "time_created": "2019-05-28T16:43:14.647568+00:00"
   },
   "member": {
     "id": 220,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=220",
-    "name": "John William Fletcher, BSc",
+    "name": "John William Fletcher",
     "role": "",
     "ward": "Portsoken",
     "party": ""
@@ -27,18 +27,18 @@
       "role": ""
     },
     {
-      "id": 1256,
-      "name": "Housing Delivery Programme Working Group",
+      "id": 192,
+      "name": "Finance Grants Oversight and Performance Sub Committee",
       "role": ""
     },
     {
       "id": 247,
-      "name": "Housing Management and Almshouses Sub (Community and Children's Services) Committee",
-      "role": "Chairman"
+      "name": "Housing Management and Almshouses Sub (Community and Children's Services) Committee(Chairman)",
+      "role": ""
     },
     {
       "id": 1267,
-      "name": "Procurement Sub-Committee",
+      "name": "Procurement Sub (Finance) CommitteeFinance Committee",
       "role": ""
     }
   ],

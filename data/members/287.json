@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:16.123519+00:00"
+    "time_created": "2019-05-28T16:44:20.635180+00:00"
   },
   "member": {
     "id": 287,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=287",
-    "name": "Vivienne Littlechild JP, MBE",
+    "name": "Vivienne Littlechild",
     "role": "",
     "ward": "Cripplegate",
     "party": ""
@@ -13,18 +13,13 @@
   "committees": [
     {
       "id": 140,
-      "name": "Barbican Centre Board",
-      "role": ""
-    },
-    {
-      "id": 230,
-      "name": "Board of Governors of the City of London Freemen's School",
+      "name": "Barbican Centre BoardCripplegate Within",
       "role": ""
     },
     {
       "id": 387,
-      "name": "Board of Governors of the Guildhall School of Music and Drama",
-      "role": "Chairman"
+      "name": "Board of Governors of the Guildhall School of Music and Drama(Chairman)",
+      "role": ""
     },
     {
       "id": 206,
@@ -43,28 +38,23 @@
     },
     {
       "id": 163,
-      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": "Chairman"
+      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama(Chairman)Cripplegate Within",
+      "role": ""
     },
     {
       "id": 218,
-      "name": "Governance and Effectiveness Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": "Deputy Chairman"
+      "name": "Governance and Effectiveness Committee of the Board of Governors of the Guildhall School of Music & DramaCripplegate Within",
+      "role": ""
     },
     {
       "id": 185,
-      "name": "Health and Social Care Scrutiny Committee",
+      "name": "Health and Social Care Scrutiny CommitteeCripplegate Within",
       "role": ""
     },
     {
       "id": 413,
-      "name": "Keats House Consultative Committee",
+      "name": "Keats House Consultative CommitteeCulture, Heritage and Libraries Committee",
       "role": ""
-    },
-    {
-      "id": 219,
-      "name": "Nominations Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": "Chairman"
     },
     {
       "id": 262,
@@ -73,13 +63,18 @@
     },
     {
       "id": 410,
-      "name": "Reference Sub Committee of the Board of Governors of the Guildhall School of Music and Drama",
-      "role": "Chairman"
+      "name": "Reference Sub Committee of the Board of Governors of the Guildhall School of Music and Drama(Chairman)Cripplegate Within",
+      "role": ""
     },
     {
-      "id": 210,
-      "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": "Deputy Chairman"
+      "id": 1273,
+      "name": "Remuneration and Nominations Committee of the Board of Governors of the Guildhall School of Music and DramaCripplegate Within",
+      "role": ""
+    },
+    {
+      "id": 408,
+      "name": "Standards CommitteeCripplegate Within",
+      "role": ""
     }
   ],
   "interests": [

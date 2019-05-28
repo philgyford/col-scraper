@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:26.547826+00:00"
+    "time_created": "2019-05-28T16:44:35.040696+00:00"
   },
   "member": {
     "id": 1217,
@@ -32,9 +32,14 @@
       "role": ""
     },
     {
+      "id": 192,
+      "name": "Finance Grants Oversight and Performance Sub Committee",
+      "role": ""
+    },
+    {
       "id": 389,
-      "name": "Streets and Walkways Sub (Planning and Transportation) Committee",
-      "role": "Ex-Officio Member"
+      "name": "Streets and Walkways Sub (Planning and Transportation) Committee(Ex-Officio Member)Finance Committee",
+      "role": ""
     },
     {
       "id": 179,
@@ -132,6 +137,14 @@
         },
         {
           "member": "Treasurer, Temple and Farringdon Together",
+          "partner": ""
+        },
+        {
+          "member": "Member, City Bridge Trust",
+          "partner": ""
+        },
+        {
+          "member": "CoLAT Management Committee, City of London Archaeological Society",
           "partner": ""
         }
       ]

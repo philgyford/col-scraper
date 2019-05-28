@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:41:07.415626+00:00"
+    "time_created": "2019-05-28T16:45:39.851473+00:00"
   },
   "member": {
     "id": 1202,
@@ -12,8 +12,8 @@
   },
   "committees": [
     {
-      "id": 236,
-      "name": "Board of Governors of the City of London School for Girls",
+      "id": 140,
+      "name": "Barbican Centre Board",
       "role": ""
     },
     {
@@ -37,23 +37,13 @@
       "role": ""
     },
     {
-      "id": 253,
-      "name": "Establishment Committee",
-      "role": ""
-    },
-    {
-      "id": 163,
-      "name": "Finance and Resources Committee of the Board of Governors of the Guildhall School of Music & Drama",
-      "role": ""
-    },
-    {
       "id": 383,
       "name": "Livery Committee",
       "role": ""
     },
     {
       "id": 850,
-      "name": "Lord Mayor's Show Ltd",
+      "name": "Lord Mayor's Show LtdDirector",
       "role": ""
     },
     {
@@ -67,13 +57,8 @@
       "role": ""
     },
     {
-      "id": 410,
-      "name": "Reference Sub Committee of the Board of Governors of the Guildhall School of Music and Drama",
-      "role": ""
-    },
-    {
-      "id": 210,
-      "name": "Remuneration Committee of the Board of Governors of the Guildhall School of Music & Drama",
+      "id": 396,
+      "name": "Resource Allocation Sub (Policy and Resources) Committee",
       "role": ""
     }
   ],
@@ -137,7 +122,16 @@
     },
     {
       "name": "Land",
-      "items": []
+      "items": [
+        {
+          "member": "London House, Aldersgate Street",
+          "partner": ""
+        },
+        {
+          "member": "Carthusian Street",
+          "partner": ""
+        }
+      ]
     },
     {
       "name": "Licences",
@@ -247,6 +241,16 @@
       "name": "Guest of the Worshipful Company of Clockmakers: Attended a dinner with wife Hilary, where he made a speech.",
       "date_str": "14/11/2017",
       "date": "2017-11-14"
+    },
+    {
+      "name": "Liverpool v Napoli - guest of Standard Chartered Bank, Anfield box",
+      "date_str": "11/12/2018",
+      "date": "2018-12-11"
+    },
+    {
+      "name": "Liverpool v Bayern Munich - guest of Standard Chartered Bank, Anfield box",
+      "date_str": "19/02/2019",
+      "date": "2019-02-19"
     }
   ]
 }

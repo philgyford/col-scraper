@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:36.335744+00:00"
+    "time_created": "2019-05-28T16:43:21.224336+00:00"
   },
   "member": {
     "id": 226,
@@ -22,18 +22,13 @@
       "role": ""
     },
     {
-      "id": 177,
-      "name": "Culture, Heritage and Libraries Committee",
-      "role": ""
-    },
-    {
-      "id": 122,
-      "name": "Epping Forest & Commons Committee",
-      "role": ""
-    },
-    {
       "id": 1183,
-      "name": "Mayoralty and Shrievalty Allowances - Joint Deputation of Representatives of the Court of Aldermen, the Policy & Resources Committee and the Finance Committee",
+      "name": "Mayoralty and Shrievalty Allowances - Joint Deputation of Representatives of the Court of Aldermen, the Policy & Resources Committee and the Finance CommitteeAldermanic representative",
+      "role": ""
+    },
+    {
+      "id": 262,
+      "name": "Port Health & Environmental Services Committee",
       "role": ""
     }
   ],

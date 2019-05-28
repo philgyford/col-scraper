@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:41:30.059224+00:00"
+    "time_created": "2019-05-28T16:46:09.807577+00:00"
   },
   "member": {
     "id": 1935,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1935",
-    "name": "William Upton",
+    "name": "William Upton QC",
     "role": "",
     "ward": "Farringdon Without",
     "party": ""
@@ -13,17 +13,22 @@
   "committees": [
     {
       "id": 223,
-      "name": "Court of Common Council",
+      "name": "Court of Common CouncilFarringdon Without",
       "role": ""
     },
     {
       "id": 250,
-      "name": "Hampstead Heath, Highgate Wood and Queen's Park Committee",
+      "name": "Hampstead Heath, Highgate Wood and Queen's Park CommitteeFarringdon Without",
+      "role": ""
+    },
+    {
+      "id": 392,
+      "name": "Local Plans Sub (Planning and Transportation) CommitteeFarringdon Without",
       "role": ""
     },
     {
       "id": 143,
-      "name": "Planning and Transportation Committee",
+      "name": "Planning and Transportation CommitteeFarringdon Without",
       "role": ""
     }
   ],

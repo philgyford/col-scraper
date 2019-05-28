@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:36.401633+00:00"
+    "time_created": "2019-05-28T16:44:52.581160+00:00"
   },
   "member": {
     "id": 1946,
@@ -13,42 +13,42 @@
   "committees": [
     {
       "id": 244,
-      "name": "Audit and Risk Management Committee",
+      "name": "Audit and Risk Management CommitteeAldgate",
       "role": ""
     },
     {
       "id": 223,
-      "name": "Court of Common Council",
+      "name": "Court of Common CouncilAldgate",
       "role": ""
     },
     {
       "id": 248,
-      "name": "Financial Investment Board",
+      "name": "Financial Investment BoardAldgate",
       "role": ""
     },
     {
       "id": 176,
-      "name": "Investment Committee",
+      "name": "Investment CommitteeAppointed by the Court of Common Council",
       "role": ""
     },
     {
       "id": 411,
-      "name": "Markets Committee",
+      "name": "Markets CommitteeAldgate",
       "role": ""
     },
     {
       "id": 262,
-      "name": "Port Health & Environmental Services Committee",
+      "name": "Port Health & Environmental Services CommitteeAldgate",
       "role": ""
     },
     {
       "id": 125,
-      "name": "Property Investment Board",
+      "name": "Property Investment Board(Deputy Chairman)Aldgate",
       "role": ""
     },
     {
       "id": 1064,
-      "name": "Social Investment Board",
+      "name": "Social Investment BoardAppointed by the Court of Common Council",
       "role": ""
     }
   ],
@@ -71,6 +71,18 @@
         {
           "member": "Head of Treasury & Pensions, London Borough of Lambeth, Phoenix House, 10 Wandsworth Road, London, SW8 2LL",
           "partner": "Marketing Coordinator, Sidley Austin LLP, Woolgate Exchange, 25 Basinghall Street, London, EC2V 5HA"
+        },
+        {
+          "member": "Managing Director, Andrien Meyers Rodrigues Ltd.",
+          "partner": ""
+        },
+        {
+          "member": "Director, Prosap Technologies Ltd.",
+          "partner": ""
+        },
+        {
+          "member": "Strategic Advisor at BFinance",
+          "partner": ""
         }
       ]
     },
@@ -110,11 +122,50 @@
           "partner": ""
         },
         {
-          "member": "Society of Local Authority Chief Executives (SOLACE)",
+          "member": "Member, Society of Local Authority Chief Executives (SOLACE)",
+          "partner": ""
+        },
+        {
+          "member": "Co-Founder, City Commonwealth Economic Forum",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, South London Anglo Indian Association",
+          "partner": ""
+        },
+        {
+          "member": "Member, Chartered Institute of Securities and Investment (CISI)",
+          "partner": ""
+        },
+        {
+          "member": "Member, UNISON",
+          "partner": ""
+        },
+        {
+          "member": "Member, Clapham Old Xaverians",
+          "partner": ""
+        },
+        {
+          "member": "Brother of the Cantenians",
+          "partner": ""
+        },
+        {
+          "member": "Member, Aldgate Ward Club",
           "partner": ""
         }
       ]
     }
   ],
-  "gifts": []
+  "gifts": [
+    {
+      "name": "ManBooker Prize dinner at Guildhall (Man Group)",
+      "date_str": "2017 and 2018",
+      "date": null
+    },
+    {
+      "name": "Tickets x 2 to the cricket at Lords Cricket Ground (Invesco)",
+      "date_str": "August 2018",
+      "date": "2018-08-28"
+    }
+  ]
 }

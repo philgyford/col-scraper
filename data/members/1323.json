@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:40:24.801244+00:00"
+    "time_created": "2019-05-28T16:44:33.378123+00:00"
   },
   "member": {
     "id": 1323,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1323",
-    "name": "Professor Michael Raymond Mainelli FCCA FCSI FBCS",
+    "name": "Professor Michael Raymond Mainelli",
     "role": "Alderman",
     "ward": "Broad Street",
     "party": ""
@@ -28,17 +28,7 @@
     },
     {
       "id": 850,
-      "name": "Lord Mayor's Show Ltd",
-      "role": ""
-    },
-    {
-      "id": 411,
-      "name": "Markets Committee",
-      "role": ""
-    },
-    {
-      "id": 563,
-      "name": "Reference Sub (Markets) Committee",
+      "name": "Lord Mayor's Show LtdDirector",
       "role": ""
     },
     {
@@ -52,23 +42,23 @@
       "name": "Employment, office, trade, profession or vocation",
       "items": [
         {
-          "member": "Director Z/Yen Group Limited, Basinghall Street London EC2V 5AY",
+          "member": "Director Z/Yen Group Limited, 41 Lothbury London EC2R 7HG",
           "partner": "Director Nymph Limited, Basinghall Street London EC2V 5AY"
         },
         {
           "member": "Z/YEN GROUP RELATED: Z/Yen Adventures Limited; Z/Yen Communications Limited; Z/Yen Group Limited; Z/Yen Holdings Limited; Z/Yen Contents Limited; Indezy Limited; Z/Yen Partners Limited; Z/Yen Risk/Reward Limited; Z/Yen Ventures Limited; ExtZy Limited; XUMK Limited;",
-          "partner": ""
+          "partner": "Entryway Limited Wellkit Property Management Limited Z/Yen Contents Limited"
         },
         {
           "member": "FINANCIAL LABROATORY (dormant): Financial Laboratory Limited",
           "partner": ""
         },
         {
-          "member": "NON-Z/YEN: United Kingdom Accreditation Service; Wishbone Gold Plc; PCG Entertainment PLC;",
+          "member": "NON-Z/YEN: United Kingdom Accreditation Service; Wishbone Gold Plc; PCG Entertainment PLC; Lord Mayor's Show Limited",
           "partner": ""
         },
         {
-          "member": "CHARITABLE: Director, Gresham College, London; Almoner, Christ’s Hospital Foundation, Horsham, UK; Alderman, City of London Corporation, Broad Street Ward, UK; Council Member, City & Guilds, London UK;",
+          "member": "CHARITABLE: Director, Gresham College, London; Almoner, Christ’s Hospital Foundation, Horsham, UK; Alderman, City of London Corporation, Broad Street Ward, UK; Council Member, City & Guilds, London UK; Trustee, Morden College, Greenwich, UK Fellow, Goodenough College, London, UK Trustee, Thames Match (traditional sailing race since 1863), UK Trustee, The Lord Mayor's 800th Anniversary Awards Trust",
           "partner": ""
         }
       ]
@@ -79,12 +69,7 @@
     },
     {
       "name": "Contracts",
-      "items": [
-        {
-          "member": "Z/Yen Group Limited (Tomorrow's Cities Programme).",
-          "partner": ""
-        }
-      ]
+      "items": []
     },
     {
       "name": "Land",
@@ -96,12 +81,7 @@
     },
     {
       "name": "Corporate Tenancies",
-      "items": [
-        {
-          "member": "Z/Yen Group Limited, Basinghall Street London EC2V 5AY",
-          "partner": ""
-        }
-      ]
+      "items": []
     },
     {
       "name": "Securities",
@@ -159,7 +139,7 @@
           "partner": ""
         },
         {
-          "member": "British-German Association",
+          "member": "Gresham Society",
           "partner": ""
         },
         {
@@ -183,19 +163,19 @@
           "partner": ""
         },
         {
-          "member": "Member, Professional & Business Services Council, UK Department for Business, Innovation & Skills – London, England",
+          "member": "Member, Professional & Business Services Council, UK Department for Business, Energy & Industrial Strategy – London, England",
           "partner": ""
         },
         {
-          "member": "Member, Advisory Council, City of London Festival – London, England",
+          "member": "Worshipful Company of Water Conservators, Honorary Liveryman",
           "partner": ""
         },
         {
-          "member": "Member, ACCA, Governance, Risk and Performance Forum – London, England",
+          "member": "Guildhall Historical Association",
           "partner": ""
         },
         {
-          "member": "Non-executive Director, Wishbone Gold Plc, AIM-listed exploration company – Gibraltar",
+          "member": "Royal Ocean Racing Club",
           "partner": ""
         },
         {
@@ -207,7 +187,47 @@
           "partner": ""
         },
         {
-          "member": "Oxford Martin Associate, Oxford Martin School – Oxford, England",
+          "member": "Trinity Square Club",
+          "partner": ""
+        },
+        {
+          "member": "Classical Road Show, Patron",
+          "partner": ""
+        },
+        {
+          "member": "Sea Change Sailing Trust, Patron",
+          "partner": ""
+        },
+        {
+          "member": "Freemason, Guildhall Lodge",
+          "partner": ""
+        },
+        {
+          "member": "Association of Bargemen",
+          "partner": ""
+        },
+        {
+          "member": "Sailing Barge Association",
+          "partner": ""
+        },
+        {
+          "member": "Thames Sailing Barge Trust",
+          "partner": ""
+        },
+        {
+          "member": "Harvard Club of New York",
+          "partner": ""
+        },
+        {
+          "member": "Trustee, Worshipful Company Of World Traders Charitable Trust",
+          "partner": ""
+        },
+        {
+          "member": "Member, Guild Of Freemen",
+          "partner": ""
+        },
+        {
+          "member": "Member, City Livery Club",
           "partner": ""
         }
       ]

@@ -1,44 +1,49 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:04.780209+00:00"
+    "time_created": "2019-05-28T16:42:40.363545+00:00"
   },
   "member": {
     "id": 158,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=158",
-    "name": "Roger Arthur Holden Chadwick, OBE",
-    "role": "Deputy",
+    "name": "Roger Arthur Holden Chadwick",
+    "role": "",
     "ward": "Tower",
     "party": ""
   },
   "committees": [
     {
       "id": 213,
-      "name": "Academic and Personnel Sub Committee of the Board of Governors of the City of London Freemen's School",
-      "role": "Chairman"
+      "name": "Academic and Personnel Sub Committee of the Board of Governors of the City of London Freemen's School(Chairman)",
+      "role": ""
     },
     {
       "id": 230,
-      "name": "Board of Governors of the City of London Freemen's School",
-      "role": "Chairman"
+      "name": "Board of Governors of the City of London Freemen's School(Chairman)",
+      "role": ""
     },
     {
       "id": 233,
-      "name": "Board of Governors of the City of London School",
-      "role": "Ex-Officio Member"
+      "name": "Board of Governors of the City of London School(Ex-Officio Member)",
+      "role": ""
     },
     {
       "id": 236,
-      "name": "Board of Governors of the City of London School for Girls",
-      "role": "Ex-Officio Member"
+      "name": "Board of Governors of the City of London School for Girls(Ex-Officio Member)",
+      "role": ""
     },
     {
       "id": 231,
-      "name": "Bursary Committee of the Board of Governors of the City of London Freemen's School",
-      "role": "Chairman"
+      "name": "Bursary Committee of the Board of Governors of the City of London Freemen's School(Chairman)",
+      "role": ""
     },
     {
       "id": 223,
       "name": "Court of Common Council",
+      "role": ""
+    },
+    {
+      "id": 257,
+      "name": "Digital Services Sub (Finance) Committee",
       "role": ""
     },
     {
@@ -48,8 +53,8 @@
     },
     {
       "id": 212,
-      "name": "Finance, General Purposes and Estates Sub-Committee of the Board of Governors of the City of London Freemen's School",
-      "role": "Chairman"
+      "name": "Finance, General Purposes and Estates Sub-Committee of the Board of Governors of the City of London Freemen's School(Chairman)",
+      "role": ""
     }
   ],
   "interests": [

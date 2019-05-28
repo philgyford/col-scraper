@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:18.835112+00:00"
+    "time_created": "2019-05-28T16:42:58.204053+00:00"
   },
   "member": {
     "id": 200,
@@ -17,9 +17,14 @@
       "role": ""
     },
     {
+      "id": 200,
+      "name": "Licensing (Hearing) Sub Committee",
+      "role": ""
+    },
+    {
       "id": 123,
-      "name": "Licensing Committee",
-      "role": "Chairman"
+      "name": "Licensing Committee(Chairman)",
+      "role": ""
     },
     {
       "id": 143,
@@ -33,12 +38,12 @@
     },
     {
       "id": 986,
-      "name": "Reference Sub (Licensing) Committee",
-      "role": "Chairman"
+      "name": "Reference Sub (Licensing) Committee(Chairman)",
+      "role": ""
     },
     {
       "id": 1110,
-      "name": "Safer City Partnership Strategy Group",
+      "name": "Safer City Partnership Strategy GroupChairman of the Licensing Committee",
       "role": ""
     },
     {
@@ -64,7 +69,7 @@
           "partner": ""
         },
         {
-          "member": "Consultant - Weatherbys Bank",
+          "member": "Consultant, Change UK - The Independent Group",
           "partner": ""
         }
       ]
@@ -97,7 +102,7 @@
       "name": "Non-pecuniary interests",
       "items": [
         {
-          "member": "Member, Liberal Democrats",
+          "member": "Member, Change UK - The Independent Group",
           "partner": ""
         },
         {
@@ -105,7 +110,7 @@
           "partner": ""
         },
         {
-          "member": "Director, Liberal Democrats Limited",
+          "member": "Member CAMRA",
           "partner": ""
         },
         {
@@ -114,10 +119,6 @@
         },
         {
           "member": "Trustee, The Honourable The Irish Society",
-          "partner": ""
-        },
-        {
-          "member": "Member CAMRA",
           "partner": ""
         }
       ]

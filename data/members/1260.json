@@ -1,11 +1,11 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:42.023873+00:00"
+    "time_created": "2019-05-28T16:43:31.966956+00:00"
   },
   "member": {
     "id": 1260,
     "url": "http://democracy.cityoflondon.gov.uk/mgUserInfo.aspx?UID=1260",
-    "name": "Timothy Russell Hailes JP",
+    "name": "Timothy Russell Hailes",
     "role": "Alderman",
     "ward": "Bassishaw",
     "party": ""
@@ -23,17 +23,22 @@
     },
     {
       "id": 1229,
-      "name": "Courts Sub (Policy and Resources) Committee",
+      "name": "Courts Sub (Policy & Resources) CommitteeCourt of Alderman",
       "role": ""
     },
     {
       "id": 850,
-      "name": "Lord Mayor's Show Ltd",
+      "name": "Lord Mayor's Show LtdDirector",
       "role": ""
     },
     {
       "id": 174,
       "name": "Member Development Steering Group",
+      "role": ""
+    },
+    {
+      "id": 395,
+      "name": "Policy and Resources Committee",
       "role": ""
     }
   ],

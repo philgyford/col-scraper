@@ -1,6 +1,6 @@
 {
   "meta": {
-    "time_created": "2018-10-11T15:39:34.890375+00:00"
+    "time_created": "2019-05-28T16:43:19.635169+00:00"
   },
   "member": {
     "id": 225,
@@ -29,11 +29,6 @@
     {
       "id": 223,
       "name": "Court of Common Council",
-      "role": ""
-    },
-    {
-      "id": 177,
-      "name": "Culture, Heritage and Libraries Committee",
       "role": ""
     }
   ],
