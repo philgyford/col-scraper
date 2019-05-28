@@ -223,7 +223,7 @@ def extract_member_committees(r):
                             "role": committee_role,
                         }
                     )
-        except:
+        except AttributeError:
             logger.debug("No Committees found.")
 
     return committees
