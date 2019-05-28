@@ -1,5 +1,5 @@
 {
-  "install":  "rm -r data && pip3 install --user --r requirements.txt && cp colmem.db .data/colmem.db",
+  "install":  "rm -r data && pip3 install --user -r requirements.txt && cp colmem.db .data/colmem.db",
   "start": "datasette .data/colmem.db -p 3000 -m datasette_metadata.json",
   "watch": {
     "ignore": [
