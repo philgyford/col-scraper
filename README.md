@@ -8,11 +8,11 @@ This repository provides several things:
 
 3. Configuration to use [Datasette][datasette] to create a web-browsable version of the SQLite database.
 
-4. A Dockerfile suitable for deploying the Datasette interface to something like [Zeit.co][zeit].
+4. Files to enable the use of the database with Datasette on [Glitch](https://glitch.com).
 
 Each step is detailed below, along with more information about the structure of the JSON files.
 
-**You can browse the resulting database at https://city-of-london-councillors.now.sh**
+**You can browse the resulting database at https://city-of-london-councillors.glitch.me**
 
 I wrote about this project [on my website][post].
 
