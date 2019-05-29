@@ -108,12 +108,11 @@ Currently I'm publishing this on Glitch, which I did like this:
     5. In the panel that opens click 'Console'
     6. Type `wget ` and paste the file's URL, and hit return, so:
 
-        $ wget https://cdn.glitch.com/319a...379a%2Fcolmem.db?1559117620051
+            $ wget https://cdn.glitch.com/319a...379a%2Fcolmem.db?1559117620051
 
     7. Rename that file to `colmem.db`, so something like:
 
-        $ mv https://cdn.glitch.com/319a...379a%2Fcolmem.db?1559117620051
-        colmem.db
+            $ mv https://cdn.glitch.com/319a...379a%2Fcolmem.db?1559117620051 colmem.db
 
     8. Back in the code browser, you can delete the original file from `assets`
 
