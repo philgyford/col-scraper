@@ -1,0 +1,19 @@
+{
+  "install": "source install.sh",
+  "start": "source start.sh",
+  "watch": {
+    "install": {
+      "include": [
+        "^requirements.txt$",
+        "^install.sh$"
+      ]
+    },
+    "restart": {
+      "include": [
+        "^datasette_metadata.json$",
+        "^start.sh$"
+      ]
+    },
+    "throttle": 1000
+  }
+}

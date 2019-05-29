@@ -72,35 +72,55 @@ Assuming you have an SQLite database from step 2, then run this command:
 You should now be able to visit http://127.0.0.1:8001 in your browser.
 
 
-### 4. Deploying to Zeit.co
+### 4. Deploying
 
-You could run the Datasette interface anywhere, but here's how to get it running on Zeit.co.
+Previously we published tthis using [Zeit.co][zeit] but they have changed
+things with their v2 and we no longer use that.
 
-Set up an account on [Zeit.co][zeit].
+See the [datasette documentation about publishing](https://datasette.readthedocs.io/en/stable/publish.html) for some options.
 
-Install the Zeit command line tools.
+#### Glitch
 
-Then run:
+Currently I'm publishing this on Glitch, which I did like this:
 
-    now
+1. Create an account on Glitch.
 
-This will use the `Dockerfile` to create a new deployment of the site. If it works, you will have a new site called something like `col-scraper-abcdefghij.now.sh` which you could visit at `https://col-scraper-abcdefghij.now.sh`
+2. Create a new project (I think you have to choose one of their pre-built
+   basic structures; do that and delete all the files).
 
-To give this a nicer domain name, give it an alias:
+3. Upload each of the files in this repository's `glitch/` directory into your
+   Glitch app:
 
-    now alias https://col-scraper-abcdefghij.now.sh my-nice-alias
+    * `glitch.json`
+    * `install.sh`
+    * `README.md`
+    * `requirements.txt`
+    * `start.sh`
 
-Which would make the site accessible at `https://my-nice-alias.now.sh`
+4. Upload this repository's `datasette_metadata.json`.
 
-If you want to update the site, you run `now` again, which creates a brand new deployment. You then need to point your existing alias to this new deployment, by running `now alias` again with the new deployment's URL.
+5. Upload your `colmem.db` database file. Glitch will put this into the `assets` directory for some reason. To get it out:
 
-List all the deployments for this app with:
+    1. Show the contents of the `assets` directory
+    2. Click on the `colmem.db` file
+    3. Copy the URL of the file
+    4. At the bottom left click 'Tools', then 'Logs'
+    5. In the panel that opens click 'Console'
+    6. Type `wget ` and paste the file's URL, and hit return, so:
 
-    now ls col-scraper
+        $ wget https://cdn.glitch.com/319a...379a%2Fcolmem.db?1559117620051
 
-Remove unused ones with:
+    7. Rename that file to `colmem.db`, so something like:
 
-    now rm col-scraper-abcdefghij.now.sh
+        $ mv https://cdn.glitch.com/319a...379a%2Fcolmem.db?1559117620051
+        colmem.db
+
+    8. Back in the code browser, you can delete the original file from `assets`
+
+6. That should be it... you can now click 'Show', at the top, to see the site.
+
+There's probably a less manual, and more Glitch-y, way to do this but it seems
+to work for now.
 
 
 ## The JSON files
